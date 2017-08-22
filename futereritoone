@@ -18,19 +18,75 @@
 <info></info>
 </item>
 
-
-
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR]Deportes</title>
-    <link>ignorame</link> 
-    <externallink>https://pastebin.com/raw/xig0K1tR</externallink>
-    <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
-    <fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart> 
+<title>[COLOR lime][/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart> 
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
 <info></info>
 </item>
 
 
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Deportes[/COLOR]</title>
+<link>ignorame</link>
+<externallink>https://pastebin.com/raw/5bRu9Q7m</externallink>
+<thumbnail>http://1.bp.blogspot.com/-T21Wa835qxg/WSBg3Iy6RuI/AAAAAAAABCU/MkWOy2MjrnMuIB8EQRMq4J7RhGW7lhilACK4B/s1600/canales%2Bdeportivos.jpg</thumbnail>
+<fanart>http://www.wallpapersbrowse.com/images/8a/8au7u1s.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol en Vivo</title>
+<link>ignorame</link>
+<externallink>https://pastebin.com/raw/rM69mJuC</externallink>
+<thumbnail>http://4.bp.blogspot.com/-pSs-kCEnkOs/WYDBNAB5ivI/AAAAAAAABY0/WwIM0PQa-msmEZnjLEIyT0BhjEg8c0zJACK4BGAYYCw/s1600/Futbol2.jpg</thumbnail>
+<fanart>http://www.wallpapersbrowse.com/images/8a/8au7u1s.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]Live TV[/COLOR][COLOR red][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&definedIn=mainMenu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-CVXmJEu0P58/WSBg25ZcaoI/AAAAAAAABB8/RfPvFCwdOtkDoXGLYTkkTACoidbzPjpgQCK4B/s1600/live%2Btv.jpg</thumbnail>
+<fanart>http://www.wallpapersbrowse.com/images/8a/8au7u1s.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]RojaDirecta[/COLOR][COLOR red][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://3.bp.blogspot.com/-8tVmk20jGDo/WSBg3HnoFVI/AAAAAAAABCQ/U56FkuSn5AcA2WbhFUmvTW-wiDcswg2IgCK4B/s1600/Roja%2Bdirecta%2B1.jpg</thumbnail>
+<fanart>http://www.wallpapersbrowse.com/images/8a/8au7u1s.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]ArenaVision[COLOR][COLOR deepskyred]  > Plexus[/COLOR]</title>
+<link>ignorame</link>
+<externallink>https://pastebin.com/raw/jFuw8HaH</externallink>
+<thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>	
+<fanart>http://www.wallpapersbrowse.com/images/8a/8au7u1s.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][COLOR]SportDevil OnLine[/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://pastebin.com/raw/JcuejxiP</externallink>
+<thumbnail>http://2.bp.blogspot.com/-6ILUY5KQO8s/WSBg3qAd2FI/AAAAAAAABCk/SP12nw1xuLo93TiGLYO-O7sX3f4H-nsnACK4B/s1600/sportdevil.jpg</thumbnail>
+<fanart>http://www.wallpapersbrowse.com/images/8a/8au7u1s.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][/COLOR]</title>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s26.postimg.org/c5v7ga3a1/fanart.jpg</fanart> 
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
 
 <item>
 <title>[COLOR lime]   Email:  ecemc2017@gmail.com[/COLOR]</title>
