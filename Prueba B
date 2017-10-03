@@ -1,1 +1,194 @@
-????
+#EXTM3U
+#EXTINF:-1,A&E
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1141.m3u8
+#EXTINF:-1,AMC
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1140.m3u8
+#EXTINF:-1,AXN
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1138.m3u8
+#EXTINF:-1,AXN White
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1137.m3u8
+#EXTINF:-1,Canal Hollywood
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1128.m3u8
+#EXTINF:-1,FOX
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1109.m3u8
+#EXTINF:-1,FOX Life
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1108.m3u8
+#EXTINF:-1,M Xtra
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1072.m3u8
+#EXTINF:-1,Moviestar Accion
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1126.m3u8
+#EXTINF:-1,Moviestar Comedia	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1125.m3u8
+#EXTINF:-1,Moviestar Dcine	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1124.m3u8
+#EXTINF:-1,Moviestar Estrones	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1123.m3u8
+#EXTINF:-1,Moviestar Series Extra	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1118.m3u8
+#EXTINF:-1,MTV Espana	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1071.m3u8
+#EXTINF:-1,MTV HD 
+http://fullpremiumvip.com:8000/live/cristian/cristian1/3177.m3u8
+#EXTINF:-1,M6 MUSIC
+http://fullpremiumvip.com:8000/live/cristian/cristian1/303.m3u8
+#EXTINF:-1,MTV Live HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/93.m3u8
+#EXTINF:-1,MTV him3u8	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/97.m3u8
+#EXTINF:-1,MTV	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/96.m3u8
+#EXTINF:-1,Nat Geo	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1105.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/314.m3u8
+#EXTINF:-1,Nat Geo Wild	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1104.m3u8
+#EXTINF:-1,History HD 	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/3178.m3u8
+#EXTINF:-1,Paramount	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1099.m3u8
+#EXTINF:-1,SYFY	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1097.m3u8
+#EXTINF:-1,TCM	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1091.m3u8
+#EXTINF:-1,TNT	
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1088.m3u8
+#EXTINF:-1,A&E HD 720p	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/3198.m3u8
+#EXTINF:-1,Cinemax HD 720p	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/3193.m3u8
+#EXTINF:-1,CINEMAX HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2212.m3u8
+#EXTINF:-1,DEPELICULA HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2209.m3u8
+#EXTINF:-1,De Pelicula HD 720p	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/3192.m3u8
+#EXTINF:-1,Fox Action HD 720p	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/3185.m3u8
+#EXTINF:-1,FOX COMEDY HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2234.m3u8
+#EXTINF:-1,Fox Cinema HD 720p	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/3184.m3u8
+#EXTINF:-1,FOX FAMILY HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2235.m3u8
+#EXTINF:-1,Fox Movies HD 720p	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/3182.m3u8
+#EXTINF:-1,
+#EXTINF:-1,Fox Series HD 720p	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/3181.m3u8
+#EXTINF:-1,FX HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2184.m3u8
+#EXTINF:-1,GOLDEN HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2207.m3u8
+#EXTINF:-1,HBO FAMILY HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2237.m3u8
+#EXTINF:-1,HBO HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2238.m3u8
+#EXTINF:-1,HBO 2	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/125.m3u8
+#EXTINF:-1,HBO PLUS HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2239.m3u8
+#EXTINF:-1,HBO SIGNATURE HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2240.m3u8
+#EXTINF:-1,MAX UP HD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/2241.m3u8
+#EXTINF:-1,CRIMEN INVESTIGACION	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/313.m3u8
+#EXTINF:-1,FX SD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/30.m3u8
+#EXTINF:-1,Golden Edge	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/79.m3u8
+#EXTINF:-1,ES POP LATINO	
+http://euroiptv.myftp.biz:8000/live/greg/greg/13678.m3u8
+#EXTINF:-1,Top Latino	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/1723.m3u8
+#EXTINF:-1,MUSIC CHANNEL	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/1726.m3u8
+#EXTINF:-1,MI MUSICA HD	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/1720.m3u8
+#EXTINF:-1,M2O	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/1721.m3u8
+#EXTINF:-1,TELEMUSICA	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/1712.m3u8
+#EXTINF:-1,Top Latino HD	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/1731.m3u8
+#EXTINF:-1,Music Box	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/2551.m3u8
+#EXTINF:-1,MIMUSICA TELEVISION	
+http://euroiptv.myftp.biz:8000/live/greg/greg/12071.m3u8
+#EXTINF:-1,Cinecanal 2	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/70.m3u8
+#EXTINF:-1,CL: CDF PREMIUN	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/109.m3u8
+#EXTINF:-1,ESPN ARGENTINA HD	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/494.m3u8
+#EXTINF:-1,ESPN 2 ARGENTINA HD	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/495.m3u8
+#EXTINF:-1,ESPN 3 ARGENTINA HD	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/496.m3u8
+#EXTINF:-1,FOX Deportes	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/240.m3u8
+#EXTINF:-1,FOX SPORTS SUR (CHILE)	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/121.m3u8
+#EXTINF:-1,REAL_MADRID	
+http://213.32.6.176:8000/live/fati/fati/3128.m3u8
+#EXTINF:-1,LA_1_HD	
+http://213.32.6.176:8000/live/fati/fati/3133.m3u8
+#EXTINF:-1,Movistar_Motogp	
+http://213.32.6.176:8000/live/fati/fati/3131.m3u8
+#EXTINF:-1,C__LIGA	
+http://213.32.6.176:8000/live/fati/fati/3139.m3u8
+#EXTINF:-1,C _LIGA_HD	
+http://213.32.6.176:8000/live/fati/fati/3160.m3u8
+#EXTINF:-1,C _FUTBOL_HD	
+http://213.32.6.176:8000/live/fati/fati/3161.m3u8
+#EXTINF:-1,DEPORTES_1HD	
+http://213.32.6.176:8000/live/fati/fati/3163.m3u8
+#EXTINF:-1,DEPORTES_2_HD	
+http://213.32.6.176:8000/live/fati/fati/3164.m3u8
+#EXTINF:-1,Bein_Sporm3u8_Espan_HD	
+http://213.32.6.176:8000/live/fati/fati/3168.m3u8
+#EXTINF:-1,SPORTS] 360TV	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/2123.m3u8
+#EXTINF:-1,[SPORTS] Garage TV	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/2481.m3u8
+[SPORTS] DEPORTV HD	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/2129.m3u8
+#EXTINF:-1,[SPORTS] DEPORTV HD	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/2129.m3u8
+#EXTINF:-1,[SPORTS] ESPN HD	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/2534.m3u8
+#EXTINF:-1,SPORTS] Tododeporte	
+http://142.4.217.62:25461/live/colombia3/7O17UlMnux/1817.m3u8
+#EXTINF:-1,Fox Sporm3u8 Argentina HD	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/292.m3u8
+#EXTINF:-1,CNT Sporm3u8 HD	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/3113.m3u8
+#EXTINF:-1,GolPeru	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/234.m3u8
+#EXTINF:-1,Movistar Deportes || CMD	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/235.m3u8
+#EXTINF:-1,ESPN	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/89.m3u8
+#EXTINF:-1,ESPN 2	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/90.m3u8
+#EXTINF:-1,ESPN 3 ARGENTINA HD	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/496.m3u8
+#EXTINF:-1,Nickelodeon	
+http://fullpremiumvip.com:8000/live/cristian/cristian1/46.m3u8
+#EXTINF:-1,BABY TV	
+http://euroiptv.myftp.biz:8000/live/greg/greg/13590.m3u8
+#EXTINF:-1,DISNEY XD	
+http://euroiptv.myftp.biz:8000/live/greg/greg/4159.m3u8
+#EXTINF:-1,Cartoon Network	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/47.m3u8
+#EXTINF:-1,DISNEY JUNIOR	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/311.m3u8
+#EXTINF:-1,NICKELODEON	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/325.m3u8
+#EXTINF:-1,Disney Junior	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/41.m3u8
+#EXTINF:-1,BOING	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/345.m3u8
+#EXTINF:-1,NickToons	
+http://fullpremiumvip.com:8000/live/Jose1/Jose1/44.m3u8
