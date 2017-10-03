@@ -8,8 +8,8 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Free [COLOR blue]IPTV[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ExabyteTv', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tecno Will', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR lime]Android-Latino[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka [COLOR red](En construccion)[/COLOR]'])
-   lists = ['http://fullpremiumvip.com:8000/get.php?username=Jose1&password=Jose1&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$', 'http://exabytetv.info/lista.m3u', 'https://pastebin.com/raw/5beaXvKT', 'https://pastebin.com/raw/gru2ETjh', 'https://goo.gl/']
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Free [COLOR blue]IPTV[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ExabyteTv', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tecno Will', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR lime]Android-Latino[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka [COLOR red](En construccion)[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fluxus Tv'])
+   lists = ['https://goo.gl/yFFsBN', 'http://exabytetv.info/lista.m3u', 'https://pastebin.com/raw/5beaXvKT', 'https://pastebin.com/raw/gru2ETjh', 'https://goo.gl/', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
    return lists[ret]
 ]]></expres>
 <page></page>
@@ -18,7 +18,3 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
  
-https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Inicio%20pruebas https://goo.gl/b194ZP
-https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/Prueba%20A
-http://https://raw.githubusercontent.com/Carlosvives2017/catrudepu/master/iptv61W/demo
-https://pastebin.com/raw/vUwYp9DY
