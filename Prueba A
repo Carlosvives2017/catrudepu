@@ -1,20 +1,40 @@
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   •   [/B][/COLOR][COLOR blue]IPTV[/COLOR]</title>
-<link>NA</link>
-<externallink>$doregex[select]</externallink>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][/COLOR]', ['[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]ExabyteTv', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR lime]Android-Latino[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka [COLOR red](En construccion)[/COLOR]', '[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fluxus Tv'])
-   lists = ['https://goo.gl/yFFsBN', 'http://exabytetv.info/lista.m3u', 'https://pastebin.com/raw/qnXPmZ7k', 'https://goo.gl/', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
-   return lists[ret]
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+<title>NICK_HD</title>
+<link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/Stream(04)/index.m3u8</link> 
 </item>
- 
+  
+<item>
+<title>NICK_JR</title>
+<link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8</link> 
+</item>
+
+<item>
+<title>UNICABLE_HD</title>
+<link>http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8</link> 
+</item>
+
+<item>
+<title>MTV_HD</title>
+<link>http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8</link> 
+</item>
+
+<item>
+<title>ATRES_SERIES</title>
+<link>http://live.izzitv.mx/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8</link> 
+</item>
+
+<item>
+<title>TDN</title>
+<link>http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8</link> 
+</item>
+
+<item>
+<title>CANAL_F1</title>
+<link>http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8</link> 
+</item>
+
+<item>
+<title>jjoo2016ch01</title>
+<link>http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8</link> 
+</item>
+
