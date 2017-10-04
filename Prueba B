@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1,24/7 Noticias NQN
+http://142.4.208.146:1935/cn247/cn247/playlist.m3u8
+#EXTINF:-1,24/7 Noticias NQN
+rtmp://142.4.208.146:1935/cn247/cn247
+#EXTINF:-1,24/7 Noticias NQN
+rtmp://142.4.208.146/cn247/cn247
+
+
+
 #EXTINF:-1,SBS
 http://iptv4u.club/site/freeiptv?channel=sbs&e=1507081189&t=.m3u8
 #EXTINF:-1,SBS MTV
