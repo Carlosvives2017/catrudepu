@@ -8,7 +8,7 @@ CastAmp 1
 <regex>
 <name>canal</name>  
 <expres>channel="(.*?)";</expres>  
-<page>http://castamp.com/live/elecdeka</page> 
+<page>http://castamp.com/live/elecdekauy</page> 
 </regex>
 <regex>
 <name>it</name>  
