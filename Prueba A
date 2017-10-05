@@ -35,11 +35,15 @@ CastAmp 1
 </regex>
 
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
-<fanart>http://noticias.perfil.com/wp-content/uploads/2016/11/telefe-624x388.jpg</fanart>
+<fanart>http://3.bp.blogspot.com/-ElvfaqUINmo/WdZHVbzFmUI/AAAAAAAABho/On7RswaDyIIoymhWTvX2P-zRj-5-bQ0BwCK4BGAYYCw/s1600/a24.jpg</fanart>
 </item>
 ******************
 
-
+<item>
+<title>NICK_JR</title>
+<link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8</link> 
+<fanart>http://2.bp.blogspot.com/-Rj30c33r5_E/WdZG5WI8-OI/AAAAAAAABhg/pP_QZoMtOogEU57rv6BM8VKrcPwYr95CgCK4BGAYYCw/s1600/c5n.jpg</fanart>
+</item>
 
 
 <item>
@@ -47,11 +51,7 @@ CastAmp 1
 <link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/Stream(04)/index.m3u8</link> 
 </item>
   
-<item>
-<title>NICK_JR</title>
-<link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8</link> 
-<fanart>http://cdn.eltrecetv.com.ar/sites/default/files/styles/934x525/public/2016/01/04/raiting-eltrece.jpg?itok=LZxe1hC8</fanart>
-</item>
+
 
 <item>
 <title>UNICABLE_HD</title>
