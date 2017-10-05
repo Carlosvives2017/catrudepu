@@ -1,43 +1,117 @@
-**************************
-CastAmp 1 
-**************************
-<item>       
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR orange]Cast Amp[/COLOR]</title>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Smart Tv   [COLOR red][B][COLOR red]• •[/B][/COLOR]</title>
+<link>http://d.mimp3.eu/i/8palSqoimWoficooZ6ncaaZk253/himno-nacional-uruguayo.mp3<link>
+<thumbnail>http://minuto90.pt/public/uploads/source/nacionalidades/Uruguay-icon.png</thumbnail>
+</item>
 
-<link>$doregex[rtmp] playpath=$doregex[canal]_$doregex[playpath]$doregex[playpath2] swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</link>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]CXN TV</title>
+<link>$doregex[makelist]</link>
 <regex>
-<name>canal</name>  
-<expres>channel="(.*?)";</expres>  
-<page>http://castamp.com/live/elecdeka2017</page> 
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
+<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
+ <regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+ <page>[makelist.param1]</page>
 </regex>
-<regex>
-<name>it</name>  
-<expres>Agent:"(.*?)";</expres>  
-<page>http://adryanlist.org/adryan/fuckit.php</page>  
+<thumbnail>[makelist.param2]</thumbnail>
+<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+]]></listrepeat>
+<expres>items-canales[\W\w\S]{0,18}href="(.*?)"[\W\w\S]{0,35}src="(.*?)"[\W\w\S]{0,40}alt="(.*?)"</expres>
+<page>https://www.cxntv.com/canales/</page>
 </regex>
-<regex>
-<name>rtmp</name>
-<expres>.*(?![^"']+50.7.118.3)(?![^"']+50.7.128.2)(rtmp:[^"']+)</expres>
-<page>http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth="550"; vheight="400"</page>
-<referer>http://castamp.com</referer>
-</regex>
-<regex>
-<name>playpath</name>
-<expres>fuifa.*?_(.*?)'</expres>
-<page>http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth="550"; vheight="400"</page>
-<referer>http://castamp.com</referer>
-</regex>
-<regex>
-<name>playpath2</name>
-<expres>fuifa.*?unescape.*?'(.*?)'\W</expres>
-<page>http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth="550"; vheight="400"</page>
-<referer>http://castamp.com</referer>
-</regex>
+<thumbnail>https://lh3.ggpht.com/OxkOuDJ5d8axmB-Zl9sZhhR5L8dJ0-vRvPMFBbx9xxn-HCkytGPaYRmHj_ZbscmIyQ=w300</thumbnail>
+<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+</item>
 
-<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]A24[/COLOR]</title> 
+<link>http://us.watcha.live/ch2/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
+<thumbnail>http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png</thumbnail>
 <fanart>http://3.bp.blogspot.com/-ElvfaqUINmo/WdZHVbzFmUI/AAAAAAAABho/On7RswaDyIIoymhWTvX2P-zRj-5-bQ0BwCK4BGAYYCw/s1600/a24.jpg</fanart>
 </item>
-******************
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]A24 HD[/COLOR]</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zPzeiXBdEMU</link> 
+<thumbnail>http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png</thumbnail>
+<fanart>http://3.bp.blogspot.com/-ElvfaqUINmo/WdZHVbzFmUI/AAAAAAAABho/On7RswaDyIIoymhWTvX2P-zRj-5-bQ0BwCK4BGAYYCw/s1600/a24.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]America[/COLOR]</title> 
+<link>http://us.watcha.live/ch3/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/77/America_2_logo.png</thumbnail>
+<fanart>http://3.bp.blogspot.com/-s_vvJd0Vq9I/WdZQXcTN5OI/AAAAAAAABiI/ZkXNkJJzAQwAff-mRixieFaR_AinaK5xACK4BGAYYCw/s1600/america%2B2.jpg</fanart>
+</item>
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b596000.m3u8|User-Agent=iPhone
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]America HD[/COLOR]</title> 
+<link>http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|User-Agent=iPhone</link> 
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/77/America_2_logo.png</thumbnail>
+<fanart>http://3.bp.blogspot.com/-s_vvJd0Vq9I/WdZQXcTN5OI/AAAAAAAABiI/ZkXNkJJzAQwAff-mRixieFaR_AinaK5xACK4BGAYYCw/s1600/america%2B2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]C5N[/COLOR]</title> 
+<link>http://us.watcha.live/ch1/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
+<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/709.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Szu44cQzOL4/WdZQW5JcGgI/AAAAAAAABh4/5W-kluD6-RwL4m-u8s9IzdWKWYwBvaoagCK4BGAYYCw/s1600/c5n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]C5N HD[/COLOR]</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yc702qA1CPw</link> 
+<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/709.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-Szu44cQzOL4/WdZQW5JcGgI/AAAAAAAABh4/5W-kluD6-RwL4m-u8s9IzdWKWYwBvaoagCK4BGAYYCw/s1600/c5n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Canal 9[/COLOR]</title> 
+<link>http://us.watcha.live/ch5/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
+<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/96.png</thumbnail>
+<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]El Trece[/COLOR]</title> 
+<link>http://us.watcha.live/ch7/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
+<thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-amKTlD6ob8Q/WdZQXb2SvJI/AAAAAAAABiA/FvD00LvYnlozZo5gUrLFBfDBfFzazIK1QCK4BGAYYCw/s1600/eltrece.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]El Trece [COLOR blue]**[/COLOR]</title> 
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/canal13-bkp/</link>
+<regex>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/canal13-bkp/ </page>
+</regex>
+<thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11.png</thumbnail>
+<fanart>http://3.bp.blogspot.com/-IVjC6VfOX-Q/WdZQYWC5mZI/AAAAAAAABiQ/FUWTzedN0TI6NyTQON2LMHwtMSPjb-B3gCK4BGAYYCw/s1600/%2Beltrece%2B2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Telefe[/COLOR]</title> 
+<link>http://us.watcha.live/ch6/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+<thumbnail>http://www.eds-connection.com/wp-content/uploads/2016/09/telefe-logo-copia.png</thumbnail>
+<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+</item> 
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_beto_10/chunklist.m3u8|User-Agent=Mozilla/5.0
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TN Noticias</title>
+<link>http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0</link>
+<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/1847.png</thumbnail>
+<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
+</item>
+
 
 <item>
 <title>NICK_JR</title>
