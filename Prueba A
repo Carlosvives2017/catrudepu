@@ -1,159 +1,27 @@
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Smart Tv   [COLOR red][B][COLOR red]• •[/B][/COLOR]</title>
-<link>http://d.mimp3.eu/i/8palSqoimWoficooZ6ncaaZk253/himno-nacional-uruguayo.mp3<link>
-<thumbnail>http://minuto90.pt/public/uploads/source/nacionalidades/Uruguay-icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]CXN TV</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param3]</title>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-foxuy/</link>
- <regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
- <page>[makelist.param1]</page>
-</regex>
-<thumbnail>[makelist.param2]</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-]]></listrepeat>
-<expres>items-canales[\W\w\S]{0,18}href="(.*?)"[\W\w\S]{0,35}src="(.*?)"[\W\w\S]{0,40}alt="(.*?)"</expres>
-<page>https://www.cxntv.com/canales/</page>
-</regex>
-<thumbnail>https://lh3.ggpht.com/OxkOuDJ5d8axmB-Zl9sZhhR5L8dJ0-vRvPMFBbx9xxn-HCkytGPaYRmHj_ZbscmIyQ=w300</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]A24[/COLOR]</title> 
-<link>http://us.watcha.live/ch2/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
-<thumbnail>http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png</thumbnail>
-<fanart>http://3.bp.blogspot.com/-ElvfaqUINmo/WdZHVbzFmUI/AAAAAAAABho/On7RswaDyIIoymhWTvX2P-zRj-5-bQ0BwCK4BGAYYCw/s1600/a24.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]A24 HD[/COLOR]</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zPzeiXBdEMU</link> 
-<thumbnail>http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png</thumbnail>
-<fanart>http://3.bp.blogspot.com/-ElvfaqUINmo/WdZHVbzFmUI/AAAAAAAABho/On7RswaDyIIoymhWTvX2P-zRj-5-bQ0BwCK4BGAYYCw/s1600/a24.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]America[/COLOR]</title> 
-<link>http://us.watcha.live/ch3/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/77/America_2_logo.png</thumbnail>
-<fanart>http://3.bp.blogspot.com/-s_vvJd0Vq9I/WdZQXcTN5OI/AAAAAAAABiI/ZkXNkJJzAQwAff-mRixieFaR_AinaK5xACK4BGAYYCw/s1600/america%2B2.jpg</fanart>
-</item>
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b596000.m3u8|User-Agent=iPhone
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]America HD[/COLOR]</title> 
-<link>http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|User-Agent=iPhone</link> 
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/77/America_2_logo.png</thumbnail>
-<fanart>http://3.bp.blogspot.com/-s_vvJd0Vq9I/WdZQXcTN5OI/AAAAAAAABiI/ZkXNkJJzAQwAff-mRixieFaR_AinaK5xACK4BGAYYCw/s1600/america%2B2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]C5N[/COLOR]</title> 
-<link>http://us.watcha.live/ch1/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
-<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/709.png</thumbnail>
-<fanart>http://4.bp.blogspot.com/-Szu44cQzOL4/WdZQW5JcGgI/AAAAAAAABh4/5W-kluD6-RwL4m-u8s9IzdWKWYwBvaoagCK4BGAYYCw/s1600/c5n.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]C5N HD[/COLOR]</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yc702qA1CPw</link> 
-<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/709.png</thumbnail>
-<fanart>http://4.bp.blogspot.com/-Szu44cQzOL4/WdZQW5JcGgI/AAAAAAAABh4/5W-kluD6-RwL4m-u8s9IzdWKWYwBvaoagCK4BGAYYCw/s1600/c5n.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Canal 9[/COLOR]</title> 
-<link>http://us.watcha.live/ch5/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
-<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/96.png</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]El Trece[/COLOR]</title> 
-<link>http://us.watcha.live/ch7/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
-<thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11.png</thumbnail>
-<fanart>http://4.bp.blogspot.com/-amKTlD6ob8Q/WdZQXb2SvJI/AAAAAAAABiA/FvD00LvYnlozZo5gUrLFBfDBfFzazIK1QCK4BGAYYCw/s1600/eltrece.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]El Trece [COLOR blue]**[/COLOR]</title> 
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/canal13-bkp/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/canal13-bkp/ </page>
-</regex>
-<thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11.png</thumbnail>
-<fanart>http://3.bp.blogspot.com/-IVjC6VfOX-Q/WdZQYWC5mZI/AAAAAAAABiQ/FUWTzedN0TI6NyTQON2LMHwtMSPjb-B3gCK4BGAYYCw/s1600/%2Beltrece%2B2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Telefe[/COLOR]</title> 
-<link>http://us.watcha.live/ch6/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
-<thumbnail>http://www.eds-connection.com/wp-content/uploads/2016/09/telefe-logo-copia.png</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-</item> 
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_beto_10/chunklist.m3u8|User-Agent=Mozilla/5.0
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TN Noticias</title>
-<link>http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0</link>
-<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/1847.png</thumbnail>
-<fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart>
-</item>
+#EXTM3U
 
 
-<item>
-<title>NICK_JR</title>
-<link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8</link> 
-<fanart>http://2.bp.blogspot.com/-Rj30c33r5_E/WdZG5WI8-OI/AAAAAAAABhg/pP_QZoMtOogEU57rv6BM8VKrcPwYr95CgCK4BGAYYCw/s1600/c5n.jpg</fanart>
-</item>
 
+#EXTINF:-1 ,television nacional uruguay
+http://live.cdn.antel.net.uy/auth_1_8byyop2p,vxttoken=cGF0aFVSST0lMkZhdXRoXzFfOGJ5eW9wMnAlMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjQyMzMmcmFuZG9tPWttNkh5dTRKRFomYy1pcD0xOTAuMjguNjQuMTI4LDAwODVmYTMzZGU3ZjgxNmU4MjVhZjVlOGRjMzEyNWEzNTljMDRhM2IzYmViZDA2YWUyZDdlYmQ2MTczNGNlZDE=/hls/var1390400/playlist.m3u8
+ 
+#EXTINF:-1 ,1 tv salto
+http://live.cdn.antel.net.uy/auth_0_hsvjzs8r,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfaHN2anpzOHIlMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjQ2OTAmcmFuZG9tPWhZaWhwcVBkNVcmYy1pcD0xOTAuMjguNjQuMTI4LDhhMDcxN2Q1MDliMzVhNzk5YThhZjU3NjkyYzQ1OTM4NDkwZDc1ZWE4MjNhZTNhYzE5ZWI0YmQxNDJjODQ2ZTQ=/hls/var1390400/playlist.m3u8
+ 
+ 
+#EXTINF:-1 ,canal 2 san carlos hd
+http://live.cdn.antel.net.uy/auth_1_ggvd01xq,vxttoken=cGF0aFVSST0lMkZhdXRoXzFfZ2d2ZDAxeHElMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjQ4MTYmcmFuZG9tPUg4UTF0WHZLcFMmYy1pcD0xOTAuMjguNjQuMTI4LDVmMTBkN2Y0YmM2MjA0ZTIwNDM1ZGJlNGZmNzcxOTc0MWExYmM1ZjRjNWM1MjI5NjE1ODlkMjUzNWI2OGJiYmU=/hls/var1390400/playlist.m3u8
+ 
+ 
+#EXTINF:-1 ,canal 7 punta
+http://live.cdn.antel.net.uy/auth_0_haxaui2i,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfaGF4YXVpMmklMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjQ5MjQmcmFuZG9tPWN5Wm00VzAya0YmYy1pcD0xOTAuMjguNjQuMTI4LGU5MTQwNDJiNzRmODc0MTg0NDI0ZDExNjBjNjQ5ZjczMThkNzJjOWY4NjQ2YzliNmIyMmU3MDcwM2UyYzQ4ZGQ=/hls/var3440800/playlist.m3u8
+ 
+ 
+#EXTINF:-1 ,uruguay natural tv hd
+http://live.cdn.antel.net.uy/auth_1_xoe0ap42,vxttoken=cGF0aFVSST0lMkZhdXRoXzFfeG9lMGFwNDIlMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjUwNDYmcmFuZG9tPXF2aVNMTU1neFkmYy1pcD0xOTAuMjguNjQuMTI4LGM2ZTc2ZjRiYzc2MWUxNzQwNGFjNDViYzg1OWExMjJlNGQ5OTE5ZGFiM2VjNGNmZmFmNGYyMWRlYTQ1NDM0ZTU=/hls/var1390400/playlist.m3u8
+ 
+#EXTINF:-1 ,mundo max
+http://217.147.94.25:1935/app/ana69s-channel/playlist.m3u8
 
-<item>
-<title>NICK_HD</title>
-<link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/Stream(04)/index.m3u8</link> 
-</item>
-  
-
-
-<item>
-<title>UNICABLE_HD</title>
-<link>http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8</link> 
-</item>
-
-<item>
-<title>MTV_HD</title>
-<link>http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8</link> 
-</item>
-
-<item>
-<title>ATRES_SERIES</title>
-<link>http://live.izzitv.mx/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8</link> 
-</item>
-
-<item>
-<title>TDN</title>
-<link>http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8</link> 
-</item>
-
-<item>
-<title>CANAL_F1</title>
-<link>http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8</link> 
-</item>
-
-<item>
-<title>jjoo2016ch01</title>
-<link>http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8</link> 
-</item>
-
+#EXTINF:-1 ,
+http://live.cdn.antel.net.uy/auth_0_haxaui2i,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfaGF4YXVpMmklMkZobHMlMkYlMkEmZXhwaXJ5PTE0OTUxMDU3MzMmcmFuZG9tPXhpQmdIcncwQmgmYy1pcD0xMDguNTQuMTk3Ljk4LGU2NTBlMDg4OTlkNGJmNTUyZTJiOWE3OGZhOTI5MjNkODE1MTk3ZDRlZWI4NTJiOGMzMjIxYzdjNjJlYTcxNjY=/hls/var3440800/playlist.m3u8
