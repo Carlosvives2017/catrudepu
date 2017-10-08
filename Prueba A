@@ -1,27 +1,13 @@
-#EXTM3U
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]MUSIC 70s</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PLgogOWaoJDEftROXzw6QnfE2sjwWiRBze</link> 
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
-
-
-#EXTINF:-1 ,television nacional uruguay
-http://live.cdn.antel.net.uy/auth_1_8byyop2p,vxttoken=cGF0aFVSST0lMkZhdXRoXzFfOGJ5eW9wMnAlMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjQyMzMmcmFuZG9tPWttNkh5dTRKRFomYy1pcD0xOTAuMjguNjQuMTI4LDAwODVmYTMzZGU3ZjgxNmU4MjVhZjVlOGRjMzEyNWEzNTljMDRhM2IzYmViZDA2YWUyZDdlYmQ2MTczNGNlZDE=/hls/var1390400/playlist.m3u8
- 
-#EXTINF:-1 ,1 tv salto
-http://live.cdn.antel.net.uy/auth_0_hsvjzs8r,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfaHN2anpzOHIlMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjQ2OTAmcmFuZG9tPWhZaWhwcVBkNVcmYy1pcD0xOTAuMjguNjQuMTI4LDhhMDcxN2Q1MDliMzVhNzk5YThhZjU3NjkyYzQ1OTM4NDkwZDc1ZWE4MjNhZTNhYzE5ZWI0YmQxNDJjODQ2ZTQ=/hls/var1390400/playlist.m3u8
- 
- 
-#EXTINF:-1 ,canal 2 san carlos hd
-http://live.cdn.antel.net.uy/auth_1_ggvd01xq,vxttoken=cGF0aFVSST0lMkZhdXRoXzFfZ2d2ZDAxeHElMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjQ4MTYmcmFuZG9tPUg4UTF0WHZLcFMmYy1pcD0xOTAuMjguNjQuMTI4LDVmMTBkN2Y0YmM2MjA0ZTIwNDM1ZGJlNGZmNzcxOTc0MWExYmM1ZjRjNWM1MjI5NjE1ODlkMjUzNWI2OGJiYmU=/hls/var1390400/playlist.m3u8
- 
- 
-#EXTINF:-1 ,canal 7 punta
-http://live.cdn.antel.net.uy/auth_0_haxaui2i,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfaGF4YXVpMmklMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjQ5MjQmcmFuZG9tPWN5Wm00VzAya0YmYy1pcD0xOTAuMjguNjQuMTI4LGU5MTQwNDJiNzRmODc0MTg0NDI0ZDExNjBjNjQ5ZjczMThkNzJjOWY4NjQ2YzliNmIyMmU3MDcwM2UyYzQ4ZGQ=/hls/var3440800/playlist.m3u8
- 
- 
-#EXTINF:-1 ,uruguay natural tv hd
-http://live.cdn.antel.net.uy/auth_1_xoe0ap42,vxttoken=cGF0aFVSST0lMkZhdXRoXzFfeG9lMGFwNDIlMkZobHMlMkYlMkEmZXhwaXJ5PTE0NDQ3MjUwNDYmcmFuZG9tPXF2aVNMTU1neFkmYy1pcD0xOTAuMjguNjQuMTI4LGM2ZTc2ZjRiYzc2MWUxNzQwNGFjNDViYzg1OWExMjJlNGQ5OTE5ZGFiM2VjNGNmZmFmNGYyMWRlYTQ1NDM0ZTU=/hls/var1390400/playlist.m3u8
- 
-#EXTINF:-1 ,mundo max
-http://217.147.94.25:1935/app/ana69s-channel/playlist.m3u8
-
-#EXTINF:-1 ,
-http://live.cdn.antel.net.uy/auth_0_haxaui2i,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfaGF4YXVpMmklMkZobHMlMkYlMkEmZXhwaXJ5PTE0OTUxMDU3MzMmcmFuZG9tPXhpQmdIcncwQmgmYy1pcD0xMDguNTQuMTk3Ljk4LGU2NTBlMDg4OTlkNGJmNTUyZTJiOWE3OGZhOTI5MjNkODE1MTk3ZDRlZWI4NTJiOGMzMjIxYzdjNjJlYTcxNjY=/hls/var3440800/playlist.m3u8
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]MUSIC 70s</title> 
+<link>plugin://plugin.video.youtube/playlist/PLgogOWaoJDEftROXzw6QnfE2sjwWiRBze</link> 
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
