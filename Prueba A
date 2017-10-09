@@ -1,12 +1,247 @@
+*************************************************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Monte Carlo TV</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-latele/</link>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR red]   • •   [/B][COLOR red]Canales Movistar España   [COLOR red][B][COLOR red]• •[/COLOR][/B]</title>
+<link>nop</link>
+<thumbnail>http://3.bp.blogspot.com/-S-butRHosxI/WSBbXWMjC9I/AAAAAAAABBU/OXU6ydQt4iwBU-WojHCzEFlb2JgO8ZlRQCK4B/s1600/Movistar.jpg</thumbnail> 
+<fanart>http://1.bp.blogspot.com/-JGLAnzHtfTE/WXTl7TDtWJI/AAAAAAAABWs/rDg8li_9U9sfpQAp0LEfBGF6o23JEtnvACK4BGAYYCw/s1600/fanart.jpg</fanart>
+</item>
+*************************************************************
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-latele/</page>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=crimenyinvestigacion&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
 </regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6040/240/default.jpg</thumbnail>
-<fanart>http://www.infoycom.org.uy/wp-content/uploads/2016/05/motecarlotv.jpg<fanart>
+<thumbnail>http://2.bp.blogspot.com/-uzPHoYGvfhQ/WdwBBCHDowI/AAAAAAAAB0Y/iSJTcRJJx7kJmFlabeuhgpNHdjXapn9YQCK4BGAYYCw/s1600/id.jpg</thumbnail>   
+<fanart>http://www.neeo.es/wp-content/uploads/crimen-investigacion.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AyE</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-D8VFCRoICVI/WdwBA0oMC0I/AAAAAAAAB1Q/WpHnEoxwfI8vi6NpICoYk1ACoGzG8mdlgCK4BGAYYCw/s1600/aye.jpg</thumbnail>
+<fanart>http://www.audiovisual451.com/wp-content/uploads/AE.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Discovery Channel[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=discoverychannel&width=650&height=397&autostart=true</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-I01lKFxj3bY/WdwBBNvzJQI/AAAAAAAABzY/RQPXlU28UmAKqeHeHLT3uDev1a1_KkDGQCK4BGAYYCw/s1600/discovery%2Bchanelero.jpg</thumbnail>
+<fanart>https://www.adslzone.tv/app/uploads/2015/12/discovery-channel.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Historia[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=historiaesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-zP6ZYFpVMM0/WdwBBPxf4vI/AAAAAAAAB0I/0xxxH-debSMTkIZVArdlXFsgpfw-Z34RgCK4BGAYYCw/s1600/historia.jpg</thumbnail>   
+<fanart>http://estaticoshumor.atresmedia.com/wp-content/uploads/2016/11/historiatestportada-940x400.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]National Geographic[/COLOR] </title>
+<sportsdevil>http://livesports.pw/embedn.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/canales/documental/natgeoembed.php</referer>
+<thumbnail>http://2.bp.blogspot.com/-6ZGqAH3JXW4/WdwBBO53kJI/AAAAAAAAB0k/rDbYR3pLyoMYLxpe8eevF4JoGcSnQDHtQCK4BGAYYCw/s1600/national%2Bgeografica.jpg</thumbnail>   
+<fanart>https://orig00.deviantart.net/9a37/f/2012/048/8/4/nat_geo_wallpaper_by_johnnyslowhand-d4q0zf1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Caza y pesca[COLOR lime][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-PV2R50pXaV0/WdwBBCIRB7I/AAAAAAAAB0M/n_P0GQYG9tEvDVpPq6kgjOAW8r-JR5-HwCK4BGAYYCw/s1600/casaypescaso.jpg</thumbnail>
+<fanart>http://scontent.cdninstagram.com/t51.2885-15/e35/13166816_1705502169703569_1977793477_n.jpg?ig_cache_key=MTI1MjA0MTEwODA3NzczODY0MQ==.2</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cocina[COLOR lime][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=iPad</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397&autostart=true</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-MoMQ903jUCo/WdwBBHL-GLI/AAAAAAAAB1E/f2Vt7Wc09-caDTZXoicM6EOiF5_GsfQ-wCK4BGAYYCw/s1600/cocina.jpg</thumbnail>
+<fanart>http://tienda.canalcocina.es/4899-tm_home_default/canalcocina.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ #0</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=pluscero&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-qj2bkeojNHo/WdwBBHpT8DI/AAAAAAAAB04/r30m5vg1Sfw8O5mAtq80itO4DTG0byn4wCK4BGAYYCw/s1600/%25230.jpg</thumbnail>
+<fanart>https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2015/12/0-Movistar.jpg?resize=1000%2C450</fanart>
+</item>
+iPad
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ ACCION[COLOR lime][/COLOR]</title>
+<sportsdevil>http://livesports.pw/embedn.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/canales/pelis/maccion</referer>
+<thumbnail>http://1.bp.blogspot.com/-CoW3Aw17b_c/WdwBBKAyIOI/AAAAAAAAB1I/u5HhNzqir18e6ytdQe7aw0ARXty9Vbf-ACK4BGAYYCw/s1600/accion.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-CoW3Aw17b_c/WdwBBKAyIOI/AAAAAAAAB1I/u5HhNzqir18e6ytdQe7aw0ARXty9Vbf-ACK4BGAYYCw/s1600/accion.jpg</fanart>
+</item>
+  
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ COMEDY[COLOR lime][/COLOR]</title>
+<sportsdevil>http://livesports.pw/embed.php?file=mcomedia&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://verplusonline.com/canales/comediaes</referer>
+<thumbnail>http://2.bp.blogspot.com/-PlU27t9fiQc/WdwBBJSHNcI/AAAAAAAABzM/KF-qmCyQxAEwagVZdbPfm-ksV8i2MBcOgCK4BGAYYCw/s1600/comediamovi.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-PlU27t9fiQc/WdwBBJSHNcI/AAAAAAAABzM/KF-qmCyQxAEwagVZdbPfm-ksV8i2MBcOgCK4BGAYYCw/s1600/comediamovi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ DCINE</title>
+<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=588&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/canales/pelis/dcinen</referer>
+<thumbnail>http://3.bp.blogspot.com/-eY1SIreT_Vw/WdwBBDIsZRI/AAAAAAAAB00/VJ_30iPaOqk4Jy816Wzm_A1hapyNqx9ZwCK4BGAYYCw/s1600/dcine.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-eY1SIreT_Vw/WdwBBDIsZRI/AAAAAAAAB00/VJ_30iPaOqk4Jy816Wzm_A1hapyNqx9ZwCK4BGAYYCw/s1600/dcine.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ ESTRENOS[COLOR lime][/COLOR]</title>
+<sportsdevil>http://livesports.pw/embedn.php?file=mestrenos&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/canales/pelis/estrenos/</referer>
+<thumbnail>http://1.bp.blogspot.com/-5PJGlOkcCrs/WdwBBN7W5DI/AAAAAAAAB0o/o2PIDkJDzscX9RgCxbVujQA7fvKk2upKwCK4BGAYYCw/s1600/estrenomovi.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-5PJGlOkcCrs/WdwBBN7W5DI/AAAAAAAAB0o/o2PIDkJDzscX9RgCxbVujQA7fvKk2upKwCK4BGAYYCw/s1600/estrenomovi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]M+ Series</title>
+<sportsdevil>http://livesports.pw/embedn.php?file=seriesxtra&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/canales/series/m_series_xtra</referer>
+<thumbnail>http://3.bp.blogspot.com/-Aw-2prEPuv0/WdwBBMkEcdI/AAAAAAAAB0c/_30_6zY6X4Y0fUXZ4z2k--V66xeN_rmfwCK4BGAYYCw/s1600/series1.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-Aw-2prEPuv0/WdwBBMkEcdI/AAAAAAAAB0c/_30_6zY6X4Y0fUXZ4z2k--V66xeN_rmfwCK4BGAYYCw/s1600/series1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]AMC[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=amcesptele&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-oa27pB9pGek/WdwBBNT-3jI/AAAAAAAABzs/LEWgFfdg3HMowCH9vndZlWdRiogR5wA2QCK4BGAYYCw/s1600/amc.jpg</thumbnail>
+<fanart>http://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/AMC_Black_Hero_Logo-1200x707.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]TNT[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=tntesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-6udFhuEJL-w/WdwBBDU1UiI/AAAAAAAABzc/KuMd-iPe2nQBQzDYHf0YRlrxpI6ZpDlLQCK4BGAYYCw/s1600/tnt.jpg</thumbnail>
+<fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
+</item>
+
+<item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]AXN[/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vertelevisor.com/live/axn.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-9MLSP2b-KA4/WdwBBHh7Z9I/AAAAAAAABz8/kqlKb1UYpgsj5MRrrRAs8fXUA72OqLqYwCK4BGAYYCw/s1600/axn.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/6Lz9BI6PsbU/maxresdefault.jpg</fanart>
+</item>
+
+<item><title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Hollywood[/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)[",\']</expres>
+<page>http://tumarcador.xyz/verdirectotv/10</page>
+<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-1EjjbZC9ffA/WdwBBJErkWI/AAAAAAAABzE/8W82l72rHOop3okvX_5IjPU51v6yq5HMwCK4BGAYYCw/s1600/holliwoddersss.jpg</thumbnail>
+<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]SYFY[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=sysfesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-u7f-WDQr3pA/WdwBBHAYpSI/AAAAAAAAB1U/-5NBfVuZsF8KBuo5k4sGtfW2pr14RwLNwCK4BGAYYCw/s1600/syfy.jpg</thumbnail>   
+<fanart>http://www.syfy.com/sites/syfy/files/wire/legacy/syfy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Paramount[/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)[",\']</expres>
+<page>http://tumarcador.xyz/verdirectotv/5</page>
+<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-VbM4KuSczRY/WdwBBOHcVWI/AAAAAAAABzI/tVB_9Jm1s6s5YQOiriEaCwWuM686ZJeMQCK4BGAYYCw/s1600/paramount.jpg</thumbnail> 
+<fanart>https://upload.wikimedia.org/wikipedia/id/thumb/4/4a/Paramount_logo.jpg/1200px-Paramount_logo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Fox[/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vertelevisor.com/live/fox.php</page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-C03bsa-qei0/WdwBBH9x4bI/AAAAAAAAB1c/7TpihqLKigcwWxa4KeIJSA_WsW2l4056gCK4BGAYYCw/s1600/fox.jpg</thumbnail>
+<fanart>https://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TCM</title>
+<sportsdevil>http://livesports.pw/embed.php?file=tcmesp&width=650&height=397&autoplay=true</sportsdevil>
+<referer>http://telefivegb.com/canales/pelis/tcm</referer>
+<thumbnail>http://2.bp.blogspot.com/-WGE9SqbTnN4/WdwBBFMjvAI/AAAAAAAABzo/xIZ71nVEyysdVTL1QbX5tufysxu-tCn3wCK4BGAYYCw/s1600/tcm.jpg</thumbnail>
+<fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
+</item>
