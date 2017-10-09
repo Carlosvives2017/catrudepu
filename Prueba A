@@ -1,13 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]MUSIC 70s</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PLgogOWaoJDEftROXzw6QnfE2sjwWiRBze/#LOS 70 NETX MUSIC</link> 
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR red][COLOR  lime]•  [/COLOR]Cool 103.7</title>
+<link>http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8</link>
+<thumbnail>https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg</thumbnail>
+<fanart>https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]MUSIC 70s</title> 
-<link>plugin://plugin.video.youtube/playlist/PLgogOWaoJDEftROXzw6QnfE2sjwWiRBze/#LOS 70 NETX MUSIC</link> 
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR red][COLOR  lime]•  [/COLOR]Orbe 21</title>
+<link>http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8</link>
+<thumbnail>http://elpoderdelespiritu.com/channels/canalorbe21.png</thumbnail>
+<fanart>http://elpoderdelespiritu.com/channels/canalorbe21.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [/COLOR] El Garage TV [/COLOR] </title>
+<link>http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/j96v0auh3/elgaragetv.png</thumbnail>
+<fanart>https://s5.postimg.org/4ops5gzif/ckd_Ti_NYI.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] Qm Noticias [/COLOR] </title>
+<link>http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9</link>
+<thumbnail>https://s5.postimg.org/lnli9ychz/logo_footer.png</thumbnail>
+<fanart>https://s5.postimg.org/moh5lc43r/images.jpg</fanart>
+</item>
+
+<item>
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 22 [/COLOR] </title>
+<link>http://server3.mgmultimedios.com:8080/canal22/live/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/jsb9gieh3/22_PNG.png</thumbnail>
+<fanart>https://s5.postimg.org/jsb9gieh3/22_PNG.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] TELESUR [/COLOR] </title>
+<link>http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9</link>
+<thumbnail>https://s5.postimg.org/qhg70puiv/TeleSur.png</thumbnail>
+<fanart>https://s5.postimg.org/s7z827c1z/Telesur.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [/COLOR] ARPEGGIO [/COLOR] </title>
+<link>http://ar.watcha.live/ch20/full.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+<thumbnail>https://s5.postimg.org/jbg1gvf47/Arpeggio-.png</thumbnail>
+<fanart>https://s5.postimg.org/ahp4zrs5j/ARPEGGIO.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [/COLOR] Magazine [/COLOR] </title>
+<link>http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2</link>
+<thumbnail>https://s5.postimg.org/nksm5zirr/Magazine_TV.png</thumbnail>
+<fanart>https://s5.postimg.org/q0ufju0uf/Untitled-1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] TATETI [/COLOR] </title>
+<link>http://us.watcha.live/ch16/hi.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link>
+<thumbnail>https://s5.postimg.org/metrfdps7/TaTeTi12.png</thumbnail>
+<fanart>https://s5.postimg.org/px5rbrqo7/tateti.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [/COLOR] Paka Paka[/COLOR] </title>
+<link>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8</link>
+<thumbnail>https://s5.postimg.org/ih4713q9z/PakaPaka.png</thumbnail>
+<fanart>https://s5.postimg.org/9820qzhdz/Mirita_PakaPaka.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [/COLOR] Universidad TV[/COLOR][COLOR  lime] (La Plata) [/COLOR] </title>
+<link>rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp</link>
+<thumbnail>https://s5.postimg.org/jtj1jo53b/tv_universidad_nacional_de_la_plata_large.png</thumbnail>
+<fanart>https://s5.postimg.org/vu4hkechz/photo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] Solidaria TV [/COLOR] </title>
+<link>http://panel.cdnstreamserver.com/live/argentina-web.m3u8</link>
+<thumbnail>https://s5.postimg.org/a939txl8n/solidariatv300.jpg</thumbnail>
+<fanart>https://s5.postimg.org/du3qqwf5z/132d239.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [/COLOR] TLX[/COLOR][COLOR  lime] HD [/COLOR] </title>
+<link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</link>
+<thumbnail>https://s5.postimg.org/xtua3all3/TLX_Telemax_1.png</thumbnail>
+<fanart>https://s5.postimg.org/657mvrykn/TLX_Telemax.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] DIPUTADO TV [/COLOR] </title>
+<link>http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8</link>
+<thumbnail>https://s5.postimg.org/k39vqxkg7/photo.jpg</thumbnail>
+<fanart>https://s5.postimg.org/h7wsk2gg7/sesion3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [/COLOR] ONE TV[/COLOR] </title>
+<link>http://server5.stweb.tv/radioone/live/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/jyre731s7/descarga_2.jpg</thumbnail>
+<fanart>https://s5.postimg.org/app7wysw7/hqdefault.jpg</fanart>
+</item>
+<item>
+<title>[COLOR red][COLOR  lime]•  [/COLOR] Music Top[/COLOR][COLOR  lime] HD [/COLOR]</title>
+<link>http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/9nstjne87/images.jpg</thumbnail>
+<fanart>https://s5.postimg.org/50mrhvqvb/musictop.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red]ROCK NACIONAL TV[/COLOR]</title>
+<link>http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/j76vh60nb/maxresdefault.jpg</thumbnail>
+<fanart>https://s5.postimg.org/dhqmwuuh3/Rock-Nacional_zps6f69d0d2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [/COLOR] Power HD[/COLOR] </title>
+<link>http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?tecnotv.info?.m3u</link>
+<thumbnail>https://s5.postimg.org/s773xaxtz/imagen2_pgmid_71.jpg</thumbnail>
+<fanart>https://s5.postimg.org/s773xaxtz/imagen2_pgmid_71.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] GENESIS[/COLOR] </title>
+<link>https://589ff3c36f7e8.streamlock.net/genesishd/genesishd/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/dimae4ypz/genesis_logo_web_azul_512x512-54cfe374v1_site_ic.png</thumbnail>
+<fanart>https://s5.postimg.org/vzgp4yeo7/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] TELECREATIVA [/COLOR][COLOR  lime] Prov Bs As[/COLOR] </title>
+<link>http://58ee6ee476b11.streamlock.net:1935/live/zencast4/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/m3oizkkp3/y_JP5_Cz_DB_400x400.png</thumbnail>
+<fanart>https://s5.postimg.org/m3oizkkp3/y_JP5_Cz_DB_400x400.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 9 [/COLOR][COLOR  lime]Salta [/COLOR] </title>
+<link>http://panel.dattalive.com:1935/8250/8250/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/c4btghozr/canal_9_salta.jpg</thumbnail>
+<fanart>https://s5.postimg.org/6u6up74qv/Canal9-Salta-Logo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] RIONEGRINA TV[/COLOR][COLOR  lime] Rio Negro[/COLOR] </title>
+<link>http://panel.dattalive.com:1935/8204/8204/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/agvi46ll3/Television-Rionegrina-Logo-300x300.jpg</thumbnail>
+<fanart>https://s5.postimg.org/vf1o29lfr/28429-e09abe4b-4122-4b46-82bb-e2d52bf1f338.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] TV UNIVERSITARIA DE MISIONES[/COLOR][COLOR  lime] Misiones [/COLOR] </title>
+<link>http://184.154.28.210:1935/unm/unm/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/8za1smguf/tv_universidad_nacional_de_la_plata_large.png</thumbnail>
+<fanart>https://s5.postimg.org/mhgy4wszr/unnamed_68.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] TELEJUNIN[/COLOR][COLOR  lime] Junin Bs As[/COLOR] </title>
+<link>http://stream.shockmedia.com.ar:1935/9618/9618/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/qho3h5jgn/telejunin_logo.png</thumbnail>
+<fanart>https://s5.postimg.org/f6lfssclj/TeleJunin_final.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] ECO TV [/COLOR][COLOR  lime] Tandil Bs As [/COLOR] </title>
+<link>rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv</link>
+<thumbnail>https://s5.postimg.org/3y794zyrr/Logo_pequeno_eco_tv_400x400.png</thumbnail>
+<fanart>https://s5.postimg.org/pw3pysds7/photo.jpg</fanart>
+</item>
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 2 [/COLOR][COLOR  lime] CORDOBA [/COLOR] </title>
+<link>http://arcast.tv:1935/envivo/marcos/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/lfbd03zk7/logo.png</thumbnail>
+<fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] Canal 7[/COLOR][COLOR  lime] Chubut [/COLOR] </title>
+<link>http://01.solumedia.com.ar:1935/c7/myStream/playlist.m3u8</link>
+<thumbnail>https://s10.postimg.org/hhgp1dzc9/829.gif</thumbnail>
+<fanart>https://s10.postimg.org/66e1d0sh5/canal-siete-min.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 3 DIGITAL[/COLOR][COLOR  lime] Pinamar Bs As [/COLOR] </title>
+<link>http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/5jmiwt8zr/descarga.jpg</thumbnail>
+<fanart>https://s5.postimg.org/ktme404hz/maxresdefault_live.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 5[/COLOR][COLOR  lime] SAN JUAN[/COLOR] </title>
+<link>http://www.coninfo.net:1935/tvcinco/live2/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/6cz4pff0n/ABC_TV5_logo.svg_-280x300.png</thumbnail>
+<fanart>https://s5.postimg.org/lx6ifyp53/5tv.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 5[/COLOR][COLOR  lime] ENTRE RIOS [/COLOR] </title>
+<link>http://panel.dattalive.com:1935/8044/8044/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/it0fwwxqf/i_tvvivo.png</thumbnail>
+<fanart>https://s5.postimg.org/it0fwwxqf/i_tvvivo.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 6[/COLOR][COLOR  lime] CORDOBA [/COLOR] </title>
+<link>http://01.solumedia.com.ar:1935/corraldebustos/myStream/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/6jhf69djb/canal6tvalternativa.jpg</thumbnail>
+<fanart>https://s5.postimg.org/h51ai9juv/1197687788_f.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CPETV [/COLOR][COLOR  lime] La Pampa[/COLOR] </title>
+<link>http://live-19.viewer.dacast.com/i/dclive_1@336785/master.m3u8</link>
+<thumbnail>https://s17.postimg.org/e7x2z2dqn/com.develcode.cpetv.png</thumbnail>
+<fanart>https://s17.postimg.org/sse5tw8pb/CPETV.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] Canal 7[/COLOR][COLOR  lime] CATAMARCA [/COLOR] </title>
+<link>http://192.99.38.174:1935/catamarca/catamarca/playlist.m3u8</link>
+<thumbnail>https://s10.postimg.org/iewo9wzix/Logo-canal-_Nosotros.png</thumbnail>
+<fanart>https://s10.postimg.org/66e1d0sh5/canal-siete-min.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 9 RIO CUARTO[/COLOR][COLOR  lime] CORDOBA [/COLOR] </title>
+<link>rtmp://canal9riocuartotv.com.ar:1935/canal9riocuarto/canal9riocuartotv</link>
+<thumbnail>https://s5.postimg.org/fjm0qg9mv/canal9-rcuarto.png</thumbnail>
+<fanart>https://s5.postimg.org/wvmdbw347/canal9-riocuarto.gif</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 32 VIDA NUEVA HD[/COLOR][COLOR  lime] Bs As[/COLOR] </title>
+<link>http://181.118.213.137/hls/mystream_720/index.m3u8</link>
+<thumbnail>https://s5.postimg.org/684k78mh3/photo_(1).png</thumbnail>
+<fanart>https://s5.postimg.org/ilhee5c5j/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 41 XFN[/COLOR] </title>
+<link>http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/574bi45hj/Logo-XFN.png</thumbnail>
+<fanart>https://s5.postimg.org/ynjxkjbuv/logoxfn.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  lime]•  [COLOR red] CANAL 79[/COLOR][COLOR  lime] MDQ Bs As[/COLOR] </title>
+<link>http://painel.serveron.com.br:1935/8168/8168/playlist.m3u8</link>
+<thumbnail>https://s5.postimg.org/q6kf9m75z/resize_w.jpg</thumbnail>
+<fanart>https://s5.postimg.org/bon81mfuv/02_canal_79_.jpg</fanart>
 </item>
