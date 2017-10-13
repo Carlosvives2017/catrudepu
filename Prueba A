@@ -1,71 +1,22 @@
-#EXTM3U
+<item>
+<title>Ustream</title>
 
-#EXTINF:-1 tvg-logo="http://mexicali.ccp.org.mx/wp-content/uploads/sites/10/2016/11/efektotv-peque.jpg" group-title="Latinos", Efekto TV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres>"uhls","url":"(http.*?playlist\.m.*)\/</expres>
+<page>http://$doregex[get-link]/1/ustream?connectionId=$doregex[get-token]</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex><regex>
+<name>get-token</name>
+<expres>connectionId":"(.*?)"</expres>
+<page>http://r2955015-1-22731347-channel-ws-live.ums.ustream.tv:1935/1/ustream?type=viewer&amp;referrer=http%3A%2F%2Fchiivass.es.tl%2FUNIVI.htm&amp;media=22731347&amp;application=channel&amp;appId=11&amp;appVersion=1</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex><regex>
+<name>get-link</name>
+<expres>host":"(.*?)"</expres>
+<page>http://r2955015-1-22731347-channel-ws-live.ums.ustream.tv:1935/1/ustream?type=viewer&amp;referrer=http%3A%2F%2Fchiivass.es.tl%2FUNIVI.htm&amp;media=22731347&amp;application=channel&amp;appId=11&amp;appVersion=1</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zQ4SJZKP1LU/Vw6LuVLgwjI/AAAAAAAAAaM/Ga-A-Sz-0z0IxNyp1WastCTjec-cwsgfgCLcB/s1600/trece.jpg" group-title="Latinos", Azteca Trece
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" group-title="Latinos", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
-
-#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/mx/CAPITAL21.png" group-title="Latinos", Capital 21
-http://api.new.livestream.com/accounts/21495989/events/6343363/live.m3u8?
-
-#EXTINF:-1 tvg-logo="http://cindytakahashi.com/wp-content/uploads/TV-Mexiquense.png?w=640" group-title="Latinos", Tv Mexiquense
-http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/logo_margen.png" group-title="Latinos", Canal 22
-http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
-
-#EXTINF:-1 tvg-logo="http://www.revistamilmesetas.com/wp-content/uploads/2012/12/tv-unam.png" group-title="Latinos", TV UNAM
-http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8?
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-t3aNu0XoQ0M/VSh6RzeTEeI/AAAAAAAAAkg/JN4ixO4-8CM/s320/Canal%2B4%2BMonclova.jpg" group-title="Latinos", Canal 4 Monclova
-http://192.163.250.253:1935/live/canal4/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="http://teleshow.paraguay.com/wp-content/uploads/2015/02/unicanal-logo.jpg" group-title="Latinos", Unicanal
-http://strm.unicanal.com.py/live/unicanal_src.m3u8?
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/unimas-logo-BB80394EED-seeklogo.com.png" group-title="Latinos", Unimas
-http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-iwUTtOMzaiE/U08TQLhmUEI/AAAAAAAAGno/uaCpUitGnG4/s1600/NatsuHen-Locomotion+logo.gif" group-title="Latinos", Locomotion
-http://locomotiontv.com/envivo/loco_app/stream.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.almar.com.co/images/portafolio/imagen_id_5272.jpg" group-title="Latinos", COSMOVISION
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-
-#EXTINF:-1 tvg-logo="http://www.rockalparque.gov.co/sites/default/files/styles/flexslider_grande/public/Logo-Canal-Capital-%281%29.jpg?itok=45P_l9xx" group-title="Latinos", Canal Capital
-http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
-
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/1/19/Nexnew.png/revision/latest/scale-to-width-down/233?cb=20150920225858" group-title="Latinos", NexTV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/7782/brand.gif?itok=TiTm1cLt" group-title="Latinos", Wapa
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0005/0914/brand.gif?itok=z5pqOhRc" group-title="Latinos", TravelHD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" group-title="Latinos", DW Latino
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="" group-title="Latinos", Uno
-http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
-
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.58ca099958cf2_a.png.5324ca4355112d0398127d724539e1bd.png" group-title="Latinos", A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/TC_LOGO.png" group-title="Latinos", Trendy Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-
-#EXTINF:-1 tvg-logo="http://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title="Latinos", Multimedios
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300" group-title="Latinos", NiuMedia
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large.58c547d552942_XHTVM-ADN40.png.bc83280d75016331f3449af51be5ecba.png" group-title="Latinos", ADN 40 
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
-
+</item>
