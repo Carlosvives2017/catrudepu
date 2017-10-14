@@ -1,25 +1,41 @@
 <item>
-<title>Ustream</title>
-
-<link>$doregex[makelist]</link>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR yellow]Vera + basico[/COLOR]</title>
+<link>$doregex[get-url]</link>
 <regex>
-<name>makelist</name>
-<expres>"uhls","url":"(http.*?playlist\.m.*)\/</expres>
-<page>http://$doregex[get-link]/1/ustream?connectionId=$doregex[get-token]</page>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex><regex>
-<name>get-token</name>
-<expres>connectionId":"(.*?)"</expres>
-<page>http://r2955015-1-22731347-channel-ws-live.ums.ustream.tv:1935/1/ustream?type=viewer&amp;referrer=http%3A%2F%2Fchiivass.es.tl%2FUNIVI.htm&amp;media=22731347&amp;application=channel&amp;appId=11&amp;appVersion=1</page>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex><regex>
-<name>get-link</name>
-<expres>host":"(.*?)"</expres>
-<page>http://r2955015-1-22731347-channel-ws-live.ums.ustream.tv:1935/1/ustream?type=viewer&amp;referrer=http%3A%2F%2Fchiivass.es.tl%2FUNIVI.htm&amp;media=22731347&amp;application=channel&amp;appId=11&amp;appVersion=1</page>
-<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
 </regex>
-
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/17765</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/17765/240/default.jpg</thumbnail>
+<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
 </item>
-http://4.bp.blogspot.com/-H0QKjYKEH_w/WeAdBYJch-I/AAAAAAAACEI/Ot08WOg2JvMW4edqMb7VNovZpz7ktttkQCK4BGAYYCw/s1600/univision.jpg
 
-http://www.xtremostereo.net/wp-content/uploads/2016/09/Univisión-en-vivo-online.jpg
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledoce</title>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=https://livestream.com/accounts/13567583/events/6415731/player?width=960&height=540&enableInfoAndActivity=false&autoPlay=true&mute=false;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
+<regex>
+<name>url</name>
+<expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
+<page>https://livestream.com/accounts/13567583/events/6415731/player?width=960&height=540&enableInfoAndActivity=false&autoPlay=true&mute=false</page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg</fanart>
+</item>
+
+GET https://livestream-f.akamaihd.net/i/13567583_6415731_lsimfvhvux2x0ygvpd3_1@187539/index_1756_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1508082771~acl=%2fi%2f13567583_6415731_lsimfvhvux2x0ygvpd3_1%40187539%2f*~data=hdntl~hmac=61ada1347fc0ead0de762ca1871fdffe8daf961d84e604914e01f7354ed28c87 HTTP/1.1
+Host: livestream-f.akamaihd.net
+Connection: keep-alive
+Origin: https://livestream.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.21 Safari/537.36 MMS/1.0.2531.0
+Accept: */*
+Referer: https://livestream.com/accounts/13567583/events/6415731/player?width=960&height=540&enableInfoAndActivity=false&autoPlay=true&mute=false
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8
