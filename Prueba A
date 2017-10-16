@@ -1,41 +1,23 @@
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR yellow]Vera + basico[/COLOR]</title>
-<link>$doregex[get-url]</link>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zonasport 3 [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<link>$doregex[get-id]</link>
 <regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
+<name>get-id</name>
+<expres>file:"(.*?)"</expres>
+<page>http://widestream.io/embed-16337</page>
 </regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/canal/17765</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/17765/240/default.jpg</thumbnail>
-<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Teledoce</title>
-<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=https://livestream.com/accounts/13567583/events/6415731/player?width=960&height=540&enableInfoAndActivity=false&autoPlay=true&mute=false;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zonasport 3 [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
+<link>$doregex[get-id]</link>
 <regex>
-<name>url</name>
-<expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
-<page>https://livestream.com/accounts/13567583/events/6415731/player?width=960&height=540&enableInfoAndActivity=false&autoPlay=true&mute=false</page>
+<name>get-id</name>
+<expres>file:"(.*?)"</expres>
+<page>http://widestream.io/embed-16337</page>
 </regex>
-<thumbnail>http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/media/CIyDP9TW8AAS1TE.jpg</fanart>
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
 </item>
-
-GET https://livestream-f.akamaihd.net/i/13567583_6415731_lsimfvhvux2x0ygvpd3_1@187539/index_1756_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1508082771~acl=%2fi%2f13567583_6415731_lsimfvhvux2x0ygvpd3_1%40187539%2f*~data=hdntl~hmac=61ada1347fc0ead0de762ca1871fdffe8daf961d84e604914e01f7354ed28c87 HTTP/1.1
-Host: livestream-f.akamaihd.net
-Connection: keep-alive
-Origin: https://livestream.com
-User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.21 Safari/537.36 MMS/1.0.2531.0
-Accept: */*
-Referer: https://livestream.com/accounts/13567583/events/6415731/player?width=960&height=540&enableInfoAndActivity=false&autoPlay=true&mute=false
-Accept-Encoding: gzip, deflate, sdch, br
-Accept-Language: en-US,en;q=0.8
