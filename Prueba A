@@ -1,9 +1,4 @@
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zonasport 3 [COLOR blue]~[COLOR white] Widestream[/COLOR]</title>
-<link>$doregex[get-id]</link>
-<regex>
-<name>get-id</name>
-<expres>#EXTM3U
+#EXTM3U
 #EXTINF:-1,---FREE PLAYLIST achotv.com
 http://www.achotv.com
 #EXTINF:-1,---LAST UPDATE 09-10-2017---
