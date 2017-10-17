@@ -3,7 +3,7 @@
 bro.adca.st
 ******************************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeca Online [COLOR blue]~[/COLOR] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeca Online broadcast</title>
 
 <link>$doregex[bro.adca.st]</link>
 <regex>
@@ -40,7 +40,7 @@ rtmp://origin.bro.adca.st:1935/liverepeater
 ******************************************
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR]Elecdeka Live</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeka Live 247bay</title>
 
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
@@ -67,7 +67,7 @@ ucaster
 ******************************************
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]GolPeru</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeca Online ucaster</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
 			<name>ip</name>
