@@ -31,3 +31,52 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 <thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
 <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
 </item>
+
+
+***********************************
+cast4u 700
+***********************************
+<item>
+
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR]Elecdeka Live</title>
+
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://live.cast4u.tv:1935/loadbalancer</page>
+			<referer>http://www.cast4u.tv</referer>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.cast4u.tv/membedplayer/Elecdeka/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.cast4u.tv</referer>
+			</regex>
+<thumbnail>http://1.bp.blogspot.com/-TYDAx29utM4/WSBg2w7fmXI/AAAAAAAABCE/cClpgjqgv9sZXBKumBxCvyYrmt_1ye3NgCK4B/s1600/futbol%2Buruguayo.jpg</thumbnail>
+</item>
+
+
+**************************
+ mipspublisher 800
+**************************
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR]Elecdeka Live 700,800 Kbps[COLOR red]  Mips[COLOR blue] publisher[COLOR blue]  >  [COLOR lightslategray]on[COLOR white] / [COLOR red]off[/COLOR][COLOR red][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+			<referer>http://www.mipsplayer.com</referer>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mipsplayer.com/membedplayer/Elecdeka/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mipsplayer.com</referer>
+			</regex>
+<thumbnail></thumbnail>
+</item>
+***********************************************
