@@ -3,7 +3,7 @@
 bro.adca.st
 ******************************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeca Online [COLOR blue]~[/COLOR] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
  <link>$doregex[bro.adca.st]</link>
 
 <regex>
@@ -38,7 +38,7 @@ cast4u 700
 ***********************************
 <item>
 
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR]Elecdeka Live</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeca Online</title>
 
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
@@ -62,7 +62,7 @@ cast4u 700
  mipspublisher 800
 **************************
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR]Elecdeka Live 700,800 Kbps[COLOR red]  Mips[COLOR blue] publisher[COLOR blue]  >  [COLOR lightslategray]on[COLOR white] / [COLOR red]off[/COLOR][COLOR red][/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Elecdeca Online</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
