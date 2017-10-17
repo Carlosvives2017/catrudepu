@@ -12,3 +12,34 @@
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.fstream.me</referer>
 </item>
+
+<item>
+<title>Elecdeka</title>
+ <link>$doregex[bro.adca.st]</link>
+<regex>
+<name>bro.adca.st</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=18018&p=1&c=0&stretching=uniform&old=0'):
+ import requests, re, urllib
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
+ headers['Referer'] = 'http://elecdeka2017.blogspot.com.uy/2017/01/video-add-ond.html'
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
+ m3u8 = m3u8.decode('base64')
+ tokenpage = re.findall('nws1 = "(.+?)"', source.text)[0]
+ headers['Referer'] = url
+ headers['X-Requested-With'] = 'XMLHttpRequest'
+ headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
+ headers['Accept-Language'] = 'en-US,en;q=0.5'
+ source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
+ m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
+ return m3u8
+]]></expres>
+<page></page>
+</regex>
+ <thumbnail>http://i.imgur.com/fli4mx8.jpg</thumbnail>
+  <fanart>http://mma.uno/wp-content/uploads/2017/03/coner-floyd-696x392.jpg</fanart>
+  <description>[B][COLOR aquamarine]AdryanList for KODI [/COLOR][COLOR lightblue] MAYWEATHER JR-MCGREGOR [/B][/COLOR] </description>
+    <plot>[B][COLOR aquamarine]AdryanList: [/COLOR][COLOR lightblue] MAYWEATHER JR-MCGREGOR [/B][/COLOR] </plot>
+<info></info>
+</item>
