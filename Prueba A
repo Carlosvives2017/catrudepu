@@ -32,6 +32,9 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 <fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
 </item>
 
+rtmp://origin.bro.adca.st:1935/liverepeater
+59a1a8354d7e0?pwd=XwKXiQ58
+
 *****************************************
 247bay
 ******************************************
@@ -55,6 +58,9 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 
 <thumbnail>http://1.bp.blogspot.com/-TYDAx29utM4/WSBg2w7fmXI/AAAAAAAABCE/cClpgjqgv9sZXBKumBxCvyYrmt_1ye3NgCK4B/s1600/futbol%2Buruguayo.jpg</thumbnail>
 </item>
+
+rtmp://publish247.xyz/stream
+Elecdeka?key=4d93dcf3&id=18462
 
 *****************************************
 ucaster
@@ -86,3 +92,6 @@ ucaster
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSecdTif0K-6lcr36_mJtnwm5ON-DbQORMjOIkTmrtolHB5ALJg</thumbnail>
 <fanart></fanart> 
 </item> 
+
+Fms     rtmp://pubucaster.com/live
+Stream  latramichamadre?key=b2a4a0e4&id=93764
