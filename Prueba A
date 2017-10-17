@@ -1,6 +1,11 @@
+
+*****************************************
+bro.adca.st
+******************************************
 <item>
-<title>Elecdeka</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Futbol Elec sd [COLOR blue]~[/COLOR] [COLOR red]bro[COLOR].[COLOR white]adca[COLOR].[COLOR blue]st[/COLOR]</title>
  <link>$doregex[bro.adca.st]</link>
+
 <regex>
 <name>bro.adca.st</name>
 <expres><![CDATA[#$pyFunction
@@ -11,7 +16,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
  source = requests.get(url, headers=headers)
  m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
  m3u8 = m3u8.decode('base64')
- tokenpage = re.findall('nws1 = "(.+?)"', source.text)[0]
+ tokenpage = re.findall('fass = "(.+?)"', source.text)[0]
  headers['Referer'] = url
  headers['X-Requested-With'] = 'XMLHttpRequest'
  headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
@@ -22,9 +27,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
 ]]></expres>
 <page></page>
 </regex>
- <thumbnail>http://i.imgur.com/fli4mx8.jpg</thumbnail>
-  <fanart>http://mma.uno/wp-content/uploads/2017/03/coner-floyd-696x392.jpg</fanart>
-  <description>[B][COLOR aquamarine]AdryanList for KODI [/COLOR][COLOR lightblue] MAYWEATHER JR-MCGREGOR [/B][/COLOR] </description>
-    <plot>[B][COLOR aquamarine]AdryanList: [/COLOR][COLOR lightblue] MAYWEATHER JR-MCGREGOR [/B][/COLOR] </plot>
-<info></info>
+
+<thumbnail>http://4.bp.blogspot.com/-O5uAEViNSjQ/WbFlprYePGI/AAAAAAAABc8/pv95Jp8a8qkmEFRufEGF0bz9DrbH7XrigCK4BGAYYCw/s1600/icon2.png</thumbnail>
+<fanart>https://media.elobservador.com.uy/adjuntos/181/imagenes/001/439/0001439728.jpg</fanart>
 </item>
