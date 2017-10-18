@@ -1,32 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<item>               
+<title>[COLOR lightblue]Univision [/COLOR] .</title>
+
+<link>http://$doregex[adryan_IP]/loadbalance/72849632197926123218/playlist.m3u8$doregex[adryan_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>adryan_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[adryan_page]</page>
+<noredirect>true</noredirect>
+<includeheaders></includeheaders>
+</regex>
+<regex>
+<name>adryan_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[adryan_page]</page>
+</regex>
+<regex>
+<name>adryan_page</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://pxstream.tv/embed/up06x35h945y/</page>
+<referer>http://lacasadeltikitaka.club</referer>
+</regex>
+
+<thumbnail>http://adryanlist.org/adryan/img/entretenimiento.png</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<info>Tu donacion permite que
+[B][COLOR lightyellow]Adryanlist[/COLOR][/B] siga actualizando[COLOR skyblue][B]http://paypal.me/Adryanlist[/B][/COLOR]</info>
+</item>
+	   	   
+
+<item>               
+<title>[COLOR lightblue]Telemundo [/COLOR] .</title>
+
+<link>http://$doregex[adryan_IP]/loadbalance/15847258663262532849/playlist.m3u8$doregex[adryan_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>adryan_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[adryan_page]</page>
+<noredirect>true</noredirect>
+<includeheaders></includeheaders>
+</regex>
+<regex>
+<name>adryan_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[adryan_page]</page>
+</regex>
+<regex>
+<name>adryan_page</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://pxstream.tv/embed/up06x35h945y/</page>
+<referer>http://lacasadeltikitaka.club</referer>
+</regex>
+
+<thumbnail>http://adryanlist.org/adryan/img/entretenimiento.png</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<info>Tu donacion permite que
+[B][COLOR lightyellow]Adryanlist[/COLOR][/B] siga actualizando[COLOR skyblue][B]http://paypal.me/Adryanlist[/B][/COLOR]</info>
+</item>
+	   
+	   
+ 
 
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]America HD[/COLOR]</title> 
-<link>http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b1596000.m3u8|User-Agent=iPhone</link> 
-<thumbnail>http://3.bp.blogspot.com/-EeJhD8HkwXs/WdaNiK-2vxI/AAAAAAAABkA/NnF-8sEYwmoTjdNWVvpA-4tf47dfN1UDwCK4BGAYYCw/s1600/america%2B2.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-tyOCh3clC_4/WdaNfmTsNgI/AAAAAAAABio/ab47wgWIB00k5megHgOv9r37sPKG9GWegCK4BGAYYCw/s1600/america%2B2.jpg</fanart>
-</item>
+<title>[COLOR lightblue]Unimas [/COLOR] </title>
 
+<link>http://$doregex[adryan_IP]/loadbalance/18325311513185526992/playlist.m3u8$doregex[adryan_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>adryan_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[adryan_page]</page>
+<noredirect>true</noredirect>
+<includeheaders></includeheaders>
+</regex>
+<regex>
+<name>adryan_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[adryan_page]</page>
+</regex>
+<regex>
+<name>adryan_page</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://pxstream.tv/embed/up06x35h945y/</page>
+<referer>http://lacasadeltikitaka.club</referer>
+</regex>
+
+<thumbnail>http://adryanlist.org/adryan/img/entretenimiento.png</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<info>Tu donacion permite que
+[B][COLOR lightyellow]Adryanlist[/COLOR][/B] siga actualizando[COLOR skyblue][B]http://paypal.me/Adryanlist[/B][/COLOR]</info></item>
+
+ 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]America HD[/COLOR]</title> 
-<link>http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b1596000.m3u8?sense=true</link> 
-<thumbnail>http://3.bp.blogspot.com/-EeJhD8HkwXs/WdaNiK-2vxI/AAAAAAAABkA/NnF-8sEYwmoTjdNWVvpA-4tf47dfN1UDwCK4BGAYYCw/s1600/america%2B2.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-tyOCh3clC_4/WdaNfmTsNgI/AAAAAAAABio/ab47wgWIB00k5megHgOv9r37sPKG9GWegCK4BGAYYCw/s1600/america%2B2.jpg</fanart>
+<title>[COLOR lightblue]Telemundo Internacional[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=telemundoes&amp;width=650&amp;height=397</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+  <info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info><thumbnail>http://adryanlist.org/adryan/img/entretenimiento.png</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+
+<info>Tu donacion permite que
+[B][COLOR lightyellow]Adryanlist[/COLOR][/B] siga actualizando[COLOR skyblue][B]http://paypal.me/Adryanlist[/B][/COLOR]</info>
 </item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]America HD[/COLOR]</title> 
-<link>http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b1596000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.21 Safari/537.36 MMS/1.0.2531.0</link> 
-<thumbnail>http://3.bp.blogspot.com/-EeJhD8HkwXs/WdaNiK-2vxI/AAAAAAAABkA/NnF-8sEYwmoTjdNWVvpA-4tf47dfN1UDwCK4BGAYYCw/s1600/america%2B2.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-tyOCh3clC_4/WdaNfmTsNgI/AAAAAAAABio/ab47wgWIB00k5megHgOv9r37sPKG9GWegCK4BGAYYCw/s1600/america%2B2.jpg</fanart>
-</item>
+ 
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]America HD[/COLOR]</title> 
-<link>http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b1596000.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0</link> 
-<thumbnail>http://3.bp.blogspot.com/-EeJhD8HkwXs/WdaNiK-2vxI/AAAAAAAABkA/NnF-8sEYwmoTjdNWVvpA-4tf47dfN1UDwCK4BGAYYCw/s1600/america%2B2.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-tyOCh3clC_4/WdaNfmTsNgI/AAAAAAAABio/ab47wgWIB00k5megHgOv9r37sPKG9GWegCK4BGAYYCw/s1600/america%2B2.jpg</fanart>
-</item>
-
-http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0</link>
