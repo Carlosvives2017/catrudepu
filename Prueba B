@@ -7,4 +7,17 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_400_av-p.m3u8?sd=10&re
 http://wms.shared.streamshow.it/carinatv/carinatv/chunklist_w1292000622.m3u8
 #EXTINF:-1,Telemicro 5
 http://livestream-f.akamaihd.net/i/736348_5552503_lsi7qnwttsg77nl1i6g_1@408157/index_546_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1508523935~acl=%2fi%2f736348_5552503_lsi7qnwttsg77nl1i6g_1%40408157%2f*~data=hdntl~hmac=08ecaaa0051a40331a24ce6b5ea7df7d0d21fe78249095744fbb15967cb19505
-
+#EXTINF:-1,01
+http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist_w1637072900_b1200000.m3u8?idLive=026
+#EXTINF:-1,02
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
+#EXTINF:-1,tv4
+http://149.56.46.135/live/web/GMdrt5qOwLa/18.m3u8 
+#EXTINF:-1,calitv
+http://video.cehis.net/live-calitv/calitv1/chunklist_w619045413.m3u8
+#EXTINF:-1,ANTI
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1,TANT
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TMED
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
