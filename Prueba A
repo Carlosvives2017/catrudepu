@@ -1,81 +1,13 @@
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]GNULA</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist2.param2]</title>
-<link>$doregex[makelist3]</link>
-<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail>
-<fanart>[makelist2.param3]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</fanart>
-]]></listrepeat>
-<expres><![CDATA[Ntooltip\"\shref="(.*?)">(.*?)<[\w\W\s]{0,20}src="(.*?)"]]></expres>
-<page>http://gnula.nu/peliculas-de-estreno/lista-de-peliculas-online-parte-1/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-<regex>
-<name>createCFCookie</name>
-<expres></expres>
-<page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist2.param2] [COLOR ][makelist3.param1][/COLOR] [COLOR deepskyblue][makelist3.param3][/COLOR]</title>
-<link>$doregex[id3]</link>
-
-<thumbnail></thumbnail>
-<fanart>[makelist2.param3]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0&amp;Referer=http://gnula.nu</fanart>
-
-]]></listrepeat>
-<expres><![CDATA[em>(opc.*?)<\/em|href="(http://gamovideo.*?|https://vidoza.*?|https://kingvid.*?|https://openload.*?|https://streamango.*?|http://streamin.*?|http://streamcloud.*?|http://uptobox.*?|https://rapidvideo.*?)".*?class="(.*?)"]]></expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-<regex>
-<name>createCFCookie</name>
-<expres></expres>
-<page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>id3</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import urlresolver
-    url = '[makelist3.param2]'
-    try:
-        u = urlresolver.resolve(url)
-    except:
-        u = 'http://elecdeka.org/error.mp4'
-    return u
-]]></expres>
-<page></page>
-</regex>
-
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item> 
-
-
-
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Aftermath (2017)</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Aftermath</title>
 <link>https://archive.org/download/407300470.SRREGIO/407300470.SRREGIO.mkv</link>
-<thumbnail>http://gnula.nu/wp-content/uploads/2017/04/Aftermath_poster_usa.jpg</thumbnail>
-<fanart>https://m.aceshowbiz.com/webimages/still/aftermath-2017-poster03.jpg</fanart>
-<info>Una historia de venganza narra la historia del accidente real de avión que tuvo lugar en Überlingen el 1 de julio de 2002, en el que murieron más de un centenar de personas tras el choque de dos aviones, y los sucesos que tuvieron lugar 478 días después.
-Roman (Schwarzenegger) es un padre que ha perdido todo lo que amaba en el accidente, por lo que dedicará todo su tiempo a buscar al responsable del accidente para tratar de hacer justicia.</info>
+<thumbnail>https://m.aceshowbiz.com/webimages/still/aftermath-2017-poster03.jpg</thumbnail>
+<fanart>http://gnula.nu/wp-content/uploads/2017/04/Aftermath_poster_usa.jpg</fanart>
+<info>Roman (Schwarzenegger) es un padre que ha perdido todo lo que amaba en el accidente, por lo que dedicará todo su tiempo a buscar al responsable del accidente para tratar de hacer justicia.</info>
+<date>2017</date>
 </item>
+
+
 *****************************************
 bro.adca.st
 ******************************************
