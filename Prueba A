@@ -1,3 +1,21 @@
+
+<item>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/RDG645GtXGEJY/</jsonrpc>
+<thumbnail>https://i.imgur.com/ZFweFnY.png</thumbnail>
+<info></info>
+<title>PACK 1 — 700 PELICULAS DE TERROR</title>
+</item>
+
+<item>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/6&list=RDG645GtXGEJY/</jsonrpc>
+<thumbnail>https://i.imgur.com/ZFweFnY.png</thumbnail>
+<info></info>
+<title>PACK 1 — 700 PELICULAS DE TERROR</title>
+</item>
+
+
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]GNULA</title>
 <link>$doregex[makelist2]</link>
