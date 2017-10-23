@@ -1,5 +1,5 @@
 <item>
-<title>[UPPERCASE][COLOR skyblue]  cinemax[/UPPERCASE][/COLOR] </title>
+<title>cinemax</title>
 <link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -14,35 +14,27 @@
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TDC</title>
 <link>http://painel.serveron.com.br:1935/8166/8166/chunklist_w266638799.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-Bk1Q01Mutmc/WdbKC7ixEzI/AAAAAAAABmw/E2SiYrbyqvQ8it73gr-vMzgQnfuplpn0QCK4BGAYYCw/s1600/tdv.jpg</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2010/10/tdc-logo-side.jpg?resize=350%2C200</fanart>
-
+<thumbnail>http://2.bp.blogspot.com/-G7coZb6tQuA/We4BIMy9WhI/AAAAAAAACHQ/ANAbx5N58Zoay-vDaSMIZSAzRBhDlV2xACK4BGAYYCw/s1600/tdc.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/fpC49PlM6FFF58Hm6IoHZuiWFs-A7XhsFnKvB9khWlieKzjHTBQB9g4R99PXUjnOXg=w300</fanart>
 </item>
 
 <item>
-
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]24/7 Los Simpson</title>
-<link>http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8</link>
-
-<thumbnail>https://i.imgur.com/3g8RTz1.png</thumbnail>
-<fanart>https://i.imgur.com/3g8RTz1.png</fanart>
-
-</item>
-
-<item>
-
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]NCTV</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]NCTV Latinos</title>
 <link>http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8</link>
-
-<thumbnail>https://latinosnc.com/wp-content/uploads/layerslider/Carousel-demo/LNC-TV-New-Logo.png</thumbnail>
-<fanart>https://latinosnc.com/wp-content/uploads/layerslider/Carousel-demo/LNC-TV-New-Logo.png</fanart>
-
+<thumbnail>http://4.bp.blogspot.com/-9AqRARTsf68/We4BIByH_XI/AAAAAAAACHU/PJYWvQl8F9YfMZKJkT1-pHBaFmhLojCnACK4BGAYYCw/s1600/nctv.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/IDMWV4RvXNU/hqdefault.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Simpson</title>
+<link>http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-aZKesHwvvSc/WeYXmbMoZXI/AAAAAAAACFc/gRvIZ3y2mvMNytbproqKrG18bCizYFQ2wCK4BGAYYCw/s1600/los%2Bshimpsons.jpg</thumbnail>
+<fanart>https://media.elpatagonico.com/adjuntos/193/imagenes/008/552/0008552856.jpg</fanart>
+</item>
 
 ----------------------------
 <item>
-<title>youtube buscador</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Youtube busqueda</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -124,64 +116,14 @@ class InputWindow(xbmcgui.WindowDialog):
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/entretenimiento.png</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-
-<info>
-
-Tu donacion permite que
-[B][COLOR lightyellow]Adryanlist[/COLOR][/B] siga actualizando
-
-
- [COLOR skyblue][B]http://paypal.me/Adryanlist[/B][/COLOR]</info></item>
+<thumbnail>http://2.bp.blogspot.com/-xX8GbKKhBYw/We4BIPr13pI/AAAAAAAACHc/Yfz-JvXqHbowcgJ9zZUAVncY0hU8ybMBwCK4BGAYYCw/s1600/youtube.jpg</thumbnail>
+<fanart>https://9to5google.files.wordpress.com/2017/02/youtube.jpg?quality=82&strip=all&w=1000</fanart>
+<info></info>
+</item>
 
 
 
 -----------------------------
-
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Calle13</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/pelis/calle13</referer>
-<thumbnail>http://2.bp.blogspot.com/-g-b0fyVodJ4/WdwBBCy7INI/AAAAAAAABz4/5JuhevKnZEM_4XmnQ8SfUBfaB6BxGeBRACK4BGAYYCw/s1600/calle%2B13.jpg</thumbnail>
-<fanart>https://alejandrapons.files.wordpress.com/2012/08/calle-13-tv-channel-all-fools-day-small-38184.jpg</fanart>
-</item>
-
-
-
-<item>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
-<thumbnail>http://1.bp.blogspot.com/-ExxQVQNiRfY/WetNYNNTSWI/AAAAAAAACG8/BMtY2SFve2IzhIrrPeh1wWD2wvkweQhtACK4BGAYYCw/s1600/logocumbia.jpg</thumbnail>
-<fanart>http://www.unosantafe.com.ar/export/sites/diario_santafe/imagenes/2016/02/08/toco-para-vos.jpg</fanart>
-<info></info>
-<title>Cunbia Uruguay 2016/17</title>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]diabolica tentacion</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wTg72VWWpxg</link> 
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]n2KY-fuZ-lc</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n2KY-fuZ-lc</link> 
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]CcDxTu50lIU</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CcDxTu50lIU</link> 
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Kidnap (Mujer en llamas) (2017)</title> 
@@ -191,8 +133,6 @@ Tu donacion permite que
 <info>Un inocente día en el parque de atracciones se convierte en tragedia cuando Karla (Halle Berry) observa cómo dos extraños arrastran a su hijo de seis años, Frankie (Sage Correa), dentro de un coche y arrancan. Sin un número de matrícula ni teléfono móvil desde el que llamar a la policía, Karla deberá encontrar al pequeño por su cuenta. En una persecución a toda velocidad y con el indicador de combustible peligrosamente cercano a la reserva. Karla tendrá que tomar duras decisiones si quiere volver a ver a su hijo.
 </info>
 </item>
-
-
 
 
 <item>
@@ -263,7 +203,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
-
+-----------------------------------------------------------
 
 
 *****************************************
