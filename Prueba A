@@ -40,7 +40,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param2]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist.param2]</title>
 <link>$doregex[resolve]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
