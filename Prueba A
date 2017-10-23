@@ -1,42 +1,141 @@
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<title>[UPPERCASE][COLOR skyblue]  cinemax[/UPPERCASE][/COLOR] </title>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/argentina/cinemax.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</page>
-<cookieJar></cookieJar>
+<page>http://vergol.com/live1/cinemax.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
 </regex>
-<thumbnail>http://2.bp.blogspot.com/-uzPHoYGvfhQ/WdwBBCHDowI/AAAAAAAAB0Y/iSJTcRJJx7kJmFlabeuhgpNHdjXapn9YQCK4BGAYYCw/s1600/id.jpg</thumbnail>   
-<fanart>http://www.neeo.es/wp-content/uploads/crimen-investigacion.jpg</fanart>
+<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   
+<fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-uzPHoYGvfhQ/WdwBBCHDowI/AAAAAAAAB0Y/iSJTcRJJx7kJmFlabeuhgpNHdjXapn9YQCK4BGAYYCw/s1600/id.jpg</thumbnail>   
-<fanart>http://www.neeo.es/wp-content/uploads/crimen-investigacion.jpg</fanart>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TDC</title>
+<link>http://painel.serveron.com.br:1935/8166/8166/chunklist_w266638799.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-Bk1Q01Mutmc/WdbKC7ixEzI/AAAAAAAABmw/E2SiYrbyqvQ8it73gr-vMzgQnfuplpn0QCK4BGAYYCw/s1600/tdv.jpg</thumbnail>
+<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2010/10/tdc-logo-side.jpg?resize=350%2C200</fanart>
+
 </item>
 
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Crimen investigacion SD[/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>[",\'](h.*m3u8.*?)'</expres>
-<page>http://vergol.com/live/canalcrimen.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
-<agent>iPad</agent>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-uzPHoYGvfhQ/WdwBBCHDowI/AAAAAAAAB0Y/iSJTcRJJx7kJmFlabeuhgpNHdjXapn9YQCK4BGAYYCw/s1600/id.jpg</thumbnail>   
-<fanart>http://www.neeo.es/wp-content/uploads/crimen-investigacion.jpg</fanart>
+<item>
+
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]24/7 Los Simpson</title>
+<link>http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8</link>
+
+<thumbnail>https://i.imgur.com/3g8RTz1.png</thumbnail>
+<fanart>https://i.imgur.com/3g8RTz1.png</fanart>
+
 </item>
+
+<item>
+
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]NCTV</title>
+<link>http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8</link>
+
+<thumbnail>https://latinosnc.com/wp-content/uploads/layerslider/Carousel-demo/LNC-TV-New-Logo.png</thumbnail>
+<fanart>https://latinosnc.com/wp-content/uploads/layerslider/Carousel-demo/LNC-TV-New-Logo.png</fanart>
+
+</item>
+
+
+----------------------------
+<item>
+<title>youtube buscador</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[resolve]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>u'(.+?)', u'(.+?)'</expres>
+<page>$doregex[search]</page>
+</regex>
+
+<regex>
+<name>resolve</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+ url = 'https://www.youtube.com/watch?v=[makelist.param1]'
+ streamLink = urlresolver.resolve(url)
+ return streamLink
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import requests,xbmcgui,xbmc, re,time, xbmcaddon
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ text=takeInputFortext('Enter search string')
+ url = 'https://www.youtube.com/results?q=' + text.replace(' ', '+')
+ req = requests.get(url)
+ list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+
+ count = 10
+ while count > 1:
+   try:
+     url = 'https://www.youtube.com' + re.findall('a href="([^"]+)".+<\/a>\n <\/div>', req.text)[0]
+   except:
+     return list1
+   req = requests.get(url)
+   list2 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+   list1 = list1 + list2
+   count = count - 1
+ return list1
+
+def takeInputFortext(txt):
+ addon = xbmcaddon.Addon('plugin.video.live.streamspro')
+ addon_version = addon.getAddonInfo('version')
+ profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+ 
+ solver = InputWindow( txt=txt)
+ solution = solver.get()
+ return solution
+
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+        
+        self.txt = kwargs.get('txt','')
+
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/entretenimiento.png</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+
+<info>
+
+Tu donacion permite que
+[B][COLOR lightyellow]Adryanlist[/COLOR][/B] siga actualizando
+
+
+ [COLOR skyblue][B]http://paypal.me/Adryanlist[/B][/COLOR]</info></item>
+
+
 
 -----------------------------
 
