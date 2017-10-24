@@ -7,9 +7,26 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",Del Pueblo - 94.5 TV - Florida - Florida
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0003
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",VCC Canal 3 YT - 3CTV - Minas - Lavalleja
-https://www.youtube.com/watch?v=d78w8bLE4v4
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0004
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CLD TV - 8CTV - Libertad - San José
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0005
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",Del Pueblo - 94.5 TV - Florida - Florida
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0006
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",VCC Canal 3 YT - 3CTV - Minas - Lavalleja
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0007
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CLD TV - 8CTV - Libertad - San José
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0008
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CLD TV - 8CTV - Libertad - San José
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0009
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",Del Pueblo - 94.5 TV - Florida - Florida
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0010
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",VCC Canal 3 YT - 3CTV - Minas - Lavalleja
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0011
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CLD TV - 8CTV - Libertad - San José
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0012
+
+
+
 
 #EXTINF:-1,Paramount Channel
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008
