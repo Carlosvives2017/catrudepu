@@ -1,4 +1,38 @@
 <item>
+<title>Ustream 2</title>
+
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[encodedurl]&amp;name=Multilista%20para%20siempre&amp;maxbitrate=1&amp;proxy=None&amp;Buffer=20971520</link>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus("$doregex[makelist]&amp;cdnHost=uhs-akamai.ustream.tv")</expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist</name>
+<expres>"uhls","url":"(http.*?playlist\.m.*)\/</expres>
+<page>http://$doregex[get-link]/1/ustream?connectionId=$doregex[get-token]</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+	</regex>
+	<regex>
+	<name>get-token</name>
+	<expres>connectionId":"(.*?)"</expres>
+	<page>http://r2955015-1-22731347-channel-ws-live.ums.ustream.tv:1935/1/ustream?type=viewer&amp;referrer=http%3A%2F%2Fchiivass.es.tl%2FUNIVI.htm&amp;media=22731347&amp;application=channel&amp;appId=11&amp;appVersion=1</page>
+ <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+	</regex>
+	<regex>
+	<name>get-link</name>
+	<expres>host":"(.*?)"</expres>
+	<page>http://r2955015-1-22731347-channel-ws-live.ums.ustream.tv:1935/1/ustream?type=viewer&amp;referrer=http%3A%2F%2Fchiivass.es.tl%2FUNIVI.htm&amp;media=22731347&amp;application=channel&amp;appId=11&amp;appVersion=1</page>
+ <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+	</regex>
+</item>
+
+ 
+
+
+
+
+<item>
 <title>[COLOR yellow][B]GNULA ESTRENOS, Accesar Aqui [/B][/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
