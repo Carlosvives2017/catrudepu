@@ -3,7 +3,7 @@
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-latele/</link>
 <regex>
 <name>play</name>
-<expres>file":"html:.*?live\\\/(.*?)"</expres>
+<expres>videoUrl = ":"rtmp:.*?live\\\/(.*?)"</expres>
 <page>https://www.cxntv.com/canales/tv-latele/</page>
 </regex>
 <thumbnail>http://4.bp.blogspot.com/-9Kag4Bjg73k/WfCAW0YegMI/AAAAAAAACIE/SRRJ6cPn4CgnK6yoClD0D9Cg8h0RYTg0QCK4BGAYYCw/s1600/space.jpg</thumbnail>
