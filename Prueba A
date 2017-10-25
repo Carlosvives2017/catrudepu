@@ -41,7 +41,7 @@
 <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Elecdeka</link>
 </item>	
 ]]></listrepeat>
-<expres>canal":"(.+?)".*?acestream:\\/\\/(.*?)".*?idioma":"(.*?)"</expres>
+<expres>canal":"(.+?)".*?acestream:\\\ \\\ (.*?)".*?idioma":"(.*?)"</expres>
 <page>https://avezy.xyz/json.php?action=listado_canales&amp;evento=[makelist2.param1]</page>
 </regex>
 <thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
