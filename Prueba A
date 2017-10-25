@@ -1,52 +1,20 @@
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Arenavision[/COLOR]</title>
-<SetViewMode>55</SetViewMode>
-<link>$doregex[makelist3]</link>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Space</title>
+<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-space/</link>
 <regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR][makelist3.param1]  [COLOR blue]~  [COLOR deepskyblue][makelist3.param2] canales[/COLOR]</title>
-<thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
-<link>$doregex[makelist2]</link>
-]]></listrepeat>
-<expres>categoria":"(.*?)","items":"(.*?)"</expres>
-<page>https://avezy.xyz/json.php</page>
+<name>play</name>
+<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
+<page>https://www.cxntv.com/canales/tv-space/</page>
 </regex>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<SetwatchMode>55</SetwatchMode>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR][COLOR lime][makelist2.param2] [COLOR white][makelist2.param3] [COLOR deepskyblue] [makelist2.param5] [/COLOR]</title>
-<thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
-<link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres>"id":"(.*?)","fecha":"(.*?)","hora":"(.*?)","categoria":"(.*?)","titulo":"(.*?)"</expres>
-<page>https://avezy.xyz/json.php?action=listado_eventos&amp;cat=$doregex[cate]</page>
-</regex>
-<regex>
-<name>cate</name>
-<expres>$pyFunction:('[makelist3.param1]').replace(' ','+')</expres>
-<page></page>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<SetwatchMode>55</SetwatchMode>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR skyblue][makelist2.param5][/COLOR][COLOR lightslategray]  Canal  [makelist.param1]  idioma:  [makelist.param3][/COLOR]</title>
-<thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
-<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Elecdeka</link>
-</item>	
-]]></listrepeat>
-<expres>canal":"(.+?)".*?acestream:\\\ \\\ (.*?)".*?idioma":"(.*?)"</expres>
-<page>https://avezy.xyz/json.php?action=listado_canales&amp;evento=[makelist2.param1]</page>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
+<thumbnail>http://4.bp.blogspot.com/-9Kag4Bjg73k/WfCAW0YegMI/AAAAAAAACIE/SRRJ6cPn4CgnK6yoClD0D9Cg8h0RYTg0QCK4BGAYYCw/s1600/space.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-xs5k8OLNh3c/UZUY5GfqAtI/AAAAAAAABZE/a3UZkqNf7Qw/s1600/logo_port.jpg</fanart>
 </item>
+
+expres>redirect=(.*)</expres>
+expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
+expres>file: "([^\"].*)"</expres>
+expres>file='(.*?)';</expres>
 
 
 
@@ -143,17 +111,7 @@ expres>videoUrl = '(.*?)'</expres>
 <fanart>http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/cinemax_logo_0.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Space</title>
-<link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-space/</link>
-<regex>
-<name>play</name>
-<expres>file":"rtmp:.*?live\\\/(.*?)"</expres>
-<page>https://www.cxntv.com/canales/tv-space/</page>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-9Kag4Bjg73k/WfCAW0YegMI/AAAAAAAACIE/SRRJ6cPn4CgnK6yoClD0D9Cg8h0RYTg0QCK4BGAYYCw/s1600/space.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-xs5k8OLNh3c/UZUY5GfqAtI/AAAAAAAABZE/a3UZkqNf7Qw/s1600/logo_port.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]feo cine</title>
