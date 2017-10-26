@@ -22,8 +22,8 @@
 <thumbnail>[makelist2.param2]</thumbnail>
 ]]></listrepeat>
 
-expres><![CDATA[rptss\"\ssrc=\"(https://streamango.*?|https://estream.*?|http://uptobox.*?|https://openload.*?|https://www.youruploa.*?|https://ok.*?)"]]></expres>
-<expres><![CDATA[em>(opc.*?)<\/em|href="(http://gamovideo.*?|https://vidoza.*?|https://kingvid.*?|https://openload.*?|https://streamango.*?|http://streamin.*?|http://streamcloud.*?|http://uptobox.*?|https://rapidvideo.*?)".*?class="(.*?)"]]></expres>
+<expres><![CDATA[rptss\"\ssrc=\"(https://streamango.*?|https://estream.*?|http://uptobox.*?|https://openload.*?|https://www.youruploa.*?|https://ok.*?|https://streamango.*?|http://streamin.*?|http://streamcloud.*?|http://uptobox.*?|https://rapidvideo.*?)"]]></expres>
+expres><![CDATA[em>(opc.*?)<\/em|href="(http://gamovideo.*?|https://vidoza.*?|https://kingvid.*?|https://openload.*?|https://streamango.*?|http://streamin.*?|http://streamcloud.*?|http://uptobox.*?|https://rapidvideo.*?)".*?class="(.*?)"]]></expres>
 
  <page>[makelist2.param3]</page>
 <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
