@@ -27,24 +27,8 @@ expres>source: '(.*?)'</expres>
 <fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
 </item>
 
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fox Action</title>
-<sportsdevil>http://vergol.com/live1/foxaction.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-fox-premium-action-en-vivo-gratis-por-internet-en-directo/</referer>
-<thumbnail>https://1.bp.blogspot.com/-yyToGrCknQk/WfJypDpQQnI/AAAAAAAACIU/4Dty8IWHEkIUdxgB5BZYDAapsWIvoaeAQCK4BGAYYCw/s320/foxacti.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/ZOHRBCIGGKg/mqdefault.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Fox</title>
-<sportsdevil>http://vergol.com/live1/foxlatino.php</sportsdevil>
-<referer>http://www.vercanalestv.com/fox-latino-en-vivo-por-internet/</referer>
-<thumbnail>http://4.bp.blogspot.com/-C03bsa-qei0/WdwBBH9x4bI/AAAAAAAAB1c/7TpihqLKigcwWxa4KeIJSA_WsW2l4056gCK4BGAYYCw/s1600/fox.jpg</thumbnail>
-<fanart>https://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</fanart>
-</item>
-
 /////////////////////////////
+
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Space</title>
 <link>rtmp://slc2.cxn.tv:1935/live/ playpath=$doregex[play] swfUrl=https://ssl.p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=https://www.cxntv.com/canales/tv-latele/</link>
