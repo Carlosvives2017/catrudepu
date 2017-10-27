@@ -27,6 +27,21 @@ expres>source: '(.*?)'</expres>
 <fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
 </item>
 
+
+GET http://peto13.pedromo.online/live/tntlatino/index.m3u8?token=lpDSgPjJ8wrzkn__2i8R4A&expires=1509149251 HTTP/1.1
+Host: peto13.pedromo.online
+Connection: keep-alive
+Origin: http://vergol.com
+If-None-Match: "59f278ce-300"
+If-Modified-Since: Fri, 27 Oct 2017 00:07:42 GMT
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.21 Safari/537.36 MMS/1.0.2531.0
+Accept: */*
+Referer: http://vergol.com/live1/tntlatino.php
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+http://www.vercanalestv.com/tnt-en-vivo-latino-por-internet-gratis/
+
+
 /////////////////////////////
 
 <item>
