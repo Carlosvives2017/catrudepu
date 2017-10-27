@@ -1,4 +1,18 @@
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]AXN</title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=axnlat&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=axnlat&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-9MLSP2b-KA4/WdwBBHh7Z9I/AAAAAAAABz8/kqlKb1UYpgsj5MRrrRAs8fXUA72OqLqYwCK4BGAYYCw/s1600/axn.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/6Lz9BI6PsbU/maxresdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Hbo 2</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed.php?file=12hbodoslat&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
@@ -8,12 +22,12 @@ expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed.php?file=12hbodoslat&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://2.bp.blogspot.com/-WGE9SqbTnN4/WdwBBFMjvAI/AAAAAAAABzo/xIZ71nVEyysdVTL1QbX5tufysxu-tCn3wCK4BGAYYCw/s1600/tcm.jpg</thumbnail>
-<fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
+<thumbnail>https://2.bp.blogspot.com/-966NrF8TmwQ/WfKPXScAEUI/AAAAAAAACIo/OlGWL_EB_qwzH-vh4qqaeM6HF-U-q9magCK4BGAYYCw/s320/HBO2.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OOruG-4oHeQ/hqdefault.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]universo</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Universal</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=universal&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -22,30 +36,11 @@ expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embed2.php?file=universal&width=650&height=397</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://2.bp.blogspot.com/-WGE9SqbTnN4/WdwBBFMjvAI/AAAAAAAABzo/xIZ71nVEyysdVTL1QbX5tufysxu-tCn3wCK4BGAYYCw/s1600/tcm.jpg</thumbnail>
-<fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
+<thumbnail>https://1.bp.blogspot.com/-2TTBupZNzs4/WfKPXmtShDI/AAAAAAAACIs/28Al3E8Rpg8msONWfFOo-sAx4GM0JSfzgCK4BGAYYCw/s320/UNIVERSAL.jpg</thumbnail>
+<fanart>http://www.jessebrooks.co.za/wp-content/uploads/2015/07/Universal-600x338.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]axn</title>
-<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=axnlat&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=axnlat&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-WGE9SqbTnN4/WdwBBFMjvAI/AAAAAAAABzo/xIZ71nVEyysdVTL1QbX5tufysxu-tCn3wCK4BGAYYCw/s1600/tcm.jpg</thumbnail>
-<fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
-</item>
-
-
-
-
-
-http://livesports.pw/embed2.php?file=axnlat&width=650&height=397
-
+------------------
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TNT</title>
