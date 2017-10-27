@@ -14,13 +14,19 @@ expres>source: '(.*?)'</expres>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TNT</title>
-<sportsdevil>http://vergol.com/live1/tntlatino.php</sportsdevil>
-<referer>http://www.vercanalestv.com/tnt-en-vivo-latino-por-internet-gratis/</referer>
+<sportsdevil>http://vercanalestv.com/tv/nacionales/amc.html</sportsdevil>
+<referer>http://verdirectotv.me/ver-canal-amc-hd-en-directo-y-online/</referer>
 <thumbnail>http://4.bp.blogspot.com/-6udFhuEJL-w/WdwBBDU1UiI/AAAAAAAABzc/KuMd-iPe2nQBQzDYHf0YRlrxpI6ZpDlLQCK4BGAYYCw/s1600/tnt.jpg</thumbnail>
 <fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TNT</title>
+<sportsdevil>http://vergol.com/live/amc.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-amc-online-gratis-en-vivo-por-internet/</referer>
+<thumbnail>http://4.bp.blogspot.com/-6udFhuEJL-w/WdwBBDU1UiI/AAAAAAAABzc/KuMd-iPe2nQBQzDYHf0YRlrxpI6ZpDlLQCK4BGAYYCw/s1600/tnt.jpg</thumbnail>
+<fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
+</item>
 
 
 /////////////////////////////
