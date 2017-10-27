@@ -28,6 +28,16 @@ expres>source: '(.*?)'</expres>
 <fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
 </item>
 
+<item>
+    <title>Dinostream</title>
+    <link>$doregex[rtmp]|Referer=http://wwww.dinostream.pw&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>rtmp</name>
+	<expres>m3u8:"(.*?)"</expres>
+	<page>https://d3iz6lralvg77g.cloudfront.net/mmfuc.html</page>
+	</regex>
+</item>
+
 
 /////////////////////////////
 
