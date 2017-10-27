@@ -1,19 +1,4 @@
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][COLOR]Hollywood[/COLOR] </title>
-<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=hollywesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=hollywesp&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-1EjjbZC9ffA/WdwBBJErkWI/AAAAAAAABzE/8W82l72rHOop3okvX_5IjPU51v6yq5HMwCK4BGAYYCw/s1600/holliwoddersss.jpg</thumbnail>
-<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/Hollywood.jpg</fanart>
-</item>
-
-
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TCM</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=tcmesp&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
 <regex>
@@ -27,19 +12,15 @@ expres>source: '(.*?)'</expres>
 <fanart>http://www.chicaoguerrero.com/site/wp-content/uploads/2012/07/FESTA-CANAL-TCM-CONVENÇÃO-NET-3.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]TNT</title>
+<sportsdevil>http://vergol.com/live1/tntlatino.php</sportsdevil>
+<referer>http://www.vercanalestv.com/tnt-en-vivo-latino-por-internet-gratis/</referer>
+<thumbnail>http://4.bp.blogspot.com/-6udFhuEJL-w/WdwBBDU1UiI/AAAAAAAABzc/KuMd-iPe2nQBQzDYHf0YRlrxpI6ZpDlLQCK4BGAYYCw/s1600/tnt.jpg</thumbnail>
+<fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
+</item>
 
-GET http://peto13.pedromo.online/live/tntlatino/index.m3u8?token=lpDSgPjJ8wrzkn__2i8R4A&expires=1509149251 HTTP/1.1
-Host: peto13.pedromo.online
-Connection: keep-alive
-Origin: http://vergol.com
-If-None-Match: "59f278ce-300"
-If-Modified-Since: Fri, 27 Oct 2017 00:07:42 GMT
-User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.21 Safari/537.36 MMS/1.0.2531.0
-Accept: */*
-Referer: http://vergol.com/live1/tntlatino.php
-Accept-Encoding: gzip, deflate, sdch
-Accept-Language: en-US,en;q=0.8
-http://www.vercanalestv.com/tnt-en-vivo-latino-por-internet-gratis/
+
 
 
 /////////////////////////////
