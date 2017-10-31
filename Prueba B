@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR deepskyblue]Geostorm (Geo-Tormenta) (2017)[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Geostorm (Geo-Tormenta) (2017)</title>
 <genre></genre>
 <info>Cuando el control de los satélites de todo el mundo está en mal funcionamiento, un obstinado ingeniero de comunicaciones se verá obligado a trabajar junto a su hermano, con el que lleva años sin tener contacto, para tratar de salvar el mundo de una tormenta de proporciones épicas. Mientras se trata de lidiar con el problema espacial, en la Tierra, se está tramando una conspiración para acabar con la vida del presidente de los Estados Unidos</info>
 <date>2017</date>
@@ -22,7 +22,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bp7q18ps80hi'
 </item>
 
 <item>
-<title>[COLOR deepskyblue]Feliz Día De Tu Muerte (2017)[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Feliz Día De Tu Muerte (2017)</title>
 <genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
 <info>Una estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final hasta intentar descubrir la identidad de su asesino</info>
 <date>2017</date>
@@ -42,47 +42,53 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'
 <fanart>https://pics.filmaffinity.com/Feliz_d_a_de_tu_muerte-716769998-large.jpg</fanart>
 </item>
 
-
-/////////////////////////////////////
-
-
-
 <item>
-<title>Feliz Día De Tu Muerte  [PELICULA]</title>
-<fanart>https://pics.filmaffinity.com/Feliz_d_a_de_tu_muerte-716769998-large.jpg</fanart>
-<year>1991</year>
-<genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
-<info>Una estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final hasta intentar descubrir la identidad de su asesino. 
-
-Estreno en USA: 13 octubre 2017.
-Estreno en España: 17 noviembre 2017.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/happy_death_day-689393696-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/h4pp1-d347h-d41,1579605,list,1,1.mp4&amp;mode=70&amp;episodio=Feliz Dia De Tu Muerte [PELICULAS LATINO] </link>
-</item>
-
-<item>
-<title>Jungla  [PELICULA]</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OWMzZWQtZDk5OC00NzhkLThlYmMtMjc0MTkxMGMwMTAyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jungla [PELICULA]</title>
 <genre>Acción | Aventuras | Drama | Thriller</genre>
-<info>Un grupo de amigos, haciendo senderismo, se adentra en la selva de Bolivia con un guía fraudulento.</info>
+<info>Un grupo de amigos, haciendo senderismo, se adentra en la selva de Bolivia con un guía fraudulento</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/jungle-569337099-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/jun6l3,1574858,list,1,1.mkv&amp;mode=70&amp;episodio=Jungla [PELICULAS SUBTITULADAS] </link>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OWMzZWQtZDk5OC00NzhkLThlYmMtMjc0MTkxMGMwMTAyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
 </item>
 
+------------------------
+
 <item>
-<title>La Historia Sin Fin  [PELICULA]</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzNDc1MTc2Nl5BMl5BanBnXkFtZTcwODIzNjMwNA@@._V1_SY1000_CR0,0,1485,1000_AL_.jpg</fanart>
-<genre>Fantástico | Infantil | Aventuras | Dragones | Cine familiar | Película de culto</genre>
-<info>Escondido en el desván de su colegio, Bastian devora durante las horas de clase un libro enigmático, ”La historia interminable”, que relata la paulatina destrucción del Reino de Fantasía. Una especie de ”Nada” misteriosa destruye el país y a las criaturas que lo habitan. A medida que avanza en la lectura, Bastian se da cuenta de que la salvación de Fantasía depende de él; de que consiga entrar dentro del libro...</info>
-<date>1984</date>
-<thumbnail>https://pics.filmaffinity.com/die_unendliche_geschichte_the_neverending_story-636909335-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/l4h1st0r14s1nf1n1-84,1569795,list,4,1.mkv&amp;mode=70&amp;episodio=La Historia Sin Fin [PELICULAS LATINO] </link>
+<title></title>
+<genre></genre>
+<info></info>
+<date></date>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
+
+
+
+
 
 <item>
 <title>Pandemic  [PELICULA]</title>
@@ -107,6 +113,27 @@ Estreno en España: 17 noviembre 2017.</info>
 </item>
 
 <item>
+<title></title>
+<genre></genre>
+<info></info>
+<date></date>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Strange Weather  [PELICULA]</title>
 <fanart></fanart>
 <genre>Drama</genre>
@@ -118,6 +145,27 @@ Estreno en España: 17 noviembre 2017.</info>
 </item>
 
 <item>
+<title></title>
+<genre></genre>
+<info></info>
+<date></date>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Zombiology: Enjoy Yourself Tonight  [PELICULA]</title>
 <fanart></fanart>
 <genre>Acción | Comedia | Zombis</genre>
@@ -126,6 +174,27 @@ Estreno en España: 17 noviembre 2017.</info>
 <thumbnail>https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg</thumbnail>
 <externallink></externallink>
 <link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/zmbly,1569774,list,4,1.mkv&amp;mode=70&amp;episodio=Zombiology: Enjoy Yourself Tonight [PELICULAS LATINO] </link>
+</item>
+
+<item>
+<title></title>
+<genre></genre>
+<info></info>
+<date></date>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
