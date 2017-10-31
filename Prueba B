@@ -63,20 +63,18 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'
 </regex>
 </item>
 
-------------------------
-
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Pandemic  [PELICULA]</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjY1NDMyN15BMl5BanBnXkFtZTgwMjUxNjE5NzE@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
-<genre>Acción | Pandemias | Futuro postapocalíptico | Zombis | Supervivencia</genre>
-<info>En un futuro cercano, un virus de proporciones épicas se ha apoderado del planeta. Hay más personas infectadas que no infectadas, y la humanidad está perdiendo su control sobre la supervivencia. Su única esperanza es encontrar una cura y aislar a los infectados. Lauren es una doctora, que, después de la caída de Nueva York, llega a Los Ángeles para liderar la búsqueda de sobrevivientes civiles no infectados.</info>
-<date>2016</date>
-<thumbnail>https://pics.filmaffinity.com/pandemic-233000868-large.jpg</thumbnail>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jigsaw (Saw 8)</title>
+<fanart>http://horrornews.net/wp-content/uploads/2016/12/Saw-Legacy-2017-movie.jpg</fanart>
+<genre>Terror</genre>
+<info>Cuando empiezan a aparecer cuerpos esparcidos a lo largo de la ciudad, a cada cual más espeluznante, todas las sospechas comienzan a señalar como culpable al homicida John Kramer</info>
+<date>2017</date>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0athNGb9xrmVN4qFNiVj5s_9Vz_QEG3Mnnlr6gl4uVrwRux_i</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/pndma-72,1569923,list,4,1.mkv&amp;mode=70&amp;episodio=Pandemic [PELICULAS LATINO] '):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xgc5bsantu2o'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -87,7 +85,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://diskokosmiko.mx/jim-carrey/3
 </item>
 
 
-
+------------------------
 
 
 
