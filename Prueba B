@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
            
-		   <item>
-<title>[COLOR deepskyblue] A 23 pasos de Baker Street[/COLOR]</title>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/n8iya7v6dqfx'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://pics.filmaffinity.com/23_paces_to_baker_street-243340430-large.jpg</thumbnail>
-<fanart>http://pics.filmaffinity.com/23_paces_to_baker_street-243340430-large.jpg</fanart>
-</item>
-
-
 <item>
-<title>[COLOR deepskyblue] Worry dolls 2016[/COLOR]</title>
+<title>[COLOR deepskyblue]Worry dolls 2016[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -37,8 +18,42 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q67pfvrzhr5a'
 <fanart>http://gnula.nu/wp-content/uploads/2016/07/Worry_Dolls_poster_usa.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR deepskyblue]Geostorm (Geo-Tormenta) (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bp7q18ps80hi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</fanart>
+</item>
 
 
+<item>
+<title>[COLOR deepskyblue]Campamento de locos (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://thevideo.me/embed-kvv4edh6cixp.html'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/wp-content/uploads/2017/10/mad-families.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/wp-content/uploads/2017/10/mad-families.jpg</fanart>
+</item>
 
 /////////////////////////////////////
 
