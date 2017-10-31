@@ -1,66 +1,93 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CXB12 12.1 Teledoce - 28 TV - Montevideo - Montevideo  TVD
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0001
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CXB4 4.1 Montecarlo - 29 TV - Montevideo - Montevideo  TVD
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",Del Pueblo - 94.5 TV - Florida - Florida
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0003
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",VCC Canal 3 YT - 3CTV - Minas - Lavalleja
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0004
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CLD TV - 8CTV - Libertad - San José
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0005
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",Del Pueblo - 94.5 TV - Florida - Florida
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0006
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",VCC Canal 3 YT - 3CTV - Minas - Lavalleja
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0007
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CLD TV - 8CTV - Libertad - San José
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0008
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CLD TV - 8CTV - Libertad - San José
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0009
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",Del Pueblo - 94.5 TV - Florida - Florida
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0010
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",VCC Canal 3 YT - 3CTV - Minas - Lavalleja
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0011
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESURUGUA.png" group-title="UY",CLD TV - 8CTV - Libertad - San José
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUY0012
+<item>
+<title>Feliz Día De Tu Muerte  [PELICULA]</title>
+<fanart>https://pics.filmaffinity.com/Feliz_d_a_de_tu_muerte-716769998-large.jpg</fanart>
+<genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
+<info>Una estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final hasta intentar descubrir la identidad de su asesino. 
 
+Estreno en USA: 13 octubre 2017.
+Estreno en España: 17 noviembre 2017.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/happy_death_day-689393696-large.jpg</thumbnail>
+<externallink></externallink>
+<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/h4pp1-d347h-d41,1579605,list,1,1.mp4&amp;mode=70&amp;episodio=Feliz Dia De Tu Muerte [PELICULAS LATINO] </link>
+</item>
 
+<item>
+<title>Jungla  [PELICULA]</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OWMzZWQtZDk5OC00NzhkLThlYmMtMjc0MTkxMGMwMTAyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
+<genre>Acción | Aventuras | Drama | Thriller</genre>
+<info>Un grupo de amigos, haciendo senderismo, se adentra en la selva de Bolivia con un guía fraudulento.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/jungle-569337099-large.jpg</thumbnail>
+<externallink></externallink>
+<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/jun6l3,1574858,list,1,1.mkv&amp;mode=70&amp;episodio=Jungla [PELICULAS SUBTITULADAS] </link>
+</item>
 
+<item>
+<title>La Historia Sin Fin  [PELICULA]</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzNDc1MTc2Nl5BMl5BanBnXkFtZTcwODIzNjMwNA@@._V1_SY1000_CR0,0,1485,1000_AL_.jpg</fanart>
+<genre>Fantástico | Infantil | Aventuras | Dragones | Cine familiar | Película de culto</genre>
+<info>Escondido en el desván de su colegio, Bastian devora durante las horas de clase un libro enigmático, ”La historia interminable”, que relata la paulatina destrucción del Reino de Fantasía. Una especie de ”Nada” misteriosa destruye el país y a las criaturas que lo habitan. A medida que avanza en la lectura, Bastian se da cuenta de que la salvación de Fantasía depende de él; de que consiga entrar dentro del libro...</info>
+<date>1984</date>
+<thumbnail>https://pics.filmaffinity.com/die_unendliche_geschichte_the_neverending_story-636909335-large.jpg</thumbnail>
+<externallink></externallink>
+<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/l4h1st0r14s1nf1n1-84,1569795,list,4,1.mkv&amp;mode=70&amp;episodio=La Historia Sin Fin [PELICULAS LATINO] </link>
+</item>
 
-#EXTINF:-1,Paramount Channel
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008
-#EXTINF:-1,Ciudad Magazine
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
-#EXTINF:-1,Cuatro
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0012
-#EXTINF:-1,Telecinco
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0015
+<item>
+<title>Pandemic  [PELICULA]</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjY1NDMyN15BMl5BanBnXkFtZTgwMjUxNjE5NzE@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<genre>Acción | Pandemias | Futuro postapocalíptico | Zombis | Supervivencia</genre>
+<info>En un futuro cercano, un virus de proporciones épicas se ha apoderado del planeta. Hay más personas infectadas que no infectadas, y la humanidad está perdiendo su control sobre la supervivencia. Su única esperanza es encontrar una cura y aislar a los infectados. Lauren es una doctora, que, después de la caída de Nueva York, llega a Los Ángeles para liderar la búsqueda de sobrevivientes civiles no infectados.</info>
+<date>2016</date>
+<thumbnail>https://pics.filmaffinity.com/pandemic-233000868-large.jpg</thumbnail>
+<externallink></externallink>
+<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/pndma-72,1569923,list,4,1.mkv&amp;mode=70&amp;episodio=Pandemic [PELICULAS LATINO] </link>
+</item>
 
+<item>
+<title>Elle: Abuso Y Seducción  [PELICULA]</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgyMDQzMV5BMl5BanBnXkFtZTgwOTQ2NzQ1MDI@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</fanart>
+<genre>Thriller | Drama | Thriller psicológico | Abusos sexuales</genre>
+<info>Michèle, exitosa ejecutiva de una empresa de videojuegos, busca venganza tras ser asaltada de forma violenta en su propia casa por un intruso.</info>
+<date>2016</date>
+<thumbnail>https://pics.filmaffinity.com/elle-258494210-large.jpg</thumbnail>
+<externallink></externallink>
+<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/3ll3,1569891,list,4,1.mkv&amp;mode=70&amp;episodio=Elle: Abuso Y Seduccion [PELICULAS LATINO] </link>
+</item>
 
+<item>
+<title>Strange Weather  [PELICULA]</title>
+<fanart></fanart>
+<genre>Drama</genre>
+<info>Una madre (Holly Hunter), en su intento por salir adelante tras la muerte de su hijo, viaja por las carreteras más desconocidas del sur para ajustar cuentas.</info>
+<date>2016</date>
+<thumbnail>https://pics.filmaffinity.com/strange_weather-926814484-large.jpg</thumbnail>
+<externallink></externallink>
+<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/strgwthr-72,1569787,list,4,1.mkv&amp;mode=70&amp;episodio=Strange Weather [PELICULAS LATINO] </link>
+</item>
 
+<item>
+<title>Zombiology: Enjoy Yourself Tonight  [PELICULA]</title>
+<fanart></fanart>
+<genre>Acción | Comedia | Zombis</genre>
+<info>Lone y Yeung, dos geeks, ven cómo sus fantasías de cómic se vuelven reales y provocan un apocalipsis zombie en Hong Kong. Este peculiar dúo tendrá que ingeniárselas para sacar a su familia de esta terrible crisis, con la ayuda de unas armas caseras.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg</thumbnail>
+<externallink></externallink>
+<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/zmbly,1569774,list,4,1.mkv&amp;mode=70&amp;episodio=Zombiology: Enjoy Yourself Tonight [PELICULAS LATINO] </link>
+</item>
 
-
-
-#EXTINF:-1,Telemundo HD
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Telemundo sd
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,CarinaTv
-http://wms.shared.streamshow.it/carinatv/carinatv/chunklist_w1292000622.m3u8
-#EXTINF:-1,Telemicro 5
-http://livestream-f.akamaihd.net/i/736348_5552503_lsi7qnwttsg77nl1i6g_1@408157/index_546_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1508523935~acl=%2fi%2f736348_5552503_lsi7qnwttsg77nl1i6g_1%40408157%2f*~data=hdntl~hmac=08ecaaa0051a40331a24ce6b5ea7df7d0d21fe78249095744fbb15967cb19505
-#EXTINF:-1,01
-http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist_w1637072900_b1200000.m3u8?idLive=026
-#EXTINF:-1,02
-http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
-#EXTINF:-1,tv4
-http://149.56.46.135/live/web/GMdrt5qOwLa/18.m3u8 
-#EXTINF:-1,calitv
-http://video.cehis.net/live-calitv/calitv1/chunklist_w619045413.m3u8
-#EXTINF:-1,ANTI
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:-1,TANT
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
-#EXTINF:-1,TMED
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+<item>
+<title>It (eso) [HD] [PELICULA]</title>
+<fanart>https://pics.filmaffinity.com/It_Eso-108799474-large.jpg</fanart>
+<genre>Terror | Fantástico | Sobrenatural | Años 80 | Monstruos | Payasos | Remake</genre>
+<info>Cuando empiezan a desparecer niños en el pueblo de Derry (Maine), un pandilla de amigos lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos. Adaptación cinematográfica de la conocida novela de Stephen King &quot;It&quot;.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/it-787119144-large.jpg</thumbnail>
+<externallink></externallink>
+<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/it-17-k0rsub,1569925,list,4,1.mkv&amp;mode=70&amp;episodio=It (eso) [HD][PELICULAS SUBTITULADAS] </link>
+</item>
