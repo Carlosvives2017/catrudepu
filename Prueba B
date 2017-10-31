@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Geostorm (Geo-Tormenta) (2017)</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Geostorm (Geo-Tormenta)</title>
 <genre></genre>
 <info>Cuando el control de los satélites de todo el mundo está en mal funcionamiento, un obstinado ingeniero de comunicaciones se verá obligado a trabajar junto a su hermano, con el que lleva años sin tener contacto, para tratar de salvar el mundo de una tormenta de proporciones épicas. Mientras se trata de lidiar con el problema espacial, en la Tierra, se está tramando una conspiración para acabar con la vida del presidente de los Estados Unidos</info>
 <date>2017</date>
@@ -43,28 +43,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jungla [PELICULA]</title>
-<genre>Acción | Aventuras | Drama | Thriller</genre>
-<info>Un grupo de amigos, haciendo senderismo, se adentra en la selva de Bolivia con un guía fraudulento</info>
-<date>2017</date>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://pics.filmaffinity.com/jungle-569337099-large.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OWMzZWQtZDk5OC00NzhkLThlYmMtMjc0MTkxMGMwMTAyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jungla  [PELICULA]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jungla</title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OWMzZWQtZDk5OC00NzhkLThlYmMtMjc0MTkxMGMwMTAyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
 <genre>Acción | Aventuras | Drama | Thriller</genre>
 <info>Un grupo de amigos, haciendo senderismo, se adentra en la selva de Bolivia con un guía fraudulento.</info>
@@ -87,15 +66,17 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'
 ------------------------
 
 <item>
-<title></title>
-<genre></genre>
-<info></info>
-<date></date>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Pandemic  [PELICULA]</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjY1NDMyN15BMl5BanBnXkFtZTgwMjUxNjE5NzE@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<genre>Acción | Pandemias | Futuro postapocalíptico | Zombis | Supervivencia</genre>
+<info>En un futuro cercano, un virus de proporciones épicas se ha apoderado del planeta. Hay más personas infectadas que no infectadas, y la humanidad está perdiendo su control sobre la supervivencia. Su única esperanza es encontrar una cura y aislar a los infectados. Lauren es una doctora, que, después de la caída de Nueva York, llega a Los Ángeles para liderar la búsqueda de sobrevivientes civiles no infectados.</info>
+<date>2016</date>
+<thumbnail>https://pics.filmaffinity.com/pandemic-233000868-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/pndma-72,1569923,list,4,1.mkv&amp;mode=70&amp;episodio=Pandemic [PELICULAS LATINO] '):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -103,24 +84,12 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 
 
 
 
-<item>
-<title>Pandemic  [PELICULA]</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjY1NDMyN15BMl5BanBnXkFtZTgwMjUxNjE5NzE@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
-<genre>Acción | Pandemias | Futuro postapocalíptico | Zombis | Supervivencia</genre>
-<info>En un futuro cercano, un virus de proporciones épicas se ha apoderado del planeta. Hay más personas infectadas que no infectadas, y la humanidad está perdiendo su control sobre la supervivencia. Su única esperanza es encontrar una cura y aislar a los infectados. Lauren es una doctora, que, después de la caída de Nueva York, llega a Los Ángeles para liderar la búsqueda de sobrevivientes civiles no infectados.</info>
-<date>2016</date>
-<thumbnail>https://pics.filmaffinity.com/pandemic-233000868-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/pndma-72,1569923,list,4,1.mkv&amp;mode=70&amp;episodio=Pandemic [PELICULAS LATINO] </link>
-</item>
 
 <item>
 <title>Elle: Abuso Y Seducción  [PELICULA]</title>
