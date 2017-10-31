@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-           
-<item>
-<title>[COLOR deepskyblue]Worry dolls 2016[/COLOR]</title>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q67pfvrzhr5a'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://gnula.nu/wp-content/uploads/2016/07/Worry_Dolls_poster_usa.jpg</thumbnail>
-<fanart>http://gnula.nu/wp-content/uploads/2016/07/Worry_Dolls_poster_usa.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR deepskyblue]Geostorm (Geo-Tormenta) (2017)[/COLOR]</title>
-<genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
-<date>2017</date>
+<genre></genre>
 <info>Cuando el control de los satélites de todo el mundo está en mal funcionamiento, un obstinado ingeniero de comunicaciones se verá obligado a trabajar junto a su hermano, con el que lleva años sin tener contacto, para tratar de salvar el mundo de una tormenta de proporciones épicas. Mientras se trata de lidiar con el problema espacial, en la Tierra, se está tramando una conspiración para acabar con la vida del presidente de los Estados Unidos</info>
+<date>2017</date>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
@@ -39,14 +21,16 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bp7q18ps80hi'
 <fanart>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</fanart>
 </item>
 
-
 <item>
-<title>[COLOR deepskyblue]Campamento de locos (2017)[/COLOR]</title>
+<title>[COLOR deepskyblue]Feliz Día De Tu Muerte (2017)[/COLOR]</title>
+<genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
+<info>Una estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final hasta intentar descubrir la identidad de su asesino</info>
+<date>2017</date>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='https://thevideo.me/embed-kvv4edh6cixp.html'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -54,14 +38,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://thevideo.me/embed-kvv4edh6c
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.cinecalidad.to/wp-content/uploads/2017/10/mad-families.jpg</thumbnail>
-<fanart>http://www.cinecalidad.to/wp-content/uploads/2017/10/mad-families.jpg</fanart>
+<thumbnail>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</fanart>
 </item>
+
 
 /////////////////////////////////////
 
 
-<items>
 
 <item>
 <title>Feliz Día De Tu Muerte  [PELICULA]</title>
