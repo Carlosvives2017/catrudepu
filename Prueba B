@@ -20,6 +20,9 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q67pfvrzhr5a'
 
 <item>
 <title>[COLOR deepskyblue]Geostorm (Geo-Tormenta) (2017)[/COLOR]</title>
+<genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
+<date>2017</date>
+<info>Cuando el control de los satélites de todo el mundo está en mal funcionamiento, un obstinado ingeniero de comunicaciones se verá obligado a trabajar junto a su hermano, con el que lleva años sin tener contacto, para tratar de salvar el mundo de una tormenta de proporciones épicas. Mientras se trata de lidiar con el problema espacial, en la Tierra, se está tramando una conspiración para acabar con la vida del presidente de los Estados Unidos</info>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
