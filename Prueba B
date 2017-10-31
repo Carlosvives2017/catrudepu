@@ -195,5 +195,88 @@ Estreno Temporada 2: 27 de octubre</info>
 
 
 
+/////////////////////////////////////
 
+
+-----------------------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Kidnap (Mujer en llamas) (2017)</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5qcstEEvDd0</link> 
+<thumbnail>http://gnula.nu/wp-content/uploads/2017/10/Kidnap4.gif</thumbnail>
+<fanart>http://gnula.nu/wp-content/uploads/2017/10/Kidnap4.gif</fanart>
+<info>Un inocente día en el parque de atracciones se convierte en tragedia cuando Karla (Halle Berry) observa cómo dos extraños arrastran a su hijo de seis años, Frankie (Sage Correa), dentro de un coche y arrancan. Sin un número de matrícula ni teléfono móvil desde el que llamar a la policía, Karla deberá encontrar al pequeño por su cuenta. En una persecución a toda velocidad y con el indicador de combustible peligrosamente cercano a la reserva. Karla tendrá que tomar duras decisiones si quiere volver a ver a su hijo.
+</info>
+</item>
+
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]GNULA</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist2.param2]</title>
+<link>$doregex[makelist3]</link>
+<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail>
+<fanart>[makelist2.param3]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</fanart>
+]]></listrepeat>
+<expres><![CDATA[Ntooltip\"\shref="(.*?)">(.*?)<[\w\W\s]{0,20}src="(.*?)"]]></expres>
+<page>http://gnula.nu/peliculas-de-estreno/lista-de-peliculas-online-parte-1/</page>
+<referer>http://gnula.nu</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist2.param2] [COLOR ][makelist3.param1][/COLOR] [COLOR deepskyblue][makelist3.param3][/COLOR]</title>
+<link>$doregex[id3]</link>
+
+<thumbnail></thumbnail>
+<fanart>[makelist2.param3]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0&amp;Referer=http://gnula.nu</fanart>
+
+]]></listrepeat>
+<expres><![CDATA[em>(opc.*?)<\/em|href="(http://gamovideo.*?|https://vidoza.*?|https://kingvid.*?|https://openload.*?|https://streamango.*?|http://streamin.*?|http://streamcloud.*?|http://uptobox.*?|https://rapidvideo.*?)".*?class="(.*?)"]]></expres>
+<page>[makelist2.param1]</page>
+<referer>http://gnula.nu</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '[makelist3.param2]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = 'http://elecdeka.org/error.mp4'
+    return u
+]]></expres>
+<page></page>
+</regex>
+
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+
+
+-----------------------------------------------------------
 
