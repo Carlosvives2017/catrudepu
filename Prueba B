@@ -38,18 +38,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rywbh11ocnge'
 <info>Una agente del FBI se alía con un veterano rastreador local para investigar un asesinato ocurrido en una reserva de nativos americanos... Ópera prima del guionista de &quot;Sicario&quot; y &quot;Comanchería&quot;.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/wind_river-870274639-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q4evu7rvify7'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
+<urlsolve>https://rapidvideo.com/v/FKSSLC5JH0</urlsolve>
 </item>
 
 <item>
@@ -74,27 +63,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xx7j27xjf36o'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Hombre Del Corazón De Hierro  </title>
-<fanart>https://pics.filmaffinity.com/El_hombre_del_coraz_n_de_hierro-401729330-large.jpg</fanart>
-<genre>Bélico | Acción | Thriller | Histórico | Nazismo | Años 40 | Basado en hechos reales</genre>
-<info>Año 1942: El tercer Reich está en su máximo apogeo. La resistencia checa en Londres decide planear la operación militar más ambiciosa de la Segunda Guerra Mundial: Antropoide. Dos jóvenes reclutas, Jozef Gabcik (Jack Reynor) y Jan Kubis (Jack O’Connell) son enviados a Praga para intentar asesinar al líder nazi más cruel de todos, Reinhard Heidrych (Jason Clarke), jefe de las temidas SS, la Gestapo y arquitecto de la “Solución Final”.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_man_with_the_iron_heart-837959110-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/beo1gqfa6klh'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Una Historia De Venganza   </title>
 <fanart>https://image.tmdb.org/t/p/w1000/9HcXzYUnnwyFu9WSEM2IOxd2VhC.jpg</fanart>
 <genre>Drama | Thriller | Venganza | Aviones | Basado en hechos reales</genre>
@@ -106,48 +74,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/beo1gqfa6klh'
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7z76x6b4eiv5'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Momento De Tu Vida  </title>
-<fanart>http://17909.cdx.c.ooyala.com/Zjcm9jOTE6i-HVTkOerb2XFxuRIHIZiE/promo310299057</fanart>
-<genre>Comedia</genre>
-<info>Una antigua estrella de Hollywood se escapa de su retiro de Londres para ir al funeral de un ex amante en Francia.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_time_of_their_lives-634250492-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/iepmse2qnra1'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cars 3</title>
-<fanart>https://s3.amazonaws.com/pelisfox/gallery/original/2ed74d87b864a7a26d0f580747025c19.jpg</fanart>
-<genre>Animación | Aventuras | Comedia | Coches / Automovilismo | Secuela | 3-D | Pixar</genre>
-<info>Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/cars_3-755380967-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xdsnp73pwqdn'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -217,18 +143,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5kbb6c1gx0i8'
 <info>Summer es diseñadora de interiores, pero no duda en aceptar la oferta de una pareja para trabajar como niñera de su hija Sophie. La niña muestra un comportamiento que llama su atención</info>
 <date>2017</date>
 <thumbnail>http://s.ecrater.com/stores/283985/591927162dfb7_283985n.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bgov5qp0f5on'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
+<urlsolve>https://www.rapidvideo.com/v/FJNARXPZHN&q=720p</urlsolve>
 </item>
 
 <item>
@@ -261,7 +176,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bgov5qp0f5on'
 <urlsolve>https://www.rapidvideo.com/v/FKPA0YSDNN&q=1080p</urlsolve>
 </item>
 
--------------
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Me Gusta, Pero Me Asusta [CAM] </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGY3NTJmYWMtZDBkMy00MTc4LTgwNWQtMjc2NTgwNjM3MTI4L2ltYWdlXkEyXkFqcGdeQXVyNjgzNzQ2MjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
@@ -271,7 +185,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bgov5qp0f5on'
 <thumbnail>https://pics.filmaffinity.com/me_gusta_pero_me_asusta-364594343-large.jpg</thumbnail>
 <urlsolve>https://vidoza.net/zm7qxgq8sqdc.html</urlsolve>
 </item>
-------------
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Gran Fuga  </title>
@@ -280,39 +193,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bgov5qp0f5on'
 <info>Dos hermanos especializados en el robo de automóviles viajan al sur de Francia para probar nuevos horizontes.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/overdrive-331863894-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rociytbf2v6z'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dirty Dancing  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMTg3OTkwMl5BMl5BanBnXkFtZTgwMTcxMTYzMjI@._V1_.jpg</fanart>
-<genre>Romance | Drama romántico | Baile | Remake | Telefilm</genre>
-<info>Remake televisivo del exitoso film romántico de 1987 protagonizado por Patrick Swayze y Jennifer Grey.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/dirty_dancing_tv-810818469-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cxy0na2acmsg'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
+<urlsolve>http://gamovideo.com/hiueozw7qngv</urlsolve>
 </item>
 
 <item>
