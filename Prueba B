@@ -101,7 +101,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'
 <genre>Acción | Comedia | Zombis</genre>
 <info>Lone y Yeung, dos geeks, ven cómo sus fantasías de cómic se vuelven reales y provocan un apocalipsis zombie en Hong Kong. Este peculiar dúo tendrá que ingeniárselas para sacar a su familia de esta terrible crisis, con la ayuda de unas armas caseras.</info>
 <date>2017</date>
-<thumbnail>http://gnula.nu/wp-content/uploads/2017/10/Gam_man_da_song_si_poster_inglés.jpg7/06/28/f88449e0-5bc3-11e7-98d7-232f56a99798_1280x720_181944.jpg?itok=f4CLcUDH</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2Q1OWFjM2QtNjEwMi00ZTYwLTg2YjMtNDA0OTkwOTE4MzA2XkEyXkFqcGdeQXVyMTk0MTQ4OA@@._V1_UY1200_CR111,0,630,1200_AL_.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
