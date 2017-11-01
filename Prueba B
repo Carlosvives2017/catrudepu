@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <items>
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Coco [CAM] </title>
-<fanart>https://pics.filmaffinity.com/Coco-759485712-large.jpg</fanart>
-<genre>Animación | Fantástico | Comedia | Pixar | Familia | Música</genre>
-<info>Miguel es un joven con el sueño de convertirse en leyenda de la música a pesar de la prohibición de su familia. Su pasión le llevará a adentrarse en la &quot;Tierra de los Muertos&quot; para conocer su verdadero legado familiar. </info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Kidnap - Secuestrar</title>
+<fanart>https://pics.filmaffinity.com/Mujer_en_llamas-414176717-large.jpg</fanart>
+<genre>Thriller | Acción | Secuestros / Desapariciones</genre>
+<info>Una madre no se detendrá ante nada para intentar recuperar a su hijo cuando este es secuestrado delante de ella en un parque de atracciones.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/coco-155051069-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FL28JVXZEY</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Feliz Día De Tu Muerte (2017)</title>
-<genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
-<info>Una estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final hasta intentar descubrir la identidad de su asesino</info>
-<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/Mujer_en_llamas-966835103-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://pics.filmaffinity.com/happy_death_day-689393696-large.jpg</thumbnail>
-<fanart>https://pics.filmaffinity.com/Feliz_d_a_de_tu_muerte-716769998-large.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Thor: Ragnarok [CAM] </title>
-<fanart>https://pics.filmaffinity.com/Thor_Ragnarok-166911107-large.jpg</fanart>
-<genre>Fantástico | Acción | Aventuras | Superhéroes | Cómic | Marvel Comics | Secuela | 3-D</genre>
-<info>Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/thor_ragnarok-115636540-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rw2rjwi8vf7d'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rywbh11ocnge'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -54,17 +22,27 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rw2rjwi8vf7d'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Línea Mortal: Al Límite [CAM] </title>
-<fanart>https://pics.filmaffinity.com/L_nea_mortal_Al_l_mite-722377582-large.jpg</fanart>
-<genre>Ciencia ficción | Thriller | Secuela | Remake</genre>
-<info>Cinco estudiantes de medicina, con la esperanza de desentrañar el misterio de lo que aguarda más allá de los confines de la vida, emprenden un atrevido y peligroso experimento. A base de detener su corazón durante un breve lapso de tiempo, cada uno de ellos sufre una experiencia cercana a la muerte clínica. A medida que la investigación se vuelve cada vez más peligrosa, se verán obligados a afrontar los pecados de su pasado, además de vérselas con las consecuencias paranormales de sus incursiones en el más allá.... Remake de &quot;Línea mortal&quot; (1990).</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mariposa Negra</title>
+<fanart>https://s3.amazonaws.com/pelisfox/gallery/original/b03a7c415d0252653e77d25a241ecd74.jpg</fanart>
+<genre>Thriller | Remake | Secuestros / Desapariciones</genre>
+<info>Paul (Antonio Banderas) es un escritor en horas bajas que un día recoge a un vagabundo (Jonathan Rhys Meyers) y le ofrece quedarse con él en su apartada cabaña de madera. Pero el extraño decide tomar a Paul como rehén y lo obliga a escribir todos sus secretos íntimos, enterrados durante años... Remake del thriller francés &quot;Papillon Noir&quot; de Christian Faure.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/flatliners-779507207-large.jpg</thumbnail>
+<thumbnail>https://pics.filmaffinity.com/black_butterfly-144647381-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKO2EMTUID&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Muerte Misteriosa  </title>
+<fanart>https://pics.filmaffinity.com/Muerte_misteriosa-923362418-large.jpg</fanart>
+<genre>Thriller | Intriga | Policíaco | Crimen | Cine independiente USA</genre>
+<info>Una agente del FBI se alía con un veterano rastreador local para investigar un asesinato ocurrido en una reserva de nativos americanos... Ópera prima del guionista de &quot;Sicario&quot; y &quot;Comanchería&quot;.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/wind_river-870274639-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/83r0zguljnx4'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q4evu7rvify7'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -75,17 +53,17 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/83r0zguljnx4'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jungla</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OWMzZWQtZDk5OC00NzhkLThlYmMtMjc0MTkxMGMwMTAyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
-<genre>Acción | Aventuras | Drama | Thriller</genre>
-<info>Un grupo de amigos, haciendo senderismo, se adentra en la selva de Bolivia con un guía fraudulento.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Landline  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmU5YmY2OGMtMGUwMS00Y2M3LTkyODktZWJlODc2ZTQ3Y2MyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjEwNjUzNzU@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<genre>Comedia | Años 90 | Adolescencia</genre>
+<info>Una adolescente que vive con su hermana y sus padres en Manhattan durante la década de los noventa descubre que su padre está teniendo un romance.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/jungle-569337099-large.jpg</thumbnail>
+<thumbnail>https://pics.filmaffinity.com/landline-361724256-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xx7j27xjf36o'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -96,17 +74,17 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zombiology: Enjoy Yourself Tonight  </title>
-<fanart>https://cdn3.i-scmp.com/sites/default/files/styles/980x551/public/images/methode/2017/06/28/f88449e0-5bc3-11e7-98d7-232f56a99798_1280x720_181944.jpg?itok=f4CLcUDH</fanart>
-<genre>Acción | Comedia | Zombis</genre>
-<info>Lone y Yeung, dos geeks, ven cómo sus fantasías de cómic se vuelven reales y provocan un apocalipsis zombie en Hong Kong. Este peculiar dúo tendrá que ingeniárselas para sacar a su familia de esta terrible crisis, con la ayuda de unas armas caseras.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Hombre Del Corazón De Hierro  </title>
+<fanart>https://pics.filmaffinity.com/El_hombre_del_coraz_n_de_hierro-401729330-large.jpg</fanart>
+<genre>Bélico | Acción | Thriller | Histórico | Nazismo | Años 40 | Basado en hechos reales</genre>
+<info>Año 1942: El tercer Reich está en su máximo apogeo. La resistencia checa en Londres decide planear la operación militar más ambiciosa de la Segunda Guerra Mundial: Antropoide. Dos jóvenes reclutas, Jozef Gabcik (Jack Reynor) y Jan Kubis (Jack O’Connell) son enviados a Praga para intentar asesinar al líder nazi más cruel de todos, Reinhard Heidrych (Jason Clarke), jefe de las temidas SS, la Gestapo y arquitecto de la “Solución Final”.</info>
 <date>2017</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzBmOTBmZTEtZjU3Zi00NGY1LWJiNmItZmIyM2E0NDQ4ODk0XkEyXkFqcGdeQXVyNjkzODMxNDE@._V1_SY500_CR0,0,355,500_AL_.jpg</thumbnail>
+<thumbnail>https://pics.filmaffinity.com/the_man_with_the_iron_heart-837959110-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tj0s0m9525nc'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/beo1gqfa6klh'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -117,17 +95,17 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tj0s0m9525nc'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]It (eso) [HD] </title>
-<fanart>https://pics.filmaffinity.com/It_Eso-108799474-large.jpg</fanart>
-<genre>Terror | Fantástico | Sobrenatural | Años 80 | Monstruos | Payasos | Remake</genre>
-<info>Cuando empiezan a desparecer niños en el pueblo de Derry (Maine), un pandilla de amigos lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos. Adaptación cinematográfica de la conocida novela de Stephen King &quot;It&quot;.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Una Historia De Venganza   </title>
+<fanart>https://image.tmdb.org/t/p/w1000/9HcXzYUnnwyFu9WSEM2IOxd2VhC.jpg</fanart>
+<genre>Drama | Thriller | Venganza | Aviones | Basado en hechos reales</genre>
+<info>Un padre de familia (Arnold Schwarzenegger) buscará venganza contra el controlador del aeropuerto (Scoot McNairy) responsable del fallecimiento de su mujer e hija. Film basado en hechos reales, en los que en julio de 2002 un avión se estrelló dejando numerosas víctimas mortales.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/it-787119144-large.jpg</thumbnail>
+<thumbnail>https://pics.filmaffinity.com/aftermath-815196730-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7z76x6b4eiv5'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -138,59 +116,112 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Castillo De Cristal</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1MjEzNzQzNl5BMl5BanBnXkFtZTgwNTQwNzgwMzI@._V1_SY1000_CR0,0,1332,1000_AL_.jpg</fanart>
-<genre>Drama | Biográfico | Pobreza</genre>
-<info>Una joven crece en una familia disfuncional de nómadas inconformistas, con una madre excéntrica y un padre alcohólico que distrae a los niños con su imaginación para que ignoren su pobreza. Basada en las memorias de Jeanette Walls.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_glass_castle-349521201-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKW890YMGS</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tres Familias Locas</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzU3Zjk3ZDAtZDMzOS00ZjRmLTg1NmYtYjM3YjM5OGM1Mjg1L2ltYWdlXkEyXkFqcGdeQXVyMjI3ODYyNDU@._V1_.jpg</fanart>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Momento De Tu Vida  </title>
+<fanart>http://17909.cdx.c.ooyala.com/Zjcm9jOTE6i-HVTkOerb2XFxuRIHIZiE/promo310299057</fanart>
 <genre>Comedia</genre>
-<info>La película narra la historia de tres familias, una hispana, una caucásica, y una afroamericana, que además se encuentran acampando en el mismo lugar el fin de semana del 4 de julio e intentan convivir en paz, sin resultado. Eventualmente prefieren dejar todo a la suerte, y compiten para que gane el mejor.</info>
+<info>Una antigua estrella de Hollywood se escapa de su retiro de Londres para ir al funeral de un ex amante en Francia.</info>
 <date>2017</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjM0NDg2YjMtOWJlMy00NzQxLTkwMGItNmE1NTIyZjIzMDgwXkEyXkFqcGdeQXVyNjc4NTUzNzg@._V1_.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKW8EB8O8D</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/the_time_of_their_lives-634250492-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/iepmse2qnra1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Una Noche Con Mi Ex-suegro</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjJiNmYzNDUtYjk2NS00NjljLTk0ZDktNTU3NWM2MDBmMzIxXkEyXkFqcGdeQXVyMzI1MTUzOTA@._V1_SY1000_CR0,0,1500,1000_AL_.jpg</fanart>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cars 3</title>
+<fanart>https://s3.amazonaws.com/pelisfox/gallery/original/2ed74d87b864a7a26d0f580747025c19.jpg</fanart>
+<genre>Animación | Aventuras | Comedia | Coches / Automovilismo | Secuela | 3-D | Pixar</genre>
+<info>Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/cars_3-755380967-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xdsnp73pwqdn'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Atomic Blonde [HD] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjc1NDJiZmEtYTM0NC00MGQ4LWI3NWYtODMxMzc1OTZmMjY5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg</fanart>
+<genre>Acción | Thriller | Espionaje | Guerra Fría | Años 80 | Cómic</genre>
+<info>Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín oriental. Lorraine no se detendrá ante nada para conseguir dar con esa lista, enfrentándose a varios asesinos y sumergiéndose en un mundo en el que nadie parece ser quien dice ser.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/atomic_blonde-338199948-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKU1SAHO3C</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Barry Seal: Solo En América  </title>
+<fanart>https://pics.filmaffinity.com/Barry_Seal_Solo_en_Am_rica-856307251-large.jpg</fanart>
+<genre>Thriller | Acción | Comedia | Biográfico | Años 70 | Años 80 | Crimen | Drogas | Espionaje</genre>
+<info>Basada en la vida real de Barry Seal, un expiloto que se convirtió en un importante narcotraficante en el cartel de Medellín y que acabó siendo reclutado por la CIA y el departamento de inteligencia de la DEA. 
+</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/american_made-694891692-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h9fxio9bpu55'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Meyerowitz: La Familia No Se Elige  </title>
+<fanart>https://pics.filmaffinity.com/Los_Meyerowitz_La_familia_no_se_elige_Historias_nuevas_y_selectas-737092011-large.jpg</fanart>
+<genre>Comedia | Drama | Comedia dramática | Familia</genre>
+<info>Los tres hijos, ya adultos, de un arisco artista neoyorquino se enfrentan a la difícil relación que tienen con su padre y entre ellos. La familia tenía a sus miembros separados, pero se reúnen para un evento que celebra la obra artística de su padre. Allí surgirán conflictos familiares.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_meyerowitz_stories-137233913-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5kbb6c1gx0i8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nannys nightmare (La ninera perfecta)</title>
+<fanart>https://i.ytimg.com/vi/jJ0HPSouU6M/hqdefault.jpg</fanart>
 <genre>Comedia</genre>
-<info>Un padre adicto al trabajo intenta visitar a su hija durante una escala en Los Ángeles, sólo para descubrir que ella ha desaparecido, se ve obligado a formar equipo con su torpe ex novio para encontrarla en el transcurso de una noche transformadora.</info>
+<info>Summer es diseñadora de interiores, pero no duda en aceptar la oferta de una pareja para trabajar como niñera de su hija Sophie. La niña muestra un comportamiento que llama su atención</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/all_nighter-846539991-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKU1MLGLF3</urlsolve>
-</item>
-
--------------------------------------
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Song To Song</title>
-<fanart>https://pics.filmaffinity.com/Song_to_Song-284820896-large.jpg</fanart>
-<genre>Drama | Romance | Música</genre>
-<info>Dos triángulos amorosos interrelacionados, la de las parejas formadas por los compositores Faye (Rooney Mara) y BV (Ryan Gosling), y la del productor musical Cook (Michael Fassbender) y su novia camarera (Natalie Portman), persiguiendo todos el éxito mientras tropiezan con la obsesión y la traición en el mundo de la escena musical de Austin, Texas</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/song_to_song-287258533-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKU2D9QLQR</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Señor Dame Paciencia</title>
-<fanart>https://pics.filmaffinity.com/Se_or_dame_paciencia-640502328-large.jpg</fanart>
-<genre>Comedia | Familia | Road Movie</genre>
-<info>Cuando la mujer de Gregorio, un banquero muy conservador, del Real Madrid y muy gruñón, fallece repentinamente, éste se ve obligado a cumplir su última voluntad: pasar un fin de semana con sus hijos y sus respectivas parejas en Sanlúcar de Barrameda para esparcir sus cenizas en el Guadalquivir. Aquí es donde empiezan los problemas para Gregorio, ya que su hija Sandra está casada con Jordi, un catalán muy culé al que no soporta. Su otra hija, Alicia, está saliendo con Leo, un hippy anti-sistema al que tampoco puede ni ver,  y Carlos, su hijo pequeño, con el que lleva seis meses sin hablarse desde que salió del armario, se presenta con su novio Eneko, un vasco de origen senegalés. Este viaje multicultural pondrá a prueba la tolerancia y la capacidad de perdonar de una familia tan disfuncional como cualquier otra, en el que tendrán que aprender a aceptarse los unos a los otros, con sus virtudes y defectos.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/senor_dame_paciencia-935679678-large.jpg</thumbnail>
+<thumbnail>http://s.ecrater.com/stores/283985/591927162dfb7_283985n.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yyan8na4thhj'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bgov5qp0f5on'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -201,17 +232,59 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yyan8na4thhj'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bon Cop Bad Cop 2  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjZhOWNmZDEtNmVjZS00N2NhLWE4YTktZWNhZjMwYWQ2ZDc4XkEyXkFqcGdeQXVyNDIyMjQzMQ@@._V1_.jpg</fanart>
-<genre>Acción | Comedia | Crimen</genre>
-<info>Han pasado ocho años desde que Martin Ward y David Bouchard se conocieron de una manera espectacular en la frontera entre Quebec y Ontario. Los dos hombres han seguido siendo amigos pero el tiempo pasa y no han hablado casi en un año. Ahora, Ward y Bouchard deben enfrentarse a una importante red de robo de vehículos que resulta ser mucho más peligrosa de lo que esperaban.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Annabelle 2: La Creación  </title>
+<fanart>https://pics.filmaffinity.com/Annabelle_2_La_creaci_n-198906112-large.jpg</fanart>
+<genre>Terror | Sobrenatural | Muñecos | Precuela</genre>
+<info>Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una enfermera y un grupo de chicas tratando de convertir su casa en un cálido orfanato. Sin embargo, los nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de &quot;Annabelle&quot; (2014).</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/bon_cop_bad_cop_2-512345234-large.jpg</thumbnail>
+<thumbnail>https://pics.filmaffinity.com/annabelle_creation-692576203-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FJNAMF9W8H&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]My Little Pony: La Película [CAM] </title>
+<fanart></fanart>
+<genre>Animación | Aventuras | Comedia | Fantástico | Infantil | Amistad | Caballos</genre>
+<info>Cuando una fuerza oscura amenaza a Ponyville y el Mane 6, todos se van en un viaje hasta el final de equestria para salvar a su querida casa, y se encuentran con nuevos amigos y peligrosos desafíos a lo largo del camino.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/my_little_pony_the_movie-280374488-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FK91T2VHYH&q=360p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Torre Oscura  </title>
+<fanart>https://pics.filmaffinity.com/La_Torre_Oscura-981048888-large.jpg</fanart>
+<genre>Fantástico | Western | Ciencia ficción | Western futurista</genre>
+<info>En un mundo extrañamente parecido al nuestro un cowboy de nombre Roland Deschain de Gilead persigue a su eterno enemigo, &quot;el hombre de negro&quot;. Roland, solitario, quizá maldito, anda sin descanso a través de un paisaje triste y abandonado. Conoce a Jake, un chico de Nueva York pero venido de otro tiempo, y ambos unen sus destinos. Ante ellos están las montañas. Y mucho más allá, la Torre Oscura... Adaptación de la saga literaria de Stephen King.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_dark_tower-790489565-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FKPA0YSDNN&q=1080p</urlsolve>
+</item>
+
+-------------
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Me Gusta, Pero Me Asusta [CAM] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGY3NTJmYWMtZDBkMy00MTc4LTgwNWQtMjc2NTgwNjM3MTI4L2ltYWdlXkEyXkFqcGdeQXVyNjgzNzQ2MjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<genre>Comedia | Romance | Comedia romántica | Familia</genre>
+<info>Dicen que todos los mexicanos somos iguales, pero eso… está por verse. Brayan Rodríguez (Alejandro Speitzer), descendiente de una de las familias más “conocidas” de Sinaloa, es el elegido para conquistar la gran ciudad expandiendo los negocios secretos de su familia. Claudia (Minnie West) es la clásica soñadora confundida, gozando un año sabático mientras “encuentra su vocación”; todo a expensas de su padre. ¿Imaginas qué podría pasar si estos dos mundos se encontraran? Personajes extravagantes, divertidos y llenos de contrastes desencadenarán una historia en donde más de uno nos identificaremos.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/me_gusta_pero_me_asusta-364594343-large.jpg</thumbnail>
+<urlsolve>https://vidoza.net/zm7qxgq8sqdc.html</urlsolve>
+</item>
+------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Gran Fuga  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjUwNGVhMmMtZDdjYi00YzY4LThhMWItY2IwMzY4ZjVkZjZkXkEyXkFqcGdeQXVyMjIxOTk4Mzg@._V1_SY1000_CR0,0,1436,1000_AL_.jpg</fanart>
+<genre>Acción | Thriller | Coches / Automovilismo</genre>
+<info>Dos hermanos especializados en el robo de automóviles viajan al sur de Francia para probar nuevos horizontes.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/overdrive-331863894-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f3rpfrbgdn83'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rociytbf2v6z'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -222,15 +295,17 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f3rpfrbgdn83'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Geostorm (Geo-Tormenta)</title>
-<genre></genre>
-<info>Cuando el control de los satélites de todo el mundo está en mal funcionamiento, un obstinado ingeniero de comunicaciones se verá obligado a trabajar junto a su hermano, con el que lleva años sin tener contacto, para tratar de salvar el mundo de una tormenta de proporciones épicas. Mientras se trata de lidiar con el problema espacial, en la Tierra, se está tramando una conspiración para acabar con la vida del presidente de los Estados Unidos</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dirty Dancing  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMTg3OTkwMl5BMl5BanBnXkFtZTgwMTcxMTYzMjI@._V1_.jpg</fanart>
+<genre>Romance | Drama romántico | Baile | Remake | Telefilm</genre>
+<info>Remake televisivo del exitoso film romántico de 1987 protagonizado por Patrick Swayze y Jennifer Grey.</info>
 <date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/dirty_dancing_tv-810818469-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bp7q18ps80hi'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cxy0na2acmsg'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -238,75 +313,16 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bp7q18ps80hi'
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</thumbnail>
-<fanart>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]1922  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMWI3OTU3MTAtOTVmYy00ODUzLWE1NDktN2EzNGUyMjE4ZTkyXkEyXkFqcGdeQXVyODUxNTAwNQ@@._V1_.jpg</fanart>
-<genre>Terror | Drama | Crimen | Años 20 | Roedores</genre>
-<info>En el año 1922 un orgulloso ranchero asesina a su mujer con la ayuda de su hijo adolescente. Lo que nunca se habría imaginado es que un grupo de ratas acabaría atacándoles, llegando al punto de convencerse a sí mismo de que está siendo acechado por su esposa muerta.</info>
-<date>2017</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTg0MmUyNjItYzJmNi00YTcxLTg4OTQtNmI2ZjI0ZDIzNjQ2XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKQBWQXYXU</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Wheelman</title>
-<fanart>https://pics.filmaffinity.com/Wheelman-676955508-large.jpg</fanart>
-<genre>Acción | Thriller | Crimen | Robos & Atracos | Coches | Automovilismo</genre>
-<info>Durante un atraco a un banco, el conductor contratado para fugarse tras el robo deberá hacer uso de su ingenio y destreza cuando recibe órdenes desde un número desconocido</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/wheelman-387448094-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKQC4MNBF4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Marjorie Prime  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQxODcwNDc3Nl5BMl5BanBnXkFtZTgwNjk1ODE5MDI@._V1_SY1000_CR0,0,1501,1000_AL_.jpg</fanart>
-<genre>Comedia | Drama | Intriga | Ciencia ficción | Comedia dramática</genre>
-<info>Un servicio que ofrece recreaciones holográficas de seres queridos fallecidos permite a un hombre (Tim Robbins) enfrentarse con una versión más joven de su suegro (Jon Hamm).</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/marjorie_prime-943518512-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKQC1FQB3A</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The Resurrection Of Gavin Stone  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1YWFhNmEtZjdjYi00NTc4LWE5MGQtZTY4MzI5YjgxNTAzXkEyXkFqcGdeQXVyNTM5NDQ1NzA@._V1_.jpg</fanart>
-<genre>Comedia | Romance | Comedia romántica</genre>
-<info>Una antigua estrella infantil se ve obligada a prestar un servicio comunitario en una gran iglesia de su localidad natal. En el mismo sitio un chico se hace pasar por un fiel cristiano para lograr el papel de Jesús en la representación anual que se hace en Pascua.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_resurrection_of_gavin_stone-195122922-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKPAY2UI73</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Condorito: La Película</title>
-<fanart>https://applauss.com/wp-content/uploads/2017/03/Condorito-la-pelicula-2017-2.jpg</fanart>
-<genre>Animación | Comedia | Aventuras | 3-D | Extraterrestres | Cómic</genre>
-<info>El pajarraco más querido de Pelotillehue emprenderá, junto a su tenaz sobrino Coné, una peligrosa aventura para rescatar a su desaparecida suegra Doña Tremebunda, abducida misteriosamente por una banda alienígena. Lo que no ha tomado en cuenta es que, mientras intenta reparar el error con la madre de Yayita, ésta será tentada románticamente por el insistente Pepe Cortisona. Adaptación cinematográfica del famoso cómic chileno de Pepo.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/condorito_la_pelicula-576716946-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FKIVK0Z17L&q=720p</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cómo Cortar A Tu Patán</title>
-<fanart>https://www.cinepremiere.com.mx/wp-content/uploads/2017/10/Como-cortar-a-tu-patan-critica.jpg</fanart>
-<genre>Comedia | Romance | Comedia romántica</genre>
-<info>Amanda (Mariana Treviño), terapeuta especializada en ayudar a las mujeres a terminar con relaciones destructivas, vive alejada de los hombres y el compromiso, enfocada en su trabajo y en proteger a su hermana Natalia (Camila Sodi). Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan que la llevará a enfrentarse a su más grande miedo... el amor.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/como_cortar_a_tu_patan-730307577-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FKP6B049L4&q=480p</urlsolve>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Siguiente</title>
 <link>Http://x.o</link>
-<externallink></externallink>
+<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_p3l1cul4s.php?tabla=estrenos&amp;cual=2</externallink>
 <thumbnail>http://vodmx.westus2.cloudapp.azure.com/logos/siguiente.png</thumbnail>
 <fanart></fanart>
 <SetViewMode>53</SetViewMode>
 </item></items>
+
+
+
