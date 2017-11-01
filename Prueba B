@@ -1,64 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<items>
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Castillo De Cristal</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1MjEzNzQzNl5BMl5BanBnXkFtZTgwNTQwNzgwMzI@._V1_SY1000_CR0,0,1332,1000_AL_.jpg</fanart>
-<genre>Drama | Biográfico | Pobreza</genre>
-<info>Una joven crece en una familia disfuncional de nómadas inconformistas, con una madre excéntrica y un padre alcohólico que distrae a los niños con su imaginación para que ignoren su pobreza. Basada en las memorias de Jeanette Walls.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Coco [CAM] </title>
+<fanart>https://pics.filmaffinity.com/Coco-759485712-large.jpg</fanart>
+<genre>Animación | Fantástico | Comedia | Pixar | Familia | Música</genre>
+<info>Miguel es un joven con el sueño de convertirse en leyenda de la música a pesar de la prohibición de su familia. Su pasión le llevará a adentrarse en la &quot;Tierra de los Muertos&quot; para conocer su verdadero legado familiar. </info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_glass_castle-349521201-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKW890YMGS</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tres Familias Locas  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzU3Zjk3ZDAtZDMzOS00ZjRmLTg1NmYtYjM3YjM5OGM1Mjg1L2ltYWdlXkEyXkFqcGdeQXVyMjI3ODYyNDU@._V1_.jpg</fanart>
-<genre>Comedia</genre>
-<info>La película narra la historia de tres familias, una hispana, una caucásica, y una afroamericana, que además se encuentran acampando en el mismo lugar el fin de semana del 4 de julio e intentan convivir en paz, sin resultado. Eventualmente prefieren dejar todo a la suerte, y compiten para que gane el mejor.</info>
-<date>2017</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjM0NDg2YjMtOWJlMy00NzQxLTkwMGItNmE1NTIyZjIzMDgwXkEyXkFqcGdeQXVyNjc4NTUzNzg@._V1_.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKW8EB8O8D</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Kidnap (Mujer en llamas) (2017)</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W9yaafRDAw0</link> 
-<thumbnail>http://gnula.nu/wp-content/uploads/2017/10/Kidnap4.gif</thumbnail>
-<fanart>http://gnula.nu/wp-content/uploads/2017/10/Kidnap4.gif</fanart>
-<info>Un inocente día en el parque de atracciones se convierte en tragedia cuando Karla (Halle Berry) observa cómo dos extraños arrastran a su hijo de seis años, Frankie (Sage Correa), dentro de un coche y arrancan. Sin un número de matrícula ni teléfono móvil desde el que llamar a la policía, Karla deberá encontrar al pequeño por su cuenta. En una persecución a toda velocidad y con el indicador de combustible peligrosamente cercano a la reserva. Karla tendrá que tomar duras decisiones si quiere volver a ver a su hijo.
-</info>
-</item>
-
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zombiology: Enjoy Yourself Tonight  </title>
-<fanart></fanart>
-<genre>Acción | Comedia | Zombis</genre>
-<info>Lone y Yeung, dos geeks, ven cómo sus fantasías de cómic se vuelven reales y provocan un apocalipsis zombie en Hong Kong. Este peculiar dúo tendrá que ingeniárselas para sacar a su familia de esta terrible crisis, con la ayuda de unas armas caseras.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg</thumbnail>
-<urlsolve>https://streamango.com/embed/cscffnprqpqkffrt</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Geostorm (Geo-Tormenta)</title>
-<genre></genre>
-<info>Cuando el control de los satélites de todo el mundo está en mal funcionamiento, un obstinado ingeniero de comunicaciones se verá obligado a trabajar junto a su hermano, con el que lleva años sin tener contacto, para tratar de salvar el mundo de una tormenta de proporciones épicas. Mientras se trata de lidiar con el problema espacial, en la Tierra, se está tramando una conspiración para acabar con la vida del presidente de los Estados Unidos</info>
-<date>2017</date>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bp7q18ps80hi'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</thumbnail>
-<fanart>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</fanart>
+<thumbnail>https://pics.filmaffinity.com/coco-155051069-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FL28JVXZEY</urlsolve>
 </item>
 
 <item>
@@ -83,6 +33,48 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'
 </item>
 
 <item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Thor: Ragnarok [CAM] </title>
+<fanart>https://pics.filmaffinity.com/Thor_Ragnarok-166911107-large.jpg</fanart>
+<genre>Fantástico | Acción | Aventuras | Superhéroes | Cómic | Marvel Comics | Secuela | 3-D</genre>
+<info>Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/thor_ragnarok-115636540-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rw2rjwi8vf7d'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Línea Mortal: Al Límite [CAM] </title>
+<fanart>https://pics.filmaffinity.com/L_nea_mortal_Al_l_mite-722377582-large.jpg</fanart>
+<genre>Ciencia ficción | Thriller | Secuela | Remake</genre>
+<info>Cinco estudiantes de medicina, con la esperanza de desentrañar el misterio de lo que aguarda más allá de los confines de la vida, emprenden un atrevido y peligroso experimento. A base de detener su corazón durante un breve lapso de tiempo, cada uno de ellos sufre una experiencia cercana a la muerte clínica. A medida que la investigación se vuelve cada vez más peligrosa, se verán obligados a afrontar los pecados de su pasado, además de vérselas con las consecuencias paranormales de sus incursiones en el más allá.... Remake de &quot;Línea mortal&quot; (1990).</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/flatliners-779507207-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/83r0zguljnx4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jungla</title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OWMzZWQtZDk5OC00NzhkLThlYmMtMjc0MTkxMGMwMTAyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
 <genre>Acción | Aventuras | Drama | Thriller</genre>
@@ -104,124 +96,17 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jigsaw (Saw 8)</title>
-<fanart>http://horrornews.net/wp-content/uploads/2016/12/Saw-Legacy-2017-movie.jpg</fanart>
-<genre>Terror</genre>
-<info>Cuando empiezan a aparecer cuerpos esparcidos a lo largo de la ciudad, a cada cual más espeluznante, todas las sospechas comienzan a señalar como culpable al homicida John Kramer</info>
-<date>2017</date>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0athNGb9xrmVN4qFNiVj5s_9Vz_QEG3Mnnlr6gl4uVrwRux_i</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xgc5bsantu2o'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Coco [CAM] </title>
-<fanart>https://pics.filmaffinity.com/Coco-759485712-large.jpg</fanart>
-<genre>Animación | Fantástico | Comedia | Pixar | Familia | Música</genre>
-<info>Miguel es un joven con el sueño de convertirse en leyenda de la música a pesar de la prohibición de su familia. Su pasión le llevará a adentrarse en la &quot;Tierra de los Muertos&quot; para conocer su verdadero legado familiar</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/coco-155051069-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FL28JVXZEY</urlsolve>
-</item>
-------------------------
-
-
-
-<item>
-<title>Elle: Abuso Y Seducción  [PELICULA]</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgyMDQzMV5BMl5BanBnXkFtZTgwOTQ2NzQ1MDI@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</fanart>
-<genre>Thriller | Drama | Thriller psicológico | Abusos sexuales</genre>
-<info>Michèle, exitosa ejecutiva de una empresa de videojuegos, busca venganza tras ser asaltada de forma violenta en su propia casa por un intruso.</info>
-<date>2016</date>
-<thumbnail>https://pics.filmaffinity.com/elle-258494210-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/3ll3,1569891,list,4,1.mkv&amp;mode=70&amp;episodio=Elle: Abuso Y Seduccion [PELICULAS LATINO] </link>
-</item>
-
-<item>
-<title></title>
-<genre></genre>
-<info></info>
-<date></date>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Strange Weather  [PELICULA]</title>
-<fanart></fanart>
-<genre>Drama</genre>
-<info>Una madre (Holly Hunter), en su intento por salir adelante tras la muerte de su hijo, viaja por las carreteras más desconocidas del sur para ajustar cuentas.</info>
-<date>2016</date>
-<thumbnail>https://pics.filmaffinity.com/strange_weather-926814484-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/strgwthr-72,1569787,list,4,1.mkv&amp;mode=70&amp;episodio=Strange Weather [PELICULAS LATINO] </link>
-</item>
-
-<item>
-<title></title>
-<genre></genre>
-<info></info>
-<date></date>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Zombiology: Enjoy Yourself Tonight  [PELICULA]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zombiology: Enjoy Yourself Tonight  </title>
 <fanart></fanart>
 <genre>Acción | Comedia | Zombis</genre>
 <info>Lone y Yeung, dos geeks, ven cómo sus fantasías de cómic se vuelven reales y provocan un apocalipsis zombie en Hong Kong. Este peculiar dúo tendrá que ingeniárselas para sacar a su familia de esta terrible crisis, con la ayuda de unas armas caseras.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/zmbly,1569774,list,4,1.mkv&amp;mode=70&amp;episodio=Zombiology: Enjoy Yourself Tonight [PELICULAS LATINO] </link>
-</item>
-
-<item>
-<title></title>
-<genre></genre>
-<info></info>
-<date></date>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tj0s0m9525nc'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -229,206 +114,220 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
-<title>It (eso) [HD] [PELICULA]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]It (eso) [HD] </title>
 <fanart>https://pics.filmaffinity.com/It_Eso-108799474-large.jpg</fanart>
 <genre>Terror | Fantástico | Sobrenatural | Años 80 | Monstruos | Payasos | Remake</genre>
 <info>Cuando empiezan a desparecer niños en el pueblo de Derry (Maine), un pandilla de amigos lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos. Adaptación cinematográfica de la conocida novela de Stephen King &quot;It&quot;.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/it-787119144-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/jim-carrey/3str3n0s-2-88702/it-17-k0rsub,1569925,list,4,1.mkv&amp;mode=70&amp;episodio=It (eso) [HD][PELICULAS SUBTITULADAS] </link>
-</item>
-
-
-
-/////////////////////////////////
-
-
-
-<item>
-<title>Good Girls Revolt  [SERIE]</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWE4ZjgxNjMtZTY5My00OTMyLThiZmEtNzdjMjg5M2ExZDMzXkEyXkFqcGdeQXVyNjMxMTI0ODM@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
-<genre>Serie de TV | Drama | Años 60</genre>
-<info>La historia sigue a un grupo de jóvenes mujeres periodistas de investigación que trabajan para &quot;News of the Week&quot; que simplemente piden ser tratadas justamente, con igualdad. La petición de estas mujeres por justicia es un hito en la historia feminista dentro del sector del periodismo. Ambientada en 1969, cuenta la historia de la revolución cultural, época en la que golpeó con fuerza a la sociedad de los Estados Unidos, aunque todavía habían mujeres rechazadas de ciertos entornos laborales.</info>
-<date>2016</date>
-<thumbnail>https://pics.filmaffinity.com/good_girls_revolt_tv_series-237989974-large.jpg</thumbnail>
-<link>Http://x.o</link>
-<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_s3r13s.php?tipo=americanas&amp;serie=4100</externallink>
-</item>
-
-<item>
-<title>Just Add Magic  [SERIE]</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM0ODQ0MzQzNl5BMl5BanBnXkFtZTgwODczNDIwMTI@._V1_SY1000_CR0,0,1333,1000_AL_.jpg</fanart>
-<genre>Serie de TV | Comedia | Cine familiar</genre>
-<info>Just Add Magic (TV Series)</info>
-<date>2015</date>
-<thumbnail>https://pics.filmaffinity.com/just_add_magic_tv_series-728418542-large.jpg</thumbnail>
-<link>Http://x.o</link>
-<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_s3r13s.php?tipo=americanas&amp;serie=4096</externallink>
-</item>
-
-<item>
-<title>La Querida Del Centauro  [SERIE]</title>
-<fanart>http://tve-static-telemundo.nbcuni.com/prod/image/447/291/LQDC2_AmazonFire_FtContentTile_1280x720_1.jpg</fanart>
-<genre>Serie de TV | Drama | Thriller | Romance | Mafia | Drogas</genre>
-<info>51 episodios. Narra la vida de Yolanda (Ludwika Paleta), una atractiva e inteligente reclusa, que estando en presidio se convierte en la amante de uno de los narcotraficantes más importantes de México, Benedictino García (Humberto Zurita), alias el Centauro. Esta relación, que dentro de la cárcel le dará a Yolanda mucho poder, terminará convirtiéndose en la peor de sus pesadillas, cuando ella logre quedar en libertad gracias a Gerardo (Michel Brown) astuto detective, cuyos últimos años han estado dedicados a la lucha contra el Narcotráfico. Con el Centauro en fuga Gerardo decide utilizar a Yolanda como carnada en un operativo que los llevara al escondite del Cenaturo.</info>
-<date>2016</date>
-<thumbnail>https://pics.filmaffinity.com/La_querida_del_Centauro_Serie_de_TV-382987573-large.jpg</thumbnail>
-<link>Http://x.o</link>
-<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_s3r13s.php?tipo=latinas&amp;serie=3683</externallink>
-</item>
-
-<item>
-<title>Sucesor Designado  [SERIE]</title>
-<fanart>https://pics.filmaffinity.com/Sucesor_designado_Serie_de_TV-146994857-large.jpg</fanart>
-<genre>Serie de TV | Drama | Thriller</genre>
-<info>Serie de TV (2016). Tom Kirkman (Kiefer Sutherland) es un miembro de rango medio del gabinete de la Casa Blanca que debe asumir el cargo de Presidente cuando un devastador ataque terrorista en Washington, durante el discurso del Estado de la Nación, acaba con la vida del anterior presidente y de sus principales sustitutos. </info>
-<date>2016</date>
-<thumbnail>https://pics.filmaffinity.com/designated_survivor_tv_series-907216353-large.jpg</thumbnail>
-<link>Http://x.o</link>
-<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_s3r13s.php?tipo=americanas&amp;serie=4088</externallink>
-</item>
-
-
-
-<item>
-<title>Stranger Things  [SERIE]</title>
-<fanart>http://vignette1.wikia.nocookie.net/strangerthings8338/images/f/fb/Stranger-things-banner.jpg/revision/latest?cb=20160716202626</fanart>
-<genre>Serie de TV | Thriller | Terror | Fantástico | Drama | Sobrenatural | Secuestros / Desapariciones | Años 80 | Monstruos</genre>
-<info>Serie de TV (2016-Actualidad). Primera temporada: 8 episodios. Homenaje a los clásicos misterios sobrenaturales de los años 80, &quot;Stranger Things&quot; es la historia de un niño que desaparece en el pequeño pueblo de Hawkins sin dejar rastro. En su búsqueda desesperada, tanto sus amigos y familiares como el sheriff local se ven envueltos en un enigma extraordinario: experimentos ultrasecretos, fuerzas paranormales terroríficas y una niña muy, muy rara...
-
-La segunda temporada tendrá lugar un año después de los acontecimientos de la primera. 
-
-Estreno Temporada 2: 27 de octubre</info>
-<date>2016</date>
-<thumbnail>https://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail>
-<link>Http://x.o</link>
-<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_s3r13s.php?tipo=americanas&amp;serie=3579</externallink>
-</item>
-
-<item>
-<title>Marte  [SERIE]</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjFlZjM5OWEtODc1NS00YTRhLTgxNzEtM2RlODBlNjg1Y2JiXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg</fanart>
-<genre>Serie de TV | Documental | Ciencia ficción | Documental sobre cine</genre>
-<info>6 Episodios. La nave Daedalus llega en 2033 a Marte, donde sus ocupantes tienen como misión constituir la primera colonia humana. A partir de este inquietante arranque, National Geographic Channel (NGC) fusiona documental y ficción para recrear en la serie *Marte*, la imaginaria vida cotidiana de un grupo de astronautas en el planeta rojo. Una trama trufada con explicaciones a cargo de prestigiosos científicos sobre las probabilidades reales de abordar una aventura de estas dimensiones.</info>
-<date>2016</date>
-<thumbnail>https://pics.filmaffinity.com/mars_tv_series-370998885-large.jpg</thumbnail>
-<link>Http://x.o</link>
-<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_s3r13s.php?tipo=americanas&amp;serie=4087</externallink>
-</item>
-
-<item>
-<title>Los Simpsons  [SERIE]</title>
-<fanart>https://pics.filmaffinity.com/Los_Simpson_Serie_de_TV-449060239-large.jpg</fanart>
-<genre>Serie de TV | Animación | Comedia | Familia | Sátira | Animación para adultos | Los Simpson</genre>
-<info>Serie de TV de 551 episodios (1989-Actualidad) que emite la Cadena Fox desde 1989. Narra la historia de una peculiar familia (Homer, Marge, Bart, Maggie y Lisa Simpson) y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de 10 años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.</info>
-<date>1989</date>
-<thumbnail>https://pics.filmaffinity.com/the_simpsons_tv_series-146294444-large.jpg</thumbnail>
-<link>Http://x.o</link>
-<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_s3r13s.php?tipo=americanas&amp;serie=4086</externallink>
-</item>
-
-<item>
-<title>Dueños Del Paraíso  [SERIE]</title>
-<fanart>http://www.telemundo.com/sites/nbcutelemundo/files/styles/promotional_content_16_9/public/2015/04/duenos-del-paraiso-enero16_0.jpg?itok=kwG-yP_-</fanart>
-<genre>Serie de TV | Drama | Thriller | Acción | Melodrama | Mafia | Crimen | Telenovela</genre>
-<info>Serie de TV (2015). 69 episodios. Relata la historia de Anastasia Cardona, una mujer marcada por la violencia y cuya ambición la lleva a usar el narcotráfico como medio para convertirse en una de las mujeres más poderosas. Anastasia encontrará en los negocios ilícitos de su marido la riqueza que siempre soñó y conocerá los sinsabores de la traición y la imposibilidad de vivir el verdadero amor.</info>
-<date>2015</date>
-<thumbnail>https://pics.filmaffinity.com/duenos_del_paraiso_tv_series-526515423-large.jpg</thumbnail>
-<link>Http://x.o</link>
-<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_s3r13s.php?tipo=latinas&amp;serie=4085</externallink>
-</item>
-
-
-
-/////////////////////////////////////
-
-
------------------------------
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Kidnap (Mujer en llamas) (2017)</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5qcstEEvDd0</link> 
-<thumbnail>http://gnula.nu/wp-content/uploads/2017/10/Kidnap4.gif</thumbnail>
-<fanart>http://gnula.nu/wp-content/uploads/2017/10/Kidnap4.gif</fanart>
-<info>Un inocente día en el parque de atracciones se convierte en tragedia cuando Karla (Halle Berry) observa cómo dos extraños arrastran a su hijo de seis años, Frankie (Sage Correa), dentro de un coche y arrancan. Sin un número de matrícula ni teléfono móvil desde el que llamar a la policía, Karla deberá encontrar al pequeño por su cuenta. En una persecución a toda velocidad y con el indicador de combustible peligrosamente cercano a la reserva. Karla tendrá que tomar duras decisiones si quiere volver a ver a su hijo.
-</info>
-</item>
-
-
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]GNULA</title>
-<link>$doregex[makelist2]</link>
-
+<link>$doregex[GetPageUrl]</link>
 <regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist2.param2]</title>
-<link>$doregex[makelist3]</link>
-<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail>
-<fanart>[makelist2.param3]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</fanart>
-]]></listrepeat>
-<expres><![CDATA[Ntooltip\"\shref="(.*?)">(.*?)<[\w\W\s]{0,20}src="(.*?)"]]></expres>
-<page>http://gnula.nu/peliculas-de-estreno/lista-de-peliculas-online-parte-1/</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-<regex>
-<name>createCFCookie</name>
-<expres></expres>
-<page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][makelist2.param2] [COLOR ][makelist3.param1][/COLOR] [COLOR deepskyblue][makelist3.param3][/COLOR]</title>
-<link>$doregex[id3]</link>
-
-<thumbnail></thumbnail>
-<fanart>[makelist2.param3]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0&amp;Referer=http://gnula.nu</fanart>
-
-]]></listrepeat>
-<expres><![CDATA[em>(opc.*?)<\/em|href="(http://gamovideo.*?|https://vidoza.*?|https://kingvid.*?|https://openload.*?|https://streamango.*?|http://streamin.*?|http://streamcloud.*?|http://uptobox.*?|https://rapidvideo.*?)".*?class="(.*?)"]]></expres>
-<page>[makelist2.param1]</page>
-<referer>http://gnula.nu</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-<regex>
-<name>createCFCookie</name>
-<expres></expres>
-<page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>id3</name>
+<name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rr922c0gzcq2'):
     import urlresolver
-    url = '[makelist3.param2]'
-    try:
-        u = urlresolver.resolve(url)
-    except:
-        u = 'http://elecdeka.org/error.mp4'
+    u = urlresolver.resolve(url)
     return u
 ]]></expres>
 <page></page>
+<cookieJar></cookieJar>
 </regex>
+</item>
 
-<thumbnail></thumbnail>
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Castillo De Cristal</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1MjEzNzQzNl5BMl5BanBnXkFtZTgwNTQwNzgwMzI@._V1_SY1000_CR0,0,1332,1000_AL_.jpg</fanart>
+<genre>Drama | Biográfico | Pobreza</genre>
+<info>Una joven crece en una familia disfuncional de nómadas inconformistas, con una madre excéntrica y un padre alcohólico que distrae a los niños con su imaginación para que ignoren su pobreza. Basada en las memorias de Jeanette Walls.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_glass_castle-349521201-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKW890YMGS</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Tres Familias Locas</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzU3Zjk3ZDAtZDMzOS00ZjRmLTg1NmYtYjM3YjM5OGM1Mjg1L2ltYWdlXkEyXkFqcGdeQXVyMjI3ODYyNDU@._V1_.jpg</fanart>
+<genre>Comedia</genre>
+<info>La película narra la historia de tres familias, una hispana, una caucásica, y una afroamericana, que además se encuentran acampando en el mismo lugar el fin de semana del 4 de julio e intentan convivir en paz, sin resultado. Eventualmente prefieren dejar todo a la suerte, y compiten para que gane el mejor.</info>
+<date>2017</date>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjM0NDg2YjMtOWJlMy00NzQxLTkwMGItNmE1NTIyZjIzMDgwXkEyXkFqcGdeQXVyNjc4NTUzNzg@._V1_.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKW8EB8O8D</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Una Noche Con Mi Ex-suegro</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjJiNmYzNDUtYjk2NS00NjljLTk0ZDktNTU3NWM2MDBmMzIxXkEyXkFqcGdeQXVyMzI1MTUzOTA@._V1_SY1000_CR0,0,1500,1000_AL_.jpg</fanart>
+<genre>Comedia</genre>
+<info>Un padre adicto al trabajo intenta visitar a su hija durante una escala en Los Ángeles, sólo para descubrir que ella ha desaparecido, se ve obligado a formar equipo con su torpe ex novio para encontrarla en el transcurso de una noche transformadora.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/all_nighter-846539991-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKU1MLGLF3</urlsolve>
+</item>
+
+-------------------------------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Song To Song</title>
+<fanart>https://pics.filmaffinity.com/Song_to_Song-284820896-large.jpg</fanart>
+<genre>Drama | Romance | Música</genre>
+<info>Dos triángulos amorosos interrelacionados, la de las parejas formadas por los compositores Faye (Rooney Mara) y BV (Ryan Gosling), y la del productor musical Cook (Michael Fassbender) y su novia camarera (Natalie Portman), persiguiendo todos el éxito mientras tropiezan con la obsesión y la traición en el mundo de la escena musical de Austin, Texas</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/song_to_song-287258533-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKU2D9QLQR</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Señor Dame Paciencia</title>
+<fanart>https://pics.filmaffinity.com/Se_or_dame_paciencia-640502328-large.jpg</fanart>
+<genre>Comedia | Familia | Road Movie</genre>
+<info>Cuando la mujer de Gregorio, un banquero muy conservador, del Real Madrid y muy gruñón, fallece repentinamente, éste se ve obligado a cumplir su última voluntad: pasar un fin de semana con sus hijos y sus respectivas parejas en Sanlúcar de Barrameda para esparcir sus cenizas en el Guadalquivir. Aquí es donde empiezan los problemas para Gregorio, ya que su hija Sandra está casada con Jordi, un catalán muy culé al que no soporta. Su otra hija, Alicia, está saliendo con Leo, un hippy anti-sistema al que tampoco puede ni ver,  y Carlos, su hijo pequeño, con el que lleva seis meses sin hablarse desde que salió del armario, se presenta con su novio Eneko, un vasco de origen senegalés. Este viaje multicultural pondrá a prueba la tolerancia y la capacidad de perdonar de una familia tan disfuncional como cualquier otra, en el que tendrán que aprender a aceptarse los unos a los otros, con sus virtudes y defectos.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/senor_dame_paciencia-935679678-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yyan8na4thhj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Bon Cop Bad Cop 2  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjZhOWNmZDEtNmVjZS00N2NhLWE4YTktZWNhZjMwYWQ2ZDc4XkEyXkFqcGdeQXVyNDIyMjQzMQ@@._V1_.jpg</fanart>
+<genre>Acción | Comedia | Crimen</genre>
+<info>Han pasado ocho años desde que Martin Ward y David Bouchard se conocieron de una manera espectacular en la frontera entre Quebec y Ontario. Los dos hombres han seguido siendo amigos pero el tiempo pasa y no han hablado casi en un año. Ahora, Ward y Bouchard deben enfrentarse a una importante red de robo de vehículos que resulta ser mucho más peligrosa de lo que esperaban.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/bon_cop_bad_cop_2-512345234-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f3rpfrbgdn83'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Geostorm (Geo-Tormenta)</title>
+<genre></genre>
+<info>Cuando el control de los satélites de todo el mundo está en mal funcionamiento, un obstinado ingeniero de comunicaciones se verá obligado a trabajar junto a su hermano, con el que lleva años sin tener contacto, para tratar de salvar el mundo de una tormenta de proporciones épicas. Mientras se trata de lidiar con el problema espacial, en la Tierra, se está tramando una conspiración para acabar con la vida del presidente de los Estados Unidos</info>
+<date>2017</date>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bp7q18ps80hi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-8C4ovFzDxaQ/We5ixRV5xTI/AAAAAAAAijk/JUvCYYkqrSo4oIsamIuT-IjVn9ChX2I3ACLcBGAs/s1600/Geo-Tormenta%2B%2528Geostorm%2529%2B%25282017%2529%2Bonline.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]1922  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMWI3OTU3MTAtOTVmYy00ODUzLWE1NDktN2EzNGUyMjE4ZTkyXkEyXkFqcGdeQXVyODUxNTAwNQ@@._V1_.jpg</fanart>
+<genre>Terror | Drama | Crimen | Años 20 | Roedores</genre>
+<info>En el año 1922 un orgulloso ranchero asesina a su mujer con la ayuda de su hijo adolescente. Lo que nunca se habría imaginado es que un grupo de ratas acabaría atacándoles, llegando al punto de convencerse a sí mismo de que está siendo acechado por su esposa muerta.</info>
+<date>2017</date>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTg0MmUyNjItYzJmNi00YTcxLTg4OTQtNmI2ZjI0ZDIzNjQ2XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKQBWQXYXU</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Wheelman  </title>
+<fanart>https://pics.filmaffinity.com/Wheelman-676955508-large.jpg</fanart>
+<genre>Acción | Thriller | Crimen | Robos & Atracos | Coches / Automovilismo</genre>
+<info>Durante un atraco a un banco, el conductor contratado para fugarse tras el robo deberá hacer uso de su ingenio y destreza cuando recibe órdenes desde un número desconocido.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/wheelman-387448094-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKQC4MNBF4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Marjorie Prime  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQxODcwNDc3Nl5BMl5BanBnXkFtZTgwNjk1ODE5MDI@._V1_SY1000_CR0,0,1501,1000_AL_.jpg</fanart>
+<genre>Comedia | Drama | Intriga | Ciencia ficción | Comedia dramática</genre>
+<info>Un servicio que ofrece recreaciones holográficas de seres queridos fallecidos permite a un hombre (Tim Robbins) enfrentarse con una versión más joven de su suegro (Jon Hamm).</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/marjorie_prime-943518512-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKQC1FQB3A</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The Resurrection Of Gavin Stone  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1YWFhNmEtZjdjYi00NTc4LWE5MGQtZTY4MzI5YjgxNTAzXkEyXkFqcGdeQXVyNTM5NDQ1NzA@._V1_.jpg</fanart>
+<genre>Comedia | Romance | Comedia romántica</genre>
+<info>Una antigua estrella infantil se ve obligada a prestar un servicio comunitario en una gran iglesia de su localidad natal. En el mismo sitio un chico se hace pasar por un fiel cristiano para lograr el papel de Jesús en la representación anual que se hace en Pascua.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_resurrection_of_gavin_stone-195122922-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/?v=FKPAY2UI73</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Condorito: La Película</title>
+<fanart>https://applauss.com/wp-content/uploads/2017/03/Condorito-la-pelicula-2017-2.jpg</fanart>
+<genre>Animación | Comedia | Aventuras | 3-D | Extraterrestres | Cómic</genre>
+<info>El pajarraco más querido de Pelotillehue emprenderá, junto a su tenaz sobrino Coné, una peligrosa aventura para rescatar a su desaparecida suegra Doña Tremebunda, abducida misteriosamente por una banda alienígena. Lo que no ha tomado en cuenta es que, mientras intenta reparar el error con la madre de Yayita, ésta será tentada románticamente por el insistente Pepe Cortisona. Adaptación cinematográfica del famoso cómic chileno de Pepo.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/condorito_la_pelicula-576716946-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cs8c1z56zbe7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+)<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Condorito: La Película (rapidvideo)</title>
+<fanart>https://applauss.com/wp-content/uploads/2017/03/Condorito-la-pelicula-2017-2.jpg</fanart>
+<genre>Animación | Comedia | Aventuras | 3-D | Extraterrestres | Cómic</genre>
+<info>El pajarraco más querido de Pelotillehue emprenderá, junto a su tenaz sobrino Coné, una peligrosa aventura para rescatar a su desaparecida suegra Doña Tremebunda, abducida misteriosamente por una banda alienígena. Lo que no ha tomado en cuenta es que, mientras intenta reparar el error con la madre de Yayita, ésta será tentada románticamente por el insistente Pepe Cortisona. Adaptación cinematográfica del famoso cómic chileno de Pepo.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/condorito_la_pelicula-576716946-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKIVK0Z17L&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cómo Cortar A Tu Patán</title>
+<fanart>https://www.cinepremiere.com.mx/wp-content/uploads/2017/10/Como-cortar-a-tu-patan-critica.jpg</fanart>
+<genre>Comedia | Romance | Comedia romántica</genre>
+<info>Amanda (Mariana Treviño), terapeuta especializada en ayudar a las mujeres a terminar con relaciones destructivas, vive alejada de los hombres y el compromiso, enfocada en su trabajo y en proteger a su hermana Natalia (Camila Sodi). Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan que la llevará a enfrentarse a su más grande miedo... el amor.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/como_cortar_a_tu_patan-730307577-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKP6B049L4&q=480p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Siguiente</title>
+<link>Http://x.o</link>
+<externallink></externallink>
+<thumbnail>http://vodmx.westus2.cloudapp.azure.com/logos/siguiente.png</thumbnail>
 <fanart></fanart>
-</item> 
-
-
------------------------------------------------------------
-
+<SetViewMode>53</SetViewMode>
+</item></items>
