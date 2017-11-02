@@ -15,13 +15,15 @@
  
 <item>
 <title>[B][COLOR lightyellow]Multicanal[/COLOR][/B] [COLOR lightblue]TikiTaka 02 [/COLOR][COLOR white][I]  [/I][/COLOR]</title>
-<link>$doregex[adryan]|User-Agent=iPad</link>
+<link>$doregex[elecdeka]|User-Agent=iPad</link>
 <regex>
 <name>elecdeka</name>
 <expres>source: "(.*?)"</expres>
 <page>http://widestream.io/embedClappr.php?live=79</page>
 </regex>
-<thumbnail>http://adryan.areshost6.seedr.io/img/deportes.png</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
+<thumbnail></thumbnail>
+<info></info>
+</item>
 
 *****************************************
 bro.adca.st
