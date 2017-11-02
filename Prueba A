@@ -1,30 +1,3 @@
-<item>
-<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] TyC Sport[/B][/COLOR]  [COLOR gray]  Argentina  [/COLOR] [COLOR white]  [/COLOR] </title>
-<link>http://playback.bcovlive.io/de6478f6fd9a4459826ffedd62aa338e/sa-east-1/5395474896001/profile_1/chunklist.m3u8</link>
-<thumbnail>http://adryan.areshost6.seedr.io/img/deportes.png</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>	
-
-<item>
-<title>[B][COLOR lightyellow]Multicanal[/COLOR][/B] [COLOR lightblue]TikiTaka 02 [/COLOR][COLOR white][I]  [/I][/COLOR]</title>
-<link>$doregex[adryan]|User-Agent=iPad</link>
-<regex>
-<name>adryan</name>
-<expres>source: "(.*?)"</expres>
-<page>http://widestream.io/embedClappr.php?live=79</page>
-</regex>
-<thumbnail>http://adryan.areshost6.seedr.io/img/deportes.png</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
- 
-<item>
-<title>[B][COLOR lightyellow]Multicanal[/COLOR][/B] [COLOR lightblue]TikiTaka 02 [/COLOR][COLOR white][I]  [/I][/COLOR]</title>
-<link>$doregex[elecdeka]|User-Agent=iPad</link>
-<regex>
-<name>elecdeka</name>
-<expres>source: "(.*?)"</expres>
-<page>http://widestream.io/embedClappr.php?live=79</page>
-</regex>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
 *****************************************
 bro.adca.st
 ******************************************
