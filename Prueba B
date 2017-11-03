@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
+
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Kidnap - Secuestrar</title>
-<fanart>https://pics.filmaffinity.com/Mujer_en_llamas-414176717-large.jpg</fanart>
-<genre>Thriller | Acción | Secuestros / Desapariciones</genre>
-<info>Una madre no se detendrá ante nada para intentar recuperar a su hijo cuando este es secuestrado delante de ella en un parque de atracciones.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Objetivo: Hasselhoff  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNmJkNTk0NDktMGJiYS00ZTYyLTk2MDYtYTNhM2FhMzMzNmZhXkEyXkFqcGdeQXVyMTk5MjkzMjU@._V1_SX1777_CR0,0,1777,952_AL_.jpg</fanart>
+<genre>Acción | Comedia</genre>
+<info>El propietario de un nightclub trata de pagar un préstamo que debe a un implacable prestamista.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/Mujer_en_llamas-966835103-large.jpg</thumbnail>
+<thumbnail>https://pics.filmaffinity.com/killing_hasselhoff-704136530-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJRSCXERJT&q=720p</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Batman Vs. Dos Caras  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhmYjVkN2UtMDRiZi00YTAzLTg5MGQtZGQyMGRiODY1MGUxXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_.jpg</fanart>
+<genre>Animación | Acción | Comedia | Superhéroes | Cómic | DC Comics | Secuela</genre>
+<info>En la Penitenciaría de Gotham, en presencia de Batman, Robin y el Fiscal de Distrito Harvey Dent, el Dr. Hugo Strange y su asistente, Dr. Harleen Quinzel, realizan un experimento en cinco presos; Joker, Penguin, Riddler, Egghead y Mr. Freeze en un intento de eliminar su mal con una máquina llamada Evil Extractor. El experimento funciona mal y Harvey se expone a un gas marcándole el lado izquierdo de su cara y que hace que éste se convierta en Dos Caras.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/batman_vs_two_face-118023855-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rywbh11ocnge'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjdcm5wxffac'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -22,188 +32,124 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rywbh11ocnge'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mariposa Negra</title>
-<fanart>https://s3.amazonaws.com/pelisfox/gallery/original/b03a7c415d0252653e77d25a241ecd74.jpg</fanart>
-<genre>Thriller | Remake | Secuestros / Desapariciones</genre>
-<info>Paul (Antonio Banderas) es un escritor en horas bajas que un día recoge a un vagabundo (Jonathan Rhys Meyers) y le ofrece quedarse con él en su apartada cabaña de madera. Pero el extraño decide tomar a Paul como rehén y lo obliga a escribir todos sus secretos íntimos, enterrados durante años... Remake del thriller francés &quot;Papillon Noir&quot; de Christian Faure.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Planeta De Los Simios: La Guerra  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjkzYjE2NWQtYzFmMC00ZGY1LWJjNzItN2M2YTNmZGFhZmU0XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,864_AL_.jpg</fanart>
+<genre>Ciencia ficción | Aventuras | Bélico | Futuro postapocalíptico | Simios | Secuela | 3-D</genre>
+<info>César y sus monos son forzados a encarar un conflicto mortal contra un ejército de humanos liderado por un brutal coronel. Después de sufrir pérdidas enormes, César lucha con sus instintos más oscuros en una búsqueda por vengar a su especie. Cuando finalmente se encuentren, Cesar y el Coronel protagonizarán una batalla que pondrá en juego el futuro de ambas especies y el del mismo planeta. Tercera película de la nueva saga de El Planeta de los Simios.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/black_butterfly-144647381-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FKO2EMTUID&q=720p</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/war_for_the_planet_of_the_apes-586054910-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FKHLIPTBV7</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Muerte Misteriosa  </title>
-<fanart>https://pics.filmaffinity.com/Muerte_misteriosa-923362418-large.jpg</fanart>
-<genre>Thriller | Intriga | Policíaco | Crimen | Cine independiente USA</genre>
-<info>Una agente del FBI se alía con un veterano rastreador local para investigar un asesinato ocurrido en una reserva de nativos americanos... Ópera prima del guionista de &quot;Sicario&quot; y &quot;Comanchería&quot;.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Persecución Extrema 5  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmFjOGZhOWEtMmQyNC00NGI4LTlhYTYtMjE1YTE2ZDEwYjY3XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_.jpg</fanart>
+<genre>Acción | Thriller | Secuela | Terrorismo</genre>
+<info>The Miz vuelve como Jake Carter, un ex-Marine que sirvió al ejército en el Este Medio y ahora trabaja como paramédico salvando vidas. Después de responder a una llamada de emergencia en un aparcamiento abandonado, Carter tendrá que proteger a un hombre malherido del ataque de una banda de moteros sin escrúpulos. Contra todo pronóstico, Carter tendrá que utilizar sus habilidades como ex-Marine para detener a la banda de moteros antes de que más sangre inocente sea derramada</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/wind_river-870274639-large.jpg</thumbnail>
-<urlsolve>https://rapidvideo.com/v/FKSSLC5JH0</urlsolve>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmNjZmFjNzktZDJlZC00M2U1LTg5MmYtMmY2YzllMzYyMDk3XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_SY1000_CR0,0,695,1000_AL_.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/embed/FKE37S6G8X</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Landline  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmU5YmY2OGMtMGUwMS00Y2M3LTkyODktZWJlODc2ZTQ3Y2MyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjEwNjUzNzU@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
-<genre>Comedia | Años 90 | Adolescencia</genre>
-<info>Una adolescente que vive con su hermana y sus padres en Manhattan durante la década de los noventa descubre que su padre está teniendo un romance.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/landline-361724256-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xx7j27xjf36o'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Una Historia De Venganza   </title>
-<fanart>https://image.tmdb.org/t/p/w1000/9HcXzYUnnwyFu9WSEM2IOxd2VhC.jpg</fanart>
-<genre>Drama | Thriller | Venganza | Aviones | Basado en hechos reales</genre>
-<info>Un padre de familia (Arnold Schwarzenegger) buscará venganza contra el controlador del aeropuerto (Scoot McNairy) responsable del fallecimiento de su mujer e hija. Film basado en hechos reales, en los que en julio de 2002 un avión se estrelló dejando numerosas víctimas mortales.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/aftermath-815196730-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7z76x6b4eiv5'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Atomic Blonde [HD] </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjc1NDJiZmEtYTM0NC00MGQ4LWI3NWYtODMxMzc1OTZmMjY5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg</fanart>
-<genre>Acción | Thriller | Espionaje | Guerra Fría | Años 80 | Cómic</genre>
-<info>Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín oriental. Lorraine no se detendrá ante nada para conseguir dar con esa lista, enfrentándose a varios asesinos y sumergiéndose en un mundo en el que nadie parece ser quien dice ser.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/atomic_blonde-338199948-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FKU1SAHO3C</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Barry Seal: Solo En América  </title>
-<fanart>https://pics.filmaffinity.com/Barry_Seal_Solo_en_Am_rica-856307251-large.jpg</fanart>
-<genre>Thriller | Acción | Comedia | Biográfico | Años 70 | Años 80 | Crimen | Drogas | Espionaje</genre>
-<info>Basada en la vida real de Barry Seal, un expiloto que se convirtió en un importante narcotraficante en el cartel de Medellín y que acabó siendo reclutado por la CIA y el departamento de inteligencia de la DEA. 
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Emoji: La Película  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MTY2NTg1NV5BMl5BanBnXkFtZTgwNjIxNTgyMDI@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<genre>Animación | Comedia | Aventuras | Internet / Informática | 3-D</genre>
+<info>Los protagonistas habitan la misteriosa tierra de Textopolis, donde todos los emojis favoritos de la gente cobran vida, mientras esperan ser seleccionados por el usuario del teléfono. Todos los personajes tienen una sola expresión facial a excepción de Gen (TJ Miller), un emoji que nació sin filtro y se llena de múltiples expresiones. Para lograr ser normal, Gen se embarcará en una aventura o “app-ventura”, junto a sus amigos Hi-5 y Jailbreak. Pero pronto, una gran amenaza hará que el destino de estos personajes dependa de los tres amigos, teniendo que salvar su mundo antes que sea borrado por completo. 
 </info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/american_made-694891692-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h9fxio9bpu55'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
+<thumbnail>https://pics.filmaffinity.com/the_emoji_movie-172311166-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKEVFRC8LL&q=1080p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Meyerowitz: La Familia No Se Elige  </title>
-<fanart>https://pics.filmaffinity.com/Los_Meyerowitz_La_familia_no_se_elige_Historias_nuevas_y_selectas-737092011-large.jpg</fanart>
-<genre>Comedia | Drama | Comedia dramática | Familia</genre>
-<info>Los tres hijos, ya adultos, de un arisco artista neoyorquino se enfrentan a la difícil relación que tienen con su padre y entre ellos. La familia tenía a sus miembros separados, pero se reúnen para un evento que celebra la obra artística de su padre. Allí surgirán conflictos familiares.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Amityville: El Despertar  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMzMxODQ0Nl5BMl5BanBnXkFtZTgwMzA4ODI3MzI@._V1_SY1000_CR0,0,1503,1000_AL_.jpg</fanart>
+<genre>Terror | Thriller | Sobrenatural | Casas encantadas</genre>
+<info>Belle y su familia se mudan a una nueva casa, con el fin de ahorrar dinero para ayudar a pagar el costoso tratamiento de su hermano gemelo que se encuentra en coma. Pero cuando fenómenos extraños empiezan a ocurrir en la casa, incluyendo la recuperación milagrosa de su hermano y pesadillas cada vez más espeluznantes, Belle comienza a sospechar que su madre no le está contando toda la verdad y pronto se da cuenta de que acaban de mudarse a la terrorífica casa de Amityville.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_meyerowitz_stories-137233913-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5kbb6c1gx0i8'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
+<thumbnail>https://pics.filmaffinity.com/amityville_the_awakening-841783296-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FKU20MCDCB</urlsolve>
 </item>
 
+----------------------
+
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nannys nightmare (La ninera perfecta)</title>
-<fanart>https://i.ytimg.com/vi/jJ0HPSouU6M/hqdefault.jpg</fanart>
-<genre>Comedia</genre>
-<info>Summer es diseñadora de interiores, pero no duda en aceptar la oferta de una pareja para trabajar como niñera de su hija Sophie. La niña muestra un comportamiento que llama su atención</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Las Hijas De Abril</title>
+<fanart>https://pics.filmaffinity.com/Las_hijas_de_Abril-270574773-large.jpg</fanart>
+<genre>Drama</genre>
+<info>Valeria tiene 17 años y está embarazada. Vive en Puerto Vallarta con Clara, su media hermana. Valeria  no  ha  querido  que  Abril –la  madre,  que  lleva  mucho  tiempo  ausente– se  entere  del embarazo. Sin embargo Clara, ante la presión económica y las responsabilidades que implica tener un bebé en casa, decide llamarla. Abril llega con disposición de ayudar a sus hijas, pero pronto entenderemos por qué Valeria prefería mantenerla lejos.</info>
 <date>2017</date>
-<thumbnail>http://s.ecrater.com/stores/283985/591927162dfb7_283985n.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/v/FJNARXPZHN&q=720p</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/las_hijas_de_abril-519909378-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FKCCAB7VQ4&q=720p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Annabelle 2: La Creación  </title>
-<fanart>https://pics.filmaffinity.com/Annabelle_2_La_creaci_n-198906112-large.jpg</fanart>
-<genre>Terror | Sobrenatural | Muñecos | Precuela</genre>
-<info>Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una enfermera y un grupo de chicas tratando de convertir su casa en un cálido orfanato. Sin embargo, los nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de &quot;Annabelle&quot; (2014).</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Duro De Cuidar</title>
+<link>http://bit.ly/2xGOpiV</link>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNTE0MzI1Nl5BMl5BanBnXkFtZTgwNDMyMzM0MjI@._V1_SY1000_CR0,0,1617,1000_AL_.jpg</fanart>
+<genre>Acción | Comedia | Buddy Film</genre>
+<info>El prestigioso guardaespaldas Michael Bryce (Ryan Reynolds) recibe un nuevo cliente: un asesino a sueldo, Darius Kincaid (Samuel L. Jackson), que debe testificar en un juicio en La Haya contra un cruel dictador (Gary Oldman).</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/annabelle_creation-692576203-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FJNAMF9W8H&q=720p</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/the_hitman_s_bodyguard-774704433-large.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]My Little Pony: La Película [CAM] </title>
-<fanart></fanart>
-<genre>Animación | Aventuras | Comedia | Fantástico | Infantil | Amistad | Caballos</genre>
-<info>Cuando una fuerza oscura amenaza a Ponyville y el Mane 6, todos se van en un viaje hasta el final de equestria para salvar a su querida casa, y se encuentran con nuevos amigos y peligrosos desafíos a lo largo del camino.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Seductor  </title>
+<fanart>https://pics.filmaffinity.com/El_seductor-181169208-large.jpg</fanart>
+<genre>Drama | Drama romántico | Drama de época | Siglo XIX | Guerra de Secesión</genre>
+<info>Año 1864. Durante la guerra civil norteamericana, la tranquilidad de una escuela femenina de Virginia donde sólo viven mujeres se ve alterada con la llegada de un apuesto soldado confederado herido... Remake de &quot;El seductor&quot;, dirigida por Don Siegel y protagonizada por Clint Eastwood.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/my_little_pony_the_movie-280374488-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FK91T2VHYH&q=360p</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/the_beguiled-462604667-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FK5LVHQTGD</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Torre Oscura  </title>
-<fanart>https://pics.filmaffinity.com/La_Torre_Oscura-981048888-large.jpg</fanart>
-<genre>Fantástico | Western | Ciencia ficción | Western futurista</genre>
-<info>En un mundo extrañamente parecido al nuestro un cowboy de nombre Roland Deschain de Gilead persigue a su eterno enemigo, &quot;el hombre de negro&quot;. Roland, solitario, quizá maldito, anda sin descanso a través de un paisaje triste y abandonado. Conoce a Jake, un chico de Nueva York pero venido de otro tiempo, y ambos unen sus destinos. Ante ellos están las montañas. Y mucho más allá, la Torre Oscura... Adaptación de la saga literaria de Stephen King.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Juego De Gerald  </title>
+<fanart>https://pics.filmaffinity.com/El_juego_de_Gerald-806113257-large.jpg</fanart>
+<genre>Thriller | Intriga | Terror | Supervivencia</genre>
+<info>Jessie (Carla Gugino) y Gerald (Bruce Greenwood) son un matrimonio maduro que viaja a una remota cabaña con la esperanza de revitalizar su deteriorada relación en un sitio apartado y tranquilo. Allí Gerald propone a su mujer un juego sexual: esposarla a la cama para incrementar las sensaciones. Pero cuando éste muere de un infarto, Jessie tendrá que luchar por su supervivencia.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_dark_tower-790489565-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/v/FKPA0YSDNN&q=1080p</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/El_juego_de_Gerald-321060947-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FK5KWME3O2</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Me Gusta, Pero Me Asusta [CAM] </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGY3NTJmYWMtZDBkMy00MTc4LTgwNWQtMjc2NTgwNjM3MTI4L2ltYWdlXkEyXkFqcGdeQXVyNjgzNzQ2MjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
-<genre>Comedia | Romance | Comedia romántica | Familia</genre>
-<info>Dicen que todos los mexicanos somos iguales, pero eso… está por verse. Brayan Rodríguez (Alejandro Speitzer), descendiente de una de las familias más “conocidas” de Sinaloa, es el elegido para conquistar la gran ciudad expandiendo los negocios secretos de su familia. Claudia (Minnie West) es la clásica soñadora confundida, gozando un año sabático mientras “encuentra su vocación”; todo a expensas de su padre. ¿Imaginas qué podría pasar si estos dos mundos se encontraran? Personajes extravagantes, divertidos y llenos de contrastes desencadenarán una historia en donde más de uno nos identificaremos.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nosotros En La Noche  </title>
+<fanart>https://pics.filmaffinity.com/Nosotros_en_la_noche-909776742-large.jpg</fanart>
+<genre>Romance | Vejez | Drama romántico</genre>
+<info>En Colorado, la viuda Addie Moore (Jane Fonda) le hace una visita sorpresa a su vecino Louis Waters (Robert Redford). Su esposo falleció hace años, al igual que su mujer y, a pesar de vivir en un pequeño pueblo y ser vecinos desde hace décadas, mantenían poco contacto. Sus hijos viven lejos y se ven obligados a vivir solos, pero ella quiere entablar una relación y aprovechar al máximo el tiempo que les queda.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/me_gusta_pero_me_asusta-364594343-large.jpg</thumbnail>
-<urlsolve>https://vidoza.net/zm7qxgq8sqdc.html</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/our_souls_at_night-861545876-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FK5L1KJEA2</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Gran Fuga  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjUwNGVhMmMtZDdjYi00YzY4LThhMWItY2IwMzY4ZjVkZjZkXkEyXkFqcGdeQXVyMjIxOTk4Mzg@._V1_SY1000_CR0,0,1436,1000_AL_.jpg</fanart>
-<genre>Acción | Thriller | Coches / Automovilismo</genre>
-<info>Dos hermanos especializados en el robo de automóviles viajan al sur de Francia para probar nuevos horizontes.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The House  </title>
+<fanart>https://pics.filmaffinity.com/The_House-315985690-large.jpg</fanart>
+<genre>Comedia | Juego</genre>
+<info>Una matrimonio se gasta los ahorros que tenían previstos para pagar la universidad de sus hijas, así que para intentar solucionar este grave problema deciden abrir un casino en el sótano de su casa.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/overdrive-331863894-large.jpg</thumbnail>
-<urlsolve>http://gamovideo.com/hiueozw7qngv</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/the_house-537455279-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FK5LEBXIFR</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Siguiente</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cult Of Chucky  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNWZjNzM4YTAtNzc5Ni00MTFmLTg0NzQtYjAzYmZmYTY5YTY4XkEyXkFqcGdeQXVyMzUwOTU4MjE@._V1_.jpg</fanart>
+<genre>Terror | Muñecos | Secuela</genre>
+<info>Nica vive en el manicomio, convencida de que ella fue quien mató a su familia. Como parte de la terapia, su psiquiatra utilizará un muñeco cuya aparición coincidirá con una horrible cadena de asesinatos en el centro. Andy, protagonista de las primeras entregas, reaparecerá para ayudar a Nica, y Tiffany, la novia de Chucky, también se dejará caer por la que es la séptima entrega de la saga.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/cult_of_chucky-141340185-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKXXEYTNGY</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR deepskyblue]Siguiente[/COLOR]</title>
 <link>Http://x.o</link>
-<externallink>http://vodmx.westus2.cloudapp.azure.com/site/g3t_p3l1cul4s.php?tabla=estrenos&amp;cual=2</externallink>
+<externallink></externallink>
 <thumbnail>http://vodmx.westus2.cloudapp.azure.com/logos/siguiente.png</thumbnail>
 <fanart></fanart>
 <SetViewMode>53</SetViewMode>
 </item></items>
-
-
 
