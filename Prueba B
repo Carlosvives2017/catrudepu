@@ -1,187 +1,200 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mi Prima Rachel  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmVkNGQ3N2YtMTM5OS00ZTE4LWJjNTEtNDlmNDUxNmQ3OWEyL2ltYWdlXkEyXkFqcGdeQXVyNDcxNzU3MTE@._V1_.jpg</fanart>
-<genre>Drama | Romance | Drama de época | Venganza | Remake</genre>
-<info>El joven huérfano Phillip Ambrose planea vengarse de una hermosa mujer que ha asesinado a su tutor.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Rápidos Y Furiosos 8  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzOWM3MDAtYWU4MC00ZTdkLWJmZWYtM2I5OTQ5MDA5YmU3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SY899_CR0,0,1776,899_AL_.jpg</fanart>
+<genre>Acción | Thriller | Coches / Automovilismo | Secuela</genre>
+<info>Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él. A partir de ese momento todos se enfrentarán a pruebas como nunca antes habían tenido. Desde las costas de Cuba y las calles de Nueva York hasta las llanuras del mar de Barents en el océano Ártico, nuestra fuerza de élite recorrerá el globo para impedir que un anarquista desencadene el caos en el mundo... y por supuesto para traer de vuelta a casa al hombre que les hizo una familia.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/Mi_prima_Rachel-354057817-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/embed/FIWNFSZ5GF</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/the_fate_of_the_furious-720946563-large.jpg</thumbnail>
+<urlsolve>https://openload.co/embed/xiNUY_Omzd0/</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Las Aventuras Del Capitán Calzoncillos  </title>
-<fanart>https://pics.filmaffinity.com/Las_aventuras_del_Capit_n_Calzoncillos-477809265-large.jpg</fanart>
-<genre>Animación | Comedia | Infantil | Superhéroes | 3-D</genre>
-<info>Dos escolares traviesos hipnotizan al director del colegio para convertirlo en su héroe de cómic: Capitán Calzoncillos. Jorge y  Berto son super buenos amigos y pasan sus días creando cómics y soñando con bromas. Un día, hipnotizan accidentalmente al *dire* de su escuela, el Sr. Krupp, que a partir de entonces se cree que es el Capitán Calzoncillos, un súperhéroe malhumorado cuyo traje consiste en ropa interior y una capa. Por si esto no fuera suficientemente malo, su nuevo maestro es un malvado científico maldito dispuesto a exigir su venganza en la escuela. Jorge, Berto y el Capitán Calzoncillos deberán entonces unirse para frustrar su malvado plan.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Valerian Y La Ciudad De Los Mil Planetas [TS-HQ] </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDVjNWJiMjctNmE3Ny00NjdkLWFmOWQtOTE5YjRjMGE3MTFkXkEyXkFqcGdeQXVyNjcwNTE5MTE@._V1_.jpg</fanart>
+<genre>Ciencia ficción | Acción | Romance | Aventura espacial | Cómic</genre>
+<info>En el siglo XXVIII, Valerian (Dane DeHaan) y Laureline (Cara Delevingne) son un equipo de agentes espaciales encargados de mantener el orden en todos los territorios humanos. Bajo la asignación del Ministro de Defensa, se embarcan en una misión hacia la asombrosa ciudad de Alpha, una metrópolis en constante expansión, donde especies de todo el universo han convergido durante siglos para compartir conocimientos, inteligencia y culturas. Pero hay un misterio en el centro de Alpha, una fuerza oscura amenaza la paz en la Ciudad de los Mil Planetas. Valerian y Laureline deben luchar para identificar la amenaza y salvaguardar el futuro, no sólo el Alfa, sino del universo.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/captain_underpants_the_first_epic_movie-413756520-large.jpg</thumbnail>
-<urlsolve>https://vidoza.net/embed-3xfmr5alnnir.html</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/valerian_and_the_city_of_a_thousand_planets-459268698-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/781jsb6adoid'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The Monster Project [CAM] </title>
-<fanart></fanart>
-<genre>Terror | Acción | Cine independiente USA</genre>
-<info>Unos directores de cine ponen un anuncio para un casting de monstruos reales, para su documental *The Monster Project*. Encuentran a tres que dicen ser un hombre bestia, un vampiro y un demonio. Los directores piden a estos tres individuos que cuenten sus experiencias. En el equipo trabaja un drogadicto que se está rehabilitando y que cree que sus compañeros subestiman el poder de estos seres. Cuando de repente todo se complica, él tendrá que luchar para sobrevivir.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dunkerque</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMjQyNDU2Ml5BMl5BanBnXkFtZTgwODgyNDY4MjI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<genre>Bélico | Drama | II Guerra Mundial | Supervivencia | Histórico | Basado en hechos reales</genre>
+<info>Año 1940, en plena II Guerra Mundial. En las playas de Dunkerque, cientos de miles de soldados de las tropas británicas y francesas se encuentran rodeados por el avance del ejército alemán, que ha invadido Francia. Atrapados en la playa, con el mar cortándoles el paso, las tropas se enfrentan a una situación angustiosa que empeora a medida que el enemigo se acerca.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_monster_project-401039962-large.jpg</thumbnail>
-<urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qNjVoZXdGRGlNX1E</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/dunkirk-461720087-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5x6svfs5g6q7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Empeliculados  </title>
-<fanart></fanart>
-<genre>Comedia</genre>
-<info>Jorge, un director de cine soñador con pocos pesos en el bolsillo y Andrés, un actor venido a menos al que no lo reconoce ni su mamá, llevan años intentando hacer su primera película. Cuando su sueño se desmorona, Jorge y Andrés deciden ocultarle la verdad a sus compañeros de proyecto, quienes son también sus mejores amigos. Ambos, terminarán embarcándose en una serie de ocurrencias disparatadas para conseguir el dinero y sostener su mentira.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La Increíble Jessica James  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NDM0ODY2MDdeQTJeQWpwZ15BbWU4MDc2NTgxOTAy._V1_SY1000_CR0,0,1596,1000_AL_.jpg</fanart>
+<genre>Comedia | Cine independiente USA</genre>
+<info>Jessica James, una joven autora teatral de Nueva York, acaba de romper con su pareja. Rota y con ganas de olvidar y seguir con su vida, Jessica entabla una improbable relación con un diseñador de aplicaciones divorciado que conoce en una cita a ciegas a través de Tinder. </info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/empeliculados-253288632-large.jpg</thumbnail>
-<urlsolve>https://drive.google.com/open?id=0B4qMIpsKySAFZEpDQWRCTnFnVXc</urlsolve>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zona Hostil  </title>
-<fanart>https://pics.filmaffinity.com/Zona_hostil-716805558-large.jpg</fanart>
-<genre>Bélico | Guerra de Afganistán | Ejército | Basado en hechos reales</genre>
-<info>A un convoy americano escoltado por la Legión española le estalla una mina al norte de Afganistán, y el inexperto Teniente Conte (Raúl Mérida) queda al mando de una dotación para proteger a los heridos hasta que los evacuen. La capitán Varela (Ariadna Gil), médico militar, acude al rescate en un helicóptero del Ejército Español, pero el terreno cede durante el aterrizaje y el helicóptero vuelca, dejando a los rescatadores atrapados junto a los legionarios en medio de la nada. El impulsivo Comandante Ledesma (Antonio Garrido) propone un arriesgado plan para rescatarlos a todos y, además, llevarse el aparato siniestrado.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/zona_hostil-925160082-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/martin-macfly/mvb1s-35tr3n05-17-77769/20na-o5t1l,1318931,list,1,1.mp4&amp;mode=70&amp;episodio=Zona Hostil [PELICULAS CASTELLANO] </link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Bar  </title>
-<fanart>https://pics.filmaffinity.com/El_bar-695221906-large.jpg</fanart>
-<genre>Thriller | Intriga</genre>
-<info>9:00 horas. Un grupo de personas absolutamente heterogéneo desayuna en un bar en el centro de Madrid. Uno de ellos tiene prisa; al salir por la puerta recibe un disparo en la cabeza. Nadie se atreve a socorrerle. Están atrapados.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/El_bar-629716188-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/martin-macfly/mvb1s-35tr3n05-17-77769/br,1312975,list,1,1.mp4&amp;mode=70&amp;episodio=El Bar [PELICULAS CASTELLANO] </link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Hasta Que El Cuerpo Aguante  </title>
-<fanart>https://image.tmdb.org/t/p/original/dIeMj3ywYAffE0BpFF3F6nbbzVF.jpg</fanart>
-<genre>Comedia | Comedia negra | Amistad</genre>
-<info>Cinco amigas de la universidad se reúnen después de 10 años para una despedida de soltera en Miami. La fiesta se les va de las manos cuando por accidente matan a un stripper. En su intento por ocultarlo, verán cómo su relación se estrecha y estarán más unidas que nunca.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/Hasta_que_el_cuerpo_aguante-206405908-large.jpg</thumbnail>
-<link>$doregex[getUrl]</link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Beatriz At Dinner  </title>
-<fanart>https://pics.filmaffinity.com/Beatriz_at_Dinner-535364161-large.jpg</fanart>
-<genre>Comedia | Racismo</genre>
-<info>Beatriz es una mujer hispana que practica la medicina sanadora &quot;alternativa?&quot;. Un día, tras averiarse su coche en casa de uno de sus clientes millonarios, se une como invitada a una fiesta en esa vivienda en la que estarán solo norteamericanos.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/beatriz_at_dinner-851804780-large.jpg</thumbnail>
-<link>$doregex[getUrl]</link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Desnudo  </title>
-<fanart>https://pics.filmaffinity.com/Desnudo-432776752-large.jpg</fanart>
-<genre>Comedia | Bodas</genre>
-<info>Cada vez que Rob Anderson está a punto de casarse con la mujer de sus sueños, se despierta desnudo en el ascensor de un hotel reviviendo el día de su boda.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/naked-127358184-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/martin-macfly/mvb1s-35tr3n05-17-77769/nk3t,1256430,list,1,1.mp4&amp;mode=70&amp;episodio=Desnudo [PELICULAS LATINO] </link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Guardianes De La Galaxia Vol.2  </title>
-<fanart>http://img-youpeliculas.com/images/2017/02/04/2BsHzv.jpg</fanart>
-<genre>Ciencia ficción | Aventuras | Acción | Comedia | Aventura espacial | Superhéroes | Cómic | Marvel Comics | Secuela | 3-D</genre>
-<info>Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el universo cinematográfico de Marvel continúa expandiéndose. 
-</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/guardians_of_the_galaxy_vol_2-755407784-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/martin-macfly/mvb1s-35tr3n05-17-77769/6vrd1an5-6a1x1a-2,1244724,list,1,1.mkv&amp;mode=70&amp;episodio=Guardianes De La Galaxia Vol.2 [PELICULAS LATINO] </link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]3 Idiotas  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NjQ3Nzc5M15BMl5BanBnXkFtZTgwNTc0NjkxMjI@._V1_.jpg</fanart>
-<genre>Comedia | Romance | Comedia romántica | Amistad | Colegios & Universidad | Enseñanza | Remake</genre>
-<info>Un grupo de amigos se embarcan en una aventura para encontrar a un compañero de la Universidad, quien desapareció el día de la graduación sin dejar rastro.
-
-Adaptación mexicana de “3 Idiots”, película dirigida por Rajkumar Hirani y que rompió récords en taquilla dentro y fuera de la India.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/3_idiotas-394677796-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/martin-macfly/mvb1s-35tr3n05-17-77769/7r35-1d1075,1314808,list,1,1.mkv&amp;mode=70&amp;episodio=3 Idiotas [PELICULAS LATINO] </link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Sr. Wakefield  </title>
-<fanart>https://www.film.ru/sites/default/files/movies/frames/19684052-973970.jpg</fanart>
-<genre>Drama | Secuestros | Desapariciones</genre>
-<info>Un hombre estresado y harto de su monótona vida decide abandonar a su familia para vivir en el ático de su casa durante meses sin que nadie lo sepa, considerándole tanto la policía como su familia una persona "desparecida".</info>
-<date>2017</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3ODY5MzE4Nl5BMl5BanBnXkFtZTgwNjcxNTgxMjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<link>$doregex[getUrl]</link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Shot Caller  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTA3MTExOF5BMl5BanBnXkFtZTgwMTM4MjA2MjI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
-<genre>Thriller | Drama | Crimen | Drama carcelario</genre>
-<info>Un hombre tranquilo y familiar es condenado a prisión tras causar un accidente que acaba con la vida de una persona. Para poder sobrevivir en la cárcel, tiene que convertirse en un hombre duro y asociarse con una peligrosa banda de gangsters.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/shot_caller-179623735-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/martin-macfly/mvb1s-5vb5-78857/5h0t-k113r-17,1228297,list,1,1.mkv&amp;mode=70&amp;episodio=Shot Caller [PELICULAS SUBTITULADAS] </link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Caso De Cristo  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZWEyOTgzM2ItN2VmOC00MWM0LWI2MTEtNDBlZDUxZTY1YWJiXkEyXkFqcGdeQXVyNjAwOTYzMjM@._V1_SX1777_CR0,0,1777,937_AL_.jpg</fanart>
-<genre>Drama | Cine independiente USA | Periodismo | Religión | Basado en hechos reales</genre>
-<info>Basada en la historia real de un galardonado periodista, investigador -y ateo declarado- (Lee Strobel) que aplica sus habilidades periodísticas y legales para desacreditar la nueva fe cristiana de su esposa para salvar su matrimonio que se desmorona. Lee se encuentra cara a cara con resultados inesperados que podrían cambiar todo lo que cree que es verdad.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_case_for_christ-914910688-large.jpg</thumbnail>
-<link>$doregex[getUrl]</link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]En La Mira Del Francotirador  </title>
-<fanart>https://pics.filmaffinity.com/En_la_mira_del_francotirador-473553989-large.jpg</fanart>
-<genre>Bélico | Guerra de Iraq</genre>
-<info>Narra un duelo en medio de un paraje desértico entre un francotirador estadounidense y otro iraquí.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_wall-550853778-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/martin-macfly/mvb1s-5vb5-78857/de-ull-17,1233884,list,1,1.mkv&amp;mode=70&amp;episodio=En La Mira Del Francotirador [PELICULAS SUBTITULADAS] </link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Todos Queremos A Alguien  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BM2ExZjRlMmItY2RkYy00ZjkzLWE5NTYtMGExMDYzODA4ZWFkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,744_AL_.jpg</fanart>
-<genre>Comedia | Romance | Comedia romántica</genre>
-<info>Parecería que la joven y hermosa Clara Barrón (Karla Souza) lo tiene todo, un gran trabajo; una gran casa en Los Angeles y una amorosa familia que ama la diversión. Lo que no tiene claro en su vida es el amor.
-
-Presionada en asistir a una boda en México, Clara pide a un compañero de trabajo que la acompañe y se haga pasar por su novio cuando es sorprendida por su ex novio (Chema Yazpik), muy querido por su familia, quien aparece después de haber estado ausente por completo de su vida.
-
-Confundida, Clara tiene que decidir entre regresar al pasado o abrir su corazón para nuevas e inesperadas posibilidades. En una aventura llena de risas, ella aprende que a veces su loca familia puede ayudarla a encontrar el amor.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/todos_queremos_a_alguien-648082628-large.jpg</thumbnail>
-<link>$doregex[getUrl]</link>
+<thumbnail>https://pics.filmaffinity.com/the_incredible_jessica_james-487371871-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FI2X8E2PSD&q=720p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Ícaro  </title>
-<fanart>https://pics.filmaffinity.com/caro-423565177-large.jpg</fanart>
-<genre>Documental | Documental deportivo</genre>
-<info>La investigación sobre dopaje deportivo conduce al juego del gato y el ratón cuando un ciclista estadounidense y un experto ruso destapan un escándalo internacional.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cómo Ser Un Latin Lover  </title>
+<fanart>https://s3.amazonaws.com/pelisfox/gallery/original/fc50a1e357b2262938f5599fe1676223.jpg</fanart>
+<genre>Comedia | Familia</genre>
+<info>Máximo, un gigoló especializado en la seducción de mujeres ancianas ricas,  se casa con una mujer que le dobla en edad. Veinticinco años después, harto y aburrido de despertar junto a su esposa de 80 años, recibe la sorpresa de su vida cuando ella termina abandonándolo. Forzado a salir de su mansión y buscando desesperadamente dónde quedarse, deberá mudarse con su distante hermana Sara y su adorable hijo nerd Hugo,  en su pequeño departamento.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/caro-807322895-large.jpg</thumbnail>
-<urlsolve>https://drive.google.com/open?id=0B4qMIpsKySAFMmVPQWc0d0RGUkk</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/how_to_be_a_latin_lover-107347649-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rni9h4gzxjku'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Un Don Excepcional  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMmE2NDMxMDgtNjA2Mi00NjZhLThmODMtMmJmNzM5MTQyNjk4XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,1482,1000_AL_.jpg</fanart>
+<genre>Drama | Infancia | Familia | Matemáticas</genre>
+<info>La película narra la historia de un hombre que debe hacerse cargo de su sobrina ante el fallecimiento de su hermana. La situación se complica cuando debe luchar por la custodia de la niña.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/gifted-648673583-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/id48kj52oh87'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Rey Arturo: La Leyenda De La Espada  </title>
+<fanart>https://image.tmdb.org/t/p/w1000/rX81lqj7mcMwXmIWtOuJlKkTj84.jpg</fanart>
+<genre>Fantástico | Acción | Edad Media | Capa y espada | Espada y brujería</genre>
+<info>Arturo es un joven intrépido que dirige a su pandilla por los callejones de Londonium. Tras sacar la espada de Excalibur, se verá obligado a tomar algunas duras decisiones. Junto a una misteriosa mujer llamada Guinevere, deberá aprender a manejar la espada, vencer a sus demonios y unir al pueblo para derrotar al tirano Vortigern, quien robó su corona y asesinó a sus padres antes de convertirse en rey.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/king_arthur_legend_of_the_sword-708491642-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/02vul0b43ro9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Un Golpe Con Estilo  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3NjgxOTQ1Nl5BMl5BanBnXkFtZTgwNTg1MzI5MTI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<genre>Comedia | Robos & Atracos | Vejez | Remake</genre>
+<info>Tres jubilados a los que el sistema les ha quitado el plan de pensiones planean atracar un banco para recuperar su dinero.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/going_in_style-193065040-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/uypw958kz9k4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Un Jefe En Pañales   </title>
+<fanart>https://image.tmdb.org/t/p/original/gkZOUZpM4F6hceQ8xE6TEdrGJgT.jpg</fanart>
+<genre>Animación | Comedia | Infantil | 3-D</genre>
+<info>La llegada de un hermanito trastoca por completo la idílica vida del pequeño Tim, hasta entonces hijo único de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebé, que viste traje y corbata y lleva maletín. Tim comienza a sospechar de él, hasta que descubre que puede hablar.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_boss_baby-993580095-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5gm5m304j6nh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Wilson  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDY0NTdiYzgtMDM2My00MmNhLTk3NGItY2I5MTdiZWNmYzhjXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,1709,1000_AL_.jpg</fanart>
+<genre>Comedia | Cine independiente USA</genre>
+<info>Tras la muerte de su padre, Wilson, más solo que nunca, se propone encontrar a su ex mujer y recuperar su relación; de ese modo descubre que tiene una hija adolescente que nació tras la ruptura de su matrimonio y que fue dada en adopción. Wilson fuerza el reencuentro con su ex mujer y su desconocida hija, pero el soñado encuentro se alejará bastante de un final feliz.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/wilson-718903309-large.jpg</thumbnail>
+<urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qTnliekQ3YjB4aDA</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Casi Leyendas  </title>
+<fanart>https://image.tmdb.org/t/p/original/iVbFcVfw7UCvH6F5BwlKT8kY6Qd.jpg</fanart>
+<genre>Comedia | Amistad | Música | Años 90</genre>
+<info>Axel, un español muy particular, decide emprender la búsqueda de sus ex compañeros en Buenos Aires. Hace 25 años formaron un grupo musical que estuvo a punto de ser famoso pero, por misteriosas razones, nunca lo logró. Ahora Axel va a tener que reencontrarse con Javier, un profesor que no logra comunicarse con su hijo adolescente, y Lucas, un presumido y mujeriego abogado que pierde su trabajo de un día para el otro. Los espera un doble desafío: ser la banda que siempre soñaron y, de paso, intentar solucionar sus calamitosas vidas.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/casi_leyendas-429861083-large.jpg</thumbnail>
+<urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qQUtDY2dyNmxvalU</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]What The Health  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjBiMDQ2N2YtMzcxZC00ZjJkLTg0YjktMWUwMmM3MGIxMDM0XkEyXkFqcGdeQXVyMjg1Nzk2MzY@._V1_.jpg</fanart>
+<genre>Documental</genre>
+<info>Un cineasta intrépido en un viaje de descubrimiento consigue encontrar posiblemente el secreto de salud más grande de nuestro tiempo.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/what_the_health-477396522-large.jpg</thumbnail>
+<urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qMHJHM1Z1OXJHVTg</urlsolve>
 </item>
 
 <item>
