@@ -10,36 +10,25 @@
 <urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qa1JZbXQ3Rjh6aGc</urlsolve>
 </item>
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mío O De Nadie  </title>
 <fanart>https://image.tmdb.org/t/p/w1000/hrxNhJR5C4i9PdL5mNGxtAD9IYI.jpg</fanart>
 <genre>Thriller | Celos</genre>
 <info>Una mujer (Katherine Heigl) comienza a hacer la vida imposible a la nueva esposa (Rosario Dawson) de su ex marido.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/unforgettable-798026776-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/macacos123/marvinos-movies-2017-75087/mndie-72p,1143097,list,1,5.mkv&amp;mode=70&amp;episodio=Mio O De Nadie [PELICULAS LATINO] </link>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Conectados  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZDljOGQ0OGItNDFjYy00MDIwLWI3NmEtNTYzM2UwZmZiYzc5XkEyXkFqcGdeQXVyNzA1MzEyNjI@._V1_.jpg</fanart>
-<genre>Drama</genre>
-<info>La historia gira en torno a Olivia y Matthew Grey, gemelos de 18 años de edad, nacidos en un mundo de privilegios y altas expectativas. Casi no hay límites entre ellos, incluso sus sueños están conectados. Los gemelos se preparan para su último año de instituto juntos, pero una tragedia inesperada los separa.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/feed-205082091-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/macacos123/marvinos-movies-2017-75087/feed-2017-720p-lat-mp4,1243393,list,1,3.mp4&amp;mode=70&amp;episodio=Conectados [PELICULAS LATINO] </link>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Mesa 19   </title>
-<fanart>https://imgs.repelisplus.com/sys/gallery/v2/1tn0nxi5ggub06fhrumx3urpwc9mq4ihnv71ifwplg.jpg</fanart>
-<genre>Comedia | Bodas</genre>
-<info>Los miembros de una mesa de gente que nadie quiere en una boda, compuesta por invitados  que no encajan en ninguna de las otras mesas, deciden hacer algo al respecto.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/table_19-583908162-large.jpg</thumbnail>
-<urlsolve>https://streamango.com/embed/spsrdtqdnmbcernp/Table_19_2017_-_Lat_1080p_RARBG_avi_mp4</urlsolve>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lc1qdqsubl0r'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
@@ -49,49 +38,40 @@ item>
 <info>Tras la invasión de Irak en 2003, un destacamento de soldados debe acometer una peligrosa misión: reparar el sistema de agua de una aldea en la que no son bien recibidos.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/sand_castle-743342489-large.jpg</thumbnail>
-<urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qYS15b0R6R0poQmM</urlsolve>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/iaw2jlhi4fk1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+
 </item>
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Ya No Me Siento A Gusto En Este Mundo   </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NjIyNzY2OV5BMl5BanBnXkFtZTgwMjY4NDE5MDI@._V1_SY1000_CR0,0,1571,1000_AL_.jpg</fanart>
 <genre>Thriller | Comedia | Comedia negra | Cine independiente USA</genre>
 <info>Cuando una mujer deprimida sufre un robo en su casa, encuentra un nuevo sentido a su vida persiguiendo a los ladrones junto a su peculiar vecino.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/i_don_t_feel_at_home_in_this_world_anymore-853360487-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/macacos123/marvinos-movies-2017-75087/idntfieathmeanymrk17180,1146462,list,4,6.mp4&amp;mode=70&amp;episodio=Ya No Me Siento A Gusto En Este Mundo  [PELICULAS LATINO] </link>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Desaparecido En Venice Beach  </title>
-<fanart>https://image.tmdb.org/t/p/original/qCiJk1n6qEuwYqBLfbeR74MZCZ6.jpg</fanart>
-<genre>Acción | Thriller | Comedia</genre>
-<info>Steve Ford (Bruce Willis) es un investigador privado de Los Ángeles que deberá enfrentarse a una banda de gangsters para rescatar a su perro.</info>
-<date>2017</date>
-<thumbnail>https://image.tmdb.org/t/p/original/vjY4gTcdGFK0SulDX8xgHdJhTNZ.jpg</thumbnail>
-<urlsolve>https://streamango.com/embed/mesqeptptlmbeqpq/0nc3_up0n_4_t1m3_1n_v3n1c3_2017_hdrip_720p_subespmp4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Síndrome De Berlín   </title>
-<fanart>https://pics.filmaffinity.com/El_s_ndrome_de_Berl_n-493634303-large.jpg</fanart>
-<genre>Thriller</genre>
-<info>Un apasionado romance de vacaciones se transforma en una relación obsesiva en la que una periodista australiana se despierta una mañana en un apartamento de Berlín y no puede marcharse.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/berlin_syndrome-710760974-large.jpg</thumbnail>
-<urlsolve>https://streamango.com/embed/etqtebkmsmcrdefb/BerlinSyndrome(2017)-V.O.1080p.mkv.mp4</urlsolve>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Los Elegidos  </title>
-<fanart></fanart>
-<genre>Ciencia ficción</genre>
-<info>Cinco amigos se van de vacaciones a una casa cerca de un lago y descubren que la Tierra está sufriendo una invasión alienígena.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_recall-294838770-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/macacos123/marvinos-movies-2017-75087/recla-72p,1237754,list,4,3.mkv&amp;mode=70&amp;episodio=Los Elegidos [PELICULAS LATINO] </link>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/se0r2afskti1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
@@ -101,7 +81,18 @@ item>
 <info>En una escapada romántica a Islandia, una joven pareja americana se despierta una mañana para descubrir que cada persona en la tierra ha desaparecido. Su lucha por sobrevivir y reconciliar el misterioso acontecimiento los lleva a reconsiderar todo lo que saben de sí mismos y del mundo.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/bokeh-313995273-large.jpg</thumbnail>
-<urlsolve>https://ok.ru/videoembed/259590326918</urlsolve>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0t0mei6mb5jb'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
@@ -134,15 +125,14 @@ item>
 <urlsolve>https://drive.google.com/open?id=0B-e5sL1moR0qSmFLbEY3XzhjQW8</urlsolve>
 </item>
 
-item>
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Mago De Las Mentiras   </title>
 <fanart>https://image.tmdb.org/t/p/w1000/ptujfrTwUddG7XUaku68myChjBS.jpg</fanart>
 <genre>Drama | Telefilm | Bolsa & Negocios | Biográfico</genre>
 <info>Narra la historia del inversor Bernie Madoff y su estafa Ponzi piramidal.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/the_wizard_of_lies_tv-638307721-large.jpg</thumbnail>
-<externallink></externallink>
-<link>plugin://plugin.video.vodmx/?url=http://diskokosmiko.mx/macacos123/marvinos-movies-2017-75087/emgras-72p,1177827,list,4,5.mkv&amp;mode=70&amp;episodio=El Mago De Las Mentiras  [PELICULAS LATINO] </link>
+<urlsolve>https://www.rapidvideo.com/e/FK5LHGN5XA</urlsolve>
 </item>
 
 <item>
@@ -167,16 +157,6 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The Hunter’s Prayer   </title>
-<fanart>https://image.tmdb.org/t/p/w1000/irmU3V64pdsLzIHM33G4pZ7RhIt.jpg</fanart>
-<genre>Acci n | Thriller | Venganza</genre>
-<info>Estando de vacaciones en el extranjero, la estudiante universitaria Ella Hatto (Odeya Rush) descubre que toda su familia ha sido asesinada. Cuando ella va a correr el mismo destino, es salvada por un antiguo mercenario, Stephen Lucas (Sam Worthington). Ella entonces se unir  a  l para intentar dar caza a los responsables.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_hunter_s_prayer-145899313-large.jpg</thumbnail>
-<urlsolve>http://player.vimple.ru/iframe/cc72e5b8-b4f9-458e-b20b-c8c2c56318aa</urlsolve>
-</item>
-
-<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Xx: Pasión Por El Horror  </title>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NzU0NTk5Ml5BMl5BanBnXkFtZTgwMTYxNjY5MDI@._V1_SX1777_CR0,0,1777,743_AL_.jpg</fanart>
 <genre>Terror | Película de episodios</genre>
@@ -193,7 +173,18 @@ item>
 <info>En los márgenes del río Baztán, en tierras de Navarra, aparece el cuerpo desnudo de una adolescente en circunstancias que relacionan ese crimen con un asesinato ocurrido un mes atrás. La inspectora Amaia Salazar dirige la investigación, la cual le llevará de vuelta al pueblo de Elizondo, donde ella creció y del que ha tratado de huir toda su vida. Enfrentada con las complicadas derivaciones del caso y sus propios fantasmas, la investigación de Amaia es una carrera contrarreloj para dar con un implacable asesino, en una tierra fértil en supersticiones y brujería.</info>
 <date>2017</date>
 <thumbnail>https://pics.filmaffinity.com/el_guardian_invisible-726992780-large.jpg</thumbnail>
-<urlsolve>https://streamango.com/embed/mcdstqfrnktckqed/El_guardian_invisible_HDR_Castellano_avi_mp4</urlsolve>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mdlqiz1p0ci9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
@@ -207,13 +198,11 @@ item>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR deepskyblue]Siguiente[/COLOR]</title>
-<link>Http://x.o</link>
-<externallink></externallink>
-<thumbnail>http://2.bp.blogspot.com/-i4YLlSBG_vA/WfvMHwVl0FI/AAAAAAAACJU/gvunHl1b6-4UxdnB8wKwvTaWVnNMtgtIgCK4BGAYYCw/s1600/sigiente.jpg</thumbnail>
-<fanart></fanart>
-<SetViewMode>53</SetViewMode>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Running Wild  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNzIxOTE4OF5BMl5BanBnXkFtZTgwNjMwNDU4MDI@._V1_SX1777_CR0,0,1777,668_AL_.jpg</fanart>
+<genre>Drama | Cine independiente USA</genre>
+<info>Stella Davis, es una viuda que salva su rancho trabajando con convictos para rehabilitar una manada de caballos salvajes que vagaban por su propiedad. Stella debe luchar contra los prejuicios, la avaricia, la burocracia y la vanidad (incluida la suya) para comprender finalmente que no hay mejor remedio para la desgracia que ayudar a a los demás.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/running_wild-824785022-large.jpg</thumbnail>
+<urlsolve>http://streamcloud.eu/mck47xonsoj8</urlsolve>
 </item>
-
-
-
