@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Objetivo: Hasselhoff  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNmJkNTk0NDktMGJiYS00ZTYyLTk2MDYtYTNhM2FhMzMzNmZhXkEyXkFqcGdeQXVyMTk5MjkzMjU@._V1_SX1777_CR0,0,1777,952_AL_.jpg</fanart>
-<genre>Acción | Comedia</genre>
-<info>El propietario de un nightclub trata de pagar un préstamo que debe a un implacable prestamista.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El último Virrey De La India  </title>
+<fanart>https://pics.filmaffinity.com/El_ltimo_virrey_de_la_India-947058482-large.jpg</fanart>
+<genre>Drama | Histórico | Años 40 | Colonialismo</genre>
+<info>En 1947, Lord Mountbatten asume el puesto de último virrey de la India, con el mandato de transferir la soberanía a su pueblo. En su residencia viven arriba los gobernantes británicos, mientras 500 criados hindúes, musulmanes y sijs viven abajo.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/killing_hasselhoff-704136530-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/v/FJRSCXERJT&q=720p</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/El_ltimo_virrey_de_la_India-675221312-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FJR3ZOUG9X&q=720p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Batman Vs. Dos Caras  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhmYjVkN2UtMDRiZi00YTAzLTg5MGQtZGQyMGRiODY1MGUxXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_.jpg</fanart>
-<genre>Animación | Acción | Comedia | Superhéroes | Cómic | DC Comics | Secuela</genre>
-<info>En la Penitenciaría de Gotham, en presencia de Batman, Robin y el Fiscal de Distrito Harvey Dent, el Dr. Hugo Strange y su asistente, Dr. Harleen Quinzel, realizan un experimento en cinco presos; Joker, Penguin, Riddler, Egghead y Mr. Freeze en un intento de eliminar su mal con una máquina llamada Evil Extractor. El experimento funciona mal y Harvey se expone a un gas marcándole el lado izquierdo de su cara y que hace que éste se convierta en Dos Caras.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Spider-man: De Regreso A Casa  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYzcyYzg3ZDctN2Y2Zi00ZDc4LWJlODQtNzRmYTY0YWE1MzIyXkEyXkFqcGdeQXVyNjIzMDA2NjE@._V1_.jpg</fanart>
+<genre>Fantástico | Acción | Comedia | Ciencia ficción | Superhéroes | Cómic | Marvel Comics | Adolescencia | 3-D</genre>
+<info>Peter Parker (Tom Holland) comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía (Marisa Tomei). Bajo la atenta mirada de su mentor Tony Stark (Robert Downey Jr.), Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture (Michael Keaton) y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/batman_vs_two_face-118023855-large.jpg</thumbnail>
+<thumbnail>https://pics.filmaffinity.com/spider_man_homecoming-336093112-large.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjdcm5wxffac'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rgxa5ran66tu'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -32,124 +32,131 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vjdcm5wxffac'
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Planeta De Los Simios: La Guerra  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjkzYjE2NWQtYzFmMC00ZGY1LWJjNzItN2M2YTNmZGFhZmU0XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,864_AL_.jpg</fanart>
-<genre>Ciencia ficción | Aventuras | Bélico | Futuro postapocalíptico | Simios | Secuela | 3-D</genre>
-<info>César y sus monos son forzados a encarar un conflicto mortal contra un ejército de humanos liderado por un brutal coronel. Después de sufrir pérdidas enormes, César lucha con sus instintos más oscuros en una búsqueda por vengar a su especie. Cuando finalmente se encuentren, Cesar y el Coronel protagonizarán una batalla que pondrá en juego el futuro de ambas especies y el del mismo planeta. Tercera película de la nueva saga de El Planeta de los Simios.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Libro De Henry HD </title>
+<fanart>https://pics.filmaffinity.com/The_Book_of_Henry-906595954-large.jpg</fanart>
+<genre>Drama | Familia</genre>
+<info>Una madre soltera, Susan, cría a dos niños, uno de ellos, Henry, es un genio. Susan descubre que la familia de al lado, donde vive Christina, una de las amigas de Henry, tiene secretos y que su hijo ha elaborado un plan para ayudar a Christina. </info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/war_for_the_planet_of_the_apes-586054910-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/v/FKHLIPTBV7</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/the_book_of_henry-832824680-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FJZ6U9QM3W&q=1080p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Persecución Extrema 5  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmFjOGZhOWEtMmQyNC00NGI4LTlhYTYtMjE1YTE2ZDEwYjY3XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_.jpg</fanart>
-<genre>Acción | Thriller | Secuela | Terrorismo</genre>
-<info>The Miz vuelve como Jake Carter, un ex-Marine que sirvió al ejército en el Este Medio y ahora trabaja como paramédico salvando vidas. Después de responder a una llamada de emergencia en un aparcamiento abandonado, Carter tendrá que proteger a un hombre malherido del ataque de una banda de moteros sin escrúpulos. Contra todo pronóstico, Carter tendrá que utilizar sus habilidades como ex-Marine para detener a la banda de moteros antes de que más sangre inocente sea derramada</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Enredados Otra Vez  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNGI3NTZhMjMtOGI0My00ZGVlLWFjYzYtZWFjZGYyNTU3YTk5XkEyXkFqcGdeQXVyMjg1MTU1NjI@._V1_.jpg</fanart>
+<genre>Animación | Comedia | Fantástico | Secuela | Mediometraje | Telefilm</genre>
+<info>¡Mientras Rapunzel se prepara para su coronación como Princesa de Corona, una noche inolvidable cambiará su pelo otra vez!</info>
 <date>2017</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmNjZmFjNzktZDJlZC00M2U1LTg5MmYtMmY2YzllMzYyMDk3XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_SY1000_CR0,0,695,1000_AL_.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/embed/FKE37S6G8X</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/tangled_before_ever_after_tv-181964752-large.jpg</thumbnail>
+<urlsolve>http://streamcloud.eu/p8dbvn0l135w</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Emoji: La Película  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MTY2NTg1NV5BMl5BanBnXkFtZTgwNjIxNTgyMDI@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
-<genre>Animación | Comedia | Aventuras | Internet / Informática | 3-D</genre>
-<info>Los protagonistas habitan la misteriosa tierra de Textopolis, donde todos los emojis favoritos de la gente cobran vida, mientras esperan ser seleccionados por el usuario del teléfono. Todos los personajes tienen una sola expresión facial a excepción de Gen (TJ Miller), un emoji que nació sin filtro y se llena de múltiples expresiones. Para lograr ser normal, Gen se embarcará en una aventura o “app-ventura”, junto a sus amigos Hi-5 y Jailbreak. Pero pronto, una gran amenaza hará que el destino de estos personajes dependa de los tres amigos, teniendo que salvar su mundo antes que sea borrado por completo. 
-</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Primero Mataron A Mi Padre  </title>
+<fanart>https://pics.filmaffinity.com/First_They_Killed_My_Father-500788830-large.jpg</fanart>
+<genre>Drama | Biográfico | Años 70 | Basado en hechos reales</genre>
+<info>Adaptación de las memorias de Loung Ung, activista por los Derechos Humanos nacida en Camboya, de donde huyó en 1975, tras la Guerra Civil que llevó al poder a los Jemeres rojos comunistas. La historia se relata a través de los propios ojos de Ung durante el mortal régimen de Pol Pot, desde que tenía 5 años cuando los Jemeres Rojos tomaron el poder, hasta los 9 años. Durante todo ese tiempo su familia luchó por mantenerse unida.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_emoji_movie-172311166-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FKEVFRC8LL&q=1080p</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/first_they_killed_my_father-813627684-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJU2JGVAF1&q=720p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Amityville: El Despertar  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMzMxODQ0Nl5BMl5BanBnXkFtZTgwMzA4ODI3MzI@._V1_SY1000_CR0,0,1503,1000_AL_.jpg</fanart>
-<genre>Terror | Thriller | Sobrenatural | Casas encantadas</genre>
-<info>Belle y su familia se mudan a una nueva casa, con el fin de ahorrar dinero para ayudar a pagar el costoso tratamiento de su hermano gemelo que se encuentra en coma. Pero cuando fenómenos extraños empiezan a ocurrir en la casa, incluyendo la recuperación milagrosa de su hermano y pesadillas cada vez más espeluznantes, Belle comienza a sospechar que su madre no le está contando toda la verdad y pronto se da cuenta de que acaban de mudarse a la terrorífica casa de Amityville.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Un Saco De Canicas  </title>
+<fanart>https://pics.filmaffinity.com/Un_saco_de_canicas-450530313-large.jpg</fanart>
+<genre>Drama | II Guerra Mundial | Nazismo | Holocausto</genre>
+<info>Unos hermanos judíos huyen a través de Francia durante la ocupación alemana, en plena Segunda Guerra Mundial.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/amityville_the_awakening-841783296-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/v/FKU20MCDCB</urlsolve>
-</item>
-
-----------------------
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Las Hijas De Abril</title>
-<fanart>https://pics.filmaffinity.com/Las_hijas_de_Abril-270574773-large.jpg</fanart>
-<genre>Drama</genre>
-<info>Valeria tiene 17 años y está embarazada. Vive en Puerto Vallarta con Clara, su media hermana. Valeria  no  ha  querido  que  Abril –la  madre,  que  lleva  mucho  tiempo  ausente– se  entere  del embarazo. Sin embargo Clara, ante la presión económica y las responsabilidades que implica tener un bebé en casa, decide llamarla. Abril llega con disposición de ayudar a sus hijas, pero pronto entenderemos por qué Valeria prefería mantenerla lejos.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/las_hijas_de_abril-519909378-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/v/FKCCAB7VQ4&q=720p</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/un_sac_de_billes-936891141-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJ6TZ4QVBA&q=720p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Duro De Cuidar</title>
-<link>http://bit.ly/2xGOpiV</link>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNTE0MzI1Nl5BMl5BanBnXkFtZTgwNDMyMzM0MjI@._V1_SY1000_CR0,0,1617,1000_AL_.jpg</fanart>
-<genre>Acción | Comedia | Buddy Film</genre>
-<info>El prestigioso guardaespaldas Michael Bryce (Ryan Reynolds) recibe un nuevo cliente: un asesino a sueldo, Darius Kincaid (Samuel L. Jackson), que debe testificar en un juicio en La Haya contra un cruel dictador (Gary Oldman).</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Deep, El Pulpo  </title>
+<fanart></fanart>
+<genre>Animación | Infantil | Comedia | Cine familiar</genre>
+<info>En un futuro no muy lejano, los últimos supervivientes del planeta tierra son un grupo excéntrico de criaturas abismales cuyo hogar está en una grieta muy profunda en el océano y protegidos por el mítico Kraken. Una catástrofe hará que el pequeño pulpo Deep, junto a sus amigos Evo y Alice tengan que emprender un peligroso viaje lleno de aventuras salvajes y así poder salvar a todos los habitantes de la grieta.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_hitman_s_bodyguard-774704433-large.jpg</thumbnail>
+<thumbnail>https://pics.filmaffinity.com/deep-922473785-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fsly9z6efrxx'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Seductor  </title>
-<fanart>https://pics.filmaffinity.com/El_seductor-181169208-large.jpg</fanart>
-<genre>Drama | Drama romántico | Drama de época | Siglo XIX | Guerra de Secesión</genre>
-<info>Año 1864. Durante la guerra civil norteamericana, la tranquilidad de una escuela femenina de Virginia donde sólo viven mujeres se ve alterada con la llegada de un apuesto soldado confederado herido... Remake de &quot;El seductor&quot;, dirigida por Don Siegel y protagonizada por Clint Eastwood.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Baby: El Aprendiz Del Crimen  </title>
+<fanart>https://pics.filmaffinity.com/Baby_El_aprendiz_del_crimen-410479562-large.jpg</fanart>
+<genre>Acción | Comedia | Crimen | Robos & Atracos | Coches / Automovilismo</genre>
+<info>Baby (Ansel Elgort), un joven y talentoso conductor especializado en fugas, depende del ritmo de su banda sonora personal para ser el mejor en lo suyo. Cuando conoce a la chica de sus sueños (Lily James), Baby ve una oportunidad de abandonar su vida criminal y realizar una huida limpia. Pero después de ser forzado a trabajar para un jefe de una banda criminal (Kevin Spacey), deberá dar la cara cuando un golpe malogrado amenaza su vida, su amor y su libertad.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_beguiled-462604667-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FK5LVHQTGD</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/baby_driver-399368582-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FKFVZNVML1&q=480p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Juego De Gerald  </title>
-<fanart>https://pics.filmaffinity.com/El_juego_de_Gerald-806113257-large.jpg</fanart>
-<genre>Thriller | Intriga | Terror | Supervivencia</genre>
-<info>Jessie (Carla Gugino) y Gerald (Bruce Greenwood) son un matrimonio maduro que viaja a una remota cabaña con la esperanza de revitalizar su deteriorada relación en un sitio apartado y tranquilo. Allí Gerald propone a su mujer un juego sexual: esposarla a la cama para incrementar las sensaciones. Pero cuando éste muere de un infarto, Jessie tendrá que luchar por su supervivencia.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Dead Again In Tombstone  </title>
+<fanart>https://pics.filmaffinity.com/Dead_Again_in_Tombstone-769253951-large.jpg</fanart>
+<genre>Western</genre>
+<info>Dead Again in Tombstone</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/El_juego_de_Gerald-321060947-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FK5KWME3O2</urlsolve>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzg2Nzg3OGMtMTZlOS00MzQ1LTkyMjEtMDZjODBiYmQxMzIwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<urlsolve>https://vidoza.net/embed-tt1lbbglks9n.html</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Nosotros En La Noche  </title>
-<fanart>https://pics.filmaffinity.com/Nosotros_en_la_noche-909776742-large.jpg</fanart>
-<genre>Romance | Vejez | Drama romántico</genre>
-<info>En Colorado, la viuda Addie Moore (Jane Fonda) le hace una visita sorpresa a su vecino Louis Waters (Robert Redford). Su esposo falleció hace años, al igual que su mujer y, a pesar de vivir en un pequeño pueblo y ser vecinos desde hace décadas, mantenían poco contacto. Sus hijos viven lejos y se ven obligados a vivir solos, pero ella quiere entablar una relación y aprovechar al máximo el tiempo que les queda.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El Buen Católico  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzBmMmMyODQtZWZhYS00NTMwLTk3NmQtZWNkOTQxYWJjNjkwL2ltYWdlXkEyXkFqcGdeQXVyMzM0NzU1MzA@._V1_SY1000_CR0,0,658,1000_AL_.jpg</fanart>
+<genre>Comedia | Drama | Comedia dramática</genre>
+<info>Daniel amaba su trabajo como sacerdote de un pequeño pueblo más que nada. Entonces conoció a Jane. Que Dios le salve.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/our_souls_at_night-861545876-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FK5L1KJEA2</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/the_good_catholic-502726474-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJDXMSUNA4&q=720p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]The House  </title>
-<fanart>https://pics.filmaffinity.com/The_House-315985690-large.jpg</fanart>
-<genre>Comedia | Juego</genre>
-<info>Una matrimonio se gasta los ahorros que tenían previstos para pagar la universidad de sus hijas, así que para intentar solucionar este grave problema deciden abrir un casino en el sótano de su casa.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Como Matar A Un Esposo Muerto</title>
+<fanart></fanart>
+<genre>Comedia | Drama | Basado en hechos reales | Comedia dramática | Familia</genre>
+<info>Filme inspirado en hechos reales sobre la experiencia de una mujer, madre de familia, que debe enfrentarse a las adversidades que conllevan la separación de un hombre poderoso y prepotente que decide arruinarle la vida, aún, después de muerto.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_house-537455279-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FK5LEBXIFR</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/como_matar_a_un_esposo_muerto-294587268-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJ94UDNIW3&q=720p</urlsolve>
 </item>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Cult Of Chucky  </title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNWZjNzM4YTAtNzc5Ni00MTFmLTg0NzQtYjAzYmZmYTY5YTY4XkEyXkFqcGdeQXVyMzUwOTU4MjE@._V1_.jpg</fanart>
-<genre>Terror | Muñecos | Secuela</genre>
-<info>Nica vive en el manicomio, convencida de que ella fue quien mató a su familia. Como parte de la terapia, su psiquiatra utilizará un muñeco cuya aparición coincidirá con una horrible cadena de asesinatos en el centro. Andy, protagonista de las primeras entregas, reaparecerá para ayudar a Nica, y Tiffany, la novia de Chucky, también se dejará caer por la que es la séptima entrega de la saga.</info>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Premonición  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZThmNTI4NzUtODYwMi00MTkyLTg1YmEtN2VhZWNkNTk1NjhkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SX1777_CR0,0,1777,746_AL_.jpg</fanart>
+<genre>Thriller</genre>
+<info>Un controlador aéreo vive una vida desordenada después de que es casi responsable de una colisión entre dos aviones causada por una misteriosa luz a las 2:22 pm. Este evento lo lleva a conocer una mujer con la que todo parece indicar su vida está entrelazada desde hace mucho tiempo atrás.</info>
 <date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/cult_of_chucky-141340185-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FKXXEYTNGY</urlsolve>
+<thumbnail>https://pics.filmaffinity.com/2_22-310020498-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/e/FJWDON4A04</urlsolve>
+</item>
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]#realityhigh  </title>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3NTU1YzctZWM1OC00ZGY2LTgzN2UtYTA5MzdkNTk0ODNmXkEyXkFqcGdeQXVyNzM4MDUxODU@._V1_.jpg</fanart>
+<genre>Comedia</genre>
+<info>Dani Barnes (Nesta Cooper) es una alumna ejemplar que persigue su gran sueño de ser aceptada en UC Davis, la mejor universidad veterinaria del mundo. Pero sus planes y su estabilidad emocional se complican cuando Dani atrae la atención de un chico cuya su novia, una estudiante muy popular y la mayor celebridad en las redes sociales del instituto, comienza a hacerle la vida imposible.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/reality_high_realityhigh-286151101-large.jpg</thumbnail>
+<urlsolve>https://www.rapidvideo.com/v/FJE424T7AX&q=720p</urlsolve>
 </item>
 
 <item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR deepskyblue]Siguiente[/COLOR]</title>
 <link>Http://x.o</link>
 <externallink></externallink>
-<thumbnail>http://vodmx.westus2.cloudapp.azure.com/logos/siguiente.png</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-i4YLlSBG_vA/WfvMHwVl0FI/AAAAAAAACJU/gvunHl1b6-4UxdnB8wKwvTaWVnNMtgtIgCK4BGAYYCw/s1600/sigiente.jpg</thumbnail>
 <fanart></fanart>
 <SetViewMode>53</SetViewMode>
-</item></items>
-
+</item>
