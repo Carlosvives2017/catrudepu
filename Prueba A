@@ -1,4 +1,9 @@
 <item>
+<title>f4mTester</title>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/365.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Ecemc</link>
+</item>
+
+<item>
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]DirecTv 2</title>
   <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
 			<regex>
