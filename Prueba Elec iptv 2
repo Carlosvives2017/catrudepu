@@ -1,1 +1,669 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn6PcklaoDXjQb12axa4ZfFJOBs9UQ6Zeuz1S0wKhsqVYlKr-4" group-title="• MUNDO Y CULTURA",ANIMAL PLANET
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3247.ts
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://www.mediafire.com/convkey/df46/a57g9naunoz9unazg.jpg" group-title="• CINE",AXN
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3248.ts
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="http://www.mediafire.com/convkey/7d1d/lpcc5t1n8sp5ynczg.jpg" group-title="• CINE",A&E
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3246.ts
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://www.mediafire.com/convkey/ef43/hhiyverbq8389wczg.jpg" group-title="MUSICALES",BANDAMAX
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3086.ts
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="BOOMERANG" tvg-logo="http://www.mediafire.com/convkey/26c5/l4r29l13gcv4zl3zg.jpg" group-title="INFANTILES",BOOMERANG
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3085.ts
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="BABY FIRST" tvg-logo="http://www.mediafire.com/convkey/aba1/60myzta2ygr3cntzg.jpg" group-title="INFANTILES",BABY FIRST
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2958.ts
+#EXTINF:-1 tvg-id="" tvg-name="HEI TV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/5c/HEi-550x200.png" group-title="MUSICALES",HEI TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3189.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO HITS" tvg-logo="http://www.mediafire.com/convkey/071f/ny8s2kvq9g8wai4zg.jpg" group-title="MUSICALES",MTV LATINO HITS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3191.ts
+#EXTINF:-1 tvg-id="" tvg-name="MI MUSICA HD" tvg-logo="http://www.mediafire.com/convkey/1f6c/keql9a4i4vi4o5jzg.jpg" group-title="MUSICALES",MI MUSICA HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3193.ts
+#EXTINF:-1 tvg-id="" tvg-name="MI MUSICA" tvg-logo="http://condista.com/wp-content/uploads/2015/09/mi-musica-300x225.jpg" group-title="MUSICALES",MI MUSICA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2070.ts
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="TELE HIT HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest?cb=20120102193439" group-title="MUSICALES",TELE HIT HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3195.ts
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="LIFETIME" tvg-logo="http://www.mediafire.com/convkey/4df9/qdmxhrpyc8y954lzg.jpg" group-title="• MUNDO Y CULTURA",LIFETIME
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3073.ts
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-SAT" tvg-logo="http://www.mediafire.com/convkey/1be8/s5csgid3ad6vg3azg.jpg" group-title="• CINE",I-SAT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3074.ts
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HISTORY HD" tvg-logo="http://www.mediafire.com/convkey/6ef9/2d5y67luvmgvxwwzg.jpg" group-title="• MUNDO Y CULTURA",HISTORY HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3234.ts
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://www.mediafire.com/convkey/6b95/ad52fhlxjxot0rbzg.jpg" group-title="• CINE",HBO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3199.ts
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://www.mediafire.com/convkey/84f4/6vyp06rkhqfier5zg.jpg" group-title="• CINE",HBO 2
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3198.ts
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE" tvg-logo="http://www.mediafire.com/convkey/2025/bomlvbb964p1p74zg.jpg" group-title="• CINE",HBO SIGNATURE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3197.ts
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://images.mi.tv/channels/ar_hbo-plus-este_m.png" group-title="• CINE",HBO PLUS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/4003.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO ESTE (1080 HQ)" tvg-logo="http://zazeen.com/images/logos/png_440x440/movie_network_addon/hbo_east.png" group-title="• CINE",HBO ESTE (1080 HQ)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3973.ts
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY" tvg-logo="http://images.mi.tv/channels/mx_hbo-family_m.png" group-title="• CINE",HBO FAMILY
+http://playtv.dynu.net:25462/live/demoplaytv/1177/4017.ts
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FOX PREMIUM MOVIES" tvg-logo="http://www.mediafire.com/convkey/d4f7/n9xjx1l5z1j7x0lzg.jpg" group-title="• CINE",FOX PREMIUM MOVIES
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3266.ts
+#EXTINF:-1 tvg-id="beINSportEspanol.us" tvg-name="LAT [DEP] - BEIN Ñ (1080 HD)" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - BEIN Ñ (1080 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3747.ts
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="LAT [DEP] - TDN (720)" tvg-logo="http://multipress.com.mx/wp-content/uploads/2016/10/multi-TDN.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - TDN (720)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3963.ts
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LAT [DEP] - UNIVISION TDN (HQ 1080)" tvg-logo="http://i.televisa.com/2017/04/utdn.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - UNIVISION TDN (HQ 1080)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3751.ts
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LAT [DEP] - UNIVISION DEPORTES (1080 HQ)" tvg-logo="https://yt3.ggpht.com/-MdpgC89ye5Y/AAAAAAAAAAI/AAAAAAAAAAA/GxdmF5Y7TDk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - UNIVISION DEPORTES (1080 HQ)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3962.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT [DEP] - FOX SPORT PREMIUM" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/gallery_1157_2_77971.png.a6d784f3e7234d6e2caa326027a06e61.png" group-title="• LATINO DEPORTES •",LAT [DEP] - FOX SPORT PREMIUM
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2963.ts
+#EXTINF:-1 tvg-id="GolTV.us" tvg-name="LAT [DEP] - GOL TV (1080 HQ)" tvg-logo="https://2.bp.blogspot.com/-u1R-pryM6rA/WEGZrTlPj9I/AAAAAAAAD3k/1IUfLSQDyZURbL2Nvs83cAbk3OO9m0tTgCLcB/s1600/goltv.png" group-title="• LATINO DEPORTES •",LAT [DEP] - GOL TV (1080 HQ)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3755.ts
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LAT [DEP] - ESPN MEXICO (1080)" tvg-logo="http://www.mediafire.com/convkey/19a2/7s07mu4zd270jp1zg.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - ESPN MEXICO (1080)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3258.ts
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LAT [DEP] - ESPN MEXICO (720 HD)" tvg-logo="http://www.mediafire.com/convkey/ed25/by38o53ksjvl4wuzg.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - ESPN MEXICO (720 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3178.ts
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="LAT [DEP] - ESPN 2 MEXICO" tvg-logo="http://www.mediafire.com/convkey/7617/64eaua60jei8k3pzg.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - ESPN 2 MEXICO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3259.ts
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="LAT [DEP] - ESPN 3 MEXICO (720 HD)" tvg-logo="http://www.mediafire.com/convkey/d823/mp5467d3i5iq4n4zg.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - ESPN 3 MEXICO (720 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3260.ts
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="LAT [DEP] - ESPN PLUS MEXICO" tvg-logo="" group-title="• LATINO DEPORTES •",LAT [DEP] - ESPN PLUS MEXICO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/4120.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 4" tvg-logo="https://i.ytimg.com/vi/9rHsLZVAUSk/hqdefault.jpg" group-title="URUGUAY",URU - CANAL 4
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2043.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT [DEP] - ESPN ARGENTINA (1080 HQ)" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - ESPN ARGENTINA (1080 HQ)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3613.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - CHARRUA TV" tvg-logo="http://www.livetvcentral.com/imgs/imgs/3743.jpg" group-title="URUGUAY",URU - CHARRUA TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2042.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT [DEP] - ESPN 2 ARGENTINA (1080 HQ)" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •",LAT [DEP] - ESPN 2 ARGENTINA (1080 HQ)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3615.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - TV CIUDAD" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg" group-title="URUGUAY",URU - TV CIUDAD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2041.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 10 (720 HD)" tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",URU - CANAL 10 (720 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3621.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 12 (720 HD)" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAQGAAAAJDFkYzEzZmRmLWY5MTYtNDAwMC1hMTI0LTE0ZjYyZDE3MGMxMQ.png" group-title="URUGUAY",URU - CANAL 12 (720 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3620.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - FOX SPORTS URUGUAY (720 HD)" tvg-logo="https://pbs.twimg.com/profile_images/897603949271945216/DSud8QMj.jpg" group-title="URUGUAY",URU - FOX SPORTS URUGUAY (720 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3801.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - CANAL 13 HD" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/el13-500x500.jpg" group-title="ARGENTINA",ARG - CANAL 13 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2034.ts
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG - EL TRECE HD" tvg-logo="http://img2.wikia.nocookie.net/__cb20121008201226/logopedia/images/4/4f/ElTreceHD2012.jpg" group-title="ARGENTINA",ARG - EL TRECE HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3442.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TV PUBLICA HD" tvg-logo="http://canal12misiones.com/cftvp/wp-content/uploads/2014/03/logo-cana-7-TV_P%C3%BAblica.png" group-title="ARGENTINA",ARG - TV PUBLICA HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3417.ts
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG - TV PUBLICA" tvg-logo="http://www.mediafire.com/convkey/99a7/1vnyy774jpd4627zg.jpg" group-title="ARGENTINA",ARG - TV PUBLICA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3440.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - AMERICA HD" tvg-logo="https://3.bp.blogspot.com/-Jt4x7NEZbHw/Vw7k_1NTXqI/AAAAAAAABJc/sxdXaK8vBF0VQKGxwhKuaHlqjXiWKLRBgCLcB/s1600/America%2BTV%2BHD.png" group-title="ARGENTINA",ARG - AMERICA HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG -TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",ARG -TELEFE HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/4188.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TELEFE" tvg-logo="http://www.mediafire.com/convkey/087d/zhky8a46727g70jzg.jpg" group-title="ARGENTINA",ARG - TELEFE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3439.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN ARGENTINA (720 HD)" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="ARGENTINA",ARG - ESPN ARGENTINA (720 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3614.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN 2 (720 HD)" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="ARGENTINA",ARG - ESPN 2 (720 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3616.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TNT SPORTS HD" tvg-logo="https://pbs.twimg.com/profile_images/880500289337470978/hXnf7Sdi.jpg" group-title="• LATINO DEPORTES •",ARG - TNT SPORTS HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2957.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - FOX SPORTS" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2015/02/FOX-Sports.jpg" group-title="ARGENTINA",ARG - FOX SPORTS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2047.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - FOX SPORTS 2" tvg-logo="http://www.mediafire.com/convkey/ccec/c07klj2bts4dicrzg.jpg" group-title="ARGENTINA",ARG - FOX SPORTS 2
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2046.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - FOX SPORTS 3" tvg-logo="http://www.mediafire.com/convkey/e466/pr5yrnxklucp8nczg.jpg" group-title="ARGENTINA",ARG - FOX SPORTS 3
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2045.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG -. TYC SPORTS" tvg-logo="http://www.mediafire.com/convkey/4008/uba5rsakla5nbo4zg.jpg" group-title="ARGENTINA",ARG -. TYC SPORTS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2040.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - GOL TV" tvg-logo="http://radiohuancavilca.com.ec/wp-content/uploads/2017/06/goltv.jpg" group-title="ARGENTINA",ARG - GOL TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2039.ts
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG - CANAL 9" tvg-logo="http://www.mediafire.com/convkey/ffae/ez9rrbo696rjrz5zg.jpg" group-title="ARGENTINA",ARG - CANAL 9
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3443.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TELESUR" tvg-logo="https://pbs.twimg.com/profile_images/875386489559027713/NsILSoQZ_400x400.jpg" group-title="ARGENTINA",ARG - TELESUR
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3438.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - 360 TV" tvg-logo="http://www.mediafire.com/convkey/df67/rni1y83b6wbs6mizg.jpg" group-title="ARGENTINA",ARG - 360 TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3437.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - C5N" tvg-logo="http://www.mediafire.com/convkey/bf82/xwis6c520sr3bxwzg.jpg" group-title="ARGENTINA",ARG - C5N
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3441.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - PAKA PAKA HD" tvg-logo="http://estacionk2.com/k2/wp-content/uploads/2017/07/zamba-paka-paka.jpg" group-title="ARGENTINA",ARG - PAKA PAKA HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2960.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TN HD" tvg-logo="https://mitvstatic.com/channels/ar_tn_m.png" group-title="ARGENTINA",ARG - TN HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2959.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG - A24" tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png" group-title="ARGENTINA",ARG - A24
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3359.ts
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="LAT [DEP] - FOX DEPORTES (HQ 1080)" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-Deportes-1040x585.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - FOX DEPORTES (HQ 1080)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3753.ts
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LAT [DEP] - TYC SPORTS" tvg-logo="http://www.mediafire.com/convkey/4008/uba5rsakla5nbo4zg.jpg" group-title="ARGENTINA",LAT [DEP] - TYC SPORTS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2961.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 10" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/03/Canal10Uy-500x500-300x300.jpg" group-title="URUGUAY",URU - CANAL 10
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3344.ts
+#EXTINF:-1 tvg-id="beINSports1.sa" tvg-name="BEIN SPORT 1 HD" tvg-logo="http://www.mediafire.com/convkey/94bc/gy1fm73m3qpb4ofzg.jpg" group-title="WORLD SPORTS",BEIN SPORT 1 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3407.ts
+#EXTINF:-1 tvg-id="beINSports2.sa" tvg-name="BEIN SPORT 2 HD" tvg-logo="http://www.mediafire.com/convkey/fcae/2m7jjv78bo40a37zg.jpg" group-title="WORLD SPORTS",BEIN SPORT 2 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3406.ts
+#EXTINF:-1 tvg-id="beINSports3.us" tvg-name="BEIN SPORT 3 HD" tvg-logo="http://www.mediafire.com/convkey/b728/2xcmu76g2cyckk3zg.jpg" group-title="WORLD SPORTS",BEIN SPORT 3 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3405.ts
+#EXTINF:-1 tvg-id="beINSports4.sa" tvg-name="BEIN SPORT 4 HD" tvg-logo="http://www.mediafire.com/convkey/302a/c3wqb9oianjp3vhzg.jpg" group-title="WORLD SPORTS",BEIN SPORT 4 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3404.ts
+#EXTINF:-1 tvg-id="beINSports5.sa" tvg-name="BEIN SPORT 5 HD" tvg-logo="http://www.mediafire.com/convkey/e13e/rtcjgy6rcz8a17zzg.jpg" group-title="WORLD SPORTS",BEIN SPORT 5 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3403.ts
+#EXTINF:-1 tvg-id="beINSports6.sa" tvg-name="BEIN SPORT 6 HD" tvg-logo="http://www.mediafire.com/convkey/a243/shh5ld3qag4n7sdzg.jpg" group-title="WORLD SPORTS",BEIN SPORT 6 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3402.ts
+#EXTINF:-1 tvg-id="beINSports7.sa" tvg-name="BEIN SPORT 7 HD" tvg-logo="http://www.mediafire.com/convkey/af78/3kh7qwssh4q4or7zg.jpg" group-title="WORLD SPORTS",BEIN SPORT 7 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3401.ts
+#EXTINF:-1 tvg-id="beINSports8.sa" tvg-name="BEIN SPORT 8 HD" tvg-logo="http://www.mediafire.com/convkey/64bc/ljdmsjw2rda1r5azg.jpg" group-title="WORLD SPORTS",BEIN SPORT 8 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3409.ts
+#EXTINF:-1 tvg-id="beINSports9.sa" tvg-name="BEIN SPORT 9 HD" tvg-logo="http://www.mediafire.com/convkey/11c7/7ubaz9a6slu630dzg.jpg" group-title="WORLD SPORTS",BEIN SPORT 9 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3408.ts
+#EXTINF:-1 tvg-id="beINSports10.sa" tvg-name="BEIN SPORT 10 HD" tvg-logo="http://www.mediafire.com/convkey/4eee/6nw6pyyiol46yfyzg.jpg" group-title="WORLD SPORTS",BEIN SPORT 10 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3410.ts
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MX - CANAL 5 (720 HD)" tvg-logo="http://www.mediafire.com/convkey/4579/wf556q76db9iubmzg.jpg" group-title="MEXICO",MX - CANAL 5 (720 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3244.ts
+#EXTINF:-1 tvg-id="CanalEstrellas.es" tvg-name="MX - CANAL DE LAS ESTRELLAS" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png" group-title="MEXICO",MX - CANAL DE LAS ESTRELLAS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3243.ts
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX - AZTECA 7" tvg-logo="http://www.mediafire.com/convkey/2a33/c51x50aj2ejze31zg.jpg" group-title="MEXICO",MX - AZTECA 7
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3215.ts
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="MX - AZTECA CINEMA" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2017/01/azteca13.png" group-title="MEXICO",MX - AZTECA CINEMA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2954.ts
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="MX - AZTECA 13" tvg-logo="http://www.mediafire.com/convkey/30ff/y533x36z9mjee5ezg.jpg" group-title="MEXICO",MX - AZTECA 13
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3216.ts
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX - AZTECA CORAZON" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg" group-title="MEXICO",MX - AZTECA CORAZON
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3214.ts
+#EXTINF:-1 tvg-id="AztecaMundo.mx" tvg-name="MX - AZTECA MUNDO" tvg-logo="http://www.mediafire.com/convkey/002a/n26087q8vanhd6kzg.jpg" group-title="MEXICO",MX - AZTECA MUNDO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3087.ts
+#EXTINF:-1 tvg-id="AztecaClic.mx" tvg-name="MX - AZTECA CLICK HD" tvg-logo="http://www.mediafire.com/convkey/bbf4/pv804t6ncsd7audzg.jpg" group-title="MEXICO",MX - AZTECA CLICK HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3245.ts
+#EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="MX - PROYECTO 40" tvg-logo="http://www.mediafire.com/convkey/6413/otx2tvxlay51l4vzg.jpg" group-title="MEXICO",MX - PROYECTO 40
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3185.ts
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MX - MULTIMEDIOS MONTERREY" tvg-logo="https://image.laguna.multimedios.com/sites/default/files/img_default_fb.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY
+http://playtv.dynu.net:25462/live/demoplaytv/1177/4125.ts
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="MX - MILENIO TV (1080 HQ)" tvg-logo="http://www.mediafire.com/convkey/3653/ckx9otar41zm4clzg.jpg" group-title="MEXICO",MX - MILENIO TV (1080 HQ)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3233.ts
+#EXTINF:-1 tvg-id="CanalMexiquense.mx" tvg-name="MX - CANAL MEXIQUENSE" tvg-logo="http://diseccionmoon.com/wp-content/uploads/2015/01/SDXF.jpg" group-title="MEXICO",MX - CANAL MEXIQUENSE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3182.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT [USA] - RT" tvg-logo="http://www.mediafire.com/convkey/150d/sy7l3k8jdbc3o47zg.jpg" group-title="LATINOS [USA]",LAT [USA] - RT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2064.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT [USA] - DW LATINOAMERICA" tvg-logo="http://www.mediafire.com/convkey/4914/ck8c4gdw6iypoiczg.jpg" group-title="LATINOS [USA]",LAT [USA] - DW LATINOAMERICA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2102.ts
+#EXTINF:-1 tvg-id="DePeliculaClasico.mx" tvg-name="DE PELICULA" tvg-logo="http://www.mediafire.com/convkey/1cb2/e9iq0c5sr2003nezg.jpg" group-title="• CINE",DE PELICULA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2997.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY  HOME & HEALTH" tvg-logo="http://www.mediafire.com/convkey/04c8/5d9ej3quhr5lob7zg.jpg" group-title="• MUNDO Y CULTURA",DISCOVERY  HOME & HEALTH
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3083.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://www.mediafire.com/convkey/c688/05s7pcifvp81gbbzg.jpg" group-title="• MUNDO Y CULTURA",DISCOVERY CHANNEL
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3251.ts
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FOX LIFE" tvg-logo="http://www.mediafire.com/convkey/90d3/1ajw5r28j1y8m21zg.jpg" group-title="• CINE",FOX LIFE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3203.ts
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="FOX" tvg-logo="http://www.mediafire.com/convkey/874a/y3nqlw62obd2j5fzg.jpg" group-title="• CINE",FOX
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3265.ts
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="FOX PREMIUM CLASSICS" tvg-logo="http://www.mediafire.com/convkey/571b/50vyss5h03dpl0gzg.jpg" group-title="• CINE",FOX PREMIUM CLASSICS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3077.ts
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="FOX PREMIUM CINEMA" tvg-logo="https://2.bp.blogspot.com/-KPLDTksL9Gw/WQ-AzRFyb-I/AAAAAAAABds/xV7OroXL8dY3fmoVJkT0TV66nlfez7bIQCLcB/s1600/fox-cinema.png" group-title="• CINE",FOX PREMIUM CINEMA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3264.ts
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FOX PREMIUM ACTION" tvg-logo="http://www.mediafire.com/convkey/bd90/jc8b9ocvxowgqxfzg.jpg" group-title="• CINE",FOX PREMIUM ACTION
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3263.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES." tvg-logo="http://www.mediafire.com/convkey/e981/s2zy8rwq18czd4mzg.jpg" group-title="• CINE",FOX PREMIUM SERIES.
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3262.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://www.mediafire.com/convkey/5518/1bdoxvo10r99lcdzg.jpg" group-title="• MUNDO Y CULTURA",DISCOVERY CIVILIZATION
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3252.ts
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="http://www.mediafire.com/convkey/a17e/16np2fmktmqif0azg.jpg" group-title="INFANTILES",DISCOVERY KIDS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3254.ts
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY TEATHER HD" tvg-logo="http://www.mediafire.com/convkey/9f98/c197n75b73a7lfgzg.jpg" group-title="• MUNDO Y CULTURA",DISCOVERY TEATHER HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3255.ts
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://www.mediafire.com/convkey/6706/gz77e06fxqv0ifezg.jpg" group-title="• CINE",CINECANAL
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3250.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST." tvg-logo="https://www.turner.com/s3fs-public/location_brand_logo/TurnerLogos_LATAM_TOONCAST-01.png" group-title="INFANTILES",TOONCAST.
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3242.ts
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE CANAL HD" tvg-logo="http://images.mi.tv/channels/mx_cinecanal-hd_m.png" group-title="• CINE",CINE CANAL HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3211.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://www.mediafire.com/convkey/8c5f/udeqkqyp0y64jrwzg.jpg" group-title="INFANTILES",CARTOON NETWORK
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3249.ts
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="DISCOVERY TLC" tvg-logo="http://www.mediafire.com/convkey/1948/urzsrf946zocc6qzg.jpg" group-title="• MUNDO Y CULTURA",DISCOVERY TLC
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3256.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://www.mediafire.com/convkey/cd8f/qlkiabg0k6dc8qvzg.jpg" group-title="• MUNDO Y CULTURA",DISCOVERY TURBO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3257.ts
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="http://www.mediafire.com/convkey/6f45/a3whnlqu8srx38gzg.jpg" group-title="• MUNDO Y CULTURA",DISCOVERY WORLD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3081.ts
+#EXTINF:-1 tvg-id="TheFilmZone.mx" tvg-name="FX MOVIES" tvg-logo="http://www.imctv.com/wp-content/uploads/2017/05/FX-MOVIE.png" group-title="• CINE",FX MOVIES
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3078.ts
+#EXTINF:-1 tvg-id="UFCNetwork.mx" tvg-name="FIGHT NETWORK/ MMA NETWORK" tvg-logo="http://www.mediafire.com/convkey/86f6/37387h8qn8y1lvhzg.jpg" group-title="LATINOS [USA]",FIGHT NETWORK/ MMA NETWORK
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2962.ts
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DISNEY JUNIOR" tvg-logo="http://www.cartoonbrew.com/wp-content/uploads/20100604112357disney_junior.png" group-title="INFANTILES",DISNEY JUNIOR
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3222.ts
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="http://www.mediafire.com/convkey/0463/7hy2egso4onde2tzg.jpg" group-title="• MUNDO Y CULTURA",DISTRITO COMEDIA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3209.ts
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NAT GEO WILD HD" tvg-logo="http://www.mediafire.com/convkey/53e6/9wtu05t5g7413btzg.jpg" group-title="• MUNDO Y CULTURA",NAT GEO WILD HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3270.ts
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E!" tvg-logo="http://www.mediafire.com/convkey/f110/g9fk4m4a5111oaxzg.jpg" group-title="• MUNDO Y CULTURA",E!
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3207.ts
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="DISNEY XD" tvg-logo="http://www.mediafire.com/convkey/e4b3/ttwa8n0pwpcz4ylzg.jpg" group-title="INFANTILES",DISNEY XD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3221.ts
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://www.mediafire.com/convkey/c00c/qr3b8ugkko838ggzg.jpg" group-title="• CINE",CINEMAX
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3084.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - ESPN" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="USA SPORTS",USA - ESPN
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3371.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - ESPN 2" tvg-logo="http://www.mediafire.com/convkey/ae73/6a5gcoa2ckoz5rxzg.jpg" group-title="USA SPORTS",USA - ESPN 2
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3372.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="USA - FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="USA SPORTS",USA - FOX SPORTS 1
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2048.ts
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LAT [DEP] - TYC SPORTS (1080 HQ)" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png" group-title="• LATINO DEPORTES •",LAT [DEP] - TYC SPORTS (1080 HQ)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3759.ts
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="LAT [DEP] - FOX SPORTS MEXICO" tvg-logo="http://www.mediafire.com/convkey/ae16/dhlnq36gaib3d9czg.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - FOX SPORTS MEXICO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3267.ts
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="LAT [DEP] -  FOX SPORTS 2 MEXICO (720 HD)" tvg-logo="http://www.mediafire.com/convkey/e5e1/84lqzq9b7ra7kgazg.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] -  FOX SPORTS 2 MEXICO (720 HD)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3268.ts
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="LAT [DEP] - FOX SPORT 3 MEXICO" tvg-logo="http://www.mediafire.com/convkey/75f9/b3l33n1b5x13w2xzg.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - FOX SPORT 3 MEXICO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3202.ts
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="LAT [DEP] - FOX SPORTS 3 MEXICO" tvg-logo="http://vertelevisionenvivo.com/wp-content/uploads/2017/06/fox-sports-3-vivo.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - FOX SPORTS 3 MEXICO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/4008.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT [DEP] - DIRECTV SPORTS 2 (1080 HQ)" tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/directv-sports-2-en-vivo.png" group-title="• LATINO DEPORTES •",LAT [DEP] - DIRECTV SPORTS 2 (1080 HQ)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3609.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT [DEP] - CLARO SPORTS" tvg-logo="http://www.mediafire.com/convkey/9d7d/uhah70c15o2ucoszg.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - CLARO SPORTS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3210.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - GOL PERU (opc 2)" tvg-logo="http://oi66.tinypic.com/1zlpt7t.jpg" group-title="PERU",PERU - GOL PERU (opc 2)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3606.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL - CARACOL" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.59207a202a7e3_nuevologoCaracolTV.jpg.eaa9fe6e6b8a57cf6c013e0f6c40e63b.jpg" group-title="COLOMBIA",COL - CARACOL
+http://playtv.dynu.net:25462/live/demoplaytv/1177/1987.ts
+#EXTINF:-1 tvg-id="" tvg-name="COL - CARACOL HD (backup 2)" tvg-logo="http://www.mediafire.com/convkey/36d9/lrcqfwgng4cgnkazg.jpg" group-title="COLOMBIA",COL - CARACOL HD (backup 2)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3416.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL - CARACOL HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.59207a202a7e3_nuevologoCaracolTV.jpg.eaa9fe6e6b8a57cf6c013e0f6c40e63b.jpg" group-title="COLOMBIA",COL - CARACOL HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3213.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV URUGUAY" tvg-logo="https://www.mediafire.com/file/3ybdaelblqcf9oj/add0d60d-491f-4e61-bf8a-49d815036ee5.jpg" group-title="URUGUAY",PPV URUGUAY
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3226.ts
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL - RCN" tvg-logo="http://www.mediafire.com/convkey/0b83/t6l4q6f0iaps7rszg.jpg" group-title="COLOMBIA",COL - RCN
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2020.ts
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL - RCN (backup)" tvg-logo="http://www.mediafire.com/convkey/0b83/t6l4q6f0iaps7rszg.jpg" group-title="COLOMBIA",COL - RCN (backup)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3415.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 12" tvg-logo="http://www.teledoce.com/wp-content/static/teledoce/logo-fb-share2.jpg" group-title="URUGUAY",URU - CANAL 12
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2953.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT [DEP] - WIN SPORT" tvg-logo="http://www.mediafire.com/convkey/78c4/ggg8ykrr65tsyvgzg.jpg" group-title="• LATINO DEPORTES •",LAT [DEP] - WIN SPORT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3420.ts
+#EXTINF:-1 tvg-id="" tvg-name="COL - CABLENOTICIAS" tvg-logo="http://www.mediafire.com/convkey/acf8/1q2ao76dwi9b0wuzg.jpg" group-title="COLOMBIA",COL - CABLENOTICIAS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2119.ts
+#EXTINF:-1 tvg-id="" tvg-name="COL - CANAL U" tvg-logo="" group-title="COLOMBIA",COL - CANAL U
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2120.ts
+#EXTINF:-1 tvg-id="" tvg-name="COL - EL TIEMPO" tvg-logo="http://www.mediafire.com/convkey/4096/9gram92yt7ha2apzg.jpg" group-title="COLOMBIA",COL - EL TIEMPO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2130.ts
+#EXTINF:-1 tvg-id="Senal.co" tvg-name="COL - SENAL COLOMBIA" tvg-logo="http://www.mediafire.com/convkey/cc13/m1h608iq4rb85s9zg.jpg" group-title="COLOMBIA",COL - SENAL COLOMBIA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2131.ts
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="COL - TELEANTIOQUIA" tvg-logo="http://www.mediafire.com/convkey/858d/xi3c6kq1qkc4xhezg.jpg" group-title="COLOMBIA",COL - TELEANTIOQUIA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2118.ts
+#EXTINF:-1 tvg-id="" tvg-name="COL - TELECAFE" tvg-logo="http://www.mediafire.com/convkey/5e37/0r2276h6yeh5nmvzg.jpg" group-title="COLOMBIA",COL - TELECAFE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2128.ts
+#EXTINF:-1 tvg-id="" tvg-name="COL - TELEMEDELLIN" tvg-logo="http://www.mediafire.com/convkey/892f/74udh4dxhx8xc8izg.jpg" group-title="COLOMBIA",COL - TELEMEDELLIN
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2125.ts
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://www.mediafire.com/convkey/a81a/7cv9qb90l5wwh5lzg.jpg" group-title="• MUNDO Y CULTURA",COMEDY CENTRAL HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3241.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR - TELETICA" tvg-logo="http://www.mediafire.com/convkey/e35f/unj9udsqn0c4393zg.jpg" group-title="LATINOS [USA]",CR - TELETICA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2033.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORTS HD" tvg-logo="http://www.teradeportes.com/sites/default/files/imagecache/titular/images/titulares/2013/2013-01-28/dtv.jpg" group-title="ECUADOR",ECU - CNT SPORTS HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3180.ts
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Antiguo_logo_de_Canal_Once_%28Once_TV%29.png/172px-Antiguo_logo_de_Canal_Once_%28Once_TV%29.png" group-title="MEXICO",MX - ONCE NOTICIAS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3269.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX - EL FINANCIERO BLOOMBERGS" tvg-logo="http://www.mediafire.com/convkey/0ff0/ps12hz8cpbmsrrazg.jpg" group-title="MEXICO",MX - EL FINANCIERO BLOOMBERGS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3080.ts
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - TOROS" tvg-logo="http://www.mediafire.com/convkey/9b54/1eex752vt7684yjzg.jpg" group-title="ESPAÑA",ESP - TOROS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2061.ts
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ES:VIAJAR HD" tvg-logo="http://www.mediafire.com/convkey/d985/ggeg5zddhemvvwrzg.jpg" group-title="ESPAÑA",ES:VIAJAR HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3174.ts
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="ES - BEIN LA LIGA HD" tvg-logo="http://www.mediafire.com/convkey/d5c5/okbbi4bykvahy0bzg.jpg" group-title="ESPAÑA DEPORTES",ES - BEIN LA LIGA HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3117.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES - TNT" tvg-logo="https://cdn.appgrid.accedo.tv/content/file/57f3c7889a28fb021e652c8e" group-title="ESPAÑA",ES - TNT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3138.ts
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES - TELEDEPORTE HD" tvg-logo="http://www.mediafire.com/convkey/4911/8n263eogqzb12q9zg.jpg" group-title="ESPAÑA DEPORTES",ES - TELEDEPORTE HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3173.ts
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES - TELECINCO HD" tvg-logo="http://www.mediafire.com/convkey/33ee/mg2d1x5z7g4g80hzg.jpg" group-title="ESPAÑA",ES - TELECINCO HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3172.ts
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES - TCM HD" tvg-logo="http://www.mediafire.com/convkey/1dd4/fqy0w2zq9p5trw9zg.jpg" group-title="ESPAÑA",ES - TCM HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3171.ts
+#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="ES - PANDA" tvg-logo="http://www.mediafire.com/convkey/8a0a/mel6m9gr2df0zdbzg.jpg" group-title="ESPAÑA",ES - PANDA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3136.ts
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES - ODISEA HD" tvg-logo="http://www.mediafire.com/convkey/39fb/s97op2czdn4nuxvzg.jpg" group-title="ESPAÑA",ES - ODISEA HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3135.ts
+#EXTINF:-1 tvg-id="NonStopPeople.es" tvg-name="ES - NONSTOP PEOPLE" tvg-logo="http://www.mediafire.com/convkey/8b28/p4os7ysvsin1rr8zg.jpg" group-title="ESPAÑA",ES - NONSTOP PEOPLE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3102.ts
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES - NEOX" tvg-logo="http://www.mediafire.com/convkey/bfc0/x3xws09qi67sqcqzg.jpg" group-title="ESPAÑA",ES - NEOX
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3132.ts
+#EXTINF:-1 tvg-id="NatGeo.es" tvg-name="ES - NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ESPAÑA",ES - NATIONAL GEOGRAPHIC HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3169.ts
+#EXTINF:-1 tvg-id="MTV.es" tvg-name="ES - MTV ESPANA" tvg-logo="http://www.mediafire.com/convkey/c31e/aicch2oi2h1tc19zg.jpg" group-title="ESPAÑA",ES - MTV ESPANA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3097.ts
+#EXTINF:-1 tvg-id="MovistarMotoGP.es" tvg-name="ES - MOVISTAR MOTO GP" tvg-logo="http://www.mediafire.com/convkey/3053/6ooxf3jfzw37m0izg.jpg" group-title="ESPAÑA DEPORTES",ES - MOVISTAR MOTO GP
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3096.ts
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES - MOVISTAR FORMULA 1" tvg-logo="http://www.mediafire.com/convkey/ec34/bgc4e3iamc44z6hzg.jpg" group-title="ESPAÑA DEPORTES",ES - MOVISTAR FORMULA 1
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3094.ts
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES - MEGA" tvg-logo="http://oklivetv.com/wp-content/uploads/media/efcc6e05c16879f7b1903cec874f640e.jpeg" group-title="ESPAÑA",ES - MEGA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3167.ts
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES - LA SEXTA HD" tvg-logo="" group-title="",ES - LA SEXTA HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3166.ts
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES - LA LIGA BAR HD" tvg-logo="http://www.mediafire.com/convkey/8d4d/twlo5vu09ejwgsbzg.jpg" group-title="ESPAÑA DEPORTES",ES - LA LIGA BAR HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3131.ts
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES - LA 2 HD" tvg-logo="http://www.mediafire.com/convkey/1557/p7w8bn37c6ss107zg.jpg" group-title="ESPAÑA",ES - LA 2 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3130.ts
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES - LA 1 HD" tvg-logo="http://www.mediafire.com/convkey/d5c5/okbbi4bykvahy0bzg.jpg" group-title="ESPAÑA",ES - LA 1 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3165.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES -  ANDALUCIA TV" tvg-logo="https://www.tdtprofesional.com/blog/wp-content/uploads/Andalucia-TV-HD.jpg" group-title="ESPAÑA",ES -  ANDALUCIA TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3129.ts
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="ES - HOLLYWOOD HD" tvg-logo="http://www.mediafire.com/convkey/9341/zhw6ckzchexrtt7zg.jpg" group-title="ESPAÑA",ES - HOLLYWOOD HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3164.ts
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="ES - HISTORIA" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c9/f9/fa/c9f9fa05d3663b6643c5079f9ccba0a6.jpg" group-title="ESPAÑA",ES - HISTORIA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3163.ts
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES - GOL TV" tvg-logo="http://vercanalestv.com/logos/goltv.jpg" group-title="ESPAÑA DEPORTES",ES - GOL TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3128.ts
+#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="ES - FOX LIFE HD" tvg-logo="" group-title="ESPAÑA",ES - FOX LIFE HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3162.ts
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES - FOX HD" tvg-logo="" group-title="ESPAÑA",ES - FOX HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3161.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES - DARK" tvg-logo="http://blog.orange.es/wp-content/uploads/2017/06/dark.png" group-title="ESPAÑA",ES - DARK
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3107.ts
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES - NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Novatv_hr.png" group-title="ESPAÑA",ES - NOVA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3108.ts
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES - ENERGY" tvg-logo="http://www.mediafire.com/convkey/17fb/c97n91uf91i9fvhzg.jpg" group-title="ESPAÑA",ES - ENERGY
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3109.ts
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES - DIVINITY" tvg-logo="http://www.mediafire.com/convkey/ec56/i6z4cw6suu0wpj5zg.jpg" group-title="ESPAÑA",ES - DIVINITY
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3126.ts
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES - LA CUATRO HD" tvg-logo="http://www.mediafire.com/convkey/bfe6/pjft5nfslni2e8gzg.jpg" group-title="ESPAÑA",ES - LA CUATRO HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3155.ts
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES - COMEDY CENTRAL HD" tvg-logo="http://www.areacucuta.com/wp-content/uploads/2017/02/comedy_central_horizontal.gif" group-title="ESPAÑA",ES - COMEDY CENTRAL HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3103.ts
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES - CLAN TVE" tvg-logo="" group-title="ESPAÑA",ES - CLAN TVE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3124.ts
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="ES - CAZA Y PESCA" tvg-logo="http://www.mediafire.com/convkey/97dd/cp0tcy6riefs8ywzg.jpg" group-title="ESPAÑA",ES - CAZA Y PESCA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3123.ts
+#EXTINF:-1 tvg-id="MovistarXtra.es" tvg-name="ES - MOVISTAR XTRA" tvg-logo="http://www.mediafire.com/convkey/35f0/f355d7fgb2ijy7hzg.jpg" group-title="ESPAÑA",ES - MOVISTAR XTRA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3154.ts
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES - MOVISTAR TOROS TV" tvg-logo="http://www.mediafire.com/convkey/d985/ggeg5zddhemvvwrzg.jpg" group-title="ESPAÑA DEPORTES",ES - MOVISTAR TOROS TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3153.ts
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES - IBERALIA" tvg-logo="https://satcesc.com/web/wp-content/uploads/2015/07/iberalia-e1437756041213.jpg" group-title="ESPAÑA",ES - IBERALIA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3152.ts
+#EXTINF:-1 tvg-id="MovistarPartidazo.es" tvg-name="ES - PARTIDAZO" tvg-logo="data:image/jpeg;base64,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" group-title="ESPAÑA DEPORTES",ES - PARTIDAZO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3151.ts
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES - CANAL GOLF HD" tvg-logo="http://www.mediafire.com/convkey/279a/8tzhwml6h1hm3i7zg.jpg" group-title="ESPAÑA DEPORTES",ES - CANAL GOLF HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3149.ts
+#EXTINF:-1 tvg-id="MovistarFutbol.es" tvg-name="ES - MOVISTAR FUTBOL HD" tvg-logo="http://www.mediafire.com/convkey/3816/91wi1bpvsq1x817zg.jpg" group-title="ESPAÑA DEPORTES",ES - MOVISTAR FUTBOL HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3148.ts
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES - MOVISTAR ESTRENOS HD" tvg-logo="http://www.mediafire.com/convkey/c8bb/nzws3og8o6owuk2zg.jpg" group-title="ESPAÑA",ES - MOVISTAR ESTRENOS HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3147.ts
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES - MOVISTAR DEPORTE HD" tvg-logo="http://www.mediafire.com/convkey/3a82/xaurtiou8rtvfu9zg.jpg" group-title="ESPAÑA DEPORTES",ES - MOVISTAR DEPORTE HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3146.ts
+#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="ES - CANAL MOVISTAR DEPORTE 2 HD" tvg-logo="http://www.mediafire.com/convkey/b42a/21e3soritd8ktbazg.jpg" group-title="ESPAÑA DEPORTES",ES - CANAL MOVISTAR DEPORTE 2 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3145.ts
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="ES - CANAL DECASA" tvg-logo="http://www.mediafire.com/convkey/c8f6/ordibw7pqdz0zbczg.jpg" group-title="ESPAÑA",ES - CANAL DECASA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3121.ts
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES - MOVISTAR COMEDIA" tvg-logo="http://www.mediafire.com/convkey/4a6a/m0trirtmat6le0tzg.jpg" group-title="ESPAÑA",ES - MOVISTAR COMEDIA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3143.ts
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES - CANAL COCINA" tvg-logo="http://www.mediafire.com/convkey/a79e/qwgb526gqffkxuqzg.jpg" group-title="ESPAÑA",ES - CANAL COCINA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3120.ts
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES - MOVISTAR  ACTION" tvg-logo="http://www.mediafire.com/convkey/16cf/6xbjolh1vf3suv2zg.jpg" group-title="ESPAÑA",ES - MOVISTAR  ACTION
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3142.ts
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES - CALLE 13 HD" tvg-logo="http://www.mediafire.com/convkey/3e2a/zmz65fda697x9jhzg.jpg" group-title="ESPAÑA",ES - CALLE 13 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3141.ts
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES - BOING" tvg-logo="http://www.mediafire.com/convkey/da65/fgh3tpw3eby124xzg.jpg" group-title="ESPAÑA",ES - BOING
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3119.ts
+#EXTINF:-1 tvg-id="beINSports.es" tvg-name="ES - BEIN SPORT HD" tvg-logo="https://pbs.twimg.com/profile_images/821337272477974528/2jLSfpjG.jpg" group-title="ESPAÑA DEPORTES",ES - BEIN SPORT HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3118.ts
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="ES - BEIN LA LIGA HQ" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="ESPAÑA DEPORTES",ES - BEIN LA LIGA HQ
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3092.ts
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="ES - LIGA 123 HD" tvg-logo="http://files.laliga.es/seccion_logos/laliga-123-h-16-9.jpg" group-title="ESPAÑA DEPORTES",ES - LIGA 123 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3091.ts
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES - BARÇA TV" tvg-logo="http://assets.cdn.iinet.net.au/assets/Posters/live-barcatv.jpg" group-title="ESPAÑA DEPORTES",ES - BARÇA TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3104.ts
+#EXTINF:-1 tvg-id="BabyTV.mx" tvg-name="ES - BABY TV" tvg-logo="https://fthmb.tqn.com/cDImBd92_6xp3JmFnZAVl4I-1JI=/2277x1868/filters:no_upscale()/about/BabyTV-Logo-with-URL-56aa16123df78cf772ac5771.JPG" group-title="ESPAÑA",ES - BABY TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3090.ts
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES - ANTENA 3 HD" tvg-logo="http://www.mediafire.com/convkey/b2b8/bb2q3qochn7rc0uzg.jpg" group-title="ESPAÑA",ES - ANTENA 3 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3139.ts
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="ES - 24 HORAS" tvg-logo="http://www.mediafire.com/convkey/74b1/ojzd2efz21gsd71zg.jpg" group-title="ESPAÑA",ES - 24 HORAS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3106.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES - #0 HD" tvg-logo="http://www.mediafire.com/convkey/6c32/2vxjsfks4b3x46gzg.jpg" group-title="ESPAÑA",ES - #0 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3113.ts
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NICK JR" tvg-logo="http://www.mediafire.com/convkey/ec9d/msty2teq2prq8kvzg.jpg" group-title="INFANTILES",NICK JR
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3187.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK TOONS" tvg-logo="http://www.mediafire.com/convkey/9b29/6auucc68yul8gu8zg.jpg" group-title="INFANTILES",NICK TOONS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3071.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - CAPITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png" group-title="PERU",PERU - CAPITAL TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2172.ts
+#EXTINF:-1 tvg-id="" tvg-name="COL - CAPITAL TV" tvg-logo="http://www.mediafire.com/convkey/824c/6av4fvz8cdyaiiozg.jpg" group-title="COLOMBIA",COL - CAPITAL TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2163.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - FRECUENCIA LATINA" tvg-logo="http://www.mediafire.com/convkey/a0dd/5cr29mb9mmvra65zg.jpg" group-title="PERU",PERU - FRECUENCIA LATINA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2174.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - PANAMERICANA" tvg-logo="http://www.mediafire.com/convkey/91ab/9gnrzze2gzy38d5zg.jpg" group-title="PERU",PERU - PANAMERICANA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2171.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - RBC" tvg-logo="http://www.mediafire.com/convkey/fd3d/y8v3aegxcnd85n2zg.jpg" group-title="PERU",PERU - RBC
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2166.ts
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="GOURMET" tvg-logo="http://www.mediafire.com/convkey/9409/a37v88socdwb7xszg.jpg" group-title="• MUNDO Y CULTURA",GOURMET
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3235.ts
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN HD" tvg-logo="http://www.mediafire.com/convkey/75d1/s98p9219fz77880zg.jpg" group-title="• CINE",GOLDEN HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3236.ts
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="http://www.mediafire.com/convkey/e7df/dxxh2fubziyc5zbzg.jpg" group-title="• CINE",GOLDEN EDGE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3237.ts
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="GLITZ" tvg-logo="http://www.mediafire.com/convkey/95e5/y7cerfw1pvyplp1zg.jpg" group-title="• MUNDO Y CULTURA",GLITZ
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3238.ts
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="" group-title="• MUNDO Y CULTURA",EL GOURMET
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3206.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU - CNT SPORT" tvg-logo="http://www.mediafire.com/convkey/7f25/7757tu3tqddd4txzg.jpg" group-title="ECUADOR",ECU - CNT SPORT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3435.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU - ECUAVISA" tvg-logo="http://www.mediafire.com/convkey/d055/mt3o7yy007b6mo6zg.jpg" group-title="ECUADOR",ECU - ECUAVISA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3433.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU - GAMA TV" tvg-logo="http://www.mediafire.com/convkey/d8d6/6tj6102sb2mdjufzg.jpg" group-title="ECUADOR",ECU - GAMA TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3432.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU - RTS" tvg-logo="http://www.mediafire.com/convkey/c789/tfn5nd84vwi8py8zg.jpg" group-title="ECUADOR",ECU - RTS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3430.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC - TELEAMAZONAS" tvg-logo="" group-title="ECUADOR",EC - TELEAMAZONAS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3428.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU - OROMAR TV" tvg-logo="http://www.mediafire.com/convkey/7945/ne4d8dxraya611bzg.jpg" group-title="ECUADOR",ECU - OROMAR TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3431.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU - TC TELEVISION" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="ECUADOR",ECU - TC TELEVISION
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3429.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU - ECUADOR TV" tvg-logo="http://www.mediafire.com/convkey/4c6c/3bkfp44hr0m2gfxzg.jpg" group-title="ECUADOR",ECU - ECUADOR TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3434.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU - CANAL UNO" tvg-logo="http://www.mediafire.com/convkey/4100/he9qkdekgmruyrszg.jpg" group-title="ECUADOR",ECU - CANAL UNO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3436.ts
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://www.mediafire.com/convkey/f17c/gavni9iyf1mclumzg.jpg" group-title="• CINE",FX
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3201.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE." tvg-logo="http://www.mediafire.com/convkey/a2c6/7a9rt7yxxr38e36zg.jpg" group-title="• MUNDO Y CULTURA",DISCOVERY SCIENCE.
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3082.ts
+#EXTINF:-1 tvg-id="" tvg-name="US - PAC 12 LOS ANGELES" tvg-logo="http://static.pac-12.com/images/logos/pac-12-losangeles-logo.png" group-title="USA SPORTS",US - PAC 12 LOS ANGELES
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3364.ts
+#EXTINF:-1 tvg-id="PAC12Washington.us" tvg-name="USA - PAC 12 WASHINGTON" tvg-logo="" group-title="USA SPORTS",USA - PAC 12 WASHINGTON
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3373.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - PAC 12 NETWORK" tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="USA SPORTS",USA - PAC 12 NETWORK
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3375.ts
+#EXTINF:-1 tvg-id="PAC12Oregon.us" tvg-name="USA - PAC 12 OREGON" tvg-logo="http://www.mediafire.com/convkey/ccec/c07klj2bts4dicrzg.jpg" group-title="USA SPORTS",USA - PAC 12 OREGON
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3374.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - PAC 12" tvg-logo="" group-title="USA SPORTS",USA - PAC 12
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3799.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - PAC 12 BAY AREA" tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png" group-title="USA SPORTS",USA - PAC 12 BAY AREA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3368.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - PAC 12 MOUNTAIN" tvg-logo="http://static.pac-12.com/images/logos/pac-12-mountain-logo.png" group-title="USA SPORTS",USA - PAC 12 MOUNTAIN
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3369.ts
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE" tvg-logo="http://www.mediafire.com/convkey/ca09/78ypzdm581locjfzg.jpg" group-title="• CINE",SPACE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3232.ts
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY" tvg-logo="http://www.mediafire.com/convkey/aff2/cbeb722so92ybayzg.jpg" group-title="• CINE",SONY
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3069.ts
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="http://www.mediafire.com/convkey/8cff/nj7e82z1bjzci8mzg.jpg" group-title="• MUNDO Y CULTURA",TLC
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3181.ts
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" group-title="• CINE",TNT SERIES
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3218.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="http://www.mediafire.com/convkey/4096/9gram92yt7ha2apzg.jpg" group-title="MUSICALES",TOP LATINO
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2024.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRENDY CHANNEL" tvg-logo="http://www.mediafire.com/convkey/04e0/587ppmb3zq83f3bzg.jpg" group-title="• MUNDO Y CULTURA",TRENDY CHANNEL
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3060.ts
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="TRU TV HD" tvg-logo="http://www.mediafire.com/convkey/b06a/pl5hulab678tl9qzg.jpg" group-title="• CINE",TRU TV HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3231.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT [DEP] - UFC FIGHTING" tvg-logo="" group-title="• LATINO DEPORTES •",LAT [DEP] - UFC FIGHTING
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3421.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC 1 HD" tvg-logo="http://www.mediafire.com/convkey/14e6/8ss433c3r5nn7xuzg.jpg" group-title="UK SPORTS",UK - BBC 1 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3384.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BOX NATION" tvg-logo="http://www.mediafire.com/convkey/1b4d/0x66v44262x0b3yzg.jpg" group-title="UK SPORTS",UK - BOX NATION
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2965.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORT 2 HD" tvg-logo="http://www.mediafire.com/convkey/40c3/jjd5wq40txd9k9ezg.jpg" group-title="UK SPORTS",UK - BT SPORT 2 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3390.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORT XTRA 3 HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5796.1438199951.png" group-title="UK SPORTS",UK - BT SPORT XTRA 3 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3391.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORT EXTRA 1" tvg-logo="http://www.mediafire.com/convkey/9b85/ysvimicv4tq5x19zg.jpg" group-title="UK SPORTS",UK - BT SPORT EXTRA 1
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3392.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORT3 HD" tvg-logo="http://www.complaintshelpline.com/wp-content/uploads/2014/02/BT-Sport-Logo.jpg" group-title="UK SPORTS",UK - BT SPORT3 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3389.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 1 HD" tvg-logo="http://www.mediafire.com/convkey/86a4/sj8vnh3romll9rizg.jpg" group-title="UK SPORTS",UK - EUROSPORT 1 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3393.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 2" tvg-logo="http://www.mediafire.com/convkey/689b/jf81v3up77ckgkuzg.jpg" group-title="UK SPORTS",UK - EUROSPORT 2
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3394.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS FOOTBALL" tvg-logo="http://www.mediafire.com/convkey/86a4/sj8vnh3romll9rizg.jpg" group-title="UK SPORTS",UK - SKY SPORTS FOOTBALL
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2133.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORT EXTRA 2" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5796.1438199951.png" group-title="UK SPORTS",UK - BT SPORT EXTRA 2
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3395.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 1" tvg-logo="http://www.complaintshelpline.com/wp-content/uploads/2014/02/BT-Sport-Logo.jpg" group-title="UK SPORTS",UK - BT SPORTS 1
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3386.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS 3 HD" tvg-logo="http://www.mediafire.com/convkey/0420/jdlsmzpr5g1v6d0zg.jpg" group-title="UK SPORTS",UK - SKY SPORTS 3 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3385.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORT EXTRA 4" tvg-logo="http://www.mediafire.com/convkey/feff/pa7gqvzc0je944ezg.jpg" group-title="UK SPORTS",UK - BT SPORT EXTRA 4
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3411.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS ACTION HD" tvg-logo="http://www.mediafire.com/convkey/86c2/ks6b6vdy33jo6j0zg.jpg" group-title="UK SPORTS",UK - SKY SPORTS ACTION HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3382.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS ARENA HD" tvg-logo="http://www.tgo-tv.net/images/tvthumb/sport/6482649364.jpg" group-title="UK SPORTS",UK - SKY SPORTS ARENA HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3381.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS F1 HD" tvg-logo="http://www.mediafire.com/convkey/1426/0eu217oagorw5p1zg.jpg" group-title="UK SPORTS",UK - SKY SPORTS F1 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3387.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://www.mediafire.com/convkey/9ddd/vxdd3i848ri8b4gzg.jpg" group-title="UK SPORTS",UK - SKY SPORTS PREMIER LEAGUE HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3383.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR - ARENASPORT 1 HD" tvg-logo="" group-title="WORLD SPORTS",SR - ARENASPORT 1 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3396.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR - ARENASPORT 3 HD" tvg-logo="http://www.mediafire.com/convkey/743c/gwdup5kwrouojbjzg.jpg" group-title="WORLD SPORTS",SR - ARENASPORT 3 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3398.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR - ARENASPORT 4 HD" tvg-logo="http://www.mediafire.com/convkey/9775/byrde1i2vaiuswlzg.jpg" group-title="WORLD SPORTS",SR - ARENASPORT 4 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3399.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR - ARENASPORT 5 HD" tvg-logo="http://www.mediafire.com/convkey/5a89/6rga1dwbhew6dg5zg.jpg" group-title="WORLD SPORTS",SR - ARENASPORT 5 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3400.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR - ARENASPORTS 2 HD" tvg-logo="http://www.mediafire.com/convkey/208e/qcs7wnw017elsqazg.jpg" group-title="WORLD SPORTS",SR - ARENASPORTS 2 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3397.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SY SPORTS MAIN EVENT HD" tvg-logo="http://www.mediafire.com/convkey/6d56/2uqqin1h4mhpx4azg.jpg" group-title="UK SPORTS",UK - SY SPORTS MAIN EVENT HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3388.ts
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE HD" tvg-logo="http://www.mediafire.com/convkey/6dcc/1fnovk5z72sbxl4zg.jpg" group-title="MEXICO",UNICABLE HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3230.ts
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://mitvstatic.com/channels/a7b347a7-61a9-48c5-92fb-fc7832fd45c5_m.jpg" group-title="• CINE",STUDIO UNIVERSAL HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3229.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="USA - FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="• LATINO DEPORTES •",USA - FOX SPORTS 2
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2044.ts
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="LAT [USA] - UNIVISION (backup2)" tvg-logo="http://www.mediafire.com/convkey/b3e9/ruhamutl2q2u9n2zg.jpg" group-title="LATINOS [USA]",LAT [USA] - UNIVISION (backup2)
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3177.ts
+#EXTINF:-1 tvg-id="" tvg-name="US - UFC FIGHT" tvg-logo="http://www.mediafire.com/convkey/6a35/k12fdhc04iikrlazg.jpg" group-title="USA SPORTS",US - UFC FIGHT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3427.ts
+#EXTINF:-1 tvg-id="" tvg-name="US - WWE HD" tvg-logo="http://www.mediafire.com/convkey/7c87/d1od9hrv8zu1uv7zg.jpg" group-title="USA SPORTS",US - WWE HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3426.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - BEIN SPORTS US HD" tvg-logo="http://www.mediafire.com/convkey/081f/upaynlrh7cu48dnzg.jpg" group-title="USA SPORTS",USA - BEIN SPORTS US HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3379.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - FIGHT NETWORK +" tvg-logo="http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png" group-title="USA SPORTS",USA - FIGHT NETWORK +
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3380.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - FIGHT SPORT" tvg-logo="http://www.mediafire.com/convkey/50e2/yq8fo894yjppeg8zg.jpg" group-title="USA SPORTS",USA - FIGHT SPORT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3378.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOX HD" tvg-logo="" group-title="USA / UK",USA - FOX HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3356.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - CYCLING" tvg-logo="https://pbs.twimg.com/profile_images/714039793567604736/vwbSZlx-.jpg" group-title="USA SPORTS",USA - CYCLING
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3691.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - FANTASY ZONE" tvg-logo="http://www.directv.com/NFLiframe/images/img_dtv_fantasy_zone_football.jpg" group-title="USA SPORTS",USA - FANTASY ZONE
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3695.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - FIGHT" tvg-logo="https://pbs.twimg.com/profile_images/507144153226944512/lEHuwMnN.jpeg" group-title="USA SPORTS",USA - FIGHT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3693.ts
+#EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-name="USA - FOX SPORTS FLORIDA" tvg-logo="https://i2.wp.com/exstreamal.com/wp-content/uploads/2017/05/5181cfe9b651803f88686bc6ea14fb0f-original.jpg?resize=600%2C400" group-title="USA SPORTS",USA - FOX SPORTS FLORIDA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3704.ts
+#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="USA - FOX SPORTS SUN" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/31/Fox_Sports_Sun.png/revision/latest?cb=20151029022651" group-title="USA SPORTS",USA - FOX SPORTS SUN
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3707.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - FUBO NETWORK" tvg-logo="https://www.cutthecord.com/wp-content/uploads/2017/04/fubo-tv-logo.jpg" group-title="USA SPORTS",USA - FUBO NETWORK
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3699.ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="USA - NBA TV" tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="USA SPORTS",USA - NBA TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3710.ts
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="USA - NBCSN SPORTS NETWORK" tvg-logo="http://thecomeback.com/awfulannouncing/wp-content/uploads/sites/94/2013/07/nbcsportsnetwork.jpg" group-title="USA SPORTS",USA - NBCSN SPORTS NETWORK
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3709.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="USA - BEIN SPORTS USA" tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX.jpg" group-title="USA SPORTS",USA - BEIN SPORTS USA
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3748.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - BTN" tvg-logo="https://bigtennetworks.files.wordpress.com/2017/09/btn_logo_kit_page_4a.jpg?w=970&h=546&crop=1" group-title="USA SPORTS",USA - BTN
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3750.ts
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="USA - CNBC" tvg-logo="https://www.fuelfreedom.org/wp-content/uploads/CNBC.png" group-title="USA / UK",USA - CNBC
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3786.ts
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="USA - ELEVEN SPORTS" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2017/03/eleven-sports-network.png" group-title="USA SPORTS",USA - ELEVEN SPORTS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3758.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - FOOTBALL REPORTS TV" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/04/football-report-fubo-tv-America-logo-design-26.png" group-title="USA SPORTS",USA - FOOTBALL REPORTS TV
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3760.ts
+#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="USA - FOX SOCCER PLUS" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2013/09/foxsoccer.jpg" group-title="USA SPORTS",USA - FOX SOCCER PLUS
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3754.ts
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="USA - GOLF CHANNEL" tvg-logo="http://tvbtn.files.wordpress.com/2015/01/new_golf_channel_logo_304.jpg" group-title="USA SPORTS",USA - GOLF CHANNEL
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3752.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="USA - MSNBC" tvg-logo="https://lh5.googleusercontent.com/-5f8ygZcGHxI/AAAAAAAAAAI/AAAAAAABCvo/uXj_NIdZRo0/s0-c-k-no-ns/photo.jpg" group-title="USA / UK",USA - MSNBC
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3789.ts
+#EXTINF:-1 tvg-id="GolTV.us" tvg-name="USA- GOL TV ENGLISH" tvg-logo="http://static.ontvtonight.com/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG" group-title="USA SPORTS",USA- GOL TV ENGLISH
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3756.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="USA - BEIN SPORTS US 1" tvg-logo="https://static.livetvhd.net/thumbs/Bein%20Sport%201.jpg" group-title="USA SPORTS",USA - BEIN SPORTS US 1
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3593.ts
+#EXTINF:-1 tvg-id="beINSports2.us" tvg-name="USA - BEIN SPORTS US 2" tvg-logo="http://myturkishpack.com/channels/logo/bein-sports-2-hd.jpg" group-title="USA SPORTS",USA - BEIN SPORTS US 2
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3594.ts
+#EXTINF:-1 tvg-id="beINSports3.us" tvg-name="USA - BEIN SPORTS US 3" tvg-logo="http://4.bp.blogspot.com/-HbSfFircP3Y/Uu_QaGjSz8I/AAAAAAAAAhA/37sKd8qQapE/s1600/bein+sport+3.png" group-title="USA SPORTS",USA - BEIN SPORTS US 3
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3595.ts
+#EXTINF:-1 tvg-id="beINSports4.us" tvg-name="USA - BEIN SPORTS US 4" tvg-logo="http://www.khaozap.com/wp-content/uploads/2016/08/114.jpg" group-title="USA SPORTS",USA - BEIN SPORTS US 4
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3596.ts
+#EXTINF:-1 tvg-id="beINSports5.us" tvg-name="USA - BEIN SPORTS US 5" tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png" group-title="USA SPORTS",USA - BEIN SPORTS US 5
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3597.ts
+#EXTINF:-1 tvg-id="beINSports6.us" tvg-name="USA - BEIN SPORTS US 6" tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png" group-title="USA SPORTS",USA - BEIN SPORTS US 6
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3598.ts
+#EXTINF:-1 tvg-id="beINSports7.us" tvg-name="USA - BEIN SPORTS US 7" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/24/66/1a/24661ad2729eb279a35b1586269a6b2e.jpg" group-title="USA SPORTS",USA - BEIN SPORTS US 7
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3599.ts
+#EXTINF:-1 tvg-id="beINSports8.us" tvg-name="USA - BEIN SPORTS US 8" tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png" group-title="USA SPORTS",USA - BEIN SPORTS US 8
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3600.ts
+#EXTINF:-1 tvg-id="beINSports9.us" tvg-name="USA - BEIN SPORTS US 9" tvg-logo="http://4.bp.blogspot.com/-hlTGuhqbPco/VkjkXy1PrWI/AAAAAAAAAnE/BCJ1uWDzjaY/s1600/bn%2Bsport9.jpg" group-title="USA SPORTS",USA - BEIN SPORTS US 9
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3601.ts
+#EXTINF:-1 tvg-id="beINSports10.us" tvg-name="USA - BEIN SPORTS US 10" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2014/01/bein-sport-10HD.png" group-title="USA SPORTS",USA - BEIN SPORTS US 10
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3602.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 705" tvg-logo="http://www.mediafire.com/convkey/10f9/j447tzp1w415m2lzg.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 705
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3354.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 706" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2011/03/nflsundayticketlogo.gif" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 706
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3352.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 707" tvg-logo="http://www.mediafire.com/convkey/10f9/j447tzp1w415m2lzg.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 707
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3351.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 708" tvg-logo="http://www.mediafire.com/convkey/10f9/j447tzp1w415m2lzg.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 708
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3350.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 709" tvg-logo="http://www.mediafire.com/convkey/10f9/j447tzp1w415m2lzg.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 709
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3349.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 710" tvg-logo="http://www.mediafire.com/convkey/10f9/j447tzp1w415m2lzg.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 710
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3348.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 711" tvg-logo="http://www.mediafire.com/convkey/10f9/j447tzp1w415m2lzg.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 711
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3347.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 712" tvg-logo="http://www.mediafire.com/convkey/10f9/j447tzp1w415m2lzg.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 712
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3346.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 713" tvg-logo="http://www.mediafire.com/convkey/10f9/j447tzp1w415m2lzg.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 713
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3345.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 714" tvg-logo="http://www.mediafire.com/convkey/10f9/j447tzp1w415m2lzg.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 714
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3353.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 715" tvg-logo="https://media.wired.com/photos/59270733cfe0d93c47432208/master/pass/NFLST2014_OnlyOnDTV_Logo_RGB-01.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 715
+http://playtv.dynu.net:25462/live/demoplaytv/1177/4203.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 716" tvg-logo="https://media.wired.com/photos/59270733cfe0d93c47432208/master/pass/NFLST2014_OnlyOnDTV_Logo_RGB-01.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 716
+http://playtv.dynu.net:25462/live/demoplaytv/1177/4204.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL SUNDAY TICKET LIVE 717" tvg-logo="https://media.wired.com/photos/59270733cfe0d93c47432208/master/pass/NFLST2014_OnlyOnDTV_Logo_RGB-01.jpg" group-title="• EVENTOS ESPECIALES •",USA - NFL SUNDAY TICKET LIVE 717
+http://playtv.dynu.net:25462/live/demoplaytv/1177/4205.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - CNBC WORLD" tvg-logo="https://cdn.worldvectorlogo.com/logos/cnbc-world.svg" group-title="USA / UK",USA - CNBC WORLD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3365.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - AMC HD" tvg-logo="" group-title="USA / UK",USA - AMC HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3357.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - CBS ACTION" tvg-logo="http://www.mediafire.com/convkey/4f03/70i156vg76352cazg.jpg" group-title="USA / UK",UK - CBS ACTION
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3367.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - NFL HD" tvg-logo="http://www.mediafire.com/convkey/e2f7/valx3illi3cco7hzg.jpg" group-title="USA SPORTS",USA - NFL HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3376.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - CNN HD" tvg-logo="" group-title="USA / UK",USA - CNN HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3377.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - DISCOVERY SHOWCASE HD" tvg-logo="http://www.mediafire.com/convkey/d4c2/7yrebn446coib3czg.jpg" group-title="USA / UK",USA - DISCOVERY SHOWCASE HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3358.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - TSN SPORT 1 HD" tvg-logo="http://www.mediafire.com/convkey/43df/q04l4ghlamoopx4zg.jpg" group-title="USA SPORTS",USA - TSN SPORT 1 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3363.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - TSN SPORT 2 HD" tvg-logo="http://www.mediafire.com/convkey/4935/sfb9dsdin49t1sazg.jpg" group-title="USA SPORTS",USA - TSN SPORT 2 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3362.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : TSN SPORT 3 HD" tvg-logo="https://static1.squarespace.com/static/52018a1fe4b0d7436ca5b4af/t/53dcf903e4b0783febcf1ceb/1406990599625/tsn.jpg" group-title="USA SPORTS",USA : TSN SPORT 3 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3361.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - TSN SPORT 4 HD" tvg-logo="http://www.mediafire.com/convkey/fd39/sqrys74kc040h81zg.jpg" group-title="USA / UK",USA - TSN SPORT 4 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3360.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - TSN SPORTS 5 HD" tvg-logo="https://static1.squarespace.com/static/52018a1fe4b0d7436ca5b4af/t/53dcf903e4b0783febcf1ceb/1406990599625/tsn.jpg" group-title="USA / UK",USA - TSN SPORTS 5 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3355.ts
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER CHANNEL HD" tvg-logo="http://www.mediafire.com/convkey/1eb6/gbkuhu73ss24b6kzg.jpg" group-title="• CINE",WARNER CHANNEL HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3228.ts
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL" tvg-logo="http://www.mediafire.com/convkey/0393/xv238j7c5b0rcibzg.jpg" group-title="• CINE",UNIVERSAL
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3068.ts
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="http://www.mediafire.com/convkey/0211/lyj9dwgwygu3l6qzg.jpg" group-title="• CINE",TCM
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3065.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT HD" tvg-logo="http://www.mediafire.com/convkey/78c4/ggg8ykrr65tsyvgzg.jpg" group-title="COLOMBIA",WIN SPORT HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3057.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX - AYM SPORT" tvg-logo="http://i.imgur.com/R8jdMwe.png" group-title="MEXICO",MX - AYM SPORT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3089.ts
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="TELEHIT" tvg-logo="http://www.mediafire.com/convkey/7340/rurjmeweixp1j98zg.jpg" group-title="MUSICALES",TELEHIT
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3064.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - WILLAX" tvg-logo="http://www.mediafire.com/convkey/bbab/6z5afnzqld3s5g5zg.jpg" group-title="PERU",PERU - WILLAX
+http://playtv.dynu.net:25462/live/demoplaytv/1177/2165.ts
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES - MOVISTAR F1 HD" tvg-logo="http://www.mediafire.com/convkey/8da6/i83zz5se83jy99nzg.jpg" group-title="ESPAÑA DEPORTES",ES - MOVISTAR F1 HD
+http://playtv.dynu.net:25462/live/demoplaytv/1177/3093.ts
