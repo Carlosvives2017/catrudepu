@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn6PcklaoDXjQb12axa4ZfFJOBs9UQ6Zeuz1S0wKhsqVYlKr-4" group-title="• MUNDO Y CULTURA",ANIMAL PLANET
-http://playtv.dynu.net:25462/live/demoplaytv/1177/3247.ts
+plugin://plugin.video.f4mTester/?url=http://playtv.dynu.net:25462/live/demoplaytv/1177/3247.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://www.mediafire.com/convkey/df46/a57g9naunoz9unazg.jpg" group-title="• CINE",AXN
-http://playtv.dynu.net:25462/live/demoplaytv/1177/3248.ts
+plugin://plugin.video.f4mTester/?url=http://playtv.dynu.net:25462/live/demoplaytv/1177/3248.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="http://www.mediafire.com/convkey/7d1d/lpcc5t1n8sp5ynczg.jpg" group-title="• CINE",A&E
 http://playtv.dynu.net:25462/live/demoplaytv/1177/3246.ts
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://www.mediafire.com/convkey/ef43/hhiyverbq8389wczg.jpg" group-title="MUSICALES",BANDAMAX
