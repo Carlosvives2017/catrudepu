@@ -1,1 +1,66 @@
-#EXTM3U
+--------------------------------------
+<item>               
+<title>[B][COLOR blue]•   [/B][/COLOR]Telemundo</title>
+<link>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
+<info></info>
+</item>
+
+<item>               
+<title>[B][COLOR blue]•   [/B][/COLOR]Telemundo</title>
+<link>http://$doregex[adryan_IP]/loadbalance/15847258663262532849/playlist.m3u8$doregex[adryan_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>adryan_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[adryan_page]</page>
+<noredirect>true</noredirect>
+<includeheaders></includeheaders>
+</regex>
+<regex>
+<name>adryan_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[adryan_page]</page>
+</regex>
+<regex>
+<name>adryan_page</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://pxstream.tv/embed/up06x35h945y/</page>
+<referer>http://lacasadeltikitaka.club</referer>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
+<info></info>
+</item>
+
+<item>               
+<title>[B][COLOR blue]•   [/B][/COLOR]Telemundo int</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=telemundoes&amp;width=650&amp;height=397</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
+<info></info>
+</item>
+
+<item>               
+<title>[B][COLOR blue]•   [/B][/COLOR]Telemundo int</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=telemundoes&amp;width=650&amp;height=397</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
+<info></info>
+</item>
