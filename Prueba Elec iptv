@@ -1,4 +1,4 @@
-<title>                [COLOR lightslategray]update: [COLOR lightblue][B]28[/B][/COLOR] SEPTIEMBRE 2017[/COLOR]      </title>
+
 <item>
 <title>[COLOR white]AVISO IMPORTANTE [COLOR red] >>>  Entrar  <<< [/COLOR]</title>
 <link>$doregex[text]</link>
@@ -8,7 +8,8 @@
 def GetLSProData(page_data,Cookie_Jar,m):
     import xbmcgui
     dialog = xbmcgui.Dialog()
-    dialog.textviewer('#Elecdeka Uruguay - IMPORTANTE', 'Para ofrecer el mejor funcionamiento de canales, peliculas..., presisamos seguir si pueden apoyarme pues se han cambiado servicios de pago y si esto sigue no puedo solucionarlo mas. La donacion es por paypal al correo [COLOR red]elecdeka@yahoo.ar[/COLOR]' )
+    dialog.textviewer('[COLOR red]#Elecdeka Uruguay - IMPORTANTE[/COLOR]', 'Para ofrecer el mejor funcionamiento de canales, peliculas...
+    presisamos seguir si pueden apoyarme pues se han cambiado servicios de pago y si esto sigue no puedo solucionarlo mas. La donacion es por paypal al correo [COLOR red]elecdeka@yahoo.ar[/COLOR]' )
 ]]></expres>
 <page></page>
 </regex>
