@@ -1,96 +1,17 @@
---------------------------------------
-
+<title>                [COLOR lightslategray]update: [COLOR lightblue][B]28[/B][/COLOR] SEPTIEMBRE 2017[/COLOR]      </title>
 <item>
-<title>GLOBO NEWS</title>
-<link>$doregex[m3u8]</link>
+<title>[COLOR white]AVISO IMPORTANTE [COLOR red] >>>  Entrar  <<< [/COLOR]</title>
+<link>$doregex[text]</link>
 <regex>
-<name>m3u8</name>
-<expres>source: '(.*?)'</expres>
-<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
-<referer>http://pxstream.tv/embed/52s7az4pk29r/</referer>
+<name>text</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    dialog.textviewer('#Elecdeka Uruguay - IMPORTANTE', 'Para ofrecer el mejor funcionamiento de canales, peliculas..., presisamos seguir si pueden apoyarme pues se han cambiado servicios de pago y si esto sigue no puedo solucionarlo mas. La donacion es por paypal al correo [COLOR red]elecdeka@yahoo.ar[/COLOR] )
+]]></expres>
+<page></page>
 </regex>
-<regex>
-<name>page</name>
-<expres>file='([^']*)</expres>
-<page>http://www.tv-porinternet.com/2013/03/telemundo-en-vivo-por-internet.html</page>
-</regex>
-<thumbnail>http://iptv.codigolivre.net/logos/Globo-News.png</thumbnail>
-<fanart>http://iptv.codigolivre.net/logos/Globo-News.png</fanart>
-</item>
-
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Fox Action</title>
-<sportsdevil>http://www.tv-porinternet.com/2013/03/telemundo-en-vivo-por-internet.html</sportsdevil>
-<referer>http://www.tv-porinternet.com/2013/03/telemundo-en-vivo-por-internet.html</referer>
-<thumbnail>https://1.bp.blogspot.com/-yyToGrCknQk/WfJypDpQQnI/AAAAAAAACIU/4Dty8IWHEkIUdxgB5BZYDAapsWIvoaeAQCK4BGAYYCw/s320/foxacti.jpg</thumbnail>
-<fanart>http://i.vimeocdn.com/video/388630672_1280x720.jpg</fanart>
-</item>
-
-<item>               
-<title>[B][COLOR blue]•   [/B][/COLOR]Telemundo</title>
-<link>http://165.227.115.179/loadbalance/98582293832928293199/chunks.m3u8?pxAuth=FRVY7h28OZVX6lwGxAeLgvwD9byNpyPL </link>
-<thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
-<info></info>
-</item>
-
-<item>               
-<title>[B][COLOR blue]•   [/B][/COLOR]Telemundo</title>
-<link>http://$doregex[adryan_IP]/loadbalance/15847258663262532849/playlist.m3u8$doregex[adryan_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>adryan_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[adryan_page]</page>
-<noredirect>true</noredirect>
-<includeheaders></includeheaders>
-</regex>
-<regex>
-<name>adryan_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[adryan_page]</page>
-</regex>
-<regex>
-<name>adryan_page</name>
-<expres>"(.*m3u8.*?)"</expres>
-<page>http://pxstream.tv/embed/up06x35h945y/</page>
-<referer>http://lacasadeltikitaka.club</referer>
-</regex>
-<thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
-<info></info>
-</item>
-
-
-
-<item>               
-<title>[B][COLOR blue]•   [/B][/COLOR]Telemundo int</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=telemundoes&amp;width=650&amp;height=397</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
-<info></info>
-</item>
-
-<item>               
-<title>[B][COLOR blue]•   [/B][/COLOR]Telemundo int</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=telemundoes&amp;width=650&amp;height=397</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://1.bp.blogspot.com/-oLZdKyRD5pU/Wec-Xq-RjwI/AAAAAAAACGU/9EoJrpRuNuoZASSKUCL71eUdgcCuF9t_wCK4BGAYYCw/s1600/telemundo.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-cv8nTHGoJiQ/UdTWqhfccMI/AAAAAAAAmUg/7Tx9vZLCJso/s520/Telemundo+PUERTO+RICO+(2).png</fanart>
-<info></info>
+<thumbnail></thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<info>[COLOR red]#Elecdeka Uruguay[/COLOR]</info>
 </item>
