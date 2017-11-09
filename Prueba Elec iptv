@@ -1,4 +1,18 @@
 --------------------------------------
+<item>
+<title>[COLOR=blue][B][I]ESPN (BRASIL) [/I][/B][/COLOR]</title>
+<link>$doregex[file]|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.0 Safari/537.36 OPR/50.0.2759.0 (Edition developer)</link>
+<regex>
+<name>file</name>
+<expres>source: '(.*?)'</expres>
+<page>http://pxstream.tv/embed.php?file=52s7az4pk29r&referrer=http://ekostreams.co/ch/espn.php&width=600&amp;height=384&amp;jwplayer=flash</page> 
+<referer>http://www.tv-porinternet.com/2013/03/telemundo-en-vivo-por-internet.html</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwvsut1433964035.png/medium</thumbnail>
+</regex>
+</item>
+
+
 <item>               
 <title>[B][COLOR blue]•   [/B][/COLOR]Telemundo</title>
 <link>http://165.227.115.179/loadbalance/98582293832928293199/chunks.m3u8?pxAuth=FRVY7h28OZVX6lwGxAeLgvwD9byNpyPL </link>
