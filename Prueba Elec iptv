@@ -1,12 +1,23 @@
 --------------------------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Fox Action</title>
-<sportsdevil>http://www.tv-porinternet.com/2013/03/telemundo-en-vivo-por-internet.html</sportsdevil>
-<referer>http://www.tv-porinternet.com/2013/03/telemundo-en-vivo-por-internet.html</referer>
-<thumbnail>https://1.bp.blogspot.com/-yyToGrCknQk/WfJypDpQQnI/AAAAAAAACIU/4Dty8IWHEkIUdxgB5BZYDAapsWIvoaeAQCK4BGAYYCw/s320/foxacti.jpg</thumbnail>
-<fanart>http://i.vimeocdn.com/video/388630672_1280x720.jpg</fanart>
+<title>GLOBO NEWS</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
+<referer>http://pxstream.tv/embed/52s7az4pk29r/</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://www.tv-porinternet.com/2013/03/telemundo-en-vivo-por-internet.html</page>
+</regex>
+<thumbnail>http://iptv.codigolivre.net/logos/Globo-News.png</thumbnail>
+<fanart>http://iptv.codigolivre.net/logos/Globo-News.png</fanart>
 </item>
+
 
 <item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Fox Action</title>
