@@ -1,17 +1,309 @@
-
-<item>
-<title>[COLOR white]AVISO IMPORTANTE [COLOR red] >>>  Entrar  <<< [/COLOR]</title>
-<link>$doregex[text]</link>
-<regex>
-<name>text</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import xbmcgui
-    dialog = xbmcgui.Dialog()
-    dialog.textviewer('[COLOR red]#Elecdeka Uruguay - IMPORTANTE[/COLOR]', 'Para ofrecer el mejor funcionamiento de canales, peliculas... , presisamos seguir si pueden apoyarme pues se han cambiado servicios de pago y si esto sigue no puedo solucionarlo mas. La donacion es por paypal al correo [COLOR red]elecdeka@yahoo.ar[/COLOR]' )
-]]></expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<info>[COLOR red]#Elecdeka Uruguay[/COLOR]</info>
-</item>
+#EXTM3U
+#EXTINF:-1,360TV
+http://iptvuy.us:6525/demo/demo/12.ch
+#EXTINF:-1,America 2 AR
+http://iptvuy.us:6525/demo/demo/3.ch
+#EXTINF:-1,America 24 AR
+http://iptvuy.us:6525/demo/demo/2.ch
+#EXTINF:-1,Anexion TV
+http://iptvuy.us:6525/demo/demo/34.ch
+#EXTINF:-1,Animal Planet
+http://iptvuy.us:6525/demo/demo/82.ch
+#EXTINF:-1,Anime 24/7
+http://iptvuy.us:6525/demo/demo/110.ch
+#EXTINF:-1,Antares TV
+http://iptvuy.us:6525/demo/demo/60.ch
+#EXTINF:-1,ATV
+http://iptvuy.us:6525/demo/demo/62.ch
+#EXTINF:-1,ATV HD
+http://iptvuy.us:6525/demo/demo/61.ch
+#EXTINF:-1,AXN
+http://iptvuy.us:6525/demo/demo/102.ch
+#EXTINF:-1,AyM Sports
+http://iptvuy.us:6525/demo/demo/86.ch
+#EXTINF:-1,BHTV
+http://iptvuy.us:6525/demo/demo/63.ch
+#EXTINF:-1,C5N AR
+http://iptvuy.us:6525/demo/demo/1.ch
+#EXTINF:-1,CableNoticias
+http://iptvuy.us:6525/demo/demo/89.ch
+#EXTINF:-1,Cali TV
+http://iptvuy.us:6525/demo/demo/90.ch
+#EXTINF:-1,Canal 10
+http://iptvuy.us:6525/demo/demo/52.ch
+#EXTINF:-1,CANAL 10 (URU)
+http://iptvuy.us:6525/demo/demo/24.ch
+#EXTINF:-1,Canal 11
+http://iptvuy.us:6525/demo/demo/38.ch
+#EXTINF:-1,CANAL 12 (URU)
+http://iptvuy.us:6525/demo/demo/25.ch
+#EXTINF:-1,Canal 13
+http://iptvuy.us:6525/demo/demo/39.ch
+#EXTINF:-1,Canal 14
+http://iptvuy.us:6525/demo/demo/40.ch
+#EXTINF:-1,Canal 2
+http://iptvuy.us:6525/demo/demo/35.ch
+#EXTINF:-1,Canal 26
+http://iptvuy.us:6525/demo/demo/10.ch
+#EXTINF:-1,Canal 4
+http://iptvuy.us:6525/demo/demo/36.ch
+#EXTINF:-1,CANAL 4 HD (URU)
+http://iptvuy.us:6525/demo/demo/22.ch
+#EXTINF:-1,CANAL 5 (URU)
+http://iptvuy.us:6525/demo/demo/23.ch
+#EXTINF:-1,Canal 6 HD
+http://iptvuy.us:6525/demo/demo/37.ch
+#EXTINF:-1,Canal 9
+http://iptvuy.us:6525/demo/demo/27.ch
+#EXTINF:-1,Canal 9 AR
+http://iptvuy.us:6525/demo/demo/5.ch
+#EXTINF:-1,Canal Capital
+http://iptvuy.us:6525/demo/demo/91.ch
+#EXTINF:-1,Canal U
+http://iptvuy.us:6525/demo/demo/92.ch
+#EXTINF:-1,Capital TV
+http://iptvuy.us:6525/demo/demo/64.ch
+#EXTINF:-1,Caracol
+http://iptvuy.us:6525/demo/demo/93.ch
+#EXTINF:-1,Carolina TV
+http://iptvuy.us:6525/demo/demo/33.ch
+#EXTINF:-1,ChileVision
+http://iptvuy.us:6525/demo/demo/28.ch
+#EXTINF:-1,Cine AR
+http://iptvuy.us:6525/demo/demo/17.ch
+#EXTINF:-1,CineMax
+http://iptvuy.us:6525/demo/demo/103.ch
+#EXTINF:-1,CN23
+http://iptvuy.us:6525/demo/demo/11.ch
+#EXTINF:-1,CNN
+http://iptvuy.us:6525/demo/demo/29.ch
+#EXTINF:-1,Colosal
+http://iptvuy.us:6525/demo/demo/41.ch
+#EXTINF:-1,Cronica TV
+http://iptvuy.us:6525/demo/demo/18.ch
+#EXTINF:-1,DeporTV AR
+http://iptvuy.us:6525/demo/demo/8.ch
+#EXTINF:-1,DirectTV Sports
+http://iptvuy.us:6525/demo/demo/88.ch
+#EXTINF:-1,Discovery Channel
+http://iptvuy.us:6525/demo/demo/77.ch
+#EXTINF:-1,Disney Channel
+http://iptvuy.us:6525/demo/demo/100.ch
+#EXTINF:-1,Disney Channel HD
+http://iptvuy.us:6525/demo/demo/101.ch
+#EXTINF:-1,Disney Jr
+http://iptvuy.us:6525/demo/demo/97.ch
+#EXTINF:-1,Disney XD
+http://iptvuy.us:6525/demo/demo/98.ch
+#EXTINF:-1,Dominican YorkTV
+http://iptvuy.us:6525/demo/demo/75.ch
+#EXTINF:-1,E! Entertainment
+http://iptvuy.us:6525/demo/demo/79.ch
+#EXTINF:-1,Ecotel TV
+http://iptvuy.us:6525/demo/demo/43.ch
+#EXTINF:-1,El Gourmet
+http://iptvuy.us:6525/demo/demo/78.ch
+#EXTINF:-1,El Pinguino
+http://iptvuy.us:6525/demo/demo/30.ch
+#EXTINF:-1,El Trece
+http://iptvuy.us:6525/demo/demo/7.ch
+#EXTINF:-1,Encuentro AR
+http://iptvuy.us:6525/demo/demo/14.ch
+#EXTINF:-1,ESPN 2
+http://iptvuy.us:6525/demo/demo/83.ch
+#EXTINF:-1,Fox Movies
+http://iptvuy.us:6525/demo/demo/104.ch
+#EXTINF:-1,Fox Sports 2
+http://iptvuy.us:6525/demo/demo/85.ch
+#EXTINF:-1,France24
+http://iptvuy.us:6525/demo/demo/20.ch
+#EXTINF:-1,Futurama 24/7
+http://iptvuy.us:6525/demo/demo/112.ch
+#EXTINF:-1,HBO Plus
+http://iptvuy.us:6525/demo/demo/105.ch
+#EXTINF:-1,History Channel
+http://iptvuy.us:6525/demo/demo/80.ch
+#EXTINF:-1,IPE
+http://iptvuy.us:6525/demo/demo/65.ch
+#EXTINF:-1,La Red
+http://iptvuy.us:6525/demo/demo/31.ch
+#EXTINF:-1,Latina
+http://iptvuy.us:6525/demo/demo/66.ch
+#EXTINF:-1,LN
+http://iptvuy.us:6525/demo/demo/9.ch
+#EXTINF:-1,Los Simpson 24/7
+http://iptvuy.us:6525/demo/demo/109.ch
+#EXTINF:-1,Magazine
+http://iptvuy.us:6525/demo/demo/21.ch
+#EXTINF:-1,MaxPrime
+http://iptvuy.us:6525/demo/demo/106.ch
+#EXTINF:-1,Monterrico
+http://iptvuy.us:6525/demo/demo/68.ch
+#EXTINF:-1,NatGeo Wild
+http://iptvuy.us:6525/demo/demo/81.ch
+#EXTINF:-1,NexTV
+http://iptvuy.us:6525/demo/demo/67.ch
+#EXTINF:-1,Nickelodeon
+http://iptvuy.us:6525/demo/demo/99.ch
+#EXTINF:-1,Oromar TV
+http://iptvuy.us:6525/demo/demo/44.ch
+#EXTINF:-1,Ovacion
+http://iptvuy.us:6525/demo/demo/69.ch
+#EXTINF:-1,Pakapaka AR
+http://iptvuy.us:6525/demo/demo/15.ch
+#EXTINF:-1,QM Noticias
+http://iptvuy.us:6525/demo/demo/19.ch
+#EXTINF:-1,RBC
+http://iptvuy.us:6525/demo/demo/72.ch
+#EXTINF:-1,RCG
+http://iptvuy.us:6525/demo/demo/54.ch
+#EXTINF:-1,RPC
+http://iptvuy.us:6525/demo/demo/57.ch
+#EXTINF:-1,RPP TV
+http://iptvuy.us:6525/demo/demo/73.ch
+#EXTINF:-1,RT Español
+http://iptvuy.us:6525/demo/demo/13.ch
+#EXTINF:-1,RTG
+http://iptvuy.us:6525/demo/demo/55.ch
+#EXTINF:-1,RTS
+http://iptvuy.us:6525/demo/demo/45.ch
+#EXTINF:-1,SerTV
+http://iptvuy.us:6525/demo/demo/58.ch
+#EXTINF:-1,Sol TV
+http://iptvuy.us:6525/demo/demo/70.ch
+#EXTINF:-1,Space
+http://iptvuy.us:6525/demo/demo/107.ch
+#EXTINF:-1,Studio Universal
+http://iptvuy.us:6525/demo/demo/108.ch
+#EXTINF:-1,Sun Channel
+http://iptvuy.us:6525/demo/demo/53.ch
+#EXTINF:-1,T13
+http://iptvuy.us:6525/demo/demo/32.ch
+#EXTINF:-1,TaTeTi
+http://iptvuy.us:6525/demo/demo/16.ch
+#EXTINF:-1,TC HD
+http://iptvuy.us:6525/demo/demo/46.ch
+#EXTINF:-1,Telefe
+http://iptvuy.us:6525/demo/demo/6.ch
+#EXTINF:-1,Telemetro
+http://iptvuy.us:6525/demo/demo/59.ch
+#EXTINF:-1,Telesistema
+http://iptvuy.us:6525/demo/demo/76.ch
+#EXTINF:-1,TeleUno
+http://iptvuy.us:6525/demo/demo/42.ch
+#EXTINF:-1,TeleVid
+http://iptvuy.us:6525/demo/demo/96.ch
+#EXTINF:-1,Todo Deportes
+http://iptvuy.us:6525/demo/demo/87.ch
+#EXTINF:-1,Trendy
+http://iptvuy.us:6525/demo/demo/95.ch
+#EXTINF:-1,TV Agro
+http://iptvuy.us:6525/demo/demo/94.ch
+#EXTINF:-1,TV Chespirito 24/7
+http://iptvuy.us:6525/demo/demo/111.ch
+#EXTINF:-1,TV Mas
+http://iptvuy.us:6525/demo/demo/56.ch
+#EXTINF:-1,TV Peru
+http://iptvuy.us:6525/demo/demo/71.ch
+#EXTINF:-1,TV Publica AR
+http://iptvuy.us:6525/demo/demo/4.ch
+#EXTINF:-1,TVES
+http://iptvuy.us:6525/demo/demo/50.ch
+#EXTINF:-1,TVN
+http://iptvuy.us:6525/demo/demo/47.ch
+#EXTINF:-1,TVO
+http://iptvuy.us:6525/demo/demo/49.ch
+#EXTINF:-1,TVR
+http://iptvuy.us:6525/demo/demo/51.ch
+#EXTINF:-1,TyCSports
+http://iptvuy.us:6525/demo/demo/84.ch
+#EXTINF:-1,UCSG TV
+http://iptvuy.us:6525/demo/demo/48.ch
+#EXTINF:-1,VTV HD (URU)
+http://iptvuy.us:6525/demo/demo/26.ch
+#EXTINF:-1,Willax
+http://iptvuy.us:6525/demo/demo/74.ch
+#EXTINF:-1,TNT Sports
+http://iptvuy.us:6525/demo/demo/113.ch
+#EXTINF:-1,Music Top
+http://iptvuy.us:6525/demo/demo/114.ch
+#EXTINF:-1,Agro Canal
+http://iptvuy.us:6525/demo/demo/126.ch
+#EXTINF:-1,Antena 3
+http://iptvuy.us:6525/demo/demo/138.ch
+#EXTINF:-1,Aragon Tv
+http://iptvuy.us:6525/demo/demo/139.ch
+#EXTINF:-1,Canal 4 Jujuy
+http://iptvuy.us:6525/demo/demo/118.ch
+#EXTINF:-1,Canal do Boi
+http://iptvuy.us:6525/demo/demo/127.ch
+#EXTINF:-1,Classique TV
+http://iptvuy.us:6525/demo/demo/128.ch
+#EXTINF:-1,EL DÍA TV España
+http://iptvuy.us:6525/demo/demo/142.ch
+#EXTINF:-1,Livre TV
+http://iptvuy.us:6525/demo/demo/129.ch
+#EXTINF:-1,Mc Play
+http://iptvuy.us:6525/demo/demo/123.ch
+#EXTINF:-1,Mega
+http://iptvuy.us:6525/demo/demo/143.ch
+#EXTINF:-1,Melody Channel
+http://iptvuy.us:6525/demo/demo/124.ch
+#EXTINF:-1,Power HD
+http://iptvuy.us:6525/demo/demo/125.ch
+#EXTINF:-1,Radio MonteCarlo TV
+http://iptvuy.us:6525/demo/demo/119.ch
+#EXTINF:-1,Rede Brasil
+http://iptvuy.us:6525/demo/demo/130.ch
+#EXTINF:-1,Retro TV
+http://iptvuy.us:6525/demo/demo/120.ch
+#EXTINF:-1,Telemusica
+http://iptvuy.us:6525/demo/demo/121.ch
+#EXTINF:-1,Top Latino
+http://iptvuy.us:6525/demo/demo/122.ch
+#EXTINF:-1,TV Aperipê
+http://iptvuy.us:6525/demo/demo/131.ch
+#EXTINF:-1,TV Brasil
+http://iptvuy.us:6525/demo/demo/132.ch
+#EXTINF:-1,TV Câmara
+http://iptvuy.us:6525/demo/demo/133.ch
+#EXTINF:-1,TV Cidade (Pelotas)
+http://iptvuy.us:6525/demo/demo/134.ch
+#EXTINF:-1,TV Cultura Recife
+http://iptvuy.us:6525/demo/demo/135.ch
+#EXTINF:-1,TV Escola
+http://iptvuy.us:6525/demo/demo/137.ch
+#EXTINF:-1,TV3
+http://iptvuy.us:6525/demo/demo/144.ch
+#EXTINF:-1,TVN Brasil
+http://iptvuy.us:6525/demo/demo/136.ch
+#EXTINF:-1,UFC Network
+http://iptvuy.us:6525/demo/demo/117.ch
+#EXTINF:-1,Unicanal
+http://iptvuy.us:6525/demo/demo/116.ch
+#EXTINF:-1,Babestation (18+)
+http://iptvuy.us:6525/demo/demo/145.ch
+#EXTINF:-1,Babestation 2 (18+)
+http://iptvuy.us:6525/demo/demo/146.ch
+#EXTINF:-1,Babestation 3 (18+)
+http://iptvuy.us:6525/demo/demo/147.ch
+#EXTINF:-1,Fundorado (18+)
+http://iptvuy.us:6525/demo/demo/148.ch
+#EXTINF:-1,Jasmin TV (18+)
+http://iptvuy.us:6525/demo/demo/149.ch
+#EXTINF:-1,Jasmin TV HD (18+)
+http://iptvuy.us:6525/demo/demo/150.ch
+#EXTINF:-1,Live Sex Latinas (18+)
+http://iptvuy.us:6525/demo/demo/151.ch
+#EXTINF:-1,Sex Zone (18+)
+http://iptvuy.us:6525/demo/demo/158.ch
+#EXTINF:-1,STUDIO 66 TV (18+)
+http://iptvuy.us:6525/demo/demo/152.ch
+#EXTINF:-1,STUDIO 66 TV 2 (18+)
+http://iptvuy.us:6525/demo/demo/153.ch
+#EXTINF:-1,STUDIO 66 TV 3 (18+)
+http://iptvuy.us:6525/demo/demo/154.ch
+#EXTINF:-1,STUDIO 66 TV 4 (18+)
+http://iptvuy.us:6525/demo/demo/155.ch
+#EXTINF:-1,VISIT-X TV (18+)
+http://iptvuy.us:6525/demo/demo/156.ch
