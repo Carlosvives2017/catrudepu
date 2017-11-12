@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="vtv" tvg-name="VTV SD (URU)" tvg-logo="" group-title="URUGUAY",VTV SD (URU)
+http://xxedge50.livesports.pw/live/vervtv6b2da1a89bbd8cf8e1e/index.m3u8?token=ssM9elywVIry8Cm0hkiAPw&expires=1510456475
 #EXTINF:-1,360TV
 http://iptvuy.us:6525/demo/demo/12.ch
 #EXTINF:-1,America 2 AR
