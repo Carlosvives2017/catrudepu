@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,360TV
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/16.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
-#EXTINF:-1,America 2 AR
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/7.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
-#EXTINF:-1,America 24 AR
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/6.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
-#EXTINF:-1,Anexion TV
-plug#EXTM3U
 
 #EXTINF:-1,A&E
 plugin://plugin.video.f4mTester/?url=http://fui.me/44&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
