@@ -10,51 +10,50 @@ plugin://plugin.video.f4mTester/?url=http://fui.me/46&amp;streamtype=TSDOWNLOADE
 #EXTINF:-1,Disney XD
 plugin://plugin.video.f4mTester/?url=http://fui.me/47&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Boomerang
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/145.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/48&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Nick Jr
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/75.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/49&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Cartoon Network
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/128.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4a&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 
 #EXTINF:-1,E! Entertainment
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/110.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4b&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,T13
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/31.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4c&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Mega (es)
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/137.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4d&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Nova
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/139.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4e&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 
 #EXTINF:-1,ESPN
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/115.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4f&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,ESPN 2
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/58.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4g&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,ESPN 3
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/114.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4h&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Fox Sports 2
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/60.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4i&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 
 #EXTINF:-1,Fox Movies
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/35.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4j&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,FX
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/130.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4k&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Space
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/38.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4l&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/40.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4m&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,CineCanal
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/146.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4n&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Discovery Kids
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/147.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4o&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Fox Series
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/150.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4p&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Fox Cinema
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/149.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4q&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,Golden
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/151.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+plugin://plugin.video.f4mTester/?url=http://fui.me/4r&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 
-#EXTINF:-1,VTV SD (URU)
-plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/107.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+
 
 
 
