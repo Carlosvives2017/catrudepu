@@ -3,7 +3,7 @@
 #EXTINF:-1,A&E
 plugin://plugin.video.f4mTester/?url=http://fui.me/44&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 #EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?url=http://fui.me/45&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+http://fui.me/45
 
 #EXTINF:-1,Discovery Channel
 plugin://plugin.video.f4mTester/?url=http://fui.me/46&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
