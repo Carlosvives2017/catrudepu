@@ -11,6 +11,12 @@ http://encurtador.com.br/ckUWX
 encurtador.com.br/ckUWX
 #EXTINF:-1,America 2 AR prueba encurtador f4
 plugin://plugin.video.f4mTester/?url=encurtador.com.br/ckUWX&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1,America 2 AR prueba encurtador f4 2
+plugin://plugin.video.f4mTester/?url=encurtador.com.br/JMRV0.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1,America 2 AR prueba encurtador f4 2
+plugin://plugin.video.f4mTester/?url=http://encurtador.com.br/dlJ58.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1,America 2 AR prueba encurtador f4 2
+plugin://plugin.video.f4mTester/?url=encurtador.com.br/dlJ58.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
 
 #EXTINF:-1,America 24 AR
 http://iptvuy.us:5225/gerardo/gera/6.ch
