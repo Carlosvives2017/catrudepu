@@ -5,7 +5,7 @@ http://iptvuy.us:5225/gerardo/gera/16.ch
 http://iptvuy.us:5225/gerardo/gera/7.ch
 #EXTINF:-1,America 2 AR prueba
 plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/7.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,America 24 AR
+#EXTINF:-1,America 24 AR prueba
 plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/6.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
 
 #EXTINF:-1,America 24 AR
