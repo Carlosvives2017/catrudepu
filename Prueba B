@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vaughnlive</title>
 <fanart></fanart>
 <genitem>
 <title>[B][COLOR red]•   [/B][COLOR blue]Vaughnlive [/COLOR][COLOR lime]24/7[/COLOR]</title>
@@ -12,8 +12,8 @@
 <listrepeat><![CDATA[
 <title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]•   [/B][/COLOR][makelist.param2]</title>
  
-link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=iPad</link>
-<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0</link>
+<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=iPad</link>
+link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0</link>
  
 link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|Referer=https://www.vaughnlive.tv&amp;User-Agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3</link>
  
