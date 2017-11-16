@@ -2,6 +2,10 @@
 
 #EXTINF:-1,A&E
 plugin://plugin.video.f4mTester/?url=http://fui.me/44&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+
+#EXTINF:-1,A&E 2
+plugin://plugin.video.f4mTester/?url=http://iptvuy.us:5225/gerardo/gera/144.ch&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
+
 #EXTINF:-1,AXN
 plugin://plugin.video.f4mTester/?url=http://fui.me/45&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 
