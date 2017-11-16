@@ -1,3 +1,36 @@
+<item>
+<title>Vaughn latino v2</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_latinomovies live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]".split(";")[-1])</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_latinomovies_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page></page>
+</regex>
+</item>
+
+
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
