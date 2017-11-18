@@ -1,6 +1,200 @@
 #EXTM3U
 
-#EXTINF:-1,A&E
+#EXTIN#EXTM3U
+#EXTINF:-1,Vip*: A&E
+http://main.iotv.es:8080/live/ayron/ayron/8276.ts
+#EXTINF:-1,Vip*: AMC HD
+http://main.iotv.es:8080/live/ayron/ayron/8275.ts
+#EXTINF:-1,Vip*: AMERICA TV HD
+http://main.iotv.es:8080/live/ayron/ayron/8274.ts
+#EXTINF:-1,Vip*: AXN HD
+http://main.iotv.es:8080/live/ayron/ayron/8273.ts
+#EXTINF:-1,Vip*: BEIN SPORT Ñ
+http://main.iotv.es:8080/live/ayron/ayron/8272.ts
+#EXTINF:-1,Vip*: Canal 5 HD MEX
+http://main.iotv.es:8080/live/ayron/ayron/8269.ts
+#EXTINF:-1,Vip*: CARTOON NETWORK HD dual
+http://main.iotv.es:8080/live/ayron/ayron/8268.ts
+#EXTINF:-1,Vip*: CINECANAL HD
+http://main.iotv.es:8080/live/ayron/ayron/8265.ts
+#EXTINF:-1,Vip*: CINEMAX
+http://main.iotv.es:8080/live/ayron/ayron/8264.ts
+#EXTINF:-1,Vip*: COMEDY CENTRAL
+http://main.iotv.es:8080/live/ayron/ayron/8263.ts
+#EXTINF:-1,Vip*: DE PELICULA HD
+http://main.iotv.es:8080/live/ayron/ayron/8262.ts
+#EXTINF:-1,Vip*: DEPORTV HD
+http://main.iotv.es:8080/live/ayron/ayron/8261.ts
+#EXTINF:-1,Vip*: Directv Sport
+http://main.iotv.es:8080/live/ayron/ayron/8260.ts
+#EXTINF:-1,Vip*: Directv Sport 2
+http://main.iotv.es:8080/live/ayron/ayron/8259.ts
+#EXTINF:-1,Vip*: DISCOVERY CH HD
+http://main.iotv.es:8080/live/ayron/ayron/8258.ts
+#EXTINF:-1,Vip*: DISCOVERY FAMILIA HD
+http://main.iotv.es:8080/live/ayron/ayron/8257.ts
+#EXTINF:-1,Vip*: DISCOVERY H&H
+http://main.iotv.es:8080/live/ayron/ayron/8256.ts
+#EXTINF:-1,Vip*: DISCOVERY ID HD
+http://main.iotv.es:8080/live/ayron/ayron/8255.ts
+#EXTINF:-1,Vip*: DISCOVERY TURBO HD
+http://main.iotv.es:8080/live/ayron/ayron/8254.ts
+#EXTINF:-1,Vip*: DISCOVERY WORLD HD
+http://main.iotv.es:8080/live/ayron/ayron/8253.ts
+#EXTINF:-1,Vip*: ESPN 2 HD
+http://main.iotv.es:8080/live/ayron/ayron/8252.ts
+#EXTINF:-1,Vip*: ESPN 3 HD
+http://main.iotv.es:8080/live/ayron/ayron/8251.ts
+#EXTINF:-1,Vip*: ESPN DEPORTES HD
+http://main.iotv.es:8080/live/ayron/ayron/8250.ts
+#EXTINF:-1,Vip*: ESPN HD
+http://main.iotv.es:8080/live/ayron/ayron/8249.ts
+#EXTINF:-1,Vip*: F1 LATINO HD
+http://main.iotv.es:8080/live/ayron/ayron/8248.ts
+#EXTINF:-1,Vip*: FILM ARTS HD
+http://main.iotv.es:8080/live/ayron/ayron/8247.ts
+#EXTINF:-1,Vip*: FOX DEPORTES HD
+http://main.iotv.es:8080/live/ayron/ayron/8246.ts
+#EXTINF:-1,Vip*: FOX FAMILY HD
+http://main.iotv.es:8080/live/ayron/ayron/8245.ts
+#EXTINF:-1,Vip*: FOX HD
+http://main.iotv.es:8080/live/ayron/ayron/8244.ts
+#EXTINF:-1,Vip*: FOX MOVIES HD
+http://main.iotv.es:8080/live/ayron/ayron/8243.ts
+#EXTINF:-1,Vip*: FOX SERIES
+http://main.iotv.es:8080/live/ayron/ayron/8242.ts
+#EXTINF:-1,Vip*: FOX SPORT 2 HD
+http://main.iotv.es:8080/live/ayron/ayron/8241.ts
+#EXTINF:-1,Vip*: FOX SPORT 3 HD
+http://main.iotv.es:8080/live/ayron/ayron/8240.ts
+#EXTINF:-1,Vip*: FOX SPORT HD
+http://main.iotv.es:8080/live/ayron/ayron/8239.ts
+#EXTINF:-1,Vip*: FOX SPORTS 1 HD ARG
+http://main.iotv.es:8080/live/ayron/ayron/8238.ts
+#EXTINF:-1,Vip*: FOX SPORTS 1 SUR HD
+http://main.iotv.es:8080/live/ayron/ayron/8237.ts
+#EXTINF:-1,Vip*: FOX SPORTS 2 HD ARG
+http://main.iotv.es:8080/live/ayron/ayron/8236.ts
+#EXTINF:-1,Vip*: FOX SPORTS 2 SUR HD
+http://main.iotv.es:8080/live/ayron/ayron/8235.ts
+#EXTINF:-1,Vip*: FOX SPORTS 3 HD ARG
+http://main.iotv.es:8080/live/ayron/ayron/8234.ts
+#EXTINF:-1,Vip*: FOX SPORTS 3 SUR HD
+http://main.iotv.es:8080/live/ayron/ayron/8233.ts
+#EXTINF:-1,Vip*: FOX SPORTS PREMIUM HD
+http://main.iotv.es:8080/live/ayron/ayron/8232.ts
+#EXTINF:-1,Vip*: FX HD
+http://main.iotv.es:8080/live/ayron/ayron/8231.ts
+#EXTINF:-1,Vip*: FX MOVIE HD
+http://main.iotv.es:8080/live/ayron/ayron/8230.ts
+#EXTINF:-1,Vip*: GALAVISION
+http://main.iotv.es:8080/live/ayron/ayron/8229.ts
+#EXTINF:-1,Vip*: Gol TV HD
+http://main.iotv.es:8080/live/ayron/ayron/8228.ts
+#EXTINF:-1,Vip*: GOLDEN PLUS
+http://main.iotv.es:8080/live/ayron/ayron/8227.ts
+#EXTINF:-1,Vip*: HBO
+http://main.iotv.es:8080/live/ayron/ayron/8226.ts
+#EXTINF:-1,Vip*: HBO 2 HD
+http://main.iotv.es:8080/live/ayron/ayron/8225.ts
+#EXTINF:-1,Vip*: HBO PLUS HD
+http://main.iotv.es:8080/live/ayron/ayron/8224.ts
+#EXTINF:-1,Vip*: HBO SIGNATURE HD
+http://main.iotv.es:8080/live/ayron/ayron/8223.ts
+#EXTINF:-1,Vip*: HISTORY HD
+http://main.iotv.es:8080/live/ayron/ayron/8222.ts
+#EXTINF:-1,Vip*: LN HD
+http://main.iotv.es:8080/live/ayron/ayron/8221.ts
+#EXTINF:-1,Vip*: MAX PRIME
+http://main.iotv.es:8080/live/ayron/ayron/8220.ts
+#EXTINF:-1,Vip*: MAX UP
+http://main.iotv.es:8080/live/ayron/ayron/8219.ts
+#EXTINF:-1,Vip*: MLB NETWORK
+http://main.iotv.es:8080/live/ayron/ayron/8217.ts
+#EXTINF:-1,Vip*: MTV HD
+http://main.iotv.es:8080/live/ayron/ayron/8216.ts
+#EXTINF:-1,Vip*: MULTIMEDIOS HD
+http://main.iotv.es:8080/live/ayron/ayron/8215.ts
+#EXTINF:-1,Vip*: NAT GEO HD
+http://main.iotv.es:8080/live/ayron/ayron/8214.ts
+#EXTINF:-1,Vip*: NAT GEO MUNDO HD
+http://main.iotv.es:8080/live/ayron/ayron/8213.ts
+#EXTINF:-1,Vip*: NAT GEO WILD HD
+http://main.iotv.es:8080/live/ayron/ayron/8212.ts
+#EXTINF:-1,Vip*: NBA TV HD
+http://main.iotv.es:8080/live/ayron/ayron/8211.ts
+#EXTINF:-1,Vip*: NBC
+http://main.iotv.es:8080/live/ayron/ayron/8210.ts
+#EXTINF:-1,Vip*: NBC UNIVERSO HD
+http://main.iotv.es:8080/live/ayron/ayron/8209.ts
+#EXTINF:-1,Vip*: NICK HD
+http://main.iotv.es:8080/live/ayron/ayron/8208.ts
+#EXTINF:-1,Vip*: NICK JR HD
+http://main.iotv.es:8080/live/ayron/ayron/8207.ts
+#EXTINF:-1,Vip*: PARAMOUNT CHANNEL HD
+http://main.iotv.es:8080/live/ayron/ayron/8206.ts
+#EXTINF:-1,Vip*: RCN Nuestra Tele HD
+http://main.iotv.es:8080/live/ayron/ayron/8205.ts
+#EXTINF:-1,Vip*: RITMOZON LATINO HD
+http://main.iotv.es:8080/live/ayron/ayron/8203.ts
+#EXTINF:-1,Vip*: RPC PANAMA
+http://main.iotv.es:8080/live/ayron/ayron/8202.ts
+#EXTINF:-1,Vip*: RT ESPANOL HD
+http://main.iotv.es:8080/live/ayron/ayron/8201.ts
+#EXTINF:-1,Vip*: SPACE HD
+http://main.iotv.es:8080/live/ayron/ayron/8200.ts
+#EXTINF:-1,Vip*: SUNDANCE CHANNEL HD
+http://main.iotv.es:8080/live/ayron/ayron/8199.ts
+#EXTINF:-1,Vip*: SYFY HD
+http://main.iotv.es:8080/live/ayron/ayron/8198.ts
+#EXTINF:-1,Vip*: TBS HD
+http://main.iotv.es:8080/live/ayron/ayron/8197.ts
+#EXTINF:-1,Vip*: TDN DEPORTES HD
+http://main.iotv.es:8080/live/ayron/ayron/8196.ts
+#EXTINF:-1,Vip*: TELEFE HD
+http://main.iotv.es:8080/live/ayron/ayron/8194.ts
+#EXTINF:-1,Vip*: TELEHIT HD
+http://main.iotv.es:8080/live/ayron/ayron/8193.ts
+#EXTINF:-1,Vip*: TELEMETRO PANAMA HD
+http://main.iotv.es:8080/live/ayron/ayron/8192.ts
+#EXTINF:-1,Vip*: TIIN HD
+http://main.iotv.es:8080/live/ayron/ayron/8191.ts
+#EXTINF:-1,Vip*: TNT HD
+http://main.iotv.es:8080/live/ayron/ayron/8190.ts
+#EXTINF:-1,Vip*: TNT SERIES HD
+http://main.iotv.es:8080/live/ayron/ayron/8189.ts
+#EXTINF:-1,Vip*: TNT SPORT HD
+http://main.iotv.es:8080/live/ayron/ayron/8188.ts
+#EXTINF:-1,Vip*: TV PUBLICA HD
+http://main.iotv.es:8080/live/ayron/ayron/8187.ts
+#EXTINF:-1,Vip*: TVN HD CHILE
+http://main.iotv.es:8080/live/ayron/ayron/8186.ts
+#EXTINF:-1,Vip*: TyC_Sports HD
+http://main.iotv.es:8080/live/ayron/ayron/8185.ts
+#EXTINF:-1,Vip*: UFC NETWORK HD
+http://main.iotv.es:8080/live/ayron/ayron/8184.ts
+#EXTINF:-1,Vip*: UNICABLE HD
+http://main.iotv.es:8080/live/ayron/ayron/8183.ts
+#EXTINF:-1,Vip*: UNIMAS HD
+http://main.iotv.es:8080/live/ayron/ayron/8182.ts
+#EXTINF:-1,Vip*: UNIVERSAL CHANNEL
+http://main.iotv.es:8080/live/ayron/ayron/8181.ts
+#EXTINF:-1,Vip*: UNIVISION ESTE
+http://main.iotv.es:8080/live/ayron/ayron/8180.ts
+#EXTINF:-1,Vip*: UNIVISION HD
+http://main.iotv.es:8080/live/ayron/ayron/8179.ts
+#EXTINF:-1,Vip*: WIN SPORT HD
+http://main.iotv.es:8080/live/ayron/ayron/8178.ts
+#EXTINF:-1,Discovery Kids HD
+http://main.iotv.es:8080/live/ayron/ayron/5880.ts
+#EXTINF:-1,MTV LIVE HD
+http://main.iotv.es:8080/live/ayron/ayron/4281.ts
+#EXTINF:-1,TNT HD
+http://main.iotv.es:8080/live/ayron/ayron/4963.ts
+#EXTINF:-1,TLT HD (VEN)
+http://main.iotv.es:8080/live/ayron/ayron/5877.ts
+#EXTINF:-1,UK: Boxnation HD
+http://main.iotv.es:8080/live/ayron/ayron/5942.tsF:-1,A&E
 plugin://plugin.video.f4mTester/?url=http://fui.me/44&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 
 #EXTINF:-1,A&E 2
