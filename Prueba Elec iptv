@@ -1,200 +1,324 @@
 #EXTM3U
-
-#EXTIN#EXTM3U
-#EXTINF:-1,Vip*: A&E
-http://main.iotv.es:8080/live/ayron/ayron/8276.ts
-#EXTINF:-1,Vip*: AMC HD
-http://main.iotv.es:8080/live/ayron/ayron/8275.ts
-#EXTINF:-1,Vip*: AMERICA TV HD
-http://main.iotv.es:8080/live/ayron/ayron/8274.ts
-#EXTINF:-1,Vip*: AXN HD
-http://main.iotv.es:8080/live/ayron/ayron/8273.ts
-#EXTINF:-1,Vip*: BEIN SPORT Ñ
-http://main.iotv.es:8080/live/ayron/ayron/8272.ts
-#EXTINF:-1,Vip*: Canal 5 HD MEX
-http://main.iotv.es:8080/live/ayron/ayron/8269.ts
-#EXTINF:-1,Vip*: CARTOON NETWORK HD dual
-http://main.iotv.es:8080/live/ayron/ayron/8268.ts
-#EXTINF:-1,Vip*: CINECANAL HD
-http://main.iotv.es:8080/live/ayron/ayron/8265.ts
-#EXTINF:-1,Vip*: CINEMAX
-http://main.iotv.es:8080/live/ayron/ayron/8264.ts
-#EXTINF:-1,Vip*: COMEDY CENTRAL
-http://main.iotv.es:8080/live/ayron/ayron/8263.ts
-#EXTINF:-1,Vip*: DE PELICULA HD
-http://main.iotv.es:8080/live/ayron/ayron/8262.ts
-#EXTINF:-1,Vip*: DEPORTV HD
-http://main.iotv.es:8080/live/ayron/ayron/8261.ts
-#EXTINF:-1,Vip*: Directv Sport
-http://main.iotv.es:8080/live/ayron/ayron/8260.ts
-#EXTINF:-1,Vip*: Directv Sport 2
-http://main.iotv.es:8080/live/ayron/ayron/8259.ts
-#EXTINF:-1,Vip*: DISCOVERY CH HD
-http://main.iotv.es:8080/live/ayron/ayron/8258.ts
-#EXTINF:-1,Vip*: DISCOVERY FAMILIA HD
-http://main.iotv.es:8080/live/ayron/ayron/8257.ts
-#EXTINF:-1,Vip*: DISCOVERY H&H
-http://main.iotv.es:8080/live/ayron/ayron/8256.ts
-#EXTINF:-1,Vip*: DISCOVERY ID HD
-http://main.iotv.es:8080/live/ayron/ayron/8255.ts
-#EXTINF:-1,Vip*: DISCOVERY TURBO HD
-http://main.iotv.es:8080/live/ayron/ayron/8254.ts
-#EXTINF:-1,Vip*: DISCOVERY WORLD HD
-http://main.iotv.es:8080/live/ayron/ayron/8253.ts
-#EXTINF:-1,Vip*: ESPN 2 HD
-http://main.iotv.es:8080/live/ayron/ayron/8252.ts
-#EXTINF:-1,Vip*: ESPN 3 HD
-http://main.iotv.es:8080/live/ayron/ayron/8251.ts
-#EXTINF:-1,Vip*: ESPN DEPORTES HD
-http://main.iotv.es:8080/live/ayron/ayron/8250.ts
-#EXTINF:-1,Vip*: ESPN HD
-http://main.iotv.es:8080/live/ayron/ayron/8249.ts
-#EXTINF:-1,Vip*: F1 LATINO HD
-http://main.iotv.es:8080/live/ayron/ayron/8248.ts
-#EXTINF:-1,Vip*: FILM ARTS HD
-http://main.iotv.es:8080/live/ayron/ayron/8247.ts
-#EXTINF:-1,Vip*: FOX DEPORTES HD
-http://main.iotv.es:8080/live/ayron/ayron/8246.ts
-#EXTINF:-1,Vip*: FOX FAMILY HD
-http://main.iotv.es:8080/live/ayron/ayron/8245.ts
-#EXTINF:-1,Vip*: FOX HD
-http://main.iotv.es:8080/live/ayron/ayron/8244.ts
-#EXTINF:-1,Vip*: FOX MOVIES HD
-http://main.iotv.es:8080/live/ayron/ayron/8243.ts
-#EXTINF:-1,Vip*: FOX SERIES
-http://main.iotv.es:8080/live/ayron/ayron/8242.ts
-#EXTINF:-1,Vip*: FOX SPORT 2 HD
-http://main.iotv.es:8080/live/ayron/ayron/8241.ts
-#EXTINF:-1,Vip*: FOX SPORT 3 HD
-http://main.iotv.es:8080/live/ayron/ayron/8240.ts
-#EXTINF:-1,Vip*: FOX SPORT HD
-http://main.iotv.es:8080/live/ayron/ayron/8239.ts
-#EXTINF:-1,Vip*: FOX SPORTS 1 HD ARG
-http://main.iotv.es:8080/live/ayron/ayron/8238.ts
-#EXTINF:-1,Vip*: FOX SPORTS 1 SUR HD
-http://main.iotv.es:8080/live/ayron/ayron/8237.ts
-#EXTINF:-1,Vip*: FOX SPORTS 2 HD ARG
-http://main.iotv.es:8080/live/ayron/ayron/8236.ts
-#EXTINF:-1,Vip*: FOX SPORTS 2 SUR HD
-http://main.iotv.es:8080/live/ayron/ayron/8235.ts
-#EXTINF:-1,Vip*: FOX SPORTS 3 HD ARG
-http://main.iotv.es:8080/live/ayron/ayron/8234.ts
-#EXTINF:-1,Vip*: FOX SPORTS 3 SUR HD
-http://main.iotv.es:8080/live/ayron/ayron/8233.ts
-#EXTINF:-1,Vip*: FOX SPORTS PREMIUM HD
-http://main.iotv.es:8080/live/ayron/ayron/8232.ts
-#EXTINF:-1,Vip*: FX HD
-http://main.iotv.es:8080/live/ayron/ayron/8231.ts
-#EXTINF:-1,Vip*: FX MOVIE HD
-http://main.iotv.es:8080/live/ayron/ayron/8230.ts
-#EXTINF:-1,Vip*: GALAVISION
-http://main.iotv.es:8080/live/ayron/ayron/8229.ts
-#EXTINF:-1,Vip*: Gol TV HD
-http://main.iotv.es:8080/live/ayron/ayron/8228.ts
-#EXTINF:-1,Vip*: GOLDEN PLUS
-http://main.iotv.es:8080/live/ayron/ayron/8227.ts
-#EXTINF:-1,Vip*: HBO
-http://main.iotv.es:8080/live/ayron/ayron/8226.ts
-#EXTINF:-1,Vip*: HBO 2 HD
-http://main.iotv.es:8080/live/ayron/ayron/8225.ts
-#EXTINF:-1,Vip*: HBO PLUS HD
-http://main.iotv.es:8080/live/ayron/ayron/8224.ts
-#EXTINF:-1,Vip*: HBO SIGNATURE HD
-http://main.iotv.es:8080/live/ayron/ayron/8223.ts
-#EXTINF:-1,Vip*: HISTORY HD
-http://main.iotv.es:8080/live/ayron/ayron/8222.ts
-#EXTINF:-1,Vip*: LN HD
-http://main.iotv.es:8080/live/ayron/ayron/8221.ts
-#EXTINF:-1,Vip*: MAX PRIME
-http://main.iotv.es:8080/live/ayron/ayron/8220.ts
-#EXTINF:-1,Vip*: MAX UP
-http://main.iotv.es:8080/live/ayron/ayron/8219.ts
-#EXTINF:-1,Vip*: MLB NETWORK
-http://main.iotv.es:8080/live/ayron/ayron/8217.ts
-#EXTINF:-1,Vip*: MTV HD
-http://main.iotv.es:8080/live/ayron/ayron/8216.ts
-#EXTINF:-1,Vip*: MULTIMEDIOS HD
-http://main.iotv.es:8080/live/ayron/ayron/8215.ts
-#EXTINF:-1,Vip*: NAT GEO HD
-http://main.iotv.es:8080/live/ayron/ayron/8214.ts
-#EXTINF:-1,Vip*: NAT GEO MUNDO HD
-http://main.iotv.es:8080/live/ayron/ayron/8213.ts
-#EXTINF:-1,Vip*: NAT GEO WILD HD
-http://main.iotv.es:8080/live/ayron/ayron/8212.ts
-#EXTINF:-1,Vip*: NBA TV HD
-http://main.iotv.es:8080/live/ayron/ayron/8211.ts
-#EXTINF:-1,Vip*: NBC
-http://main.iotv.es:8080/live/ayron/ayron/8210.ts
-#EXTINF:-1,Vip*: NBC UNIVERSO HD
-http://main.iotv.es:8080/live/ayron/ayron/8209.ts
-#EXTINF:-1,Vip*: NICK HD
-http://main.iotv.es:8080/live/ayron/ayron/8208.ts
-#EXTINF:-1,Vip*: NICK JR HD
-http://main.iotv.es:8080/live/ayron/ayron/8207.ts
-#EXTINF:-1,Vip*: PARAMOUNT CHANNEL HD
-http://main.iotv.es:8080/live/ayron/ayron/8206.ts
-#EXTINF:-1,Vip*: RCN Nuestra Tele HD
-http://main.iotv.es:8080/live/ayron/ayron/8205.ts
-#EXTINF:-1,Vip*: RITMOZON LATINO HD
-http://main.iotv.es:8080/live/ayron/ayron/8203.ts
-#EXTINF:-1,Vip*: RPC PANAMA
-http://main.iotv.es:8080/live/ayron/ayron/8202.ts
-#EXTINF:-1,Vip*: RT ESPANOL HD
-http://main.iotv.es:8080/live/ayron/ayron/8201.ts
-#EXTINF:-1,Vip*: SPACE HD
-http://main.iotv.es:8080/live/ayron/ayron/8200.ts
-#EXTINF:-1,Vip*: SUNDANCE CHANNEL HD
-http://main.iotv.es:8080/live/ayron/ayron/8199.ts
-#EXTINF:-1,Vip*: SYFY HD
-http://main.iotv.es:8080/live/ayron/ayron/8198.ts
-#EXTINF:-1,Vip*: TBS HD
-http://main.iotv.es:8080/live/ayron/ayron/8197.ts
-#EXTINF:-1,Vip*: TDN DEPORTES HD
-http://main.iotv.es:8080/live/ayron/ayron/8196.ts
-#EXTINF:-1,Vip*: TELEFE HD
-http://main.iotv.es:8080/live/ayron/ayron/8194.ts
-#EXTINF:-1,Vip*: TELEHIT HD
-http://main.iotv.es:8080/live/ayron/ayron/8193.ts
-#EXTINF:-1,Vip*: TELEMETRO PANAMA HD
-http://main.iotv.es:8080/live/ayron/ayron/8192.ts
-#EXTINF:-1,Vip*: TIIN HD
-http://main.iotv.es:8080/live/ayron/ayron/8191.ts
-#EXTINF:-1,Vip*: TNT HD
-http://main.iotv.es:8080/live/ayron/ayron/8190.ts
-#EXTINF:-1,Vip*: TNT SERIES HD
-http://main.iotv.es:8080/live/ayron/ayron/8189.ts
-#EXTINF:-1,Vip*: TNT SPORT HD
-http://main.iotv.es:8080/live/ayron/ayron/8188.ts
-#EXTINF:-1,Vip*: TV PUBLICA HD
-http://main.iotv.es:8080/live/ayron/ayron/8187.ts
-#EXTINF:-1,Vip*: TVN HD CHILE
-http://main.iotv.es:8080/live/ayron/ayron/8186.ts
-#EXTINF:-1,Vip*: TyC_Sports HD
-http://main.iotv.es:8080/live/ayron/ayron/8185.ts
-#EXTINF:-1,Vip*: UFC NETWORK HD
-http://main.iotv.es:8080/live/ayron/ayron/8184.ts
-#EXTINF:-1,Vip*: UNICABLE HD
-http://main.iotv.es:8080/live/ayron/ayron/8183.ts
-#EXTINF:-1,Vip*: UNIMAS HD
-http://main.iotv.es:8080/live/ayron/ayron/8182.ts
-#EXTINF:-1,Vip*: UNIVERSAL CHANNEL
-http://main.iotv.es:8080/live/ayron/ayron/8181.ts
-#EXTINF:-1,Vip*: UNIVISION ESTE
-http://main.iotv.es:8080/live/ayron/ayron/8180.ts
-#EXTINF:-1,Vip*: UNIVISION HD
-http://main.iotv.es:8080/live/ayron/ayron/8179.ts
-#EXTINF:-1,Vip*: WIN SPORT HD
-http://main.iotv.es:8080/live/ayron/ayron/8178.ts
-#EXTINF:-1,Discovery Kids HD
-http://main.iotv.es:8080/live/ayron/ayron/5880.ts
-#EXTINF:-1,MTV LIVE HD
-http://main.iotv.es:8080/live/ayron/ayron/4281.ts
+#EXTINF:-1,360TV
+http://iptvuy.us:5225/gerardo/gera/16.ch
+#EXTINF:-1,America 2 AR
+http://iptvuy.us:5225/gerardo/gera/7.ch
+#EXTINF:-1,America 24 AR
+http://iptvuy.us:5225/gerardo/gera/6.ch
+#EXTINF:-1,Anexion TV
+http://iptvuy.us:5225/gerardo/gera/49.ch
+#EXTINF:-1,Animal Planet
+http://iptvuy.us:5225/gerardo/gera/113.ch
+#EXTINF:-1,Anime 24/7
+http://iptvuy.us:5225/gerardo/gera/2.ch
+#EXTINF:-1,Antares TV
+http://iptvuy.us:5225/gerardo/gera/86.ch
+#EXTINF:-1,ATV
+http://iptvuy.us:5225/gerardo/gera/88.ch
+#EXTINF:-1,ATV HD
+http://iptvuy.us:5225/gerardo/gera/87.ch
+#EXTINF:-1,AXN HD
+http://iptvuy.us:5225/gerardo/gera/33.ch
+#EXTINF:-1,AyM Sports
+http://iptvuy.us:5225/gerardo/gera/61.ch
+#EXTINF:-1,BHTV
+http://iptvuy.us:5225/gerardo/gera/89.ch
+#EXTINF:-1,C5N AR
+http://iptvuy.us:5225/gerardo/gera/5.ch
+#EXTINF:-1,CableNoticias
+http://iptvuy.us:5225/gerardo/gera/41.ch
+#EXTINF:-1,Cali TV
+http://iptvuy.us:5225/gerardo/gera/42.ch
+#EXTINF:-1,Canal 10
+http://iptvuy.us:5225/gerardo/gera/78.ch
+#EXTINF:-1,CANAL 10 (URU)
+http://iptvuy.us:5225/gerardo/gera/105.ch
+#EXTINF:-1,Canal 11
+http://iptvuy.us:5225/gerardo/gera/53.ch
+#EXTINF:-1,CANAL 12 (URU)
+http://iptvuy.us:5225/gerardo/gera/106.ch
+#EXTINF:-1,Canal 13
+http://iptvuy.us:5225/gerardo/gera/54.ch
+#EXTINF:-1,Canal 14
+http://iptvuy.us:5225/gerardo/gera/55.ch
+#EXTINF:-1,Canal 2
+http://iptvuy.us:5225/gerardo/gera/50.ch
+#EXTINF:-1,Canal 26
+http://iptvuy.us:5225/gerardo/gera/14.ch
+#EXTINF:-1,Canal 4
+http://iptvuy.us:5225/gerardo/gera/51.ch
+#EXTINF:-1,CANAL 4 HD (URU)
+http://iptvuy.us:5225/gerardo/gera/103.ch
+#EXTINF:-1,CANAL 5 (URU)
+http://iptvuy.us:5225/gerardo/gera/104.ch
+#EXTINF:-1,Canal 6 HD
+http://iptvuy.us:5225/gerardo/gera/52.ch
+#EXTINF:-1,Canal 9
+http://iptvuy.us:5225/gerardo/gera/26.ch
+#EXTINF:-1,Canal 9 AR
+http://iptvuy.us:5225/gerardo/gera/9.ch
+#EXTINF:-1,Canal Capital
+http://iptvuy.us:5225/gerardo/gera/43.ch
+#EXTINF:-1,Canal U
+http://iptvuy.us:5225/gerardo/gera/44.ch
+#EXTINF:-1,Capital TV
+http://iptvuy.us:5225/gerardo/gera/90.ch
+#EXTINF:-1,Caracol HD
+http://iptvuy.us:5225/gerardo/gera/45.ch
+#EXTINF:-1,Carolina TV
+http://iptvuy.us:5225/gerardo/gera/32.ch
+#EXTINF:-1,ChileVision
+http://iptvuy.us:5225/gerardo/gera/27.ch
+#EXTINF:-1,Cine AR
+http://iptvuy.us:5225/gerardo/gera/21.ch
+#EXTINF:-1,CineMax
+http://iptvuy.us:5225/gerardo/gera/34.ch
+#EXTINF:-1,CN23
+http://iptvuy.us:5225/gerardo/gera/15.ch
+#EXTINF:-1,CNN
+http://iptvuy.us:5225/gerardo/gera/28.ch
+#EXTINF:-1,Colosal
+http://iptvuy.us:5225/gerardo/gera/56.ch
+#EXTINF:-1,Cronica TV
+http://iptvuy.us:5225/gerardo/gera/22.ch
+#EXTINF:-1,DeporTV AR
+http://iptvuy.us:5225/gerardo/gera/12.ch
+#EXTINF:-1,DirectTV Sports
+http://iptvuy.us:5225/gerardo/gera/63.ch
+#EXTINF:-1,Discovery Channel
+http://iptvuy.us:5225/gerardo/gera/108.ch
+#EXTINF:-1,Disney Channel
+http://iptvuy.us:5225/gerardo/gera/76.ch
+#EXTINF:-1,Disney Channel HD
+http://iptvuy.us:5225/gerardo/gera/77.ch
+#EXTINF:-1,Disney Jr
+http://iptvuy.us:5225/gerardo/gera/73.ch
+#EXTINF:-1,Disney XD
+http://iptvuy.us:5225/gerardo/gera/74.ch
+#EXTINF:-1,Dominican YorkTV
+http://iptvuy.us:5225/gerardo/gera/101.ch
+#EXTINF:-1,E! Entertainment
+http://iptvuy.us:5225/gerardo/gera/110.ch
+#EXTINF:-1,Ecotel TV
+http://iptvuy.us:5225/gerardo/gera/64.ch
+#EXTINF:-1,El Gourmet
+http://iptvuy.us:5225/gerardo/gera/109.ch
+#EXTINF:-1,El Pinguino
+http://iptvuy.us:5225/gerardo/gera/29.ch
+#EXTINF:-1,El Trece
+http://iptvuy.us:5225/gerardo/gera/11.ch
+#EXTINF:-1,Encuentro AR
+http://iptvuy.us:5225/gerardo/gera/18.ch
+#EXTINF:-1,ESPN 2
+http://iptvuy.us:5225/gerardo/gera/58.ch
+#EXTINF:-1,Fox Movies
+http://iptvuy.us:5225/gerardo/gera/35.ch
+#EXTINF:-1,Fox Sports
+http://iptvuy.us:5225/gerardo/gera/60.ch
+#EXTINF:-1,France24
+http://iptvuy.us:5225/gerardo/gera/24.ch
+#EXTINF:-1,Futurama 24/7
+http://iptvuy.us:5225/gerardo/gera/4.ch
+#EXTINF:-1,HBO
+http://iptvuy.us:5225/gerardo/gera/36.ch
+#EXTINF:-1,History Channel
+http://iptvuy.us:5225/gerardo/gera/111.ch
+#EXTINF:-1,IPE
+http://iptvuy.us:5225/gerardo/gera/91.ch
+#EXTINF:-1,La Red
+http://iptvuy.us:5225/gerardo/gera/30.ch
+#EXTINF:-1,Latina
+http://iptvuy.us:5225/gerardo/gera/92.ch
+#EXTINF:-1,LN
+http://iptvuy.us:5225/gerardo/gera/13.ch
+#EXTINF:-1,Los Simpson 24/7
+http://iptvuy.us:5225/gerardo/gera/1.ch
+#EXTINF:-1,Magazine
+http://iptvuy.us:5225/gerardo/gera/25.ch
+#EXTINF:-1,MaxPrime
+http://iptvuy.us:5225/gerardo/gera/37.ch
+#EXTINF:-1,Monterrico
+http://iptvuy.us:5225/gerardo/gera/94.ch
+#EXTINF:-1,NatGeo Wild
+http://iptvuy.us:5225/gerardo/gera/112.ch
+#EXTINF:-1,NexTV
+http://iptvuy.us:5225/gerardo/gera/93.ch
+#EXTINF:-1,Nick Jr
+http://iptvuy.us:5225/gerardo/gera/75.ch
+#EXTINF:-1,Oromar TV
+http://iptvuy.us:5225/gerardo/gera/65.ch
+#EXTINF:-1,Ovacion
+http://iptvuy.us:5225/gerardo/gera/95.ch
+#EXTINF:-1,Pakapaka AR
+http://iptvuy.us:5225/gerardo/gera/19.ch
+#EXTINF:-1,QM Noticias
+http://iptvuy.us:5225/gerardo/gera/23.ch
+#EXTINF:-1,RBC
+http://iptvuy.us:5225/gerardo/gera/98.ch
+#EXTINF:-1,RCG
+http://iptvuy.us:5225/gerardo/gera/80.ch
+#EXTINF:-1,RPC
+http://iptvuy.us:5225/gerardo/gera/83.ch
+#EXTINF:-1,RPP TV
+http://iptvuy.us:5225/gerardo/gera/99.ch
+#EXTINF:-1,RT Español
+http://iptvuy.us:5225/gerardo/gera/17.ch
+#EXTINF:-1,RTG
+http://iptvuy.us:5225/gerardo/gera/81.ch
+#EXTINF:-1,RTS
+http://iptvuy.us:5225/gerardo/gera/66.ch
+#EXTINF:-1,SerTV
+http://iptvuy.us:5225/gerardo/gera/84.ch
+#EXTINF:-1,Sol TV
+http://iptvuy.us:5225/gerardo/gera/96.ch
+#EXTINF:-1,Space
+http://iptvuy.us:5225/gerardo/gera/38.ch
+#EXTINF:-1,Studio Universal
+http://iptvuy.us:5225/gerardo/gera/39.ch
+#EXTINF:-1,Sun Channel
+http://iptvuy.us:5225/gerardo/gera/79.ch
+#EXTINF:-1,T13
+http://iptvuy.us:5225/gerardo/gera/31.ch
+#EXTINF:-1,TaTeTi
+http://iptvuy.us:5225/gerardo/gera/20.ch
+#EXTINF:-1,TC HD
+http://iptvuy.us:5225/gerardo/gera/67.ch
+#EXTINF:-1,Telefe
+http://iptvuy.us:5225/gerardo/gera/10.ch
+#EXTINF:-1,Telemetro
+http://iptvuy.us:5225/gerardo/gera/85.ch
+#EXTINF:-1,Telesistema
+http://iptvuy.us:5225/gerardo/gera/102.ch
+#EXTINF:-1,TeleUno
+http://iptvuy.us:5225/gerardo/gera/57.ch
+#EXTINF:-1,TeleVid
+http://iptvuy.us:5225/gerardo/gera/48.ch
 #EXTINF:-1,TNT HD
-http://main.iotv.es:8080/live/ayron/ayron/4963.ts
-#EXTINF:-1,TLT HD (VEN)
-http://main.iotv.es:8080/live/ayron/ayron/5877.ts
-#EXTINF:-1,UK: Boxnation HD
-http://main.iotv.es:8080/live/ayron/ayron/5942.tsF:-1,A&E
+http://iptvuy.us:5225/gerardo/gera/40.ch
+#EXTINF:-1,Todo Deportes
+http://iptvuy.us:5225/gerardo/gera/62.ch
+#EXTINF:-1,Trendy
+http://iptvuy.us:5225/gerardo/gera/47.ch
+#EXTINF:-1,TV Agro
+http://iptvuy.us:5225/gerardo/gera/46.ch
+#EXTINF:-1,TV Chespirito 24/7
+http://iptvuy.us:5225/gerardo/gera/3.ch
+#EXTINF:-1,TV Mas
+http://iptvuy.us:5225/gerardo/gera/82.ch
+#EXTINF:-1,TV Peru
+http://iptvuy.us:5225/gerardo/gera/97.ch
+#EXTINF:-1,TV Publica AR
+http://iptvuy.us:5225/gerardo/gera/8.ch
+#EXTINF:-1,TVES
+http://iptvuy.us:5225/gerardo/gera/71.ch
+#EXTINF:-1,TVN
+http://iptvuy.us:5225/gerardo/gera/68.ch
+#EXTINF:-1,TVO
+http://iptvuy.us:5225/gerardo/gera/70.ch
+#EXTINF:-1,TVR
+http://iptvuy.us:5225/gerardo/gera/72.ch
+#EXTINF:-1,TyCSports
+http://iptvuy.us:5225/gerardo/gera/59.ch
+#EXTINF:-1,UCSG TV
+http://iptvuy.us:5225/gerardo/gera/69.ch
+#EXTINF:-1,VTV HD (URU)
+http://iptvuy.us:5225/gerardo/gera/107.ch
+#EXTINF:-1,Willax
+http://iptvuy.us:5225/gerardo/gera/100.ch
+#EXTINF:-1,Claro Sports HD
+http://iptvuy.us:5225/gerardo/gera/116.ch
+#EXTINF:-1,Deport TV
+http://iptvuy.us:5225/gerardo/gera/117.ch
+#EXTINF:-1,ESPN
+http://iptvuy.us:5225/gerardo/gera/115.ch
+#EXTINF:-1,ESPN 3
+http://iptvuy.us:5225/gerardo/gera/114.ch
+#EXTINF:-1,Mc Play
+http://iptvuy.us:5225/gerardo/gera/120.ch
+#EXTINF:-1,Mi musica HD
+http://iptvuy.us:5225/gerardo/gera/118.ch
+#EXTINF:-1,Cine+
+http://iptvuy.us:5225/gerardo/gera/123.ch
+#EXTINF:-1,Power HD
+http://iptvuy.us:5225/gerardo/gera/125.ch
+#EXTINF:-1,Jasmin TV (18+)
+http://iptvuy.us:5225/gerardo/gera/127.ch
+#EXTINF:-1,Cartoon Network
+http://iptvuy.us:5225/gerardo/gera/128.ch
+#EXTINF:-1,FX
+http://iptvuy.us:5225/gerardo/gera/130.ch
+#EXTINF:-1,HBO HD
+http://iptvuy.us:5225/gerardo/gera/129.ch
+#EXTINF:-1,AtreSeries
+http://iptvuy.us:5225/gerardo/gera/138.ch
+#EXTINF:-1,Azteca 13
+http://iptvuy.us:5225/gerardo/gera/131.ch
+#EXTINF:-1,Azteca Uno
+http://iptvuy.us:5225/gerardo/gera/142.ch
+#EXTINF:-1,Bom Channel (+18)
+http://iptvuy.us:5225/gerardo/gera/136.ch
+#EXTINF:-1,EFEKTO TV HD
+http://iptvuy.us:5225/gerardo/gera/134.ch
+#EXTINF:-1,El Garage TV
+http://iptvuy.us:5225/gerardo/gera/132.ch
+#EXTINF:-1,MegaVision
+http://iptvuy.us:5225/gerardo/gera/137.ch
+#EXTINF:-1,MVS Radio
+http://iptvuy.us:5225/gerardo/gera/135.ch
+#EXTINF:-1,Nova
+http://iptvuy.us:5225/gerardo/gera/139.ch
+#EXTINF:-1,Planeta HD
+http://iptvuy.us:5225/gerardo/gera/141.ch
+#EXTINF:-1,Portal FoxMix TV
+http://iptvuy.us:5225/gerardo/gera/140.ch
+#EXTINF:-1,Travel HD
+http://iptvuy.us:5225/gerardo/gera/133.ch
+#EXTINF:-1,A&E
+http://iptvuy.us:5225/gerardo/gera/144.ch
+#EXTINF:-1,Boomerang
+http://iptvuy.us:5225/gerardo/gera/145.ch
+#EXTINF:-1,CineCanal
+http://iptvuy.us:5225/gerardo/gera/146.ch
+#EXTINF:-1,Discovery Kids
+http://iptvuy.us:5225/gerardo/gera/147.ch
+#EXTINF:-1,Fox Series
+http://iptvuy.us:5225/gerardo/gera/150.ch
+#EXTINF:-1,Fox Cinema
+http://iptvuy.us:5225/gerardo/gera/149.ch
+#EXTINF:-1,Glitz
+http://iptvuy.us:5225/gerardo/gera/148.ch
+#EXTINF:-1,Golden
+http://iptvuy.us:5225/gerardo/gera/151.ch
+#EXTINF:-1,I.Sat
+http://iptvuy.us:5225/gerardo/gera/152.ch
+#EXTINF:-1,TOP Latino
+http://iptvuy.us:5225/gerardo/gera/156.ch
+#EXTINF:-1,Venus (+18)
+http://iptvuy.us:5225/gerardo/gera/154.ch
+#EXTINF:-1,HBO PLUS HD
+http://iptvuy.us:5225/gerardo/gera/162.ch
+#EXTINF:-1,DISCOVERY Home Health HD
+http://iptvuy.us:5225/gerardo/gera/158.ch
+#EXTINF:-1,FOX HD
+http://iptvuy.us:5225/gerardo/gera/160.ch
+#EXTINF:-1,FOX LIFE
+http://iptvuy.us:5225/gerardo/gera/159.ch
+#EXTINF:-1,HBO 2 HD
+http://iptvuy.us:5225/gerardo/gera/161.ch
+#EXTINF:-1,HBO FAMILY HD
+http://iptvuy.us:5225/gerardo/gera/163.ch
+#EXTINF:-1,NATGEO KIDS HD
+http://iptvuy.us:5225/gerardo/gera/164.ch
+#EXTINF:-1,Logan (2017)
+http://iptvuy.us:5225/gerardo/gera/165.ch
+
+
+
+
+
+
+
+#EXTINF:-1,A&E
 plugin://plugin.video.f4mTester/?url=http://fui.me/44&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Premium
 
 #EXTINF:-1,A&E 2
