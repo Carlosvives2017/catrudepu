@@ -1,178 +1,80 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", Las Estrellas
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(ESTRELLAS_SD)/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png", Canal 5
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(XHGC)/index.m3u8
-
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://forounivers.com/uploads/monthly_2016_12/large.azteca7(2).png.4968d2611612e5c4667bc20a85f6e397.png", Azteca 7
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(AZTECA7)/index.m3u8
-
-#EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/GalaTV-LogoHD.png", GALA TV
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(GALATV_SD)/index.m3u8
-
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Azteca13_2017.png", Azteca 13
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(AZTECA13)/index.m3u8
-
-#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://www.abix.com.mx/img/temporales/mileniotv.png", Milenio Televisión
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(MILENIO_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="CNN EN ESPAÑOL" tvg-name="CNN EN ESPAÑOL" tvg-logo="http://images.mi.tv/channels/sv_cnn-en-espanol_m.png", CNN En Español
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(CNN_Esp)/index.m3u8
-
-#EXTINF:-1 tvg-id="CNN HD" tvg-name="CNN HD" tvg-logo="http://images.mi.tv/channels/sv_cnn-en-espanol_m.png", CNN INTERNACIONAL HD
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(CNN_INT_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png", AL JAZEERA INTERNACIONAL
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(AL_JAZEERA)/index.m3u8
-
-#EXTINF:-1 tvg-id="UNICABLE" tvg-name="UNICABLE" tvg-logo="https://media.entutele.com/channels/medium/unicable.gif", UNICABLE
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(UNICABLE_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="TLNOVELAS" tvg-name="TLNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Tlnovelas_%28TV_network%29_logo.jpg", TLNOVELAS
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(TLNOVELAS)/index.m3u8
-
-#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(DISTRITO_COMEDIA)/index.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png", AXN
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(AXN)/index.m3u8
-
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://comsset.com/wp-content/uploads/2017/04/SPACE.png", SPACE
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(SPACE)/index.m3u8
-
-#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/46.png", WARNER CHANNEL
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(WARNER)/index.m3u8
-
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1200px-Canal_Sony_logo.svg.png", CANAL SONY
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(SONY)/index.m3u8
-
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_112139.png", CANAL TBS
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(TBS)/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="http://forounivers.com/uploads/monthly_2016_11/large.583f2b1cadb6a_LogoTNTSeries(Blanco).png.81d051653572633d85bbe9f71edd9628.png", TNT SERIES
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(TNT_SERIES)/index.m3u8
-
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://www.underconsideration.com/brandnew/archives/lifetime_2017_logo_horizontal.png", LIFETIME
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(LIFETIME)/index.m3u8
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/603px-Comedy_Central_2011_Logo.svg.png", COMEDY CENTRAL
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(COMEDY_CENTRAL)/index.m3u8
-
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/1000px-E%21_Logo_2012.svg.png", E!
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(E)/index.m3u8
-
-#EXTINF:-1 tvg-id="EL GOURMET" tvg-name="EL GOURMET" tvg-logo="http://i.imgur.com/8zwTAtt.png", EL GOURMET
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(EL_GOURMET)/index.m3u8
-
-#EXTINF:-1 tvg-id="HOLA TV" tvg-name="HOLA TV" tvg-logo="http://www.ipuntotv.com/IMAGES/Hola-TV-logo.png", HOLA TV
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(HOLA_TV)/index.m3u8
-
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png", A&E
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(AE)/index.m3u8
-
-#EXTINF:-1 tvg-id="TRU TV" tvg-name="TRU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", TRU TV
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(TRUTV)/index.m3u8
-
-#EXTINF:-1 tvg-id="I SAT" tvg-name="I SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/I_sat.jpg/320px-I_sat.jpg", ISAT
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(ISAT)/index.m3u8
-
-#EXTINF:-1 tvg-id="FUSION" tvg-name="FUSION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png", FUSION
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(FUSION)/index.m3u8
-
-#EXTINF:-1 tvg-id="ATRES SERIES" tvg-name="ATRES SERIES" tvg-logo="https://www.thematv.com/medias/channels/atres-series/LOGOTIPO_A3S_POSITIVO_CMYK.png", ATRES SERIES
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(ATRES_SERIES)/index.m3u8
-
-#EXTINF:-1 tvg-id="TELEHIT HD" tvg-name="TELEHIT HD" tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large.telehit-hd-2.png.ea5e12139d00fda89326c9637e06c2b1.png", TELEHIT +PLUS
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(TELEHIT)/index.m3u8
-
-#EXTINF:-1 tvg-id="BANDAMAX" tvg-name="BANDAMAX" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/large.bandamax.png.ebbf214bdd5fe9e87614ee1be9da8403.png", BANDAMAX
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(BANDAMAX)/index.m3u8
-
-#EXTINF:-1 tvg-id="RITMOSON" tvg-name="RITMOSON" tvg-logo="http://www.radioformula.com.mx/images/notas/notas_201612/20161201_16_24_RMS_Sit.jpg", RMS (RITMOSON)
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(RITMOSON)/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png", MTV
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(MTV_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV LIVE HD" tvg-name="MTV LIVE HD" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/large.logo-MTVLive400x400.png.da3f9648364161218f84fff5a12934ec.png", MTV LIVE HD
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(MTV_Live_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://forounivers.com/uploads/monthly_2017_06/large.5937266710272_VH1HD.png.5c2f848e3fc35208f26555c5486408d3.png", VH1 HD
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(VH1)/index.m3u8
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/cartoon-network-logo-1503.jpg", CARTOON NETWORK
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(CARTOON_NETWORK)/index.m3u8
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png", BOOMERANG
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(BOOMERANG)/index.m3u8
-
-#EXTINF:-1 tvg-id="NICK HD" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/200px-Nick.svg.png", NICK HD
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(NICK_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png", NICK JR
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(NICK_JR)/index.m3u8
-
-#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tiin_logo.png", TIIN
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(TIIN)/index.m3u8
-
-#EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png", NAT GEO
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(NAT_GEO)/index.m3u8
-
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png", NAT GEO WILD
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(NAT_GEO_WILD)/index.m3u8
-
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png", HISTORY
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(HISTORY)/index.m3u8
-
-#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG", H2
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(H2)/index.m3u8
-
-#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png", TDN
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(TDN)/index.m3u8
-
-#EXTINF:-1 tvg-id="UNIVISION TDN" tvg-name="UNIVISION TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png", UNIVISION TDN
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(UNIVISION_TDN)/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://4.bp.blogspot.com/-dAwrUidDwQc/UTQFHyg3ezI/AAAAAAAAHdY/qJvJYCSJ7xw/s1600/Logo+Tv+ESPN+2013.png", ESPN
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(ESPN_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2000px-Espn2.svg.png", ESPN 2
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(ESPN2_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://3.bp.blogspot.com/-d2AEvFXldeA/VhHUJdBDHGI/AAAAAAAAD7Y/KiZieYawR44/s1600/Logo%2BESPN%2B3%2BBy%2BBauti.png", ESPN 3
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(ESPN3)/index.m3u8
-#EXTINF:-1 tvg-id="CANAL F1" tvg-name="CANAL F1" tvg-logo="http://canalf1latinamerica.com/wp-content/uploads/2015/10/logo-canal-f1-latin-america250-opac.png", CANAL FORMULA 1
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(CANAL_F1_LATAM)/index.m3u8
-
-#EXTINF:-1 tvg-id="De pelicula" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_De_Pelicula.png", DE PELICULA
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(DE_PELICULA_HD)/index.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png", TNT
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(TNT_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="http://forounivers.com/uploads/monthly_2017_10/large.logo-golden-plus.png.d8b04c2467807f33fffcde0c425cf0c1.png", GOLDEN PLUS
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(GOLDEN_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png", AMC HD
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(AMC_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/TCM_tv_logo.png", TCM
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(TCM)/index.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://www.tigostar.cr/sites/tigostar.cr/files/channels/cinemaxyllw.png", CINEMAX
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(CINEMAX_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://seeklogo.com/images/P/paramount-channel-latin-america-logo-180D249ED9-seeklogo.com.png", PARAMOUNT CHANNEL
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(PARAMOUNT_CHANNEL)/index.m3u8
-
-#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="SUNDANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sundance_Channel_Logo.png", SUNDANCE CHANNEL
-http://venegas.jl.serv.net.mx/ceroogeo.php/Channel(SUNDANCE_CHANNEL)/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA_TV" tvg-name="TCM" tvg-logo="http://images.mi.tv/channels/co_nba-tv-hd_m.png", NBA_TV
-http://venegas.jl.serv.net.mx/cerogeo.php/Channel(NBA_TV)/index.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Milenio TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Telemundo.png",Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Unimas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png",Unimas
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/XHGC.png",Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/XHGC.png",Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/A%26E_1987.png",A&E
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://resourcefulmommy.com/wp-content/uploads/2011/02/DJr_Hero_Logo_Small_TM.png",Disney Jr
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/battlefordreamisland/images/4/46/Cartoon_Network.png",cartoon network
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/8/8a/Warner_Channel_logo.png",Warner Channel
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/3b/TNT_HD.png",TNT
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/Sony_Channel.png",SONY
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cine-latino_m.png" group-title="Cine", Cinelatino
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_movies.jpg" group-title="Cine", Fox Movies
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_cinema.jpg" group-title="Cine", Fox Cinema
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_classics.jpg" group-title="Cine", Fox Classics
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IZm/IZm_large.png" group-title="Cine", FXM
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="Cine", Fox Action
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_series.jpg" group-title="Cine", FOX SERIES
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/2575/brand.gif?itok=qAkXe2KL" group-title="Cine", HBO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_2.gif" group-title="Cine", HBO 2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/763-HBO-PlusHD.jpg" group-title="Cine", HBO PLUS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/8980/brand.gif?itok=qPBloL7h" group-title="Cine", HBO FAMILY
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/tvcable/images/5/51/HBO_Family.png/revision/latest?cb=20130717181930&path-prefix=es" group-title="Cine", HBO Family
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT
+http://149.56.26.6:25461/live/dreamscanales/123456/8460.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/fearthewalkingdead/images/2/2d/AMC_logo_2013.png",AMC
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png",ToonCast
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA", DISCOVERY CHANNEL
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA", DISCOVERY H&H
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA", ID
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="CULTURA", Animal Planet
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg",NAT_GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg",Nat Geo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="CULTURA", El Gourmet
+http://189.216.247.113/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png" group-title="CULTURA", NatGeo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="CULTURA", NatGeo
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLha/55295e0162.PNG" group-title="CULTURA", H2
+http://189.216.247.113/Content/HLS/Live/Channel(H2)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png" group-title="CULTURA", History
+http://189.216.247.113/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="CULTURA", Animal Planet
+http://189.216.247.113/Content/HLS/Live/Channel(ANIMAL_PLANET)/index.m3u8
