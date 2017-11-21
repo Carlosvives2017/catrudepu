@@ -1,4 +1,10 @@
 <item>
+<title>latino v1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/media-ujwd5by63_b1596000_103963.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link>
+</item>
+
+
+<item>
 <title>Vaughn latino v2</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_latinomovies live=1 timeout=20</link>
 <regex>
