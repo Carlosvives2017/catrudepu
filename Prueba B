@@ -1,4 +1,12 @@
 <item>
+<title>[B][COLOR blue]•   [/B][COLOR ]Live TV[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>http://arenavision.esy.es/json.php?cat=baloncesto</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-CVXmJEu0P58/WSBg25ZcaoI/AAAAAAAABB8/RfPvFCwdOtkDoXGLYTkkTACoidbzPjpgQCK4B/s1600/live%2Btv.jpg</thumbnail>
+<fanart>http://www.ad-techhamburg.com/wp-content/uploads/2017/04/live.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR blue]•   [/B][/COLOR]COSMOS[COLOR lime][/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
