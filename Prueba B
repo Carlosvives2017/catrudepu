@@ -399,36 +399,3 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tj0s0m9525nc'
 
 
 
-<item>
-<title>DeporTV AR</title>
-<link>http://158.69.52.43:8000/live/elec/6070/1027.m3u8</link>
-<genre>Deportes</genre>
-<info></info>
-<externallink></externallink>
-<date>2017</date>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TNT SPORTS</title>
-<link>http://158.69.52.43:8000/live/elec/6070/3395.m3u8</link>
-<genre>Deportes</genre>
-<info></info>
-<externallink></externallink>
-<date>2017</date>
-<thumbnail>http://158.69.52.43:8000/imagenes/3395.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>FOX SPORTS PREMIUM
-</title>
-<link>http://158.69.52.43:8000/live/elec/6070/3396.m3u8</link>
-<genre>Deportes</genre>
-<info></info>
-<externallink></externallink>
-<date>2017</date>
-<thumbnail>http://158.69.52.43:8000/imagenes/3396.jpg</thumbnail>
-<fanart></fanart>
-</item>
