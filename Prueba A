@@ -17,7 +17,35 @@
     <externallink>http://pastebin.com</externallink>
 <info></info>
 </item>
+----------------------------------------------------------------------------
 
+<item>
+<title>[COLOR lime]Si buscas canales IPTV PREMIUM, envia un msj en : [/COLOR]</title>
+    thumbnail>https://goo.gl/EsHfca</thumbnail>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lime]Telegram: @Elecdeka   [/COLOR]</title>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]Su apoyo es primordial para ocuparnos mas en el equipo, tratando de que las reparaciones no se nos caigan[/COLOR]</title>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
+<info></info>
+</item>
 ----------------------------------------------------------------------------
 
 <item>
@@ -39,31 +67,42 @@
 </item>
 
 <item>
-<title>[B][COLOR red]•   [/B][/COLOR][COLOR red]Claro Tv[COLOR lightslategray] (Caduca 31 de dic)[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina [COLOR red] (caido)[/COLOR]</title>
+    <link>http:??</link>
+    <thumbnail>http://4.bp.blogspot.com/-CvlUSPdNDTg/Wg17ScFb-pI/AAAAAAAACjw/EGoUrnSckTcQNZmZPZbX6ZdoiWaDOH31wCK4BGAYYCw/s1600/are2.jpg</thumbnail>
+    <fanart>http://assets.bubblear.com/wp-content/uploads/2017/01/04224808/featured.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar [COLOR red] (caido)[/COLOR]</title>
+    <link>http:??</link>
+    <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>	
+    <fanart>https://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart> 
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR red]Claro Tv [COLOR lightslategray] (Caduca 31 de dic)[/COLOR]</title>
 <link>ignorame</link>
     <externallink>https://goo.gl/BD5kNH</externallink>
 <thumbnail>https://s5.postimg.org/k8cjqwmzb/claro_tv.jpg</thumbnail>
 <fanart>http://exorbeo.com/wp-content/uploads/blogger/-fR6SZDzoeZQ/UOid4T1sfnI/AAAAAAAAHkQ/zqbn8VvUj9U/s1600/novo%2Bcanal%2Bhd%2Bclaro%2Btv%2Bem%2Bjaneiro.jpg</fanart>
 </item>
 
+<item>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv  [COLOR red] (caido)[/COLOR]</title>
+    <link>http:??</link>
+    <thumbnail>http://4.bp.blogspot.com/-ofXAM8BqjYc/WaAkQY68lDI/AAAAAAAABbs/CSEavir7_Y8Ib3Fn5UpLJopKMgFj0FJwQCK4BGAYYCw/s1600/SMART%2BTV%2B2.jpg</thumbnail>	
+    <fanart>http://cdn.pymnts.com/wp-content/uploads/2016/10/smart-tv-payments-lg.jpg</fanart> 
+<info></info>
+</item>
+
 --------------------------------
 
 <item>
-<title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR blue]IPTV[/COLOR]</title>
-<link>NA</link>
-<externallink>$doregex[select]</externallink>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR] Peliculas', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR]Chileiptv' , '[B][COLOR blue]•   [/B][/COLOR]AchoTv', '[B][COLOR blue]•   [/B][/COLOR]AchoTv Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Fluxus Tv'])
-   lists = ['https://raw.githubusercontent.com/Modenlive/Inicio/master/Free%20IPTV', 'http://tecnotv.xyz/lista.m3u', 'http://tecnotv.xyz/peliculas.m3u', 'http://srregio.xyz/regiotv.m3u', 'http://srregio.xyz/regioflix.m3u', 'http://chileiptv.cl/cl.m3u', 'http://www.achotv.com/listas/canales.m3u', 'https://goo.gl/fP6JjA', 'http://cecegeek.com/1tv.m3u','http://cecegeek.com/movies.m3u', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
-   return lists[ret]
-]]></expres>
-<page></page>
-</regex>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR][COLOR blue]IPTV [COLOR red] (caido)[/COLOR]</title>
+<link>http://??</link>
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
@@ -206,16 +245,6 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 ------------------------
-
-<item>
-<title>[COLOR lime]Si buscas canales IPTV PREMIUM, envia un msj en : [/COLOR]</title>
-    thumbnail>https://goo.gl/EsHfca</thumbnail>
-    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-<fanart>https://s5.postimg.org/9wvlkd8fb/fanart_donacion.jpg</fanart>
-    <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
-<info></info>
-</item>
 
 <item>
 <title>[COLOR lime]Email:  elecdeka2017@gmail.com  -  Telegram: @Elecdeka   [/COLOR]</title>
