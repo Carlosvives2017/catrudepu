@@ -7,7 +7,7 @@
 </item>
 
 **************************
-<item><title>[B][COLOR blue]•   [/B][/COLOR]VTV SD [COLOR lime]f4mTester[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://fui.me/54&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link<thumbnail>http://4.bp.blogspot.com/-Pd2Aa9BMFo0/WdzJPNDFInI/AAAAAAAAB38/zBBYiNhXfvMD-sBvqTFYn1KWgn_vDPeowCK4BGAYYCw/s1600/vtv.jpg</thumbnail><fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item><item><title>[B][COLOR blue]•   [/B][/COLOR]GolTv SD  [COLOR lime]f4mTester[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://fui.me/55&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link<thumbnail>http://tv.lawalocos.com/imagenes-canales/goltv.png</thumbnail><fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item>
+<item><title>[B][COLOR blue]•   [/B][/COLOR]VTV [COLOR orange] f4mTester[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://fui.me/54&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link<thumbnail>http://4.bp.blogspot.com/-Pd2Aa9BMFo0/WdzJPNDFInI/AAAAAAAAB38/zBBYiNhXfvMD-sBvqTFYn1KWgn_vDPeowCK4BGAYYCw/s1600/vtv.jpg</thumbnail><fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item><item><title>[B][COLOR blue]•   [/B][/COLOR]GolTv sd  [COLOR orange]f4mTester[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://fui.me/55&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link<thumbnail>http://tv.lawalocos.com/imagenes-canales/goltv.png</thumbnail><fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart></item>
 
 **************************
 
@@ -16,7 +16,7 @@ zenex
 ******************************************
 
 <item>       
-<title>[B][COLOR blue]•   [/B][/COLOR]Elecdeka Online [COLOR lime]zenex[COLOR RED] OFF[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Elecdeka Online [COLOR lime]zenex[COLOR red] OFF[/COLOR]</title>
 title>[B][COLOR blue]•   [/B][/COLOR]Elecdeka Online [COLOR lime]zenex ON[/COLOR]</title>
 
 <link>http://$doregex[ip]$doregex[m3u8]</link>
