@@ -1,401 +1,46 @@
 
 <item>
-<title>[B][COLOR red]•   [/B][/COLOR]Demo</title>
-    <link>http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8 </link>
-    externallink>http://??</externallink> 
-    <thumbnail>https://4.bp.blogspot.com/-ogxafm8KC18/WgmfErY2heI/AAAAAAAACiQ/O8L0XG9KASYe3tyPtjkYZhGCxU9EK7aiACK4BGAYYCw/s320/Megapley.jpg</thumbnail>
-    <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
-</item>
-
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]tvc[COLOR lime][/COLOR]</title>
-<sportsdevil>http://vergol.com/live1/tycsports.php</sportsdevil>
-<referer>http://cinestrenostv.tv/canales-deportes/</referer>
-<thumbnail>http://3.bp.blogspot.com/-607_izUGmQc/WdwqaSyPsnI/AAAAAAAAB2w/gKHFRfEhVMESGpnvL1V_LHEgvZsR_OFsQCK4BGAYYCw/s1600/cosmo.jpg</thumbnail>
-<fanart>https://www.cosmopolitantv.es/img/logorrss.png</fanart>
-</item>
-
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]COSMOS[COLOR lime][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail>http://3.bp.blogspot.com/-607_izUGmQc/WdwqaSyPsnI/AAAAAAAAB2w/gKHFRfEhVMESGpnvL1V_LHEgvZsR_OFsQCK4BGAYYCw/s1600/cosmo.jpg</thumbnail>
-<fanart>https://www.cosmopolitantv.es/img/logorrss.png</fanart>
-</item>
-
-
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Comedy Central</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<title>Movies Adult</title>
+<link>$doregex[makelist3]</link>
 <regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=comedycentral&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-_ZKdHZxChcg/WgO4F5HddNI/AAAAAAAACZo/zjoBv_O4wEI1Nx_ZfwYZyP6-SQTxzevWgCK4BGAYYCw/s1600/comedycenter.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/bzEl-xMCfk8/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Comedy Central 2</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>videoUrl = '(.*?)'</expres>
-expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=comedycentral&width=650&height=400</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-_ZKdHZxChcg/WgO4F5HddNI/AAAAAAAACZo/zjoBv_O4wEI1Nx_ZfwYZyP6-SQTxzevWgCK4BGAYYCw/s1600/comedycenter.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/bzEl-xMCfk8/maxresdefault.jpg</fanart>
-</item>
-
-
-<item>
-<title>latino v1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/media-ujwd5by63_b1596000_103963.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka</link>
-</item>
-
-
-<item>
-<title>Vaughn latino v2</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_latinomovies live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]".split(";")[-1])</expres>
-<page></page>
-</regex>
-
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)</expres>
-<page>$doregex[getUrl]</page>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>Pagina [makelist3.param1]  --   [COLOR red] SOLO +18[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>'(.*?)'</expres>
+<page>'1''2''3''4''5''6''7''8''9''10''11''12''13''14''15''16''17''18''19''20''21''22''23''24''25'</page>
 </regex>
 <regex>
-<name>getserver</name>
-<expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)</expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_latinomovies_$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page></page>
-</regex>
-</item>
-
-
-
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Vaughnlive</title>
-<fanart></fanart>
-<genitem>
-<title>[B][COLOR red]•   [/B][COLOR blue]Vaughnlive [/COLOR][COLOR lime]24/7[/COLOR]</title>
- 
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[makelist2.param2]   </title>
 <link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)".*?title="(.*?)".*?src="(.*?)" ]]></expres>
+<page>http://www.coomelonitas.com/page/[makelist3.param1]</page>
+<cookieJar></cookieJar>
+</regex>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]•   [/B][/COLOR][makelist.param2]</title>
- 
-link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=iPad</link>
-link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0</link>
- 
-link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8|Referer=https://www.vaughnlive.tv&amp;User-Agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3</link>
- 
-<link>$$LSPlayOnlyOne$$</link>
-<link>http://live-nyc.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<link>http://live-den.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<link>http://live-ord.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<link>http://live-lax.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
-<link>http://live-ams.vaughnsoft.net:1935/live/_definst_/live_[makelist.param1]/playlist.m3u8$$lsname=[makelist.param2]</link>
- 
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+<title>[makelist2.param2]           [I] [makelist.param1][/I]</title>
+<urlsolve>[makelist.param1]</urlsolve>
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
-<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
-<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
+<expres><![CDATA[iframe\ssrc="(.*?)"]]></expres>
+<page>[makelist2.param1]</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://1.bp.blogspot.com/-dkLcyAzk0b0/WYDBNS4pbtI/AAAAAAAABYg/RCKmuWT-08ATCXZWv0J4laorTdTGw64CgCK4BGAYYCw/s1600/Vaughn%2Blive.jpg</thumbnail>
- 
-<fanart>https://i.ytimg.com/vi/D8sZnLjUU0k/hqdefault.jpg</fanart>
+
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/adryflix.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/fanart.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/entretenimiento.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/fanart.jpg</fanart>
+
 <info></info>
-</item>re></genre>
-<info></info>
-<date>2017</date>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
 </item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]</title>
-<fanart></fanart>
-<genre></genre>
-<info></info>
-<date>2017</date>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]</title>
-<fanart></fanart>
-<genre></genre>
-<info></info>
-<date>2017</date>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]</title>
-<fanart></fanart>
-<genre></genre>
-<info></info>
-<date>2017</date>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]</title>
-<fanart></fanart>
-<genre></genre>
-<info></info>
-<date>2017</date>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]</title>
-<fanart></fanart>
-<genre></genre>
-<info></info>
-<date>2017</date>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]</title>
-<fanart></fanart>
-<genre></genre>
-<info></info>
-<date>2017</date>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]</title>
-<fanart></fanart>
-<genre></genre>
-<info></info>
-<date>2017</date>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]</title>
-<fanart></fanart>
-<genre></genre>
-<info></info>
-<date>2017</date>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Operacion cacahuete 2</title>
-<fanart>http://es.web.img2.acsta.net/pictures/17/06/14/16/48/182915.jpg</fanart>
-<genre>Infantil</genre>
-<info>Surly y sus amigos deben parar al alcalde de Oakton City que quiere demoler su hogar para hacer un parque de atracciones</info>
-<date>2017</date>
-<thumbnail>http://es.web.img3.acsta.net/r_1280_720/pictures/17/09/12/11/52/2342441.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/v/FL2FNDGY7V&q=720p</urlsolve>
-</item>
-
-------
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Born and Missing (Instinto maternal)</title>
-<fanart>http://www.movistarplus.es/recorte/n/galeria/M605894</fanart>
-<genre>Drama</genre>
-<info>Kristin pierde a su bebé en el parto y un año después todavía no ha conseguido superar la situación. Sin embargo, todo empieza a ir mejor cuando ella y su mejor amiga se quedan embarazadas</info>
-<date>2017</date>
-<thumbnail>http://www.canalrgz.com/ci/assets/img/carteles/peliculas/155x220xinstinto-maternal.jpg.pagespeed.ic.JoJlHwEHf4.jpg</thumbnail>
-<urlsolve>http://streamcloud.eu/gaue2iiae36q</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]La niñera</title>
-<fanart>http://www.psicocine.com/wp-content/uploads/2017/10/The-Babysitter-01-620x350.jpg</fanart>
-<genre>Terror</genre>
-<info>El jovencito Cole se queda despierto hasta tarde… y horrorizado descubre que su adorada y sexy babysitter forma parte de una sanguinaria secta satánica que hará lo que sea necesario para mantenerlo callado. Así es como la chica de sus sueños se convierte en su peor pesadilla</info>
-<date>2017</date>
-<thumbnail>https://i0.wp.com/www.peliculastoday.com/wp-content/uploads/2017/10/La-ninera.jpg?fit=683%2C1024&ssl=1</thumbnail>
-<urlsolve>https://www.rapidvideo.com/v/FKI7JRJJFJ&q=1080p</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]El futbol o yo [CAM]</title>
-<fanart>https://static.diariouno.com.ar/adjuntos/212/imagenes/020/384/0020384990.jpg</fanart>
-<genre>Comedia romántica</genre>
-<info>Las pasión de Pedro (Adrián Suar) por el fútbol sobrepasa la de la mayoría de los mortales: es un adicto total al fútbol, una pasión que está arruinando su vida matrimonial</info>
-<date>2017</date>
-<thumbnail>https://image.tmdb.org/t/p/w185/nlgCdbAB0w3dkARTIgVCG8wAVKB.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/e/FL47XBTM1C&q=480p</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Valerian y la ciudad de los mil planetas</title>
-<fanart>http://es.web.img3.acsta.net/videothumbnails/16/11/10/19/23/078611.jpg</fanart>
-<genre>Acción | Aventuras | Ciencia Ficción</genre>
-<info>Valerian y Laureline son agentes especiales del gobierno de los territorios humanos, encargados de mantener el orden en todo el universo. Valerian busca algo más que una relación profesional con su compañera, por lo que la persigue abiertamente con constantes proposiciones románticas</info>
-<date>2017</date>
-<thumbnail>http://gnula.nu/wp-content/uploads/2017/11/valerian_and_the_city_of_a_thousand_planets4.gif</thumbnail>
-<urlsolve>https://www.rapidvideo.com/v/FL3788VVXF&q=360p</urlsolve>
-</item>
-
-<items>
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Coco [CAM] </title>
-<fanart>https://pics.filmaffinity.com/Coco-759485712-large.jpg</fanart>
-<genre>Animación | Fantástico | Comedia | Pixar | Familia | Música</genre>
-<info>Miguel es un joven con el sueño de convertirse en leyenda de la música a pesar de la prohibición de su familia. Su pasión le llevará a adentrarse en la &quot;Tierra de los Muertos&quot; para conocer su verdadero legado familiar. </info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/coco-155051069-large.jpg</thumbnail>
-<urlsolve>https://www.rapidvideo.com/?v=FL28JVXZEY</urlsolve>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Feliz Día De Tu Muerte (2017)</title>
-<genre>Terror | Intriga | Thriller | Viajes en el tiempo | Crimen</genre>
-<info>Una estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final hasta intentar descubrir la identidad de su asesino</info>
-<date>2017</date>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hhn3o3qq9oua'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://pics.filmaffinity.com/happy_death_day-689393696-large.jpg</thumbnail>
-<fanart>https://pics.filmaffinity.com/Feliz_d_a_de_tu_muerte-716769998-large.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Thor: Ragnarok [CAM] </title>
-<fanart>https://pics.filmaffinity.com/Thor_Ragnarok-166911107-large.jpg</fanart>
-<genre>Fantástico | Acción | Aventuras | Superhéroes | Cómic | Marvel Comics | Secuela | 3-D</genre>
-<info>Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/thor_ragnarok-115636540-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rw2rjwi8vf7d'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Línea Mortal: Al Límite [CAM] </title>
-<fanart>https://pics.filmaffinity.com/L_nea_mortal_Al_l_mite-722377582-large.jpg</fanart>
-<genre>Ciencia ficción | Thriller | Secuela | Remake</genre>
-<info>Cinco estudiantes de medicina, con la esperanza de desentrañar el misterio de lo que aguarda más allá de los confines de la vida, emprenden un atrevido y peligroso experimento. A base de detener su corazón durante un breve lapso de tiempo, cada uno de ellos sufre una experiencia cercana a la muerte clínica. A medida que la investigación se vuelve cada vez más peligrosa, se verán obligados a afrontar los pecados de su pasado, además de vérselas con las consecuencias paranormales de sus incursiones en el más allá.... Remake de &quot;Línea mortal&quot; (1990).</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/flatliners-779507207-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/83r0zguljnx4'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Jungla</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OWMzZWQtZDk5OC00NzhkLThlYmMtMjc0MTkxMGMwMTAyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
-<genre>Acción | Aventuras | Drama | Thriller</genre>
-<info>Un grupo de amigos, haciendo senderismo, se adentra en la selva de Bolivia con un guía fraudulento.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/jungle-569337099-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsx7dif3ubsi'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR]Zombiology: Enjoy Yourself Tonight  </title>
-<fanart>https://cdn3.i-scmp.com/sites/default/files/styles/980x551/public/images/methode/2017/06/28/f88449e0-5bc3-11e7-98d7-232f56a99798_1280x720_181944.jpg?itok=f4CLcUDH</fanart>
-<genre>Acción | Comedia | Zombis</genre>
-<info>Lone y Yeung, dos geeks, ven cómo sus fantasías de cómic se vuelven reales y provocan un apocalipsis zombie en Hong Kong. Este peculiar dúo tendrá que ingeniárselas para sacar a su familia de esta terrible crisis, con la ayuda de unas armas caseras.</info>
-<date>2017</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzBmOTBmZTEtZjU3Zi00NGY1LWJiNmItZmIyM2E0NDQ4ODk0XkEyXkFqcGdeQXVyNjkzODMxNDE@._V1_SY500_CR0,0,355,500_AL_.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tj0s0m9525nc'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR deepskyred]•[/COLOR][B][COLOR blue]   •   [/B][/COLOR][COLOR deepskyblue]Siguiente[/COLOR]</title>
-<link>Http://x.o</link>
-<externallink>https://raw.githubusercontent.com/Carlosvives2017/Pelitronicado/master/Estrenos%202</externallink>
-<thumbnail>http://2.bp.blogspot.com/-i4YLlSBG_vA/WfvMHwVl0FI/AAAAAAAACJU/gvunHl1b6-4UxdnB8wKwvTaWVnNMtgtIgCK4BGAYYCw/s1600/sigiente.jpg</thumbnail>
-<fanart></fanart>
-<SetViewMode>53</SetViewMode>
-</item>
-
-
 
