@@ -5,7 +5,7 @@
 <regex>
 <name>bro.adca.st</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?id=415&p=1&c=0&stretching=uniform&old=0'):
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=415&p=1&c=0&stretching=uniform&old=0'):
  import requests, re, urllib
  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
  headers['Referer'] = 'http://www.tarjetarojatv.net/rojadirecta/ver-directv-sports-en-vivo.html'
@@ -17,8 +17,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://futbolbase.us/stream.php?i
  headers['X-Requested-With'] = 'XMLHttpRequest'
  headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
  headers['Accept-Language'] = 'en-US,en;q=0.5'
- source = requests.get('http://futbolbase.us/%s'%tokenpage, headers=headers)
- m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://futbolbase.us/&Origin=http://futbolbase.us'%headers['User-Agent']
+ source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
+ m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
  return m3u8
 ]]></expres>
 <page></page>
