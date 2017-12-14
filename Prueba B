@@ -5,7 +5,7 @@
 <regex>
 <name>makelist3</name>
 <listrepeat><![CDATA[
-<title>[B][COLOR blue]•   [/B][/COLOR]Movie Adult [makelist3.param1] Adult  [COLOR red][/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR]Movie [makelist3.param1] Adult  [COLOR red][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 ]]></listrepeat>
 <expres>'(.*?)'</expres>
