@@ -1,11 +1,5 @@
 
 <item>
-<title>Movies Adult</title>
-<link>$doregex[makelist3]</link>
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-<title><item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Movies Adult</title>
 <link>$doregex[makelist3]</link>
 <regex>
@@ -44,45 +38,6 @@
 
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info>
-</item>
-
-Pagina [makelist3.param1]  --   [COLOR red] SOLO +18[/COLOR]</title>
-<link>$doregex[makelist2]</link>
-]]></listrepeat>
-<expres>'(.*?)'</expres>
-<page>'1''2''3''4''5''6''7''8''9''10''11''12''13''14''15''16''17''18''19''20''21''22''23''24''25'</page>
-</regex>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[makelist2.param2]   </title>
-<link>$doregex[makelist]</link>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres><![CDATA[href="(.*?)".*?title="(.*?)".*?src="(.*?)" ]]></expres>
-<page>http://www.coomelonitas.com/page/[makelist3.param1]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist2.param2]           [I] [makelist.param1][/I]</title>
-<urlsolve>[makelist.param1]</urlsolve>
-<thumbnail>[makelist2.param3]</thumbnail>
-<fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
-<expres><![CDATA[iframe\ssrc="(.*?)"]]></expres>
-<page>[makelist2.param1]</page>
-<cookieJar></cookieJar>
-</regex>
-
-<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/adryflix.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/fanart.jpg</fanart>
-<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/entretenimiento.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/fanart.jpg</fanart>
-
 <info></info>
 </item>
 
