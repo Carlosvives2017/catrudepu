@@ -9,6 +9,49 @@
 </item>
 
 <item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Un Jefe En Pañales   </title>
+<fanart>https://image.tmdb.org/t/p/original/gkZOUZpM4F6hceQ8xE6TEdrGJgT.jpg</fanart>
+<genre>Animación | Comedia | Infantil | 3-D</genre>
+<info>La llegada de un hermanito trastoca por completo la idílica vida del pequeño Tim, hasta entonces hijo único de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebé, que viste traje y corbata y lleva maletín. Tim comienza a sospechar de él, hasta que descubre que puede hablar.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_boss_baby-993580095-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://diskokosmiko.mx/cfiqxfwlb/mvbz1-95258/v1ll4n05,1712763,list,1,1.mkv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Un Jefe En Pañales   </title>
+<fanart>https://image.tmdb.org/t/p/original/gkZOUZpM4F6hceQ8xE6TEdrGJgT.jpg</fanart>
+<genre>Animación | Comedia | Infantil | 3-D</genre>
+<info>La llegada de un hermanito trastoca por completo la idílica vida del pequeño Tim, hasta entonces hijo único de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebé, que viste traje y corbata y lleva maletín. Tim comienza a sospechar de él, hasta que descubre que puede hablar.</info>
+<date>2017</date>
+<thumbnail>https://pics.filmaffinity.com/the_boss_baby-993580095-large.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://diskokosmiko.mx/cfiqxfwlb/mvbz1-95258/v1ll4n05'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
 <title>[B][COLOR blue]•   [/B][/COLOR]GolTv</title>
 
 <link>$doregex[bro.adca.st]</link>
