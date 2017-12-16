@@ -9,77 +9,35 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Un Jefe En Pañales   </title>
-<fanart>https://image.tmdb.org/t/p/original/gkZOUZpM4F6hceQ8xE6TEdrGJgT.jpg</fanart>
-<genre>Animación | Comedia | Infantil | 3-D</genre>
-<info>La llegada de un hermanito trastoca por completo la idílica vida del pequeño Tim, hasta entonces hijo único de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebé, que viste traje y corbata y lleva maletín. Tim comienza a sospechar de él, hasta que descubre que puede hablar.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_boss_baby-993580095-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
+ 	<title>6 grandes heroes</title>
+ 	<thumbnail></thumbnail>
+ 	<fanart></fanart>
+	      <link>$doregex[makelist]</link>
 <regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://diskokosmiko.mx/cfiqxfwlb/mvbz1-95258/v1ll4n05,1712763,list,1,1.mkv'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>6 grandes heroes</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail></thumbnail>
+				<fanart></fanart>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/cfiqxfwlb/mvbz1-95258/v1ll4n05</page>
+      <cookieJar></cookieJar>
 </regex>
-</item>
 
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Un Jefe En Pañales   </title>
-<fanart>https://image.tmdb.org/t/p/original/gkZOUZpM4F6hceQ8xE6TEdrGJgT.jpg</fanart>
-<genre>Animación | Comedia | Infantil | 3-D</genre>
-<info>La llegada de un hermanito trastoca por completo la idílica vida del pequeño Tim, hasta entonces hijo único de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebé, que viste traje y corbata y lleva maletín. Tim comienza a sospechar de él, hasta que descubre que puede hablar.</info>
-<date>2017</date>
-<thumbnail>https://pics.filmaffinity.com/the_boss_baby-993580095-large.jpg</thumbnail>
-<link>$doregex[GetPageUrl]</link>
 <regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://diskokosmiko.mx/cfiqxfwlb/mvbz1-95258/v1ll4n05'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
 </regex>
 </item>
 
 
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]GolTv</title>
-
-<link>$doregex[bro.adca.st]</link>
-<regex>
-<name>bro.adca.st</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=415&p=1&c=0&stretching=uniform&old=0'):
- import requests, re, urllib
- headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
- headers['Referer'] = 'http://www.tarjetarojatv.net/rojadirecta/ver-directv-sports-en-vivo.html'
- source = requests.get(url, headers=headers)
- m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
- m3u8 = m3u8.decode('base64')
- tokenpage = re.findall('fass = "(.+?)"', source.text)[0]
- headers['Referer'] = url
- headers['X-Requested-With'] = 'XMLHttpRequest'
- headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
- headers['Accept-Language'] = 'en-US,en;q=0.5'
- source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
- m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
- return m3u8
-]]></expres>
-<page></page>
-</regex>
-
-<thumbnail></thumbnail>
-<fanart>https://images2.alphacoders.com/281/thumb-1920-281400.jpg</fanart>
-</item>
 
 
 
