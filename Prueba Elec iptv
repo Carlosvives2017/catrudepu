@@ -1,488 +1,106 @@
-#EXTM3U
-
-
-#EXTINF:-1,[ES] Xtra
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8302.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Viajar
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8301.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] TNT
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8300.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Teledeporte
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8299.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Telecinco
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8298.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] TCM
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8297.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] TAQUILLA-10-HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8304.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] TAQUILLA-1-HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8303.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] SyFy
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8296.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Seri[ES] Xtra
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8295.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Nova
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8294.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Nonstopeople
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8293.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Nat-Geo-Wild
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8292.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] NAT-GEO
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8291.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] MTV-Espana
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8290.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Moviestar-F1
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8289.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Moto-GP
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8288.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] LTC
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8287.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Los40
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8286.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] La2
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8285.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] La-Sexta
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8284.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Iberalia-TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8283.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Hollywood
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8282.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Golf
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8281.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Fox-News
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8280.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] FOX-Life
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8279.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Fox-HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8278.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] FOX
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8277.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] FDF
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8276.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] F.TBOL-HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8275.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Eurosport-1
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8274.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Estrenos
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8273.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Energy-TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8272.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Divinity
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8271.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Disney-XD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8270.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Disney-Junior
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8269.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Discovery
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8268.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Deportes
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8267.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Dcine-HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8266.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Dcine-Espanol
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8265.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Crimen-Inves
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8264.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Canal-Odisea
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8263.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Canal-Decasa
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8262.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Canal-DCine
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8261.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Canal-Cocina
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8260.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] CANAL-ACCION-HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8259.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Canal--DEPORTES
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8258.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Calle-13
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8257.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Boing
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8256.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Barca-TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8255.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Baby-TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8254.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] AXN-White
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8253.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] AMC
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8252.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] Accion-HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8251.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] A&E
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8250.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[ES] 24-Horas
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8249.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
---------------------
-
-#EXTINF:-1,[FR][L] TF1
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1269.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] France 2
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1270.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] FRANCE 3
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1271.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] FRANCE 4
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1272.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] FRANCE 5
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1273.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] FRANCE O
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1274.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] FRANCE 24
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8676.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] ARTE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1276.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] C8
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1277.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] M6 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1275.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] BFM TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1351.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] BFM Business
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8681.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] W9
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1279.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] NT1
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1281.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] NRJ HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1661.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] KTO
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8680.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] NRJ 12
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1282.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] TMC
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1280.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8678.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] CSTAR
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1278.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] GULLI
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1304.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] HD1
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1640.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] EURONEWS
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8682.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] Cherie25 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1670.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] RMC DECOUVERTE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1318.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L]  6TER HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1669.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] AB1
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1641.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Gong HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1652.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] C NEWS / ITELE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8679.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] LCI HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8675.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] NUMERO 23
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8677.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,¤¤¤¤¤ Chaines Canal ¤¤¤¤¤
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8667.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8784.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL  Sport HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1325.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL SERIES HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1324.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL  Family
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1306.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] CANAL  Decale HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1327.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL  Cinema HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1328.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] TCM CINEMA HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8683.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] CINE Premier
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1287.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CINE Polar
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1288.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CINE FX
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1323.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CINE Frisson
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1289.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CINE Famiz
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1290.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CINE Emotion
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1291.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CINE Classic
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1292.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS Max
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1294.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS Geants HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1295.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS CITY
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1296.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS CHOC HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1297.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,¤¤¤¤¤ Decouverte ¤¤¤¤¤
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8666.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] TOUTE L'HISTOIRE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1320.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] VOYAGE HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1316.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] USHUAIA TV HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1315.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] SCIENCE ET VIE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1672.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Planete+ HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1312.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] PLANETE CI HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1313.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] PARIS PREMIERE HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8686.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Planete A&E HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1314.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Season HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8685.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1319.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] TREK
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8684.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] NAT GEO WILD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1317.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] DISCOVERY HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1321.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Discovery Science HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1648.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] ANIMAUX HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1646.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] IL tV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1653.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] CHASSE & PECHE HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1647.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] HISTOIRE HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1644.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,¤¤¤¤¤ Series et divertissement ¤¤¤¤¤
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8668.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] SYFY HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1284.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Serie club
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1639.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] 13 EME RUE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1283.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] ACTION
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1286.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] BET
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8689.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] TV BREIZH HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8688.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] RTL9 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1310.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] COMEDIE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1293.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] TEVA HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1311.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1285.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] NICKELODEON
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8687.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,¤¤¤¤¤ Sport ¤¤¤¤¤
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8669.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] L'EQUIPE 21 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1331.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] SFR SPORT 1 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1344.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] SFR SPORT 2 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1345.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] SFR SPORT 3 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1346.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] SFR SPORT 5 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1348.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] FOOT + 24/24 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1650.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] INFOSPORT
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8691.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] GOLF Plus HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8690.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] INFO SPORT
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1343.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] BFM SPORT
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8699.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1349.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1350.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Equidia Live
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1649.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] EQUIDIA LIFE HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8693.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] MOTORS TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1332.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,¤¤¤¤¤ BEIN Sport ¤¤¤¤¤
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8672.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1333.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1334.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1335.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] BEIN SPORTS MAX 4
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1336.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] BEIN SPORTS MAX 5
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1337.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] BEIN SPORTS MAX 6
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1338.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L]  BEIN SPORTS MAX 7
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1339.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] BEIN SPORTS MAX 8
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1340.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] BEIN SPORTS MAX 9
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1341.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] BEIN SPORTS MAX 10
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1342.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,¤¤¤¤¤ Enfants ¤¤¤¤¤
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8671.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] DISNEY CINEMA
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1309.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] CANAL J
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1307.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] ZOUZOU TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8694.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Boomerang
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8695.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] TiJi
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1298.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Baby TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1662.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] MANGAS
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1299.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Piwi HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1671.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] GAME ONE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1300.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Boing HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1645.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1308.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1643.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] DISNEY CHANNEL +1 HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1642.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CARTOON NETWORK
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1305.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Teletoon + HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1663.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,¤¤¤¤¤ Musique ¤¤¤¤¤
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8670.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] M6 MUSIC HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1656.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] MTV LIVE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1658.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] NRJ HITS
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8701.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] MTV HITS
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8697.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] MTV DANCE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8698.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] Virgin TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1667.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,¤¤¤¤¤ AUTRE ¤¤¤¤¤
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/8674.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] RTS Un
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1329.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] RTS Deux
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1330.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] O'Gaming TV Starcraft 2
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1301.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] O'Gaming TV League Of Legends
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1302.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] Weo
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1668.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] VH 1
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1666.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] TV 5 MOND HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1665.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] PLUG RTL
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1673.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Mirabelle TV
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1657.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR][L] LA TELE HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1655.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] LA CHAINE NORMANDIE
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1654.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Golf
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1651.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] ATV HD
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/1674.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] MCM
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9980.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,¤¤¤¤¤ CANAL PLAY FR & A LA CARTE ¤¤¤¤¤
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9225.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Orange_Cine 1
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9234.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Orange_Cine 2
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9235.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Orange_Cine 3
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9236.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Orange Cine 4
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9237.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Orange_Cine 5
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9238.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Orange_Cine 6
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9240.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Orange_Cine 7
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9241.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] Orange_Cine 8
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9239.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS_GO_CINE 1
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9242.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS_GO_CINE 2
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9243.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS_GO_CINE 3
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9244.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS_GO_CINE 4
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9245.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS_GO_CINE 5
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9246.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS_GO_CINE 6
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9247.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS_GO_CINE 7
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9248.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] OCS_GO_CINE 8
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9249.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_01
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9250.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_02
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9251.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_03
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9252.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_04
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9253.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_05
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9254.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_06
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9255.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_07
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9256.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_08
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9257.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_09
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9258.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_10
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9259.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_11
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9260.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_12
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9261.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_13
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9262.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] CANAL_PLAY_14
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9263.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] A_LA_CARTE_01
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9226.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] A_LA_CARTE_02
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9227.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] A_LA_CARTE_03
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9228.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] A_LA_CARTE_04
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9229.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] A_LA_CARTE_05
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9230.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] A_LA_CARTE_06
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9231.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] A_LA_CARTE_07
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9232.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1,[FR] A_LA_CARTE_08
-plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/mounir/mounir/9233.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Más Allá De La Montaña  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/M_s_all_de_la_monta_a-742347229-large.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/the_mountain_between_us-985454268-large.jpg</thumbnail>
+<genre>Aventuras | Drama | Romance | Supervivencia | Naturaleza</genre>
+<info>El doctor Ben Bass (Idris Elba) y la reportera gráfica Alex Martin (Kate Winslet) son dos extraños que han decidido compartir un viaje privado, y que se verán obligados a confiar el uno en el otro para sobrevivir tras sufrir un accidente de avioneta en plenas montañas de Colorado.</info>
+<date>2017</date>
+<urlsolve>http://uptostream.com/jrfivyjy3p4t</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]La Hora Del Cambio  </title>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/La_hora_del_cambio-369427599-large.jpg</thumbnail>
+<genre>Comedia | Política | Sátira</genre>
+<info>Los vecinos del pequeño pueblo siciliano de Pietrammare viven acostumbrados al caos que conlleva saltarse la ley, pero están hartos. Las carreteras tienen socavones, el tráfico es insufrible, la basura se acumula en las aceras y no hay día que un vecino no pise un excremento de perro. Tampoco les falta un gran puerto... sin barcos, y una fábrica altamente contaminante. Pero parece que ha llegado la hora del cambio: en las elecciones, un nuevo alcalde ha salido victorioso y viene con la firme intención de cumplir todo su programa electoral.</info>
+<date>2017</date>
+<urlsolve>http://uptostream.com/q8e57c252k8l</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Pokémon Yo Te Elijo!  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/Pok_mon_A_Yo_te_elijo-841223398-large.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/gekijo_ban_poketto_monsuta_kimi_ni_kimeta-412854580-large.jpg</thumbnail>
+<genre>Animación | Fantástico | Aventuras | Monstruos | Videojuego</genre>
+<info>En &quot;Pokémon ¡Te elijo a ti!&quot; un joven Ash Ketchum se encontrará con un indisciplinado Pikachu, y cuya relación se convirtió en uno de los vínculos más emblemáticos de la cultura popular de todos los tiempos.</info>
+<date>2017</date>
+<urlsolve>http://uptostream.com/q0iertjou4sq</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Victoria Y Abdul  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/MV5BMjI2OTI4MDk4MV5BMl5BanBnXkFtZTgwMDA4MTQ3MzI@._V1_SY1000_CR0,0,1499,1000_AL_.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/victoria_and_abdul-243227893-large.jpg</thumbnail>
+<genre>Drama | Histórico | Siglo XIX | Amistad</genre>
+<info>Abdul Karim, conocido como *El Munshi*, se convirtió en siervo de la reina Victoria en el año 1887. Después de que el joven se ganase el afecto de la monarca, terminó siendo su secretario personal y confidente durante los últimos años de vida de la reina, algo que no fue bien recibido dentro de la Casa Real.</info>
+<date>2017</date>
+<urlsolve>http://uptostream.com/cphhw5968dkr</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Madre!  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/A_Madre-223003301-large.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/mother-475834081-large.jpg</thumbnail>
+<genre>Thriller | Drama | Terror | Thriller psicológico</genre>
+<info>A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.</info>
+<date>2017</date>
+<urlsolve>http://uptostream.com/m213dtvrl46p</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Un Policía Y Medio 2  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/MV5BMTg0ZGYxODQtYWQ5YS00ZWNhLWE4NzEtMmZhMGQxMjEwMDdlXkEyXkFqcGdeQXVyNTQ3MjAzNTM@._V1_.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/MV5BYzlkZTY5MmItMzgzMS00ZmU1LTg5MmEtNGE1MjExMzFkYmM4XkEyXkFqcGdeQXVyMTQ2ODk1NQ@@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<genre>Acción | Aventura | Comedia</genre>
+<info>Al detective veterano Mark Simmons se le asigna un nuevo socio, sin embargo, es una chica de 12 años valiente que tiene serias habilidades de detective y inteligencia. Además, juntos, tienen que localizar y detener a Badge Bandit, un bromista serial que causa travesuras.</info>
+<date>2017</date>
+<urlsolve>http://uptobox.com/j8e9zxy4ik0l</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Un Príncipe De Navidad  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/MV5BOTU0Y2ZiMjItNTQ5OS00ZmQwLTk1ZDQtNjFjNmRjODc2ODVhXkEyXkFqcGdeQXVyODIyMzA4NDc@._V1_.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/a_christmas_prince-214767539-large.jpg</thumbnail>
+<genre>Romance | Comedia romántica | Navidad</genre>
+<info>La Navidad le llega antes de tiempo a una joven periodista que debe ir al extranjero y conseguir la exclusiva de la coronación de un atractivo príncipe.</info>
+<date>2017</date>
+<urlsolve>http://uptobox.com/biz5s865a6tn</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Brava  </title>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/brava-470456718-large.jpg</thumbnail>
+<genre>Drama</genre>
+<info>La vida de Janine parece ir bien hasta que sufre un asalto en el metro y todo se desmorona. Tratando de huir de su tormento interior, escapa al pueblo donde ahora vive su padre intentando ocultar sus heridas. Sin embargo, allí, lejos de encontrar la paz, se acercará a su lado más oscuro.</info>
+<date>2017</date>
+<urlsolve>http://uptobox.com/n82tth0zv8kx</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]El Pequeño Vampiro [AUDIO LINE] </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/MV5BODA0OWFkMDQtZWU2Ny00NDI2LTkxMzItZWU0NzU2NTRiMzA4XkEyXkFqcGdeQXVyMzExMTY0MjU@._V1_.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/der_kleine_vampir-153642057-large.jpg</thumbnail>
+<genre>Animación | Fantástico | Aventuras | Vampiros | 3-D</genre>
+<info>Rudolph es un chico de trece años que además es vampiro. La vida del joven se complica en el momento en el que un prestigioso cazavampiros comienza a perseguirles a él y al resto de su clan.</info>
+<date>2017</date>
+<urlsolve>http://uptobox.com/94xfht10wk2o</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]La Familia Monster  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/MV5BMjg2Y2IwMzQtNTJhMi00MzU3LWJjNWYtM2M5NzViNWI3MGM2XkEyXkFqcGdeQXVyNjQyMDM3NA@@._V1_SX1414_CR0,0,1414,999_AL_.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/happy_family-122263122-large.jpg</thumbnail>
+<genre>Animación | Comedia | Monstruos</genre>
+<info>La familia Wünschmann no es exactamente una familia feliz pero mamá Emma animará a todos a dejar sus diferencias de lado e ir juntos a un parque temático. Luego de una broma inocente con una muñeca, que resulta ser la bruja Babayaga, los Wünschmann son convertidos en monstruos. Mamá Emma en un vampiro, papá Frank en Frankenstein, la hijita Fee en una momia e hijito Max en un lobo. Y así es como un viaje normal a través de un tren fantasma se transforma una aventura ridículamente espeluznante. ¿Encontrará la familia Wünschmann su final feliz?</info>
+<date>2017</date>
+<urlsolve>https://streamango.com/f/fqqspfcrbdcelbrm/H4991FM111_mkv_mp4</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Olaf: Otra Aventura Congelada De Frozen  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/Olaf_Otra_aventura_congelada_de_Frozen_C-255619626-large.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/olaf_s_frozen_adventure_s-346281536-large.jpg</thumbnail>
+<genre>Animación | Fantástico | Comedia | Navidad | Spin-off | Cortometraje</genre>
+<info>Especial de Navidad de "Frozen", que acompaña en cines a "Coco", la película de Disney/Pixar.</info>
+<date>2017</date>
+<urlsolve>http://uptobox.com/78dtc24dwqmn</urlsolve>
+</item>
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Hazlo Como Hombre  </title>
+<fanart>http://vodmx-cdn.azureedge.net/site/covers/fondos/Hazlo_como_hombre-936490912-large.jpg</fanart>
+<thumbnail>http://vodmx-cdn.azureedge.net/site/covers/caratulas/hazlo_como_hombre-568771272-large.jpg</thumbnail>
+<genre>Comedia | Amistad | Homosexualidad</genre>
+<info>Rau´l, Eduardo y Santiago han llevado una feliz y masculina vida desde su infancia, hasta que, un di´a, Santiago les confiesa que es gay. Impactado, Rau´l, el macho alfa y ma´s homofo´bico de los tres, intentara´ convencer a su amigo de que lo suyo no es ma´s que una simple confusio´n sexual, hasta que, cuando la situacio´n se torne insostenible, Eduardo y Rau´l dejara´n de lado sus prejuicios y decidira´n ayudar a Santiago a incursionar en su nueva vida gay.</info>
+<date>2017</date>
+<urlsolve>http://uptobox.com/ud9juc3cng8b</urlsolve>
+</item>
