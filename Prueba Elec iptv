@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
+		  
+<item>
+<title>[COLOR white]Tv3[/COLOR]</title>
+<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
+<thumbnail>https://gtltornt.files.wordpress.com/2008/06/tv3_logo2005.jpg</thumbnail>
+https://pbs.twimg.com/media/CrvlbXsWAAAMvW-.jpg
+</item>
+ 
 <item>
 <title>[COLOR white]G.H[/COLOR]</title>
 <link>https://mdslivehls-i.akamaihd.net/hls/live/571672/realities/bitrate_4.m3u8</link>
 <thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
 </item>
-			
-<item>
-<title>[COLOR white]GALICIA TV[/COLOR]</title>
-<link>http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8</link>
-<thumbnail>http://www.periodicopublicidad.com/uploads/imagen_noticia_5039.jpg</thumbnail>
-</item>
-  
+	 
 <item>
 <title>[COLOR white]EITB[/COLOR]</title>
 <link>http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8</link>
@@ -23,42 +25,6 @@
 <link>http://194.158.80.31:443/live/rtva/master.m3u8</link>
 <thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
 </item>
- 
-<item>
-<title>[COLOR white]RT en español[/COLOR]</title>
-<link>http://rt.ashttp9.visionip.tv/live/RT_Spanish_3/playlist.m3u8</link>
-<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR white]La Otra[/COLOR]</title>
-<link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live.m3u8</link>
-<thumbnail>http://archivoimagenes.heraldo.es/uploads/imagenes/bajacalidad/2012/09/11/_telemadrid_da1cb4e8.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR white]Tv3[/COLOR]</title>
-<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
-<thumbnail>https://gtltornt.files.wordpress.com/2008/06/tv3_logo2005.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR white]Aragon TV[/COLOR]</title>
-<link>hhttp://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/chunklist_b1296000.m3u8</link>
-<thumbnail>http://condista.com/wp-content/uploads/2015/08/antena3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]13 TV[/COLOR]</title>
-<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8</link>
-<thumbnail>http://canaltdt.es/wp-content/uploads/2011/08/13tv.jpg</thumbnail>
-</item>
-
-
-
-
-
-
 
 
 
