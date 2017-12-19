@@ -1,101 +1,27 @@
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR]GolTV es</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=golesp&width=650&height=397 </page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6--Tc3QlBHZPKhtgbV5pDGYCq_zWAIBib8GOdlhO3GKqduxhViQ</thumbnail>
-<fanart></fanart>
-</item>
---------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Deportes 1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=deporteone&width=650&height=397&autostart=true</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vercanalestv.com/imagenes/movistar-deportes.jpg</thumbnail>
-<fanart></fanart>
-</item>	
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Deportes 2</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397&autostart=true</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vercanalestv.com/imagenes/movistar-depores-2.jpg</thumbnail>
-<fanart></fanart>
-</item>	
-		
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Eurosport 1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vertutele.com/img/eurosport.png</thumbnail>
-<fanart></fanart>
-</item>		
-	
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Eurosport 2</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vertutele.com/img/eurosport2.png</thumbnail>
-<fanart></fanart>
-</item>		
-		
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Teledeportes</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logotipo_de_Teledeporte%2C_tdp.svg/600px-Logotipo_de_Teledeporte%2C_tdp.svg.png</thumbnail>
-<fanart></fanart>
-</item>	
-
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Bein la liga</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-expres>videoUrl = '(.*?)'</expres>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://vercanalestv.com/imagenes/bein-spor-liga.jpg<thumbnail>http://tvjaja.com/img/bein.png</thumbnail></thumbnail>
-<fanart></fanart>
+<title>Linea Mortal</title>
+<link>http://www.cinevall.club/videos/linea_mortal.mp4</link>
+<thumbnail>http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_41064.jpg</thumbnail>
+<fanart>http://www.yucatanalinstante.com/wp-content/uploads/2017/10/linea-mortal-al-limite-flatliner.jpg</fanart>
 </item>
 
+<item>
+<title>La Jugada Maestra</title>
+<link>http://www.cinevall.club/videos/la_jugada_maestra.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-4ttPYfW_yTY/VpXGFmt47OI/AAAAAAAArnU/yhru290e4k4/s1600/poster%2Bla%2Bjugada%2Bmaestra.jpg</thumbnail>
+<fanart>http://huellalince.com/wp-content/uploads/2016/02/jugada_poster-750x400.jpg</fanart>
+</item>
 
-------------------------------------------------
+<item>
+<title>Guerra de Papas 2 (CAM)</title>
+<link>http://www.cinevall.club/videos/guerra_de_papas_2.mp4</link>
+<thumbnail>http://screenmancer.tv/wp-content/uploads/2017/09/DH2_Online_Vertical_Teaser-695x1030.jpg</thumbnail>
+<fanart>http://cinergetica.com.mx/wp-content/uploads/2017/11/maxresdefault-2.jpg</fanart>
+</item>
+
+<item>
+<title>Spielberg</title>
+<link>https://cinemaupload.com/vod/vOxCyf5TPN/eZOSlCTk01qaODDS/orig_a334a651d64bc4554efc62cabc8f20f2.mp4/index.m3u8</link>
+<thumbnail>https://static.rogerebert.com/uploads/movie/movie_poster/spielberg-2017/large_MV5BNjU3MTNjZGEtYWQ4Ny00ZTMxLThkOWItNjE1YzcyNGUwN2YzXkEyXkFqcGdeQXVyNzkwNDA1Nw__._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://images.amcnetworks.com/sundancechannel.es/wp-content/uploads/2013/11/How_I_Met_Spielberg_documental_Sundance_Channel_blog.jpg</fanart>
+</item>
