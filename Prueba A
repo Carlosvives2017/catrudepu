@@ -1,4 +1,26 @@
 <item>
+<title>[B][COLOR blue]•   [/B][/COLOR]24/7</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue]•   [/B][/COLOR][makelist.param2]</title>
+<link>https://hls.vaughnsoft.net/ord/live/live_[makelist.param1]/chunklist.m3u8</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
 <title>La torre oscura</title>
 <urlsolve>https://www.rapidvideo.com/v/FKPA0YSDNN</urlsolve>
 <genre>Acción, Ciencia Ficción, Fantasía, Terror, Western</genre>
