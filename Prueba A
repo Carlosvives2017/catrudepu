@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR]24/7</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR blue]Vaughnlive 24/7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -14,8 +14,8 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://2.bp.blogspot.com/-DAEjaRGQ19w/WSBBfCT7J8I/AAAAAAAAA84/RKU1ioWxQM0lsXv0xLszubPMcEWUeenTgCK4B/s1600/Vaughn%2Blive.jpg</thumbnail>
+<fanart>http://mobdroapkfreedownload.info/wp-content/uploads/2017/07/593/vlive-kodi-vaughn-live.png</fanart>
 <info></info>
 </item>
 
