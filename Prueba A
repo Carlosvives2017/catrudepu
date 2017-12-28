@@ -14,7 +14,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[B][COLOR blue]•   [/B][/COLOR][makelist.param2]</title>
-<link>https://hls.vaughnsoft.net/ord/live/live_[makelist.param1]/chunklist.m3u8</link>
+<link>https://hls.vaughnsoft.net/ord/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0&amp;Referer=https://vaughnlive.tv</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
 ]]></listrepeat>
 <expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
