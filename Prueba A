@@ -1,4 +1,72 @@
 <item>
+<title>[B][COLOR blue]•   [/B][/COLOR]m3u actualizados</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue]•   [/B][/COLOR]Canales Premium[COLOR blue] ~ [COLOR deepskyblue]Servidor : [/COLOR][COLOR blue] [makelist2.param1][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://pastebin.com/raw/BbZSYSNd</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex><regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue]•   [/B][/COLOR][makelist.param1]</title>
+<link>[makelist.param2] [makelist.param1]</link>
+link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR blue]Elecdeka[/COLOR] [makelist.param1]</link>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
+<item>
+<title>TV TODO</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>https://hls.vaughnsoft.net/ord/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0&amp;Referer=https://vaughnlive.tv</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>TV TODO</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>VER [makelist.param2]</title>
+<link>https://hls.vaughnsoft.net/ord/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0&amp;Referer=https://vaughnlive.tv</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]AyE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/2EXgXVq&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/gz9no7d2v/aye.jpg</thumbnail>
