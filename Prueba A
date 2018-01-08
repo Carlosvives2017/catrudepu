@@ -1,3 +1,13 @@
+<title>[B][COLOR red]•   [/B][/COLOR]Top 50 Uruguay</title>
+    <link>ignorme</link>
+    <jsonrpc>https://www.youtube.com/playlist?list=PLI-HH8H2g8GHlozsrA9U3gO1ZaKELktmI</jsonrpc>
+    <thumbnail>http://1.bp.blogspot.com/-ExxQVQNiRfY/WetNYNNTSWI/AAAAAAAACG8/BMtY2SFve2IzhIrrPeh1wWD2wvkweQhtACK4BGAYYCw/s1600/logocumbia.jpg</thumbnail>
+    <fanart>http://www.unosantafe.com.ar/export/sites/diario_santafe/imagenes/2016/02/08/toco-para-vos.jpg</fanart>
+<info></info>
+</item>
+
+
+
 <item>
 <title>[B][COLOR blue]•   [/B][/COLOR]m3u actualizados</title>
 <link>$doregex[makelist2]</link>
