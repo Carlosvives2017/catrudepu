@@ -7,24 +7,13 @@
 <title>[makelist3.param2]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
 <fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
+<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
 ]]></listrepeat>
 <expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
 <page>https://www.youtube.com/playlist?list=PLI-HH8H2g8GHlozsrA9U3gO1ZaKELktmI</page>     
 </regex>
 </item>
 
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<item>
-<title>[makelist2.param2]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist2.param1]</link>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>dir="ltr" href="\/watch\?v=(.*?)".*?\n(.*?)\n</expres>
-<page>https://www.youtube.com/playlist?list=[makelist.param2]</page>
-</regex>
-</item>
 
 
 <item>
