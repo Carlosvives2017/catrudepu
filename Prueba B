@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[B][COLOR deepskyred][/B][/COLOR][COLOR lime][B]#ELECDEKA[/B] Uruguay  [COLOR lightslategray]Upload: 12 ene 2018[/COLOR]</title>
+<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lime][B]#ELECDEKA[/B] Uruguay  [COLOR lightslategray]Upload: 12 ene 2018[/COLOR]</title>
     thumbnail>https://goo.gl/EsHfca</thumbnail>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart> 
@@ -12,7 +12,7 @@
 </item>
  
 <item>
-<title>[B][COLOR deepskyred][/B][/COLOR][COLOR lightslategray]Upload: 12 ene 2018[/COLOR]</title>
+<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lightslategray]Upload: 12 ene 2018[/COLOR]</title>
     thumbnail>https://goo.gl/EsHfca</thumbnail>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart> 
@@ -81,7 +81,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay  [COLOR lightslategray]Demo 2h[/COLOR]</title>
+<title>[B][COLOR lime]•   [/B][/COLOR][COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay  [COLOR lightslategray]Demo 2h[/COLOR]</title>
 <link>ignorame</link>
 externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
 <externallink>http://catromaluferi.blogspot.com.uy/2018/01/color-redcolor-color-orangemcolor.html</externallink>
@@ -387,7 +387,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]Telegram: @Elecdeka   [/COLOR]</title>
+<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lime]Telegram: @Elecdeka   [/COLOR]</title>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
@@ -396,7 +396,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime]Email:  elecdeka2017@gmail.com[/COLOR]</title>
+<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lime]Email:  elecdeka2017@gmail.com[/COLOR]</title>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
