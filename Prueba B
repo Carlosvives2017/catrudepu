@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lime][B]#ELECDEKA[/B] Uruguay  [COLOR lightslategray]Upload: 12 ene 2018[/COLOR]</title>
+<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR red][B]#ELECDEKA[/B] Uruguay[/COLOR]</title>
     thumbnail>https://goo.gl/EsHfca</thumbnail>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart> 
@@ -12,7 +12,7 @@
 </item>
  
 <item>
-<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lightslategray]Upload: 12 ene 2018[/COLOR]</title>
+<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lightslategray]    12 ene 2018[/COLOR]</title>
     thumbnail>https://goo.gl/EsHfca</thumbnail>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart> 
@@ -24,7 +24,7 @@
 ----------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR]Television en vivo[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR]Television en vivo[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -45,7 +45,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Canales del Mundo[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Canales del Mundo[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/n5suKT</externallink>    
     <thumbnail>http://3.bp.blogspot.com/-A6Yi701n04I/WYDBNQ7bTLI/AAAAAAAABYQ/xRhcNrTYpkMRFuDOVngQrqDFkqyQMoE9QCK4BGAYYCw/s1600/Canales%2Blatinos.jpg</thumbnail>
@@ -54,7 +54,7 @@ item>
 </item>
 
 item>
-<title>[B][COLOR blue]•   [/B][COLOR yellow]Tv [COLOR skyblue]U[COLOR white]ru[COLOR skyblue]gu[COLOR white]ay[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][COLOR yellow]Tv [COLOR skyblue]U[COLOR white]ru[COLOR skyblue]gu[COLOR white]ay[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/PUFVj4</externallink> gratuito
     <thumbnail>http://4.bp.blogspot.com/-fBRKRW6LXvw/Wg17SSeHL-I/AAAAAAAACj4/peuwpOSXDXMu8ZDZQzfjgEDzsFaKi9PNQCK4BGAYYCw/s1600/yoriin.jpg</thumbnail>
@@ -63,7 +63,7 @@ item>
 </item>
 
 item>
-<title>[B][COLOR blue]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Tv%20argentina</externallink> gratuito
     <thumbnail>http://4.bp.blogspot.com/-CvlUSPdNDTg/Wg17ScFb-pI/AAAAAAAACjw/EGoUrnSckTcQNZmZPZbX6ZdoiWaDOH31wCK4BGAYYCw/s1600/are2.jpg</thumbnail>
@@ -81,7 +81,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay  [COLOR lightslategray]Demo 2h[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay  [COLOR lightslategray]Demo 2h[/COLOR]</title>
 <link>ignorame</link>
 externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
 <externallink>http://catromaluferi.blogspot.com.uy/2018/01/color-redcolor-color-orangemcolor.html</externallink>
@@ -102,7 +102,7 @@ item>
 --------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Vaughnlive 24/7[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Vaughnlive 24/7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -130,7 +130,7 @@ item>
 
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR blue]IPTV[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR blue]IPTV[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -152,7 +152,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 --------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -243,7 +243,7 @@ class InputWindow(xbmcgui.WindowDialog):
 --------------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Deportes[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Deportes[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -283,7 +283,7 @@ item>
 --------------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR]Musica[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR]Musica[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -342,7 +342,7 @@ item>
 -----------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Radio Uruguay[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Radio Uruguay[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/UjLrmK</externallink>
     <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
@@ -351,7 +351,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
+<title>[B][COLOR red]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/qbVGCe</externallink>
     <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
@@ -387,7 +387,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lime]Telegram: @Elecdeka   [/COLOR]</title>
+<title>[COLOR lime]Telegram: @Elecdeka   [/COLOR]</title>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
@@ -396,7 +396,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lime]Email:  elecdeka2017@gmail.com[/COLOR]</title>
+<title>[COLOR lime]Email: elecdeka2017@gmail.com[/COLOR]</title>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
