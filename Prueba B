@@ -24,7 +24,7 @@
 ----------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]Tv en Linea[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR]Television en vivo[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -80,7 +80,7 @@ item>
 <info></info>
 </item>
 
-item>
+<item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay  [COLOR lightslategray]Demo 2h[/COLOR]</title>
 <link>ignorame</link>
 externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
@@ -102,7 +102,7 @@ item>
 --------------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR white]Vaughnlive 24/7[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Vaughnlive 24/7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -283,7 +283,7 @@ item>
 --------------------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]Musica en vivo[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]Musica[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -338,15 +338,6 @@ item>
 <info></info>
 </item>
 
-item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Cumbia Uruguay[/COLOR]</title>
-    <link>ignorme</link>
-    <jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
-    <thumbnail>http://1.bp.blogspot.com/-ExxQVQNiRfY/WetNYNNTSWI/AAAAAAAACG8/BMtY2SFve2IzhIrrPeh1wWD2wvkweQhtACK4BGAYYCw/s1600/logocumbia.jpg</thumbnail>
-    <fanart>http://www.unosantafe.com.ar/export/sites/diario_santafe/imagenes/2016/02/08/toco-para-vos.jpg</fanart>
-<info></info>
-</item>
-
 -----------------------
 -----------------------
 
@@ -370,7 +361,7 @@ item>
 
 ---------------------------------------------------------
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR magenta]Sexy +18[/COLOR]</title>
 <thumbnail>http://4.bp.blogspot.com/-IfPS57tJ_IM/WYDBNPttSoI/AAAAAAAABYo/xHEpovCqltQTMLeg0KDkO4JrB6QgVN5MQCK4BGAYYCw/s1600/Adultos%2Bxxx.jpg<thumbnail>	
 <fanart>http://k32.kn3.net/taringa/7/3/6/6/8/2/2/crazy112/147.jpg?2918</fanart> 
