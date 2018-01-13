@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*******************[COLOR blue][B]#ELECDEKA[/B]  Uruguay[/COLOR]</title>
+<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR blue][B]#ELECDEKA[/B]  Uruguay[/COLOR]</title>
     thumbnail>https://goo.gl/EsHfca</thumbnail>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart> 
@@ -12,7 +12,7 @@
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*****************[COLOR lightslategray]Actualizado:  12 ene 2018[/COLOR]</title>
+<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lightslategray]Actualizado:  12 ene 2018[/COLOR]</title>
     thumbnail>https://goo.gl/EsHfca</thumbnail>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart> 
@@ -24,6 +24,27 @@
 ----------------------------------------------------------------------------
 
 <item>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]Tv en Linea[/COLOR]</title>
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[B][COLOR blue]•   [/B][COLOR]Ragnarok Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR] Peliculas', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR]Chileiptv' , '[B][COLOR blue]•   [/B][/COLOR]AchoTv', '[B][COLOR blue]•   [/B][/COLOR]AchoTv Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Fluxus Tv'])
+   lists = ['https://raw.githubusercontent.com/Modenlive/Inicio/master/Free%20IPTV', 'http://ragnaroktv.com/tv/lista.m3u', 'http://tecnotv.xyz/lista.m3u', 'http://tecnotv.xyz/peliculas.m3u', 'http://srregio.xyz/regiotv.m3u', 'http://srregio.xyz/regioflix.m3u', 'http://chileiptv.cl/cl.m3u', 'http://www.achotv.com/listas/canales.m3u', 'https://goo.gl/fP6JjA', 'http://cecegeek.com/1tv.m3u','http://cecegeek.com/movies.m3u', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-A6Yi701n04I/WYDBNQ7bTLI/AAAAAAAABYQ/xRhcNrTYpkMRFuDOVngQrqDFkqyQMoE9QCK4BGAYYCw/s1600/Canales%2Blatinos.jpg</thumbnail>
+    <fanart>https://ae01.alicdn.com/kf/HTB1guJmJFXXXXaYXFXXq6xXFXXXn/Fashion-3D-Wallpaper-World-map-Photo-Wallpaper-Wall-Mural-Kids-Children-Room-decor-Club-Bar-Bedroom.jpg_640x640.jpg</fanart> 
+</item>
+
+
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Canales del Mundo[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/n5suKT</externallink>    
@@ -32,7 +53,7 @@
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][COLOR yellow]Tv [COLOR skyblue]U[COLOR white]ru[COLOR skyblue]gu[COLOR white]ay[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/PUFVj4</externallink> gratuito
@@ -41,7 +62,7 @@
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Tv%20argentina</externallink> gratuito
@@ -50,7 +71,7 @@
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Smart%20Tv</externallink>
@@ -59,9 +80,7 @@
 <info></info>
 </item>
 
---------------------------
-
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay  [COLOR lightslategray]Demo 2h[/COLOR]</title>
 <link>ignorame</link>
 externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
@@ -70,6 +89,16 @@ externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart>
 </item>
 
+item>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Movistar</externallink> 
+    <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>	
+    <fanart>https://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart> 
+<info></info>
+</item>
+
+--------------------------------
 --------------------------
 
 <item>
@@ -98,16 +127,7 @@ externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
 
 ---------------------------
 
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Movistar</externallink> 
-    <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>	
-    <fanart>https://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart> 
-<info></info>
-</item>
 
---------------------------------
 
 <item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]IPTV[/COLOR]</title>
@@ -220,8 +240,29 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 --------------------------------
+--------------------------------
 
 <item>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]Deportes[/COLOR]</title>
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[B][COLOR blue]•   [/B][COLOR]Ragnarok Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR] Peliculas', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR]Chileiptv' , '[B][COLOR blue]•   [/B][/COLOR]AchoTv', '[B][COLOR blue]•   [/B][/COLOR]AchoTv Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Fluxus Tv'])
+   lists = ['https://raw.githubusercontent.com/Modenlive/Inicio/master/Free%20IPTV', 'http://ragnaroktv.com/tv/lista.m3u', 'http://tecnotv.xyz/lista.m3u', 'http://tecnotv.xyz/peliculas.m3u', 'http://srregio.xyz/regiotv.m3u', 'http://srregio.xyz/regioflix.m3u', 'http://chileiptv.cl/cl.m3u', 'http://www.achotv.com/listas/canales.m3u', 'https://goo.gl/fP6JjA', 'http://cecegeek.com/1tv.m3u','http://cecegeek.com/movies.m3u', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
+<fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart> 
+</item>
+
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Deportes[/COLOR]</title>
     <link>ignorame</link> 
     <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Deportes%20inicio</externallink>
@@ -229,16 +270,39 @@ class InputWindow(xbmcgui.WindowDialog):
     <fanart>http://static.azteca.com/imagenes/2017/13/deportes-2126641.jpg</fanart> 
 <info></info>
 </item>
---------------------------------
-<item>
+
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR yellow]Tr[COLOR white]an[COLOR skyblue]sm[COLOR white]isi[COLOR skyblue]on [COLOR white]en [COLORskyblue]Vi[COLOR white]vo[/COLOR]</title>
 <link>ignorame</link>
 <externallink>https://goo.gl/mwEgmt</externallink>mwEgmt
 <thumbnail>http://4.bp.blogspot.com/--L1WkzExf-4/Wg17SUVb-XI/AAAAAAAACj8/XkJR-cH7rZssOjUy70bmMxmHGNoQJBkAgCK4BGAYYCw/s1600/yoruguito.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-ez7_rq7VBu8/Wg17Vyv10WI/AAAAAAAACkI/baaZjNbjwfEyvWX13IhKvTjyEEpeWncXgCK4BGAYYCw/s1600/657652.jpg</fanart>
 </item>
+
 --------------------------------
+--------------------------------
+
 <item>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]Musica en vivo[/COLOR]</title>
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('[B][COLOR red]• •   [/B][COLOR red]Canales IPTV   [COLOR red][B][COLOR red]• •[/COLOR][/B][COLOR deepskyred]**************************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR]Demo [COLOR blue]IPTV[/COLOR]', '[B][COLOR blue]•   [/B][COLOR]Ragnarok Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR orange]Tecno[COLOR white]Tv[/COLOR] Peliculas', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio Tv[/COLOR]', '[B][COLOR blue]•   [/B][COLOR deepskyblue]Sr Regio peliculas[/COLOR]', '[B][COLOR blue]•   [/B][/COLOR]Chileiptv' , '[B][COLOR blue]•   [/B][/COLOR]AchoTv', '[B][COLOR blue]•   [/B][/COLOR]AchoTv Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek', '[B][COLOR blue]•   [/B][/COLOR]Cecegeek Peliculas', '[B][COLOR blue]•   [/B][/COLOR]Fluxus Tv'])
+   lists = ['https://raw.githubusercontent.com/Modenlive/Inicio/master/Free%20IPTV', 'http://ragnaroktv.com/tv/lista.m3u', 'http://tecnotv.xyz/lista.m3u', 'http://tecnotv.xyz/peliculas.m3u', 'http://srregio.xyz/regiotv.m3u', 'http://srregio.xyz/regioflix.m3u', 'http://chileiptv.cl/cl.m3u', 'http://www.achotv.com/listas/canales.m3u', 'https://goo.gl/fP6JjA', 'http://cecegeek.com/1tv.m3u','http://cecegeek.com/movies.m3u', 'https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-fLBAA_fJALw/WYDBNF0k4mI/AAAAAAAABXw/idBL_yWG5cM5iVnuV9FJBHhInZZBXdOCwCK4BGAYYCw/s1600/Musica.jpg</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-6SvaeQvNYU8/Tw8IrLBRZYI/AAAAAAAABP4/5vrnRLQ41jI/s1600/music-backgrounds-6.jpg</fanart> 
+</item>
+
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Musica[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/jUyVK9</externallink>
@@ -247,16 +311,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
-<item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Radio Uruguay[/COLOR]</title>
-    <link>ignorame</link>
-    <externallink>https://goo.gl/UjLrmK</externallink>
-    <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
-    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpjHEnvzmtatERhmSZbsLVyhsqWGkcnWQwP-bWnSLtHWMeamD</fanart> 
-<info></info>
-</item>
-
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Top 50 Uruguay</title>
     <link>ignorme</link>
     <jsonrpc>plugin://plugin.video.youtube/playlist/PLI-HH8H2g8GHlozsrA9U3gO1ZaKELktmI/</jsonrpc>
@@ -265,7 +320,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]The Best 70's 80's 90's[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/CMrmtJ</externallink>
@@ -274,7 +329,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR]Tropical</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/q8fd1x</externallink>
@@ -283,12 +338,24 @@ class InputWindow(xbmcgui.WindowDialog):
 <info></info>
 </item>
 
-<item>
+item>
 <title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Cumbia Uruguay[/COLOR]</title>
     <link>ignorme</link>
     <jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
     <thumbnail>http://1.bp.blogspot.com/-ExxQVQNiRfY/WetNYNNTSWI/AAAAAAAACG8/BMtY2SFve2IzhIrrPeh1wWD2wvkweQhtACK4BGAYYCw/s1600/logocumbia.jpg</thumbnail>
     <fanart>http://www.unosantafe.com.ar/export/sites/diario_santafe/imagenes/2016/02/08/toco-para-vos.jpg</fanart>
+<info></info>
+</item>
+
+-----------------------
+-----------------------
+
+<item>
+<title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Radio Uruguay[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/UjLrmK</externallink>
+    <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpjHEnvzmtatERhmSZbsLVyhsqWGkcnWQwP-bWnSLtHWMeamD</fanart> 
 <info></info>
 </item>
 
