@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR blue][B]#ELECDEKA[/B] Uruguay  [COLOR lightslategray]Upload: 12 ene 2018[/COLOR]</title>
+<title>[B][COLOR deepskyred][/B][/COLOR][COLOR lime][B]#ELECDEKA[/B] Uruguay  [COLOR lightslategray]Upload: 12 ene 2018[/COLOR]</title>
     thumbnail>https://goo.gl/EsHfca</thumbnail>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart> 
@@ -12,17 +12,19 @@
 </item>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR]</title>
-<link>ignorme</link>
-<externallink>https://pastebin.com/raw/TC</externallink>
+<title>[B][COLOR deepskyred][/B][/COLOR][COLOR lightslategray]Upload: 12 ene 2018[/COLOR]</title>
+    thumbnail>https://goo.gl/EsHfca</thumbnail>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-<fanart>https://previews.123rf.com/images/kolobsek/kolobsek1206/kolobsek120600002/13925584-TV-Illustration-business-graphics-on-TV-the-stock-exchange-trading-Stock-Illustration.jpg</fanart>
+    <fanart>https://goo.gl/SBs3ND</fanart> 
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+<info></info>
 </item>
 
 ----------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR]Television en vivo[/COLOR]</title>
+<title>[B][COLOR lime]•   [/B][/COLOR][COLOR]Television en vivo[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -100,7 +102,7 @@ item>
 --------------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Vaughnlive 24/7[/COLOR]</title>
+<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Vaughnlive 24/7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -128,7 +130,7 @@ item>
 
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]IPTV[/COLOR]</title>
+<title>[B][COLOR lime]•   [/B][/COLOR][COLOR blue]IPTV[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -150,7 +152,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 --------------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
+<title>[B][COLOR lime]•   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -241,7 +243,7 @@ class InputWindow(xbmcgui.WindowDialog):
 --------------------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]Deportes[/COLOR]</title>
+<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Deportes[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -281,7 +283,7 @@ item>
 --------------------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR blue]Musica[/COLOR]</title>
+<title>[B][COLOR lime]•   [/B][/COLOR][COLOR]Musica[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -340,7 +342,7 @@ item>
 -----------------------
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Radio Uruguay[/COLOR]</title>
+<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Radio Uruguay[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/UjLrmK</externallink>
     <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
@@ -349,7 +351,7 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
+<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/qbVGCe</externallink>
     <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
@@ -383,16 +385,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 -----------------------------------------------------------------------------------
 
+
 <item>
-<title>[COLOR deepskyred]•[/COLOR]</title>
-<link>ignorme</link>
-<externallink>https://pastebin.com/raw/TC</externallink>
-<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-<fanart>https://previews.123rf.com/images/kolobsek/kolobsek1206/kolobsek120600002/13925584-TV-Illustration-business-graphics-on-TV-the-stock-exchange-trading-Stock-Illustration.jpg</fanart>
+<title>[COLOR lime]Telegram: @Elecdeka   [/COLOR]</title>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+    <fanart>https://goo.gl/SBs3ND</fanart> 
+<info></info>
 </item>
 
 <item>
-<title>[COLOR lime]Email:  elecdeka2017@gmail.com  -  Telegram: @Elecdeka   [/COLOR]</title>
+<title>[COLOR lime]Email:  elecdeka2017@gmail.com[/COLOR]</title>
     <link>http://ignoreme</link>
     <externallink>http://pastebin.com</externallink>
     <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
