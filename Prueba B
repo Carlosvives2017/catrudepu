@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*******************[COLOR lime][B]#ELECDEKA[/B]  Uruguay[/COLOR]</title>
+<title>[COLOR deepskyred]•[/COLOR][COLOR deepskyred]*******************[COLOR orange][B]#ELECDEKA[/B]  Uruguay[/COLOR]</title>
     thumbnail>https://goo.gl/EsHfca</thumbnail>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
     <fanart>https://goo.gl/SBs3ND</fanart> 
@@ -24,7 +24,7 @@
 ----------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Canales del Mundo[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR ]Canales del Mundo[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/n5suKT</externallink>    
     <thumbnail>http://3.bp.blogspot.com/-A6Yi701n04I/WYDBNQ7bTLI/AAAAAAAABYQ/xRhcNrTYpkMRFuDOVngQrqDFkqyQMoE9QCK4BGAYYCw/s1600/Canales%2Blatinos.jpg</thumbnail>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][COLOR yellow]Tv [COLOR skyblue]U[COLOR white]ru[COLOR skyblue]gu[COLOR white]ay[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][COLOR yellow]Tv [COLOR skyblue]U[COLOR white]ru[COLOR skyblue]gu[COLOR white]ay[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/PUFVj4</externallink> gratuito
     <thumbnail>http://4.bp.blogspot.com/-fBRKRW6LXvw/Wg17SSeHL-I/AAAAAAAACj4/peuwpOSXDXMu8ZDZQzfjgEDzsFaKi9PNQCK4BGAYYCw/s1600/yoriin.jpg</thumbnail>
@@ -42,7 +42,7 @@
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][COLOR skyblue]Tv Ar[COLOR white]gen[COLOR skyblue]tina[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Tv%20argentina</externallink> gratuito
     <thumbnail>http://4.bp.blogspot.com/-CvlUSPdNDTg/Wg17ScFb-pI/AAAAAAAACjw/EGoUrnSckTcQNZmZPZbX6ZdoiWaDOH31wCK4BGAYYCw/s1600/are2.jpg</thumbnail>
@@ -51,7 +51,7 @@
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR deepskyblue]S[COLOR lime]ma[COLOR orange]rt[COLOR red] Tv[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Smart%20Tv</externallink>
     <thumbnail>http://4.bp.blogspot.com/-ofXAM8BqjYc/WaAkQY68lDI/AAAAAAAABbs/CSEavir7_Y8Ib3Fn5UpLJopKMgFj0FJwQCK4BGAYYCw/s1600/SMART%2BTV%2B2.jpg</thumbnail>	
@@ -62,7 +62,7 @@
 --------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay  [COLOR lightslategray]Demo 2h[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay  [COLOR lightslategray]Demo 2h[/COLOR]</title>
 <link>ignorame</link>
 externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
 <externallink>http://catromaluferi.blogspot.com.uy/2018/01/color-redcolor-color-orangemcolor.html</externallink>
@@ -73,7 +73,7 @@ externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
 --------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR white]Vaughnlive 24/7[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR white]Vaughnlive 24/7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -99,7 +99,7 @@ externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
 ---------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR red]Mo[COLOR yellow]vist[COLOR red]ar[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Movistar</externallink> 
     <thumbnail>http://4.bp.blogspot.com/-VI3StFwPbEA/WYDBNKd5MmI/AAAAAAAABXY/Coni6zWWFu8cdTKzk1N3xhklhzRWgVfugCK4BGAYYCw/s1600/Movistar.jpg</thumbnail>	
@@ -110,7 +110,7 @@ externallink>https://pastebin.com/raw/6SVjCpgx</externallink>
 --------------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR blue]IPTV[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR blue]IPTV[/COLOR]</title>
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
 <regex>
@@ -132,7 +132,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 --------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR white]You [COLOR red]tube[/COLOR]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -222,7 +222,7 @@ class InputWindow(xbmcgui.WindowDialog):
 --------------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Deportes[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR ]Deportes[/COLOR]</title>
     <link>ignorame</link> 
     <externallink>https://raw.githubusercontent.com/Modenlive/Inicio/master/Deportes%20inicio</externallink>
  <thumbnail>http://4.bp.blogspot.com/-0O2cZrpnNOw/WYDBNMq181I/AAAAAAAABY4/O2MiaTjM844gX_GnUUrIMpYZJIF6kGPbQCK4BGAYYCw/s1600/Deportes.jpg</thumbnail>
@@ -231,7 +231,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 --------------------------------
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR yellow]Tr[COLOR white]an[COLOR skyblue]sm[COLOR white]isi[COLOR skyblue]on [COLOR white]en [COLORskyblue]Vi[COLOR white]vo[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR yellow]Tr[COLOR white]an[COLOR skyblue]sm[COLOR white]isi[COLOR skyblue]on [COLOR white]en [COLORskyblue]Vi[COLOR white]vo[/COLOR]</title>
 <link>ignorame</link>
 <externallink>https://goo.gl/mwEgmt</externallink>mwEgmt
 <thumbnail>http://4.bp.blogspot.com/--L1WkzExf-4/Wg17SUVb-XI/AAAAAAAACj8/XkJR-cH7rZssOjUy70bmMxmHGNoQJBkAgCK4BGAYYCw/s1600/yoruguito.jpg</thumbnail>
@@ -239,7 +239,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 --------------------------------
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Musica[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR ]Musica[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/jUyVK9</externallink>
     <thumbnail>http://3.bp.blogspot.com/-fLBAA_fJALw/WYDBNF0k4mI/AAAAAAAABXw/idBL_yWG5cM5iVnuV9FJBHhInZZBXdOCwCK4BGAYYCw/s1600/Musica.jpg</thumbnail>
@@ -248,7 +248,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Radio Uruguay[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR ]Radio Uruguay[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/UjLrmK</externallink>
     <thumbnail>http://1.bp.blogspot.com/-Euq2J1Xfpv0/WYDBNVOZq-I/AAAAAAAABYk/bgVuP4JXO6oJNYBq05Uh-S2EahJAE3KRQCK4BGAYYCw/s1600/radio.jpg</thumbnail>
@@ -257,7 +257,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR]Top 50 Uruguay</title>
+<title>[B][COLOR orange]•   [/B][/COLOR]Top 50 Uruguay</title>
     <link>ignorme</link>
     <jsonrpc>plugin://plugin.video.youtube/playlist/PLI-HH8H2g8GHlozsrA9U3gO1ZaKELktmI/</jsonrpc>
    <thumbnail>https://s26.postimg.org/hf387utu1/top50cg.jpg</thumbnail>
@@ -266,7 +266,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]The Best 70's 80's 90's[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR ]The Best 70's 80's 90's[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/CMrmtJ</externallink>
     <thumbnail>http://1.bp.blogspot.com/-ougwHkXMr9c/WYDBNckxJxI/AAAAAAAABYU/4KXPkqM-UicJropB3mifSq75-arpfp9GwCK4BGAYYCw/s1600/The%2Bbest%2B70%2B80%2B90.jpg</thumbnail>
@@ -275,7 +275,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR]Tropical</title>
+<title>[B][COLOR orange]•   [/B][/COLOR]Tropical</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/q8fd1x</externallink>
     <thumbnail>https://s26.postimg.org/bqqv5ztq1/tropical.jpg</thumbnail>
@@ -284,7 +284,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Cumbia Uruguay[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR ]Cumbia Uruguay[/COLOR]</title>
     <link>ignorme</link>
     <jsonrpc>plugin://plugin.video.youtube/playlist/PLyrvT40aVZpQ1GfO5okikoLhbPbt_XPm9/</jsonrpc>
     <thumbnail>http://1.bp.blogspot.com/-ExxQVQNiRfY/WetNYNNTSWI/AAAAAAAACG8/BMtY2SFve2IzhIrrPeh1wWD2wvkweQhtACK4BGAYYCw/s1600/logocumbia.jpg</thumbnail>
@@ -293,7 +293,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR ]Peliculas y Series[/COLOR]</title>
     <link>ignorame</link>
     <externallink>https://goo.gl/qbVGCe</externallink>
     <thumbnail>http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg</thumbnail>
@@ -304,7 +304,7 @@ class InputWindow(xbmcgui.WindowDialog):
 ---------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]•   [/B][/COLOR][COLOR magenta]Sexy +18[/COLOR]</title>
+<title>[B][COLOR orange]•   [/B][/COLOR][COLOR magenta]Sexy +18[/COLOR]</title>
 <thumbnail>http://4.bp.blogspot.com/-IfPS57tJ_IM/WYDBNPttSoI/AAAAAAAABYo/xHEpovCqltQTMLeg0KDkO4JrB6QgVN5MQCK4BGAYYCw/s1600/Adultos%2Bxxx.jpg<thumbnail>	
 <fanart>http://k32.kn3.net/taringa/7/3/6/6/8/2/2/crazy112/147.jpg?2918</fanart> 
 <link>NA</link>
