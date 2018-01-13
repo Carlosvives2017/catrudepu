@@ -12,13 +12,11 @@
 </item>
  
 <item>
-<title>[B][COLOR deepskyred]•   [/B][/COLOR][COLOR lightslategray] [/COLOR]</title>
-    thumbnail>https://goo.gl/EsHfca</thumbnail>
-    <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
-    <fanart></fanart> 
-    <link>http://ignoreme</link>
-    <externallink>http://pastebin.com</externallink>
-<info></info>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://pastebin.com/raw/TC</externallink>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://previews.123rf.com/images/kolobsek/kolobsek1206/kolobsek120600002/13925584-TV-Illustration-business-graphics-on-TV-the-stock-exchange-trading-Stock-Illustration.jpg</fanart>
 </item>
 
 ----------------------------------------------------------------------------
@@ -384,6 +382,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 -----------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR deepskyred]•[/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://pastebin.com/raw/TC</externallink>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://previews.123rf.com/images/kolobsek/kolobsek1206/kolobsek120600002/13925584-TV-Illustration-business-graphics-on-TV-the-stock-exchange-trading-Stock-Illustration.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR lime]Email:  elecdeka2017@gmail.com  -  Telegram: @Elecdeka   [/COLOR]</title>
