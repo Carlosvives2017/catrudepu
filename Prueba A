@@ -1,85 +1,240 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Eventos Elecdeka[/COLOR]  [COLOR red][/COLOR]</name>
+<info>MegaPlay Premium</info>
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
+<fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
+
 <item>
-<title>[B][COLOR  deepskyblue]DTM[/B][/COLOR]</title>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.youtube/user/DTM/</jsonrpc>
-<thumbnail>http://i.imgur.com/kM8MWUL.png</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 01  [COLOR lightslategray]VTV SD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1450.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
-<title>[B][COLOR  deepskyblue]FORMULA 1[/B][/COLOR]</title>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
-<thumbnail>http://i.imgur.com/2mBPxAN.png</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 02  [COLOR lightslategray]VTV HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/493.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 03  [COLOR lightslategray]ELECDEKA[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1830.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
-<title>[B][COLOR  deepskyblue]MOTO GP[/B][/COLOR]</title>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.youtube/user/MotoGP/</jsonrpc>
-<thumbnail>http://i.imgur.com/xbfShiW.png</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 04  [COLOR lightslategray]ESPN[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/2858.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 05  [COLOR lightslategray]ESPN 2[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/4049.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
-<title>[B][COLOR  deepskyblue]NASCAR[/B][/COLOR]</title>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.youtube/user/TheOfficialNASCAR/</jsonrpc>
-<thumbnail>http://i.imgur.com/ndoIahI.png</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 06  [COLOR lightslategray]ESPN 3[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/2860.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
-<title>[B][COLOR  deepskyblue]NFL[/B][/COLOR]</title>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.youtube/user/NFL/</jsonrpc>
-<thumbnail>http://i.imgur.com/a1bZHdu.png</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 07  [COLOR lightslategray]FOX SPORT[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1820.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
-<title>[B][COLOR  deepskyblue]UEFA.TV[/B][/COLOR]</title>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.youtube/user/UEFA/</jsonrpc>
-<thumbnail>http://i.imgur.com/7kSKNcz.png</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 08  [COLOR lightslategray]FOX SPORT 2[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1821.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
-<title>[B][COLOR  deepskyblue]UFC[/B][/COLOR]</title>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.youtube/user/UFC/</jsonrpc>
-<thumbnail>http://i.imgur.com/whINVHe.png</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 09  [COLOR lightslategray]FOX SPORT 3[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1822.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 10  [COLOR lightslategray]FOX SPORT PREMIUM[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/3396.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
-<title>[B][COLOR  deepskyblue]WWE[/B][/COLOR]</title>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.youtube/user/WWE/</jsonrpc>
-<thumbnail>http://i.imgur.com/OGFiL0M.png</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 11  [COLOR lightslategray]TNT SPORT[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/3395.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
-<title>[B][COLOR  deepskyblue]REPORTV[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/playlist?list=PLduFOHgLE8HMT633RxKmROD9G1nAKM0ds</page>
-</regex>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 12  [COLOR lightslategray]TyC SPORT[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1790.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
+<fanart></fanart>
 </item>
+
 <item>
-<title>[B][COLOR  deepskyblue]UNIVERSO PORTO:ENTREVISTAS[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/playlist?list=PLifYo0iNxMr6lgCkyUZQqJYmfIMsArVn-</page>
-</regex>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 13  [COLOR lightslategray]SPORT TV 1[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1769.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
+<fanart></fanart>
 </item>
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 14  [COLOR lightslategray]SPORT TV 2[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1768.ts</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Evento 15  [COLOR lightslategray][/COLOR]</title> 
+<link>http://??</link> 
+<thumbnail>https://s26.postimg.org/qyb2vuo61/tralaputex.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+/////////////////////////////////////////////
+/////////////////////////////////////////////
+
+smart tv
+
+<item>
+<title>Azteca 7</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8</link>          <thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR skyblue]+ [/COLOR] Canal 5</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail>http://compus1286.com/main-logos/Totalplay/Canal-5.png</thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5q</link>
+</item>
+			
+<item>
+<title>[COLOR skyblue]+ [/COLOR] Foro Tv </title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail>http://compus1286.com/main-logos/Totalplay/Logo.png</thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5r</link>
+</item>
+			
+<item>
+<title>[COLOR skyblue]+ [/COLOR] Gala Tv </title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail>http://compus1286.com/main-logos/Totalplay/Gala-Tv.png</thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5s</link>
+</item>
+			
+<item>
+<title>[COLOR skyblue]+ [/COLOR] Las estrellas</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail>http://compus1286.com/main-logos/Mexico/Canal-de-las-Estrellas.png</thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B]El Chapulín Colorado[/B][/COLOR][CR][I]El Chapulín Colorado es un superhéroe poco común que acudirá siempre al llamado de las personas que requieran su ayuda, pero ¿realmente les ayudará a resolver sus problemas o los meterá en más líos?  [/I][CR]</info>
+<link>http://fui.me/5u</link>
+</item>
+
+-------
+
+		
+<item>
+<title>[COLOR skyblue]+ [/COLOR] A.d. Sport 1</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5g</link>
+</item>
+			
+<item>
+<title>[COLOR skyblue]+ [/COLOR] A.d. Sport 2</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5h</link>
+</item>
+			
+<item>
+<title>[COLOR skyblue]+ [/COLOR] Bursaspor Tv</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5i</link>
+</item>
+			
+<item>
+<title>[COLOR skyblue]+ [/COLOR] CHELSEA TV</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5j</link>
+</item>
+			
+<item>
+<title>[COLOR skyblue]+ [/COLOR] ESPN</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail>http://compus1286.com/main-logos/Totalplay/ESPN.png</thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5k</link>
+</item>
+			
+<item>
+<title>[COLOR skyblue]+ [/COLOR] Golf Channel</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail>http://compus1286.com/main-logos/Sports/Golf-Channel.png</thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5l</link>
+</item>
+		
+<item>
+<title>[COLOR skyblue]+ [/COLOR] Real Madrid TV</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail>http://compus1286.com/main-logos/Sports/Real-Madrid-TV.png</thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5m</link>
+</item>
+		
+<item>
+<title>[COLOR skyblue]+ [/COLOR] Sports TV</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5n</link>
+</item>
+		
+<item>
+<title>[COLOR skyblue]+ [/COLOR] TDN </title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail>http://compus1286.com/main-logos/Totalplay/Logo.png</thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://compus1286.com/live-pro/totalplay/79/MzY0MrYwNbA0NQAA/</link>
+</item>
+		
+<item>
+<title>[COLOR skyblue]+ [/COLOR] UNIVISION TDN</title>
+<fanart>http://compus1286.com/panel/app/kodi/fanart.jpg</fanart>
+<thumbnail>http://compus1286.com/main-logos/Totalplay/Logo.png</thumbnail>
+<info>[COLOR gold][B]Ahora:[/B][/COLOR] [COLOR tomato][B][/B][/COLOR][CR][I]  [/I][CR]</info>
+<link>http://fui.me/5p</link>
+</item>
+
+
