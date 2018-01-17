@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR blue]•   [/B][COLOR]Arenavision  (-5h) Deportes[/COLOR]</title>
+<title><title>[COLOR blue]Presione >>>    [COLOR]Arenavision    [COLOR blue]<<<[/COLOR]</title>
 <SetViewMode>55</SetViewMode>
 <link>$doregex[makelist3]</link>
 <regex>
