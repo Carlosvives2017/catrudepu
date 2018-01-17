@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR blue]•   [/B][COLOR]Live TV[/COLOR]</title>
+<title>[COLOR blue]•   [COLOR]Live TV[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&definedIn=mainMenu.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://2.bp.blogspot.com/-CVXmJEu0P58/WSBg25ZcaoI/AAAAAAAABB8/RfPvFCwdOtkDoXGLYTkkTACoidbzPjpgQCK4B/s1600/live%2Btv.jpg</thumbnail>
