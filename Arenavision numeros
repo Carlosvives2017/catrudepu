@@ -1,5 +1,5 @@
 <item>
-<title><title>[COLOR blue]Presione >>>    [COLOR]Arenavision    [COLOR blue]<<<[/COLOR]</title>
+<title>[COLOR blue]Presione >>>    [COLOR]Arenavision    [COLOR blue]<<<[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
             <regex>
             <name>hash</name>
