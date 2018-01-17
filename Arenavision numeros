@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR blue]•   [/B][COLOR]Arenavision  (nº)[/COLOR]</title>
+<title>[B][COLOR blue]•   [/B][COLOR]Arenavision  (nº 1 al 35)[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
             <regex>
             <name>hash</name>
