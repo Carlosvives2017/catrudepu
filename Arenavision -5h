@@ -6,7 +6,7 @@
 <name>makelist3</name>
 <listrepeat><![CDATA[
 <SetViewMode>55</SetViewMode>
-<title>[COLOR blue]#  [COLOR deepskyblue][makelist3.param1]  [COLOR blue]~  [COLOR lightslategray][makelist3.param2] canales[/COLOR]</title>
+<title>[COLOR blue]#  [COLOR ][makelist3.param1]  [COLOR blue]~  [COLOR lightslategray][makelist3.param2] canales[/COLOR]</title>
 <thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <link>$doregex[makelist2]</link>
