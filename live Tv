@@ -1,7 +1,0 @@
-<item>
-<title>[COLOR blue]Presione >>>    [COLOR]Live TV    [COLOR blue]<<<[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&definedIn=mainMenu.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://2.bp.blogspot.com/-CVXmJEu0P58/WSBg25ZcaoI/AAAAAAAABB8/RfPvFCwdOtkDoXGLYTkkTACoidbzPjpgQCK4B/s1600/live%2Btv.jpg</thumbnail>
-<fanart>http://www.ad-techhamburg.com/wp-content/uploads/2017/04/live.jpg</fanart>
-</item>
